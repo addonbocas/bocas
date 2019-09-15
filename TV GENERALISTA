@@ -1,0 +1,374 @@
+<item>
+<title>[COLOR yellow]RTP 1[/COLOR]</title>
+<link>http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtp1_5ch5h264.stream/chunklist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play/</link>
+<thumbnail>http://i.imgur.com/uyKgqJ3.png</thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>[COLOR yellow]RTP 2[/COLOR]</title>
+<link>http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtp2_5ch3h264.stream/chunklist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play/</link>
+<thumbnail>http://i.imgur.com/X6tPWlZ.png</thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>[COLOR yellow]RTP 3[/COLOR]</title>
+<link>http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpn_5ch64h264.stream/chunklist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play/</link>
+<thumbnail>http://i.imgur.com/ZHsz7WI.png</thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>[COLOR yellow]PORTO CANAL[/COLOR]</title>
+<link>http://213.13.26.13:1935/live/portocanal/KodiPortugal.pt.m3u8</link>
+<thumbnail>http://i.imgur.com/SzcV9HJ.png</thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>[COLOR yellow]PORTO CANAL[/COLOR]</title>
+<link>http://213.13.26.11:1935/live/portocanal/PSYCHOTEAM.m3u8</link>
+<thumbnail>http://i.imgur.com/SzcV9HJ.png</thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>[COLOR yellow]RTP INTERNACIONAL[/COLOR]</title>
+<link>http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpi_5ch120h264.stream/chunklist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play/</link>
+<thumbnail>http://i.imgur.com/t3F0rtB.png</thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>[COLOR yellow]RTP AFRICA[/COLOR]</title>
+<link>http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpafrica_5ch27h264.stream/chunklist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play/</link>
+<thumbnail>http://i.imgur.com/WVyNxjq.png</thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>[COLOR yellow]SIC[/COLOR]</title>
+<link>http://live.impresa.pt/live/sic/sic540p.m3u8</link>
+<thumbnail>http://i.imgur.com/AjGP0Y3.png</thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>[COLOR yellow]SIC NOTICIAS[/COLOR]</title>
+<link>http://live.impresa.pt/live/sicnot/sicnot540p.m3u8</link>
+<thumbnail>http://i.imgur.com/wJKYhwK.png</thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>[COLOR yellow]SIC RADICAL[/COLOR]</title>
+<link>http://live.impresa.pt/live/sicrad/sicrad540p.m3u8</link>
+<thumbnail>http://i.imgur.com/MlZ96aH.png</thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>[COLOR yellow]TVI[/COLOR]</title>
+<link>https://video-auth1.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMzAvMjAxNyAxMjowOjEgUE0maGFzaF92YWx1ZT14SlBOZnZkSVVxT25MSkVOaCtTUVB3PT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9Y2VjZDJmMjAtMjVhMS00Y2U1LWE1OTMtODE0ODQ5YWU4YzMy</link>
+<thumbnail>http://i.imgur.com/3AFL8Ft.png</thumbnail>
+<fanart></fanart>
+</item>
+ 
+ 
+<item>
+<title>[COLOR yellow]TVI 24[/COLOR]</title>
+<link>https://video-auth4.iol.pt/live_tvi24/live_tvi24/playlist.m3u8</link>
+<thumbnail>http://i.imgur.com/GPRfJmo.png</thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>[COLOR yellow]TVI REALITY[/COLOR] </title>
+<link>https://video-auth1.iol.pt/live_tvi_direct/live_tvi_direct/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMzAvMjAxNyAxMjowOjEgUE0maGFzaF92YWx1ZT1xVXB6YXI1cjByR2RONk5WakoxNUdnPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9YjhjMjdkOTYtZmEyMC00YTFkLTkzMDMtMjUzMGI4NmQ4NWZl</link>
+<thumbnail>http://i.imgur.com/hP3ntnl.png</thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>[COLOR yellow]TVI FICCAO[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://178.39.64.103:9000/play/a01b</link>
+<thumbnail>http://i.imgur.com/h3zv0uS.png</thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>[COLOR yellow]CANAL Q[/COLOR]</title>
+<link>http://213.13.26.11:1935/live/portocanal/jn.m3u8</link>
+<thumbnail>http://i.imgur.com/3QN71M8.png</thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>[COLOR yellow]CMTV [/COLOR]</title>
+<sportsdevil>http://www.tvdez.com/embed.php?c=cmtv</sportsdevil>
+<referer>http://www.tvdez.com/</referer>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/cmtv.png</thumbnail>
+<info></info>
+</item>
+
+
+
+<item>
+<title>[COLOR yellow]TVCINE 1[/COLOR] F4mTester</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.groupiptv.com:7000/live/admin/admin/4643.ts</link>
+<thumbnail>http://i.imgur.com/tVgUrYx.png</thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>[COLOR yellow]TVCINE 2[/COLOR] F4mTester</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.groupiptv.com:7000/live/admin/admin/4644.ts</link>
+<thumbnail>http://i.imgur.com/E8g5iKI.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR yellow]TVCINE 3[/COLOR] F4mTester</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.groupiptv.com:7000/live/admin/admin/4645.ts</link>
+<thumbnail>http://i.imgur.com/eqURGgO.png</thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>[COLOR yellow]TVCINE 4[/COLOR] F4mTester</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.groupiptv.com:7000/live/admin/admin/4646.ts</link>
+<thumbnail>http://i.imgur.com/jVgAZbZ.png</thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>[COLOR yellow]FOX COMEDY[/COLOR] </title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.135.168:5500/live/Teodoro/Teodoro/27.ts</link>
+<thumbnail>http://i.imgur.com/qudz6IE.png</thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>[COLOR yellow]SIC CARAS[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sutverduz.com:8080/live/6UX4ESVhsC/nXADLulnHP/3082.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>http://i.imgur.com/hcbImr9.png</thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>[COLOR yellow]SIC MULHER[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sutverduz.com:8080/live/6UX4ESVhsC/nXADLulnHP/2808.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>http://i.imgur.com/7zuevno.png</thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>[COLOR yellow]SIC KIDS[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sutverduz.com:8080/live/6UX4ESVhsC/nXADLulnHP/2802.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>http://i.imgur.com/PG44CJo.png</thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>[COLOR yellow]PANDA[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sutverduz.com:8080/live/6UX4ESVhsC/nXADLulnHP/3084.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>http://i.imgur.com/bfjAv3d.png</thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>[COLOR yellow]DISNEY CHANNEL[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sutverduz.com:8080/live/6UX4ESVhsC/nXADLulnHP/3083.ts</link>
+<thumbnail>http://i.imgur.com/VNK5ZOa.png</thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>[COLOR yellow]PANDA BIGGS[/COLOR] </title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globiptv.com:8000/live/CLIENTX103/65sijod/2073.ts</link>
+<thumbnail>http://i.imgur.com/TuPx3Qf.png</thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>[COLOR yellow]JIM JAM[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sutverduz.com:8080/live/6UX4ESVhsC/nXADLulnHP/3085.ts</link>
+<thumbnail>http://i.imgur.com/fUFRx7a.png</thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>[COLOR yellow]TV SERIES[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sutverduz.com:8080/live/6UX4ESVhsC/nXADLulnHP/2805.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>http://i.imgur.com/Yrs53Js.png</thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>[COLOR yellow]HOLLYWOOD[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sutverduz.com:8080/live/6UX4ESVhsC/nXADLulnHP/3093.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>http://i.imgur.com/dn0OATC.png</thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>[COLOR yellow]AXN[/COLOR] </title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sutverduz.com:8080/live/6UX4ESVhsC/nXADLulnHP/3081.</link>
+<thumbnail>http://i.imgur.com/oDBDzYm.png</thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>[COLOR yellow]AXN WHITE[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sutverduz.com:8080/live/6UX4ESVhsC/nXADLulnHP/2812.ts</link>
+<thumbnail>http://i.imgur.com/EMqXHX0.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR yellow]AXN BLACK[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2652.ts</link>
+<thumbnail>http://i.imgur.com/caxD3gR.png</thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>[COLOR yellow]FOX[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sutverduz.com:8080/live/6UX4ESVhsC/nXADLulnHP/3098.ts</link>
+<thumbnail>http://i.imgur.com/8tuWJIB.png</thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>[COLOR yellow]FOX CRIME[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sutverduz.com:8080/live/6UX4ESVhsC/nXADLulnHP/3099.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>http://i.imgur.com/oxDnspX.png</thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>[COLOR yellow]FOX LIFE[/COLOR] </title>
+<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/CLIENTX103/65sijod/2064.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>http://i.imgur.com/sm3WmRg.png</thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>[COLOR yellow]FOX MOVIES[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sutverduz.com:8080/live/6UX4ESVhsC/nXADLulnHP/2811.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>http://i.imgur.com/AoyoCWN.png</thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>[COLOR yellow]MOV[/COLOR] </title>
+<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/CLIENTX103/65sijod/2432.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>http://i.imgur.com/HX3C6hv.png</thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>[COLOR yellow]HISTORIA[/COLOR] </title>
+<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/v9dfKaBqwB/444ND3005/2431.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>http://i.imgur.com/CkoaPf7.png</thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>[COLOR yellow]NATIONAL GEOGRAPHIC[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://sutverduz.com:8080/live/6UX4ESVhsC/nXADLulnHP/3101.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>http://i.imgur.com/PTeNSRB.png</thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>[COLOR yellow]DISCOVERY[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sutverduz.com:8080/live/6UX4ESVhsC/nXADLulnHP/3102.ts</link>
+<thumbnail>http://i.imgur.com/DQ4nr3i.png</thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>[COLOR yellow]MTV[/COLOR] </title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.39.66.183:8000/live/montana1/montana1/815.ts</link>
+<thumbnail>http://i.imgur.com/XDBnFHj.png</thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>[COLOR yellow]MCM[/COLOR] </title>
+<link>plugin://plugin.video.f4mTester/?url=http://5.39.66.183:8000/live/montana1/montana1/1968.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>http://i.imgur.com/GWKH7te.png</thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>[COLOR yellow]VH1 CLASSIC EUROPE[/COLOR] </title>
+<link>http://212.79.96.134:8024/1classic</link>
+<thumbnail>http://i.imgur.com/1bKBTtG.png</thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>[COLOR orange]GLOBO[/COLOR] </title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip.groupiptv.com:7000/live/admin/admin/4640.ts</link>
+<thumbnail>http://i.imgur.com/kGgBq8p.png</thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>[COLOR orange]GLOBO PREMIUM[/COLOR] </title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ift.tt/2mRjNFI</link>
+<thumbnail>http://i.imgur.com/60yVJ4N.png</thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>[COLOR orange]TV RECORD[/COLOR] </title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/francesco/francesco/8244.ts</link>
+<thumbnail>http://i.imgur.com/E4gblMZ.png</thumbnail>
+<fanart></fanart>
+</item>
