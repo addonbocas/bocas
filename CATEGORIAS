@@ -1,5 +1,50 @@
 <channels>
 <channel>
+<name>[COLOR yellow]TVs[/COLOR]</name>
+<thumbnail>http://imgur.com/PCGI7rU.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/ADDONTESTE/ADDONTESTE/master/FILMES</externallink>
+<fanart>https://ia601403.us.archive.org/25/items/fanart_20190909_1728/fanart.jpg</fanart>
+<info>
+
+
+[COLOR deeppink]|[/COLOR]- TVS GENERALISTAS -[COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
+<name>[COLOR yellow]TV DESPORTO[/COLOR]</name>
+<thumbnail>http://imgur.com/cgHWHQX.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/ADDONTESTE/ADDONTESTE/master/FILMES</externallink>
+<fanart>https://ia601403.us.archive.org/25/items/fanart_20190909_1728/fanart.jpg</fanart>
+<info>
+
+
+[COLOR deeppink]|[/COLOR]- LINKS WEB E ACESTREAM -[COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
+<name>[COLOR yellow]TV PLEXUS[/COLOR]</name>
+<thumbnail>http://imgur.com/szle8o2.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/ADDONTESTE/ADDONTESTE/master/FILMES</externallink>
+<fanart>https://ia601403.us.archive.org/25/items/fanart_20190909_1728/fanart.jpg</fanart>
+<info>
+
+
+[COLOR deeppink]|[/COLOR]- LINKS ACESTREAM -[COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
 <name>[COLOR orange]FILMES[/COLOR]</name>
 <thumbnail>http://imgur.com/cLwnC8w.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/ADDONTESTE/ADDONTESTE/master/FILMES</externallink>
@@ -43,47 +88,4 @@
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
-<channels>
-<channel>
-<name>[COLOR yellow]TVs[/COLOR]</name>
-<thumbnail>http://imgur.com/PCGI7rU.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/ADDONTESTE/ADDONTESTE/master/FILMES</externallink>
-<fanart>https://ia601403.us.archive.org/25/items/fanart_20190909_1728/fanart.jpg</fanart>
-<info>
 
-
-[COLOR deeppink]|[/COLOR]- TVS GENERALISTAS -[COLOR deeppink]|[/COLOR]</info>
-</channel>
-</channels>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-<channels>
-<channel>
-<name>[COLOR yellow]TV DESPORTO[/COLOR]</name>
-<thumbnail>http://imgur.com/cgHWHQX.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/ADDONTESTE/ADDONTESTE/master/FILMES</externallink>
-<fanart>https://ia601403.us.archive.org/25/items/fanart_20190909_1728/fanart.jpg</fanart>
-<info>
-
-
-[COLOR deeppink]|[/COLOR]- LINKS WEB E ACESTREAM -[COLOR deeppink]|[/COLOR]</info>
-</channel>
-</channels>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-<channels>
-<channel>
-<name>[COLOR yellow]TV PLEXUS[/COLOR]</name>
-<thumbnail>http://imgur.com/szle8o2.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/ADDONTESTE/ADDONTESTE/master/FILMES</externallink>
-<fanart>https://ia601403.us.archive.org/25/items/fanart_20190909_1728/fanart.jpg</fanart>
-<info>
-
-
-[COLOR deeppink]|[/COLOR]- LINKS ACESTREAM -[COLOR deeppink]|[/COLOR]</info>
-</channel>
-</channels>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
