@@ -1,27 +1,27 @@
 <item>
 <title>[COLOR yellow]SPORTV 1[/COLOR][COLOR lime] ACESTREAM[/COLOR] </title>
-<link>plugin://program.plexus/?url=acestream://1315df58796db2325c2fdc52631f2f39c53b93c6&amp;mode=1&amp;name=SPORTS</link>
+<link>plugin://program.plexus/?url=acestream://9b698c3305080df2a8d1f8e572d6ecc3a2849bae&amp;mode=1&amp;name=SPORTS</link>
 <thumbnail>http://i.imgur.com/qjonLZ0.png</thumbnail>
 <fanart>http://relvado.aeiou.pt/sites/relvado.aeiou.pt/files/images/sporttv_0.artigo.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR yellow]23/04[/COLOR][COLOR orange] 20:00H[/COLOR][COLOR deepskyblue] PORTO-V.SETUBAL[/COLOR][COLOR yellow] AV17 AV18[/COLOR]</title>
-<link>plugin://program.plexus/?url=acestream://1315df58796db2325c2fdc52631f2f39c53b93c6&amp;mode=1&amp;name=SPORTS</link>
+<title>[COLOR yellow]22/09[/COLOR][COLOR orange] 20:30H[/COLOR][COLOR deepskyblue] PORTO-STA.CLARA[/COLOR][COLOR yellow] AV17 AV18[/COLOR]</title>
+<link>plugin://program.plexus/?url=acestream://9b698c3305080df2a8d1f8e572d6ecc3a2849bae&amp;mode=1&amp;name=SPORTS</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/pt/c/c5/F.C._Porto_logo.png</thumbnail>
 <fanart>https://i.ytimg.com/vi/5nCH4wtzRms/maxresdefault.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR yellow]21/04[/COLOR][COLOR orange] 20:30H[/COLOR][COLOR red] ESTORIL-BENFICA[/COLOR][COLOR yellow] AV17 AV18[/COLOR]</title>
-<link>plugin://program.plexus/?url=acestream://1315df58796db2325c2fdc52631f2f39c53b93c6&amp;mode=1&amp;name=SPORTS</link>
+<title>[COLOR yellow]21/09[/COLOR][COLOR orange] 20:30H[/COLOR][COLOR red] MOREIRENSE-BENFICA[/COLOR][COLOR yellow] AV17 AV18[/COLOR]</title>
+<link>plugin://program.plexus/?url=acestream://9b698c3305080df2a8d1f8e572d6ecc3a2849bae&amp;mode=1&amp;name=SPORTS</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/5/5d/Emblema_Benfica_1930_%28Sem_fundo%29.png</thumbnail>
 <fanart>http://stadiumdb.com/pictures/stadiums/por/estadio_da_luz/estadio_da_luz11.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR yellow]22/04[/COLOR][COLOR orange] 20:15H[/COLOR][COLOR lime] SPORTING-BOAVISTA[/COLOR][COLOR yellow] AV17 AV18[/COLOR]</title>
-<link>plugin://program.plexus/?url=acestream://1315df58796db2325c2fdc52631f2f39c53b93c6&amp;mode=1&amp;name=SPORTS</link>
+<title>[COLOR yellow]23/09[/COLOR][COLOR orange] 21:00H[/COLOR][COLOR lime] SPORTING-FAMALICÃO[/COLOR][COLOR yellow] AV17 AV18[/COLOR]</title>
+<link>plugin://program.plexus/?url=acestream://9b698c3305080df2a8d1f8e572d6ecc3a2849bae&amp;mode=1&amp;name=SPORTS</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/pt/3/3e/Sporting_Clube_de_Portugal.png</thumbnail>
 <fanart>http://www.maisfutebol.iol.pt/multimedia/oratvi/multimedia/imagem/id/569035b40cf2468d8fd07fb2/1024.jpg</fanart>
 </item>
@@ -155,7 +155,7 @@
 
 <item>
 <title>[COLOR yellow]SPORTV 1[/COLOR][COLOR lime] ACESTREAM[/COLOR] </title>
-<link>plugin://program.plexus/?url=acestream://a79c88a04dd19030f2fbfd99e5b2c60e5d0d5eaa&amp;mode=1&amp;name=SPORTS</link>
+<link>plugin://program.plexus/?url=acestream://9b698c3305080df2a8d1f8e572d6ecc3a2849bae&amp;mode=1&amp;name=SPORTS</link>
 <thumbnail>http://i.imgur.com/qjonLZ0.png</thumbnail>
 </item>
 
