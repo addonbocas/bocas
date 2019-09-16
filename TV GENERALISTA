@@ -1,6 +1,6 @@
 <channels>
 <channel>
-<name>[COLOR yellow]TVs[/COLOR]</name>
+<name>[COLOR yellow]TV GENERALISTA[/COLOR] - [COLOR lime]CAIXA NEGRA[/COLOR]</name>
 <thumbnail>http://imgur.com/PCGI7rU.png</thumbnail>
 <externallink>https://caixapreta.pt/iptv</externallink>
 <fanart>https://ia601403.us.archive.org/25/items/fanart_20190909_1728/fanart.jpg</fanart>
@@ -16,7 +16,23 @@
 
 <channels>
 <channel>
-<name>[COLOR yellow]PRAIAS[/COLOR]</name>
+<name>[COLOR yellow]TV GENERALISTA[/COLOR] - [COLOR lime]KODI PORTUGAL[/COLOR]</name>
+<thumbnail>http://imgur.com/PCGI7rU.png</thumbnail>
+<externallink>http://lista.kodiportugal.com</externallink>
+<fanart>https://ia601403.us.archive.org/25/items/fanart_20190909_1728/fanart.jpg</fanart>
+<info>
+
+
+[COLOR deeppink]|[/COLOR]- CREDITOS A CAIXA PRETA -[COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+
+<channels>
+<channel>
+<name>[COLOR orange]PRAIAS[/COLOR]</name>
 <thumbnail>http://imgur.com/PCGI7rU.png</thumbnail>
 <externallink>https://pastebin.com/raw/BweMpAfV</externallink>
 <fanart>https://ia601403.us.archive.org/25/items/fanart_20190909_1728/fanart.jpg</fanart>
@@ -32,7 +48,7 @@
 
 <channels>
 <channel>
-<name>[COLOR yellow]RÁDIOS[/COLOR]</name>
+<name>[COLOR red]RÁDIOS[/COLOR]</name>
 <thumbnail>http://imgur.com/PCGI7rU.png</thumbnail>
 <externallink>https://pastebin.com/raw/1QnVnupp</externallink>
 <fanart>https://ia601403.us.archive.org/25/items/fanart_20190909_1728/fanart.jpg</fanart>
