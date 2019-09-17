@@ -590,7 +590,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url = 'http://bro.adca.st/stream.php?id=
 <item>
 <title>[COLORorange] SPORTV 1[/COLOR] F4mTester</title>
 <link>
-sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nettv.rocks:25461/live/Free/Weekend/1435.ts&amp;streamtype=TSDOWNLOADER;name=SPORTS#
+sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/102987/102987/30749&amp;streamtype=TSDOWNLOADER;name=SPORTS#
 sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvsbh.ddns.net:8003/live/carlos/carlos/1396.ts&amp;streamtype=TSDOWNLOADER;name=SPORTS#
 sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvsbh.ddns.net:8003/live/carlos/carlos/858.ts&amp;streamtype=TSDOWNLOADER;name=SPORTS#
 </link>
@@ -613,8 +613,8 @@ sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://
 <item>
 <title>[COLORorange] SPORTV 3[/COLOR] F4mTester</title>
 <link>
-sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nettv.rocks:25461/live/Free/Weekend/1433.ts&amp;streamtype=TSDOWNLOADER;name=SPORTS#
-sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvsbh.ddns.net:8003/live/carlos/carlos/1070.ts&amp;streamtype=TSDOWNLOADER;name=SPORTS#
+sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/102987/102987/30743&amp;streamtype=TSDOWNLOADER;name=SPORTS#
+sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/102987/102987/30637&amp;streamtype=TSDOWNLOADER;name=SPORTS#
 </link>
 <thumbnail>http://i.imgur.com/318BQ4h.png</thumbnail>
 </item>
@@ -624,8 +624,8 @@ sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://
 <item>
 <title>[COLORorange] SPORTV 4[/COLOR] F4mTester</title>
 <link>
-sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nettv.rocks:25461/live/Free/Weekend/1432.ts&amp;streamtype=TSDOWNLOADER;name=SPORTS#
-sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvsbh.ddns.net:8003/live/carlos/carlos/1145.ts&amp;streamtype=TSDOWNLOADER;name=SPORTS#
+sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/102987/102987/30741&amp;streamtype=TSDOWNLOADER;name=SPORTS#
+sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/102987/102987/30636&amp;streamtype=TSDOWNLOADER;name=SPORTS#
 </link>
 <thumbnail>http://i.imgur.com/Bko0KER.png</thumbnail>
 </item>
@@ -634,8 +634,8 @@ sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://
 <item>
 <title>[COLORorange] SPORTV 5[/COLOR] F4mTester</title>
 <link>
-sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nettv.rocks:25461/live/Free/Weekend/1431.ts&amp;streamtype=TSDOWNLOADER;name=SPORTS#
-sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvsbh.ddns.net:8003/live/carlos/carlos/1523.ts&amp;streamtype=TSDOWNLOADER;name=SPORTS#
+sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/102987/102987/30635&amp;streamtype=TSDOWNLOADER;name=SPORTS#
+sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/102987/102987/30636&amp;streamtype=TSDOWNLOADER;name=SPORTS#
 </link>
 <thumbnail>http://i.imgur.com/2c6ZcJc.png</thumbnail>
 </item>
@@ -769,55 +769,6 @@ sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://
 
 
 
-
-<item>
-<title>[COLOR lime]===  [/COLOR][COLOR yellow]LISTA[/COLOR][COLOR orange] DESPORTO PT[/COLOR][COLOR orange] WEB[/COLOR] CLICAR[COLOR lime]  ===[/COLOR]</title>
-<link>ignore</link>
-<externallink>https://pastebin.com/raw/BweMpAfV</externallink>
-<thumbnail></thumbnail>
-</item>
-
-
-
-
-
-
-
-
-<item>
-<title>[COLOR yellow]1[/COLOR] [COLOR orange] FUNCIONA EM MINHA CASA[/COLOR] footdirect24</title>
-<link>https://hls.baroyster.xyz/s/fod1449/22a3687fa0f4048a2d8a671d5122b15c.m3u8?h=6rKXZHrQaCwMo3AuCAPq1Q</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-
-<item>
-<title>[COLOR yellow]2[/COLOR] [COLOR orange] FUNCIONA EM MINHA CASA[/COLOR] footdirect24</title>
-<link>https://hls.fearfulale.xyz/s/fod2156/22a3687fa0f4048a2d8a671d5122b15c.m3u8?h=NFN5VMRUspDLpOvB3x46iQ</link>
-<thumbnail></thumbnail>
-</item>
-
-
-<item>
-<title>[COLOR yellow]3[/COLOR] [COLOR orange] FUNCIONA EM MINHA CASA[/COLOR] footdirect24</title>
-<link>https://hls.fearfulale.xyz/s/fod3813/22a3687fa0f4048a2d8a671d5122b15c.m3u8?h=ZXyFiVpBH6uevnlY_jrq9g</link>
-<thumbnail></thumbnail>
-</item>
-
-
-<item>
-<title>[COLOR yellow]4[/COLOR] [COLOR orange] FUNCIONA EM MINHA CASA[/COLOR] footdirect24</title>
-<link>https://hls.fearfulale.xyz/s/fod4572/22a3687fa0f4048a2d8a671d5122b15c.m3u8?h=JHz_E9c9T5h0rnW_Zog35Q</link>
-<thumbnail></thumbnail>
-</item>
-
-
-<item>
-<title>[COLOR yellow]5[/COLOR] [COLOR orange] FUNCIONA EM MINHA CASA[/COLOR] footdirect24</title>
-<link>https://hls.fearfulale.xyz/s/fod5555954/22a3687fa0f4048a2d8a671d5122b15c.m3u8?h=gtmhft9onKp7PlxVxynr9w</link>
-<thumbnail></thumbnail>
-</item>
 
 
 
