@@ -19,7 +19,7 @@
 <channel>
 <name>[COLOR yellow]FILMES[/COLOR][COLOR lime] PT[/COLOR] CLASSICOS</name>
 <link>ignorme</link>
-<jsonrpc>Plugin://plugin.video.youtube/PLudESQkdKaCmIdC5oP-e9d7hFSqwsvxye/?page=0</jsonrpc>
+<jsonrpc>Plugin://plugin.video.youtube/PLudESQkdKaCmIdC5oP-e9d7hFSqwsvxye&index=8/?page=0</jsonrpc>
 <thumbnail>http://3.bp.blogspot.com/-gLIbiMpRNPg/Ty3px0a35EI/AAAAAAAAGUU/O7tIehY45Hw/s1600/logotipo-campanha2.png</thumbnail>
 <fanart>https://ia601403.us.archive.org/25/items/fanart_20190909_1728/fanart.jpg</fanart>
 <info>
