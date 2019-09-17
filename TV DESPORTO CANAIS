@@ -591,8 +591,8 @@ def GetLSProData(page_data,Cookie_Jar,m,url = 'http://bro.adca.st/stream.php?id=
 <title>[COLORorange] SPORTV 1[/COLOR] F4mTester</title>
 <link>
 sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/102987/102987/30749&amp;streamtype=TSDOWNLOADER;name=SPORTS#
-sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvsbh.ddns.net:8003/live/carlos/carlos/1396.ts&amp;streamtype=TSDOWNLOADER;name=SPORTS#
-sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvsbh.ddns.net:8003/live/carlos/carlos/858.ts&amp;streamtype=TSDOWNLOADER;name=SPORTS#
+sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/102987/102987/30734&amp;streamtype=TSDOWNLOADER;name=SPORTS#
+sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/102987/102987/30750&amp;streamtype=TSDOWNLOADER;name=SPORTS#
 </link>
 <thumbnail>http://i.imgur.com/qjonLZ0.png</thumbnail>
 </item>
