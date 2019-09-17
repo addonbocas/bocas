@@ -77,3 +77,14 @@
 <thumbnail>https://espalhafactos.com/wp-content/uploads/2011/05/ultimo_sair_preto1.jpg</thumbnail>
 <fanart>https://cdn-images.rtp.pt/EPG/imagens/24118_43091_87277.jpg?amp;w=270</fanart>
 </item>
+
+
+
+
+<item>
+<title>[COLOR yellow]TESTE[/COLOR][COLOR lime] TESTE[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLudESQkdKaCmIdC5oP-e9d7hFSqwsvxye/?page=0</jsonrpc>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/8/89/GordonShumway.png</thumbnail>
+<fanart>http://s1.dmcdn.net/YemmS/1280x720-iy1.jpg</fanart>
+</item>
