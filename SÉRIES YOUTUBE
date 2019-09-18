@@ -196,3 +196,48 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
+
+
+<item>
+<title>[COLOR yellow]OS IMPARÁVEIS[/COLOR][COLOR lime] 25EP[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLzErNxDQeYWLvz_Sp2QsoEZjErKx1iKlt/?page=0</jsonrpc>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>[COLOR yellow]CAMILO E FILHO[/COLOR][COLOR lime] 26EP[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLzErNxDQeYWJo4xAmyAHO1-Bm_AYn-2jz/?page=0</jsonrpc>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>[COLOR yellow]A MULHER DO SR MINISTRO[/COLOR][COLOR lime] 91EP[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLzErNxDQeYWJiR-JiipVcmenzf24Vg2EJ/?page=0</jsonrpc>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>[COLOR yellow]TELERURAL[/COLOR][COLOR lime] 123EP[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLzErNxDQeYWKWGZVUpJVKz8WGUOV5EuGv/?page=0</jsonrpc>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
+item>
+<title>[COLOR yellow]AQUI NÃO HÁ QUEM VIVA[/COLOR][COLOR lime] 52EP[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLzErNxDQeYWLDzwIgXekkKLB0dEztaQ5C/?page=0</jsonrpc>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
