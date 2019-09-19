@@ -1,11 +1,4 @@
 <item>
-<title>[COLOR red][B]¤[/COLOR][/B][COLOR gold][B]>[/COLOR][/B][COLOR aqua][B]PRIME MOVIE LIST[/COLOR][/B][COLOR gold][B]<[/COLOR][/B][COLOR red][B]¤[/COLOR][/B]</title>
-<link>https://pastebin.com/raw/iAksaHuD</link>
-<thumbnail>https://i.imgur.com/vn52Jsp.png</thumbnail>
-<fanart>https://i.imgur.com/x3wlMh7.jpg</fanart>
-</item>
-
-<item>
 <title>[COLOR deepskyblue]MrPiracy[/COLOR] clicar aqui</title>
 <link>http://ignoreme</link>
 <jsonrpc>plugin://plugin.video.mrpiracy/?action=searchNavigator</jsonrpc>
