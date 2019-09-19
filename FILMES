@@ -14,6 +14,22 @@
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
+<channels>
+<channel>
+<name>[COLOR deepskyblue]MrPiracy movies[/COLOR] clicar aqui</name>
+<link>http://ignoreme</link>
+<jsonrpc>plugin://plugin.video.mrpiracy/?action=movieNavigator</jsonrpc>
+<thumbnail>https://noticias.mrpiracy.xyz/wp-content/uploads/2017/11/8000filmes.jpg</thumbnail>
+<fanart>https://noticias.mrpiracy.xyz/wp-content/uploads/2017/11/8000filmes.jpg</fanart>
+<info>
+
+
+[COLOR deeppink]|[/COLOR]CREDITOS MrPiracy[COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
 
 <channels>
 <channel>
