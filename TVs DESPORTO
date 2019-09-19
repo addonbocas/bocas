@@ -27,3 +27,39 @@
 </channels>
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+
+
+
+
+<channels>
+<channel>
+<name>[COLOR orange]arenavision[/COLOR] teste</name>
+<thumbnail>http://imgur.com/cgHWHQX.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/thanh51/ListasKodi/master/M01_LISTA05_ARENAVISION.xml</externallink>
+<fanart>https://ia601403.us.archive.org/25/items/fanart_20190909_1728/fanart.jpg</fanart>
+<info>
+
+
+[COLOR lime]CRÉDITOS a Magellan[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
+<name>[COLOR orange]thanh51[/COLOR] (clicar aqui)</name>
+<thumbnail>http://imgur.com/szle8o2.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/thanh51/repository.thanh51/master/WiseplayTV.m3u</externallink>
+<fanart>https://ia601403.us.archive.org/25/items/fanart_20190909_1728/fanart.jpg</fanart>
+<info>
+
+
+[COLOR lime]JOGOS DA JORNADA - PLEXUS[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+
