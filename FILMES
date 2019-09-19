@@ -1,22 +1,5 @@
 <channels>
 <channel>
-<name>[COLOR deepskyblue]MrPiracy[/COLOR] OFFLINE</name>
-<link>http://ignoreme</link>
-<jsonrpc>plugin://plugin.video.mrpiracy/?action=searchNavigator</jsonrpc>
-<thumbnail>https://noticias.mrpiracy.xyz/wp-content/uploads/2017/11/8000filmes.jpg</thumbnail>
-<fanart>https://noticias.mrpiracy.xyz/wp-content/uploads/2017/11/8000filmes.jpg</fanart>
-<info>
-
-
-[COLOR deeppink]|[/COLOR]CREDITOS MrPiracy[COLOR deeppink]|[/COLOR]</info>
-</channel>
-</channels>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-
-<channels>
-<channel>
 <name>[COLOR deepskyblue]teste[/COLOR] teste</name>
 <link>http://ignoreme</link>
 <jsonrpc>https://raw.githubusercontent.com/addonbocas/bocas/master/teste</jsonrpc>
