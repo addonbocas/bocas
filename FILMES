@@ -17,7 +17,7 @@
 
 <channels>
 <channel>
-<name>[COLOR deepskyblue]MrPiracy[/COLOR] teste</name>
+<name>[COLOR deepskyblue]teste[/COLOR] teste</name>
 <link>http://ignoreme</link>
 <jsonrpc>https://raw.githubusercontent.com/addonbocas/bocas/master/teste</jsonrpc>
 <thumbnail>https://noticias.mrpiracy.xyz/wp-content/uploads/2017/11/8000filmes.jpg</thumbnail>
