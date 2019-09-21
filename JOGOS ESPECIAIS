@@ -30,11 +30,6 @@
 
 
 
-<item>
-<title>[COLOR yellow]BOTAFOGO-SAO PAULO[/COLOR][COLOR lime] ACESTREAM[/COLOR]</title>
-<link>plugin://program.plexus/?url=acestream://739ca715596e2d2787e63ee63a59578311758477&amp;mode=1&amp;name=SPORTS</link>
-<thumbnail>http://i.imgur.com/Bko0KER.png</thumbnail>
-</item>
 
 <item>
 <title>[COLOR yellow]AC Milan-Inter Milan[/COLOR][COLOR lime] ACESTREAM[/COLOR]</title>
@@ -49,14 +44,20 @@
 </item>
 
 <item>
-<title>[COLOR yellow]Atlético Madrid-Celta de Vigo[/COLOR][COLOR lime] ACESTREAM[/COLOR]</title>
+<title>[COLOR yellow]Granada-Barcelona[/COLOR][COLOR lime] ACESTREAM[/COLOR]</title>
 <link>plugin://program.plexus/?url=acestream://e91ad3ab8d1f2563f7c00c4fcdbfea709f3d4953&amp;mode=1&amp;name=SPORTS</link>
 <thumbnail>http://i.imgur.com/Bko0KER.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR yellow]Atlético Madrid-Celta de Vigo[/COLOR][COLOR lime] ACESTREAM[/COLOR]</title>
+<title>[COLOR yellow]Granada-Barcelona[/COLOR][COLOR lime] ACESTREAM[/COLOR]</title>
 <link>plugin://program.plexus/?url=acestream://d58d255031ccd3dd21d24e97814cacf49b197e86&amp;mode=1&amp;name=SPORTS</link>
+<thumbnail>http://i.imgur.com/Bko0KER.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR yellow]Granada-Barcelona[/COLOR][COLOR lime] ACESTREAM[/COLOR]</title>
+<link>plugin://program.plexus/?url=65d49691687add6a93692a757817bac4f204ed1f&amp;mode=1&amp;name=SPORTS</link>
 <thumbnail>http://i.imgur.com/Bko0KER.png</thumbnail>
 </item>
 
