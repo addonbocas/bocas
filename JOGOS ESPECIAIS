@@ -42,6 +42,12 @@
 
 <item>
 <title>[COLOR yellow]BAYERN MUNICH-FC KOLN[/COLOR][COLOR lime] ESPN ACESTREAM[/COLOR]</title>
+<link>plugin://program.plexus/?url=acestream://235b26c1516d0430c81482b39ab17e270f446f12&amp;mode=1&amp;name=SPORTS</link>
+<thumbnail>http://i.imgur.com/Bko0KER.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR yellow]BAYERN MUNICH-FC KOLN[/COLOR][COLOR lime] ESPN ACESTREAM[/COLOR]</title>
 <link>plugin://program.plexus/?url=acestream://f6ccb3be017c1f71a3a4ce8fd4070c7c69390f10&amp;mode=1&amp;name=SPORTS</link>
 <thumbnail>http://i.imgur.com/Bko0KER.png</thumbnail>
 </item>
