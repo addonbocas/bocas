@@ -26,6 +26,34 @@
 <fanart>http://www.maisfutebol.iol.pt/multimedia/oratvi/multimedia/imagem/id/569035b40cf2468d8fd07fb2/1024.jpg</fanart>
 </item>
 
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<item>
+<title>[COLOR yellow]MANCHESTER CITY-WATFORD[/COLOR][COLOR lime] SPORTV2 ACESTREAM[/COLOR]</title>
+<link>plugin://program.plexus/?url=acestream://ac0bb0dbfe52c161fe4b76ae5bec16933aca03d0&amp;mode=1&amp;name=SPORTS</link>
+<thumbnail>http://i.imgur.com/Bko0KER.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR yellow]MANCHESTER CITY-WATFORD[/COLOR][COLOR lime] ESPN ACESTREAM[/COLOR]</title>
+<link>plugin://program.plexus/?url=acestream://58eb2d420068066ff877dc6b9afd965e90aa26ff&amp;mode=1&amp;name=SPORTS</link>
+<thumbnail>http://i.imgur.com/Bko0KER.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR yellow]BAYERN MUNICH-FC KOLN[/COLOR][COLOR lime] ESPN ACESTREAM[/COLOR]</title>
+<link>plugin://program.plexus/?url=acestream://f6ccb3be017c1f71a3a4ce8fd4070c7c69390f10&amp;mode=1&amp;name=SPORTS</link>
+<thumbnail>http://i.imgur.com/Bko0KER.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR yellow]BOTAFOGO-SAO PAULO[/COLOR][COLOR lime] ESPN ACESTREAM[/COLOR]</title>
+<link>plugin://program.plexus/?url=acestream://739ca715596e2d2787e63ee63a59578311758477&amp;mode=1&amp;name=SPORTS</link>
+<thumbnail>http://i.imgur.com/Bko0KER.png</thumbnail>
+</item>
+
+
+
 
 
 
@@ -167,13 +195,13 @@
 
 <item>
 <title>[COLOR yellow]SPORTV 3[/COLOR][COLOR lime] ACESTREAM[/COLOR] OFF</title>
-<link>plugin://program.plexus/?url=acestream://4f2cc49d319f1d37913c3cfd3f45a70a9b169edf&amp;mode=1&amp;name=SPORTS</link>
+<link>plugin://program.plexus/?url=acestream://739ca715596e2d2787e63ee63a59578311758477&amp;mode=1&amp;name=SPORTS</link>
 <thumbnail>http://i.imgur.com/318BQ4h.png</thumbnail>
 </item>
 
 <item>
 <title>[COLOR yellow]SPORTV 4[/COLOR][COLOR lime] ACESTREAM[/COLOR] OFF</title>
-<link>plugin://program.plexus/?url=acestream://0ad08e8e5a34b6a15ed211e1bde2915037b9c532&amp;mode=1&amp;name=SPORTS</link>
+<link>plugin://program.plexus/?url=acestream://58eb2d420068066ff877dc6b9afd965e90aa26ff&amp;mode=1&amp;name=SPORTS</link>
 <thumbnail>http://i.imgur.com/Bko0KER.png</thumbnail>
 </item>
 
