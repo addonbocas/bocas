@@ -5,6 +5,8 @@
 <fanart>http://relvado.aeiou.pt/sites/relvado.aeiou.pt/files/images/sporttv_0.artigo.jpg</fanart>
 </item>
 
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
 <item>
 <title>[COLOR yellow]22/09[/COLOR][COLOR orange] 20:30H[/COLOR][COLOR deepskyblue] PORTO-STA.CLARA[/COLOR][COLOR yellow] AV17 AV18[/COLOR]</title>
 <link>plugin://program.plexus/?url=acestream://9b698c3305080df2a8d1f8e572d6ecc3a2849bae&amp;mode=1&amp;name=SPORTS</link>
@@ -26,56 +28,8 @@
 <fanart>http://www.maisfutebol.iol.pt/multimedia/oratvi/multimedia/imagem/id/569035b40cf2468d8fd07fb2/1024.jpg</fanart>
 </item>
 
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
-
-
-
-<item>
-<title>[COLOR yellow]AC Milan-Inter Milan[/COLOR][COLOR lime] ACESTREAM[/COLOR]</title>
-<link>plugin://program.plexus/?url=acestream://e91ad3ab8d1f2563f7c00c4fcdbfea709f3d4953&amp;mode=1&amp;name=SPORTS</link>
-<thumbnail>http://i.imgur.com/Bko0KER.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR yellow]AC Milan-Inter Milan[/COLOR][COLOR lime] ACESTREAM[/COLOR]</title>
-<link>plugin://program.plexus/?url=acestream://78637dab85e7948057165ad0c80b3db475dd9c3d&amp;mode=1&amp;name=SPORTS</link>
-<thumbnail>http://i.imgur.com/Bko0KER.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR yellow]Granada-Barcelona[/COLOR][COLOR lime] ACESTREAM[/COLOR]</title>
-<link>plugin://program.plexus/?url=acestream://e91ad3ab8d1f2563f7c00c4fcdbfea709f3d4953&amp;mode=1&amp;name=SPORTS</link>
-<thumbnail>http://i.imgur.com/Bko0KER.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR yellow]Granada-Barcelona[/COLOR][COLOR lime] ACESTREAM[/COLOR]</title>
-<link>plugin://program.plexus/?url=acestream://d58d255031ccd3dd21d24e97814cacf49b197e86&amp;mode=1&amp;name=SPORTS</link>
-<thumbnail>http://i.imgur.com/Bko0KER.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR yellow]Granada-Barcelona[/COLOR][COLOR lime] ACESTREAM[/COLOR]</title>
-<link>plugin://program.plexus/?url=65d49691687add6a93692a757817bac4f204ed1f&amp;mode=1&amp;name=SPORTS</link>
-<thumbnail>http://i.imgur.com/Bko0KER.png</thumbnail>
-</item>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 
 <item>
@@ -103,7 +57,7 @@
 </item>
 
 
-
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 
 
@@ -168,11 +122,7 @@
 
 
 
-
-
-
-
-
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 
 
@@ -195,7 +145,7 @@
 
 
 <item>
-<title>[COLOR yellow]SPORTV 1[/COLOR][COLOR lime] ACESTREAM[/COLOR] </title>
+<title>[COLOR yellow]SPORTV 1[/COLOR][COLOR lime] ACESTREAM[/COLOR] AV17/AV18</title>
 <link>plugin://program.plexus/?url=acestream://9b698c3305080df2a8d1f8e572d6ecc3a2849bae&amp;mode=1&amp;name=SPORTS</link>
 <thumbnail>http://i.imgur.com/qjonLZ0.png</thumbnail>
 </item>
@@ -207,14 +157,14 @@
 </item>
 
 <item>
-<title>[COLOR yellow]SPORTV 3[/COLOR][COLOR lime] ACESTREAM[/COLOR] OFF</title>
-<link>plugin://program.plexus/?url=acestream://739ca715596e2d2787e63ee63a59578311758477&amp;mode=1&amp;name=SPORTS</link>
+<title>[COLOR yellow]SPORTV 3[/COLOR][COLOR lime] ACESTREAM[/COLOR] AV5/AV6</title>
+<link>plugin://program.plexus/?url=acestream://04a1b02cc08b5c377f83694b3cb817050d62d1dd&amp;mode=1&amp;name=SPORTS</link>
 <thumbnail>http://i.imgur.com/318BQ4h.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR yellow]SPORTV 4[/COLOR][COLOR lime] ACESTREAM[/COLOR] OFF</title>
-<link>plugin://program.plexus/?url=acestream://58eb2d420068066ff877dc6b9afd965e90aa26ff&amp;mode=1&amp;name=SPORTS</link>
+<title>[COLOR yellow]SPORTV 4[/COLOR][COLOR lime] ACESTREAM[/COLOR] AV37/AV38</title>
+<link>plugin://program.plexus/?url=acestream://739ca715596e2d2787e63ee63a59578311758477&amp;mode=1&amp;name=SPORTS</link>
 <thumbnail>http://i.imgur.com/Bko0KER.png</thumbnail>
 </item>
 
@@ -226,14 +176,7 @@
 
 
 
-
-
-
-
-
-
-
-
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 
 
