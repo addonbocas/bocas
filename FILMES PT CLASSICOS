@@ -25,4 +25,43 @@
 [COLOR lime]FILMES[/COLOR] PORTUGUESES</info>
 </item>
 
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+
+
+
+
+
+
+<item>
+<title>[COLOR lawngreen]TESTE[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/open?id=1fIZrDQoznnn-Mqh2eYc4BJ6C9Y9k2yUb</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]Extremamente Cruel, Malvado e Perverso[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/open?id=1fIZrDQoznnn-Mqh2eYc4BJ6C9Y9k2yUb</link>
+<thumbnail>http://top10filmes.biz/wp-content/uploads/2019/05/extremely_wicked_shockingly_evil_and_vile_ver3.jpg</thumbnail>
+<fanart>https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/styles/main_element/public/media/image/2019/05/extremadamente-cruel-malvado-perverso_0.jpg?itok=5UQhfU27</fanart>
+<info>Cinebiografia de Ted Bundy (Zac Efron), serial killer que matou, pelo menos, 30 mulheres em sete estados norte-americanos durante a década de 1970. Só que o filme é contado a partir do ponto de vista de sua namorada, Elizabeth (Lily Collins), que não tnha conhecimento de seus crimes.</info>
+</item>
+ 
+<item>
+<title>[COLOR lawngreen][B]Dirty God[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/open?id=1ENuLznJgUdCHp1GHdR5VCjoeaP7KwD8p</link>
+<thumbnail>https://www.cineart.nl/images/resized/6880-600x0.jpg</thumbnail>
+<fanart>https://67d860664f4b00793cde-967809c7cbb0f14b111df13fc72409e5.ssl.cf3.rackcdn.com/fiona/editionfilm/cc80cf58-8bab-4bed-9a01-b47adcb8c1be.jpg</fanart>
+<info>Jade é uma jovem mãe no auge de sua vida quando um ataque ácido a deixa severamente queimada. Enquanto seu rosto foi reconstruído, sua beleza se perde sob as cicatrizes. Descendo um caminho autodestrutivo com relacionamentos desmoronando, Jade deve tomar medidas drásticas para recuperar sua vida.</info>
+</item>
+ 
+ 
+<item>
+<title>[COLOR lawngreen][B]teste[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/open?id=1NaNPMJasCKiMYZekFrjNvKJDhtne-RIS</link>
+<thumbnail></thumbnail>
+<fanart>https://67d860664f4b00793cde-967809c7cbb0f14b111df13fc72409e5.ssl.cf3.rackcdn.com/fiona/editionfilm/cc80cf58-8bab-4bed-9a01-b47adcb8c1be.jpg</fanart>
+<info>Jade é uma jovem mãe no auge de sua vida quando um ataque ácido a deixa severamente queimada. Enquanto seu rosto foi reconstruído, sua beleza se perde sob as cicatrizes. Descendo um caminho autodestrutivo com relacionamentos desmoronando, Jade deve tomar medidas drásticas para recuperar sua vida.</info>
+</item>
