@@ -8,21 +8,21 @@
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 <item>
-<title>[COLOR yellow]22/09[/COLOR][COLOR orange] 20:30H[/COLOR][COLOR deepskyblue] PORTO-STA.CLARA[/COLOR][COLOR yellow] AV17 AV18[/COLOR]</title>
+<title>[COLOR yellow]29/09[/COLOR][COLOR orange] 20:00H[/COLOR][COLOR deepskyblue] RIO AVE-PORTO[/COLOR][COLOR yellow] AV17 AV18[/COLOR]</title>
 <link>plugin://program.plexus/?url=acestream://9b698c3305080df2a8d1f8e572d6ecc3a2849bae&amp;mode=1&amp;name=SPORTS</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/pt/c/c5/F.C._Porto_logo.png</thumbnail>
 <fanart>https://i.ytimg.com/vi/5nCH4wtzRms/maxresdefault.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR yellow]21/09[/COLOR][COLOR orange] 20:30H[/COLOR][COLOR red] MOREIRENSE-BENFICA[/COLOR][COLOR yellow] AV17 AV18[/COLOR]</title>
+<title>[COLOR yellow]28/09[/COLOR][COLOR orange] 19:00H[/COLOR][COLOR red] BENFICA-V.SETÚBAL[/COLOR][COLOR yellow] AV17 AV18[/COLOR]</title>
 <link>plugin://program.plexus/?url=acestream://9b698c3305080df2a8d1f8e572d6ecc3a2849bae&amp;mode=1&amp;name=SPORTS</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/5/5d/Emblema_Benfica_1930_%28Sem_fundo%29.png</thumbnail>
 <fanart>http://stadiumdb.com/pictures/stadiums/por/estadio_da_luz/estadio_da_luz11.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR yellow]23/09[/COLOR][COLOR orange] 21:00H[/COLOR][COLOR lime] SPORTING-FAMALICÃO[/COLOR][COLOR yellow] AV17 AV18[/COLOR]</title>
+<title>[COLOR yellow]30/09[/COLOR][COLOR orange] 20:15H[/COLOR][COLOR lime] DESP.AVES-SPORTING[/COLOR][COLOR yellow] AV17 AV18[/COLOR]</title>
 <link>plugin://program.plexus/?url=acestream://9b698c3305080df2a8d1f8e572d6ecc3a2849bae&amp;mode=1&amp;name=SPORTS</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/pt/3/3e/Sporting_Clube_de_Portugal.png</thumbnail>
 <fanart>http://www.maisfutebol.iol.pt/multimedia/oratvi/multimedia/imagem/id/569035b40cf2468d8fd07fb2/1024.jpg</fanart>
@@ -81,7 +81,7 @@
 
 
 <item>
-<title>[COLOR yellow]19/09[/COLOR][COLOR orange] 20:00H[/COLOR][COLOR deepskyblue] PORTO-Young Boys[/COLOR][COLOR yellow] AV17 AV18[/COLOR]</title>
+<title>[COLOR yellow]03/10[/COLOR][COLOR orange] 17:55H[/COLOR][COLOR deepskyblue] Feyenoord-PORTO[/COLOR][COLOR yellow] AV17 AV18[/COLOR]</title>
 <link>plugin://program.plexus/?url=acestream://9b698c3305080df2a8d1f8e572d6ecc3a2849bae&amp;mode=1&amp;name=SPORTS</link>
 <thumbnail>https://i.ytimg.com/vi/DVQauPb2Nfc/maxresdefault.jpg</thumbnail>
 <fanart>https://i.ytimg.com/vi/v4EqV-pi31c/maxresdefault.jpg</fanart>
@@ -89,7 +89,7 @@
 
 
 <item>
-<title>[COLOR yellow]19/09[/COLOR][COLOR orange] 17:55H[/COLOR][COLOR lime] PSV-SPORTING[/COLOR][COLOR yellow] AV17 AV18[/COLOR]</title>
+<title>[COLOR yellow]03/10[/COLOR][COLOR orange] 20:00H[/COLOR][COLOR lime] SPORTING-LASK Linz[/COLOR][COLOR yellow] AV17 AV18[/COLOR]</title>
 <link>plugin://program.plexus/?url=acestream://9b698c3305080df2a8d1f8e572d6ecc3a2849bae&amp;mode=1&amp;name=SPORTS</link>
 <thumbnail>https://i.ytimg.com/vi/DVQauPb2Nfc/maxresdefault.jpg</thumbnail>
 <fanart>https://i.ytimg.com/vi/v4EqV-pi31c/maxresdefault.jpg</fanart>
@@ -98,21 +98,21 @@
 
 
 <item>
-<title>[COLOR yellow]17/09[/COLOR][COLOR orange] 20:00H[/COLOR][COLOR red] BENFICA-Leipzig[/COLOR][COLOR yellow] AV17 AV18[/COLOR]</title>
+<title>[COLOR yellow]02/10[/COLOR][COLOR orange] 20:00H[/COLOR][COLOR red] ZENIT-BENFICA[/COLOR][COLOR yellow] AV17 AV18[/COLOR]</title>
 <link>plugin://program.plexus/?url=acestream://9b698c3305080df2a8d1f8e572d6ecc3a2849bae&amp;mode=1&amp;name=SPORTS</link>
 <thumbnail>http://www.caoazul.com/loja/images/benfica%20champions.gif</thumbnail>
 <fanart>https://decoracao.slbenfica.pt/wp-content/uploads/2015/09/benfica-adeptos.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR yellow]19/09[/COLOR][COLOR orange] 20:00H[/COLOR][COLOR lime] Wolverhampton-BRAGA[/COLOR][COLOR yellow] AV17 AV18[/COLOR]</title>
+<title>[COLOR yellow]03/10[/COLOR][COLOR orange] 17:55H[/COLOR][COLOR lime] BRAGA-Slovan Bratislava[/COLOR][COLOR yellow] AV17 AV18[/COLOR]</title>
 <link>plugin://program.plexus/?url=acestream://9b698c3305080df2a8d1f8e572d6ecc3a2849bae&amp;mode=1&amp;name=SPORTS</link>
 <thumbnail>http://static.goal.com/3049200/3049202_heroa.jpg</thumbnail>
 <fanart>http://www.hungarianfootball.com/wp-content/uploads/2013/07/el1.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR yellow]19/09[/COLOR][COLOR orange] 17:55H[/COLOR][COLOR lime] Standard Liège-V.GUIMARAES[/COLOR][COLOR yellow] AV17 AV18[/COLOR]</title>
+<title>[COLOR yellow]03/10[/COLOR][COLOR orange] 20:00H[/COLOR][COLOR lime] V.GUIMARAES-Eintracht Frankfurt[/COLOR][COLOR yellow] AV17 AV18[/COLOR]</title>
 <link>plugin://program.plexus/?url=acestream://9b698c3305080df2a8d1f8e572d6ecc3a2849bae&amp;mode=1&amp;name=SPORTS</link>
 <thumbnail>http://static.goal.com/3049200/3049202_heroa.jpg</thumbnail>
 <fanart>http://www.hungarianfootball.com/wp-content/uploads/2013/07/el1.jpg</fanart>
@@ -151,7 +151,7 @@
 </item>
 
 <item>
-<title>[COLOR yellow]SPORTV 2[/COLOR][COLOR lime] ACESTREAM[/COLOR] OFF</title>
+<title>[COLOR yellow]SPORTV 2[/COLOR][COLOR lime] ACESTREAM[/COLOR] AV7/AV8</title>
 <link>plugin://program.plexus/?url=acestream://ac0bb0dbfe52c161fe4b76ae5bec16933aca03d0&amp;mode=1&amp;name=SPORTS</link>
 <thumbnail>http://i.imgur.com/VXqfdAx.png</thumbnail>
 </item>
