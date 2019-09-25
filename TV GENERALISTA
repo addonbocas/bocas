@@ -100,9 +100,25 @@
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
+
 <channels>
 <channel>
-<name>[COLOR red]teste 2[/COLOR] ARENAVISION</name>
+<name>[COLOR red]teste 2[/COLOR]</name>
+<thumbnail>http://imgur.com/PCGI7rU.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/addonbocas/bocas/master/TESTE2</externallink>
+<fanart>https://ia601403.us.archive.org/25/items/fanart_20190909_1728/fanart.jpg</fanart>
+<info>
+
+
+[COLOR deeppink]|[/COLOR]- teste -[COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
+<name>[COLOR red]teste 2[/COLOR]  2ARENAVISION2</name>
 <thumbnail>http://imgur.com/PCGI7rU.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/RuiJMoreira/arenamirror/master/channelplaylist</externallink>
 <fanart>https://ia601403.us.archive.org/25/items/fanart_20190909_1728/fanart.jpg</fanart>
@@ -114,4 +130,6 @@
 </channels>
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+
 
