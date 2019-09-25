@@ -1,6 +1,6 @@
 <channels>
 <channel>
-<name>[COLOR red]MrPiracy[/COLOR][COLOR lime] PT[/COLOR]</name>
+<name>[COLOR yellow]MrPiracy[/COLOR][COLOR lime] PT[/COLOR]</name>
 <thumbnail>https://noticias.mrpiracy.xyz/wp-content/uploads/2017/11/8000filmes.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/addonbocas/bocas/master/OUTROS%20ADDONS</externallink>
 <fanart>https://noticias.mrpiracy.xyz/wp-content/uploads/2017/11/8000filmes.jpg</fanart>
@@ -16,7 +16,7 @@
 
 <channels>
 <channel>
-<name>[COLOR red]FILMES[/COLOR][COLOR lime] Gdrive[/COLOR] Hollywood</name>
+<name>[COLOR yellow]FILMES[/COLOR][COLOR lime] Gdrive[/COLOR] Hollywood</name>
 <thumbnail>https://cdn.windowsreport.com/wp-content/uploads/2017/01/Google-Drive.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/addonbocas/bocas/master/FILMES%20GDRIVE</externallink>
 <fanart>https://cdn.windowsreport.com/wp-content/uploads/2017/01/Google-Drive.jpg</fanart>
@@ -48,7 +48,7 @@
 
 <channels>
 <channel>
-<name>[COLOR yellow]FILMES[/COLOR][COLOR lime] BR[/COLOR] LHMTV</name>
+<name>[COLOR orange]FILMES[/COLOR][COLOR lime] BR[/COLOR] LHMTV</name>
 <thumbnail>http://3.bp.blogspot.com/-gLIbiMpRNPg/Ty3px0a35EI/AAAAAAAAGUU/O7tIehY45Hw/s1600/logotipo-campanha2.png</thumbnail>
 <externallink>http://lhmtv.ga/filmes</externallink>
 <fanart>https://ia601403.us.archive.org/25/items/fanart_20190909_1728/fanart.jpg</fanart>
@@ -64,7 +64,7 @@
 
 <channels>
 <channel>
-<name>[COLOR yellow]FILMES 1[/COLOR][COLOR lime] BR[/COLOR] GuiadoLuiz</name>
+<name>[COLOR orange]FILMES 1[/COLOR][COLOR lime] BR[/COLOR] GuiadoLuiz</name>
 <thumbnail>http://3.bp.blogspot.com/-gLIbiMpRNPg/Ty3px0a35EI/AAAAAAAAGUU/O7tIehY45Hw/s1600/logotipo-campanha2.png</thumbnail>
 <externallink>http://bit.ly/GuiadoLuizBox1</externallink>
 <fanart>https://ia601403.us.archive.org/25/items/fanart_20190909_1728/fanart.jpg</fanart>
@@ -80,7 +80,7 @@
 
 <channels>
 <channel>
-<name>[COLOR yellow]FILMES 2[/COLOR][COLOR lime] BR[/COLOR] GuiadoLuiz</name>
+<name>[COLOR orange]FILMES 2[/COLOR][COLOR lime] BR[/COLOR] GuiadoLuiz</name>
 <thumbnail>http://3.bp.blogspot.com/-gLIbiMpRNPg/Ty3px0a35EI/AAAAAAAAGUU/O7tIehY45Hw/s1600/logotipo-campanha2.png</thumbnail>
 <externallink>http://bit.ly/GuiadoLuizG1</externallink>
 <fanart>https://ia601403.us.archive.org/25/items/fanart_20190909_1728/fanart.jpg</fanart>
