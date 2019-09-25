@@ -16,6 +16,22 @@
 
 <channels>
 <channel>
+<name>[COLOR red]FILMES[/COLOR][COLOR lime] Gdrive[/COLOR] Hollywood</name>
+<thumbnail>https://cdn.windowsreport.com/wp-content/uploads/2017/01/Google-Drive.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/addonbocas/bocas/master/FILMES%20GDRIVE</externallink>
+<fanart>https://cdn.windowsreport.com/wp-content/uploads/2017/01/Google-Drive.jpg</fanart>
+<info>
+
+
+[COLOR deeppink]|[/COLOR]- CRÉDITOS MrPiracy -[COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+
+<channels>
+<channel>
 <name>[COLOR yellow]FILMES[/COLOR][COLOR lime] PT[/COLOR]</name>
 <thumbnail>http://imgur.com/cLwnC8w.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/addonbocas/bocas/master/FILMES%20PT%20CLASSICOS</externallink>
