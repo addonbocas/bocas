@@ -241,3 +241,12 @@ item>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
+
+
+<item>
+<title>[COLOR red]TV TRAPALHÕES[/COLOR]</title>
+<link>ignoreme</link>
+<jsonrpc>plugin://plugin.video.youtube/channel/UC2OvR6GpFQebrgcLCEXX_4A/?page=0</jsonrpc>
+<thumbnail>https://http2.mlstatic.com/lp-os-trapalhoes-na-tvfrete-gratis-D_NQ_NP_13747-MLB210528532_8484-F.jpg</thumbnail>
+<fanart>http://1.bp.blogspot.com/-EEESGo_MDI0/TmzlYslypZI/AAAAAAAAAgs/pR6mTR6eMxM/s1600/1.jpg</fanart>
+</item>
