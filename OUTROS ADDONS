@@ -7,3 +7,11 @@
 </item>
 
 
+<item>
+<title>[COLOR deepskyblue]Elementum[/COLOR] clicar aqui</title>
+<link>http://ignoreme</link>
+<jsonrpc>plugin://plugin.video.elementum/?action=searchNavigator</jsonrpc>
+<thumbnail>https://mykodiaddons.com/wp-content/uploads/2018/10/How-to-Install-Elementum-Kodi-Addon.png</thumbnail>
+<fanart>https://mykodiaddons.com/wp-content/uploads/2018/10/How-to-Install-Elementum-Kodi-Addon.png</fanart>
+</item>
+
