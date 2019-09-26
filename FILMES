@@ -16,6 +16,22 @@
 
 <channels>
 <channel>
+<name>[COLOR yellow]ELEMENTUM[/COLOR][COLOR lime] FILMES[/COLOR] TORRENT</name>
+<thumbnail>http://hydra.mlkp.pl/wp-content/uploads/2017/07/Torrent-tracker-list.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/addonbocas/bocas/master/FILMES%20ELEMENTUM</externallink>
+<fanart>http://hydra.mlkp.pl/wp-content/uploads/2017/07/Torrent-tracker-list.jpg</fanart>
+<info>
+
+
+[COLOR deeppink]|[/COLOR]- CRÉDITOS MrPiracy -[COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+
+<channels>
+<channel>
 <name>[COLOR yellow]FILMES[/COLOR][COLOR lime] Gdrive[/COLOR] Hollywood</name>
 <thumbnail>https://cdn.windowsreport.com/wp-content/uploads/2017/01/Google-Drive.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/addonbocas/bocas/master/FILMES%20GDRIVE</externallink>
