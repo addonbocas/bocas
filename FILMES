@@ -16,14 +16,14 @@
 
 <channels>
 <channel>
-<name>[COLOR yellow]ELEMENTUM[/COLOR][COLOR lime] FILMES[/COLOR] TORRENT</name>
+<name>[COLOR yellow]FILMES[/COLOR][COLOR lime] POR[/COLOR] TORRENT</name>
 <thumbnail>http://hydra.mlkp.pl/wp-content/uploads/2017/07/Torrent-tracker-list.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/addonbocas/bocas/master/FILMES%20ELEMENTUM</externallink>
 <fanart>http://hydra.mlkp.pl/wp-content/uploads/2017/07/Torrent-tracker-list.jpg</fanart>
 <info>
 
 
-[COLOR deeppink]|[/COLOR]- CRÉDITOS MrPiracy -[COLOR deeppink]|[/COLOR]</info>
+[COLOR deeppink]|[/COLOR]- TORRENTS DIRETOS -[COLOR deeppink]|[/COLOR]</info>
 </channel>
 </channels>
 
@@ -32,7 +32,7 @@
 
 <channels>
 <channel>
-<name>[COLOR yellow]FILMES[/COLOR][COLOR lime] Gdrive[/COLOR] Hollywood</name>
+<name>[COLOR yellow]FILMES[/COLOR][COLOR lime] pelo[/COLOR] Gdrive</name>
 <thumbnail>https://cdn.windowsreport.com/wp-content/uploads/2017/01/Google-Drive.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/addonbocas/bocas/master/FILMES%20GDRIVE</externallink>
 <fanart>https://cdn.windowsreport.com/wp-content/uploads/2017/01/Google-Drive.jpg</fanart>
@@ -48,7 +48,7 @@
 
 <channels>
 <channel>
-<name>[COLOR yellow]FILMES[/COLOR][COLOR lime] PT[/COLOR]</name>
+<name>[COLOR yellow]FILMES[/COLOR][COLOR lime] PORTUGUESES[/COLOR]</name>
 <thumbnail>http://imgur.com/cLwnC8w.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/addonbocas/bocas/master/FILMES%20PT%20CLASSICOS</externallink>
 <fanart>https://ia601403.us.archive.org/25/items/fanart_20190909_1728/fanart.jpg</fanart>
