@@ -1,8 +1,9 @@
 <item>
 <title>TITULO</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1HU4Q54CumAOnmvrO05vF_xlSRV754p4a/view$$lsname=[COLOR orange]HD[/COLOR] - Aladdin 2019</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI$$lsname=[COLOR orange]HD[/COLOR] - LINK 2</link>
-<link>URL AQUI$$lsname=[COLOR orange]HD[/COLOR] - LINK 3</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1zm-8qO7HhaS-ybiroTwbDA3By-sNsHSn/view$$lsname=[COLOR orange]HD[/COLOR] - Fast and Furious Presents Hobbs and Shaw 2019</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ebJl5dLY1bikwMnj7QEQTjSOKN9APQ3z/view$$lsname=[COLOR orange]HD[/COLOR] - Black Panthe 2018</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d9cf5dfda41ea5b77ffeb94c139d31fc6c83006d&amp$$lsname=[COLOR orange] torrent[/COLOR] - Fast and Furious Presents Hobbs and Shaw 2019</link>
 <thumbnail>ICONE</thumbnail>
 <fanart>IMAGENS DE FUNDO</fanart>
 <info>SINOPE</info>
