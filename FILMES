@@ -16,7 +16,7 @@
 
 <channels>
 <channel>
-<name>[COLOR yellow]FILMES[/COLOR] BOCAS</name>
+<name>[COLOR yellow]FILMES[/COLOR][COLOR lime] BOCAS[/COLOR]</name>
 <thumbnail>http://imgur.com/cLwnC8w.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/addonbocas/bocas/master/FILMES%20BOCAS</externallink>
 <fanart>https://ia601403.us.archive.org/25/items/fanart_20190909_1728/fanart.jpg</fanart>
