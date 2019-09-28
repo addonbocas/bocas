@@ -4,10 +4,7 @@
 <thumbnail>http://imgur.com/FrfFp4l.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/addonbocas/bocas/master/OUTROS%20ADDONS</externallink>
 <fanart>http://imgur.com/FrfFp4l.png</fanart>
-<info>
-
-
-[COLOR deeppink]|[/COLOR]- CRÉDITOS AOS CRIADORES DOS ADDONS -[COLOR deeppink]|[/COLOR]</info>
+<info>[COLOR deeppink]|[/COLOR]- CRÉDITOS AOS CRIADORES DOS ADDONS -[COLOR deeppink]|[/COLOR]</info>
 </channel>
 </channels>
 
@@ -20,10 +17,7 @@
 <thumbnail>http://imgur.com/cLwnC8w.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/addonbocas/bocas/master/FILMES%20BOCAS</externallink>
 <fanart>https://ia601403.us.archive.org/25/items/fanart_20190909_1728/fanart.jpg</fanart>
-<info>
-
-
-[COLOR deeppink]|[/COLOR]- FILMES POR TORRENT E GDRIVE -[COLOR deeppink]|[/COLOR]</info>
+<info>[COLOR deeppink]|[/COLOR]- FILMES POR TORRENT E GDRIVE -[COLOR deeppink]|[/COLOR]</info>
 </channel>
 </channels>
 
@@ -32,46 +26,11 @@
 
 <channels>
 <channel>
-<name>[COLOR yellow]FILMES[/COLOR][COLOR lime] POR[/COLOR] TORRENT</name>
-<thumbnail>https://imgur.com/TH3Hsyv.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/addonbocas/bocas/master/FILMES%20ELEMENTUM</externallink>
-<fanart>http://hydra.mlkp.pl/wp-content/uploads/2017/07/Torrent-tracker-list.jpg</fanart>
-<info>
-
-
-[COLOR deeppink]|[/COLOR]- TORRENTS DIRETOS -[COLOR deeppink]|[/COLOR]</info>
-</channel>
-</channels>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-
-<channels>
-<channel>
-<name>[COLOR yellow]FILMES[/COLOR][COLOR lime] POR[/COLOR] GDRIVE</name>
-<thumbnail>https://imgur.com/wj6paoq.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/addonbocas/bocas/master/FILMES%20GDRIVE</externallink>
-<fanart>https://cdn.windowsreport.com/wp-content/uploads/2017/01/Google-Drive.jpg</fanart>
-<info>
-
-
-[COLOR deeppink]|[/COLOR]- CRÉDITOS MrPiracy -[COLOR deeppink]|[/COLOR]</info>
-</channel>
-</channels>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-
-<channels>
-<channel>
 <name>[COLOR yellow]FILMES[/COLOR][COLOR lime] PORTUGUESES[/COLOR]</name>
 <thumbnail>https://i.imgur.com/H3DXHjm.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/addonbocas/bocas/master/FILMES%20PT%20CLASSICOS</externallink>
 <fanart>https://ia601403.us.archive.org/25/items/fanart_20190909_1728/fanart.jpg</fanart>
-<info>
-
-
-[COLOR lime]FILMES[/COLOR] PORTUGUESES</info>
+<info>[COLOR lime]FILMES[/COLOR] PORTUGUESES</info>
 </channel>
 </channels>
 
@@ -84,10 +43,7 @@
 <thumbnail>https://imgur.com/H2ylCnA.png</thumbnail>
 <externallink>http://lhmtv.ga/filmes</externallink>
 <fanart>https://ia601403.us.archive.org/25/items/fanart_20190909_1728/fanart.jpg</fanart>
-<info>
-
-
-[COLOR lime]CREDITOS PARA[/COLOR] LHMTV</info>
+<info>[COLOR lime]CREDITOS PARA[/COLOR] LHMTV</info>
 </channel>
 </channels>
 
@@ -100,10 +56,7 @@
 <thumbnail>https://imgur.com/H2ylCnA.png</thumbnail>
 <externallink>http://bit.ly/GuiadoLuizBox1</externallink>
 <fanart>https://ia601403.us.archive.org/25/items/fanart_20190909_1728/fanart.jpg</fanart>
-<info>
-
-
-[COLOR lime]CREDITOS PARA[/COLOR] GuiadoLuiz</info>
+<info>[COLOR lime]CREDITOS PARA[/COLOR] GuiadoLuiz</info>
 </channel>
 </channels>
 
@@ -116,10 +69,7 @@
 <thumbnail>https://imgur.com/H2ylCnA.png</thumbnail>
 <externallink>http://bit.ly/GuiadoLuizG1</externallink>
 <fanart>https://ia601403.us.archive.org/25/items/fanart_20190909_1728/fanart.jpg</fanart>
-<info>
-
-
-[COLOR lime]CREDITOS PARA[/COLOR] GuiadoLuiz</info>
+<info>[COLOR lime]CREDITOS PARA[/COLOR] GuiadoLuiz</info>
 </channel>
 </channels>
 
@@ -133,10 +83,7 @@
 <thumbnail>https://imgur.com/Fsff8js.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/addonbocas/bocas/master/DUBLADOS</externallink>
 <fanart>https://ia601403.us.archive.org/25/items/fanart_20190909_1728/fanart.jpg</fanart>
-<info>
-
-
-[COLOR deeppink]|[/COLOR]MAIS RECENTES[COLOR deeppink]|[/COLOR]</info>
+<info>[COLOR deeppink]|[/COLOR]MAIS RECENTES[COLOR deeppink]|[/COLOR]</info>
 </channel>
 </channels>
 
