@@ -1,1160 +1,834 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+#EXTM3U
 
-<item>
-<title>[B][COLOR red]====================[/B][/COLOR]</title>
-<link>http://fui.me</link>
-<item>
-<title>[COLOR lightgreen]Ace List [COLOR white]Agenda[/COLOR] Hora Espanhola (+1)</title>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-<title>[COLOR lightskyblue][makelist.param1][/COLOR][COLOR yellow]$doregex[hora][makelist.param6][/COLOR][COLOR orange][UPPERCASE] [makelist.param9][/UPPERCASE] [/COLOR][COLOR white]  [makelist.param10][/COLOR][COLOR red] [makelist.param12] [makelist.param13][/COLOR]</title>
-<info>[COLOR lightskyblue][makelist.param1][/COLOR][COLOR yellow][makelist.param4][/COLOR][COLOR orange][UPPERCASE] [makelist.param6][/UPPERCASE] [/COLOR][COLOR white] [makelist.param7] [makelist.param8][/COLOR][COLOR red] [makelist.param10] [makelist.param11][/COLOR]</info>
-<fanart>https://ugc.kn3.net/i/origin/http://3.bp.blogspot.com/-7Sq_1Ap72R0/TcnvEtT2eyI/AAAAAAAAA_Y/HWSWReXQsmI/s1600/camp-nou.jpg</fanart>
-<thumbnail>$doregex[img1]$doregex[img2]$doregex[img3]</thumbnail>
-<link>plugin://program.plexus/?url=[makelist.param11]&amp;mode=1&amp;name=[COLOR aqua]cristal azul[/COLOR]</link>
-]]></listrepeat>
-<expres><![CDATA[(?s)colspan="3">.*?h4>\s*((.*?) (.*?)201\d)|style="margin-left: auto\;">.*?class="text-right">\n                           ((.*?):)(.+?)\s*</.*?<td class.*?>\s*(.*?)\s*</td.*?<td>\s*(.*?)\s*<.*?<td colspan="2">\s*(.*?)\s*<.*?class.*?>\s*(.*?)\s*</td|href="aces.*?//(.*?)".*?Channel(.*?)<.*?>(.*?)"]]></expres>
-<page>https://acelisting.in/</page>
-</regex>
- <regex>
-<name>hora</name>
-<expres>$pyFunction:('[makelist.param4]').replace(' 0:','01:').replace(' 1:','02:').replace(' 2:','03:').replace(' 3:','04:').replace(' 4:','05:').replace(' 5:','06:').replace(' 6:','07:').replace(' 7:','08:').replace(' 8:','09:').replace(' 9:','10:').replace(' 10:','11:').replace(' 11:','12:').replace(' 12:','13:').replace(' 13:','14:').replace(' 14:','15:').replace(' 15:','16:').replace(' 16:','17:').replace(' 17:','18:').replace(' 18:','19:').replace(' 19:','20:').replace(' 20:','21:').replace(' 21:','22:').replace(' 22:','23:').replace(' 23:','00:')</expres>
-<page></page>
-</regex>
-  <regex>
-<name>img2</name>
-<expres>$pyFunction:('[makelist.param8]').replace('SOCCER','http://bit.ly/img-avezy-soccer').replace('TENNIS','http://bit.ly/img-avezy-tennis').replace('FOOTBALL','http://bit.ly/img-avezy-football').replace('RUGBY','http://bit.ly/img-avezy-football').replace('MOTORSPORT','http://bit.ly/img-avezy-motorsport').replace('ATHLETICS','https://i.imgur.com/lQrhRs8.jpg').replace('BADMINTON','http://bit.ly/img-avezy-badminton').replace('BASEBALL','http://bit.ly/img-avezy-baseball').replace('BASKETBALL','http://bit.ly/img-avezy-basketball').replace('BOWLING','http://bit.ly/img-avezy-bowling').replace('BOXING','http://bit.ly/img-avezy-boxing').replace('CRICKET','https://i.imgur.com/lQrhRs8.jpg').replace('CYCLING','http://bit.ly/img-avezy-cycling').replace('DARTS','https://i.imgur.com/lQrhRs8.jpg').replace('FORMULA 1','http://bit.ly/img-avezy-motorsport').replace('GOLF','http://bit.ly/img-avezy-golf').replace('HOCKEY','http://bit.ly/img-avezy-hockey').replace('MMA','https://i.imgur.com/lQrhRs8.jpg').replace('MOTOGP','http://bit.ly/img-avezy-motogp').replace('PING-PONG','https://i.imgur.com/lQrhRs8.jpg').replace('POOL','http://bit.ly/img-avezy-pool').replace('SOCCER_(W)','http://bit.ly/img-avezy-soccer').replace('SWIMMING','https://i.imgur.com/lQrhRs8.jpg').replace('VOLLEYBALL','http://bit.ly/img-avezy-volleyball').replace('WATERPOLO','https://i.imgur.com/lQrhRs8.jpg')</expres>
-<page></page>
-</regex>
-  <regex>
-<name>img1</name>
-<expres>$pyFunction:('[makelist.param2]').replace('Sunday','https://www.tdpevents.es/wp-content/uploads/2014/12/Calendar-150x150.jpg').replace('Monday','https://www.tdpevents.es/wp-content/uploads/2014/12/Calendar-150x150.jpg').replace('Tuesday','https://www.tdpevents.es/wp-content/uploads/2014/12/Calendar-150x150.jpg').replace('Wednesday','https://www.tdpevents.es/wp-content/uploads/2014/12/Calendar-150x150.jpg').replace('Thursday','https://www.tdpevents.es/wp-content/uploads/2014/12/Calendar-150x150.jpg').replace('Friday','https://www.tdpevents.es/wp-content/uploads/2014/12/Calendar-150x150.jpg').replace('Saturday','https://www.tdpevents.es/wp-content/uploads/2014/12/Calendar-150x150.jpg')</expres>
-<page></page>
-</regex>
-<regex>
-<name>img3</name>
-<expres>$pyFunction:'[makelist.param12]'.replace(' 10','https://i.imgur.com/1uUlv8M.jpg').replace(' 11','https://i.imgur.com/1uUlv8M.jpg').replace(' 12','https://i.imgur.com/1uUlv8M.jpg').replace(' 13','https://i.imgur.com/1uUlv8M.jpg').replace(' 14','https://i.imgur.com/1uUlv8M.jpg').replace(' 15','https://i.imgur.com/1uUlv8M.jpg').replace(' 16','https://i.imgur.com/1uUlv8M.jpg').replace(' 17','https://i.imgur.com/1uUlv8M.jpg').replace(' 18','https://i.imgur.com/1uUlv8M.jpg').replace(' 19','https://i.imgur.com/1uUlv8M.jpg').replace(' 20','https://i.imgur.com/1uUlv8M.jpg').replace(' 21','https://i.imgur.com/1uUlv8M.jpg').replace(' 22','https://i.imgur.com/1uUlv8M.jpg').replace(' 23','https://i.imgur.com/1uUlv8M.jpg').replace(' 24','https://i.imgur.com/1uUlv8M.jpg').replace(' 25','https://i.imgur.com/1uUlv8M.jpg').replace(' 26','https://i.imgur.com/1uUlv8M.jpg').replace(' 27','https://i.imgur.com/1uUlv8M.jpg').replace(' 28','https://i.imgur.com/1uUlv8M.jpg').replace(' 29','https://i.imgur.com/1uUlv8M.jpg').replace(' 30','https://i.imgur.com/1uUlv8M.jpg').replace(' 31','https://i.imgur.com/1uUlv8M.jpg').replace(' 32','https://i.imgur.com/1uUlv8M.jpg').replace(' 33','https://i.imgur.com/1uUlv8M.jpg').replace(' 34','https://i.imgur.com/1uUlv8M.jpg').replace(' 35','https://i.imgur.com/1uUlv8M.jpg').replace(' 36','https://i.imgur.com/1uUlv8M.jpg').replace(' 37','https://i.imgur.com/1uUlv8M.jpg').replace(' 38','https://i.imgur.com/1uUlv8M.jpg').replace(' 39','https://i.imgur.com/1uUlv8M.jpg').replace(' 40','https://i.imgur.com/1uUlv8M.jpg').replace(' 41','https://i.imgur.com/1uUlv8M.jpg').replace(' 42','https://i.imgur.com/1uUlv8M.jpg').replace(' 1','https://i.imgur.com/1uUlv8M.jpg').replace(' 2','https://i.imgur.com/1uUlv8M.jpg').replace(' 3','https://i.imgur.com/1uUlv8M.jpg').replace(' 4','https://i.imgur.com/1uUlv8M.jpg').replace(' 5','https://i.imgur.com/1uUlv8M.jpg').replace(' 6','https://i.imgur.com/1uUlv8M.jpg').replace(' 7','https://i.imgur.com/1uUlv8M.jpg').replace(' 8','https://i.imgur.com/1uUlv8M.jpg').replace(' 9','https://i.imgur.com/1uUlv8M.jpg')</expres>
-<page></page>
-</regex>
-<fanart>https://ugc.kn3.net/i/origin/http://3.bp.blogspot.com/-7Sq_1Ap72R0/TcnvEtT2eyI/AAAAAAAAA_Y/HWSWReXQsmI/s1600/camp-nou.jpg</fanart>
-<thumbnail>https://i.imgur.com/vEoCPVN.jpg</thumbnail>
-</item>
-<item>
-<title>[B][COLOR red]====================[/B][/COLOR]</title>
-<link>http://fui.me</link>
-<item>
-<title>[B][COLOR lawngreen]• [COLOR white]ARENAVISION OPÇÃO 1[/B][/COLOR]</title>
-<link>http://fui.me</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/ARENAVISION.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR lawngreen]• [COLOR white]ARENAVISION  1[COLOR red] [PLEXUS • Acestream][/B][/COLOR]</title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=ARENAVISION 01 (PLEXUS)</link>
-<regex>
-<name>hash</name>
-<expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://arenavision.cc/01</page>
-<referer>http://arenavision.cc</referer>
-<setcookie>beget=begetok</setcookie>
-</regex>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/ARENAVISION.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR lawngreen]• [COLOR white]ARENAVISION  2[COLOR red] [PLEXUS • Acestream][/B][/COLOR]</title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=ARENAVISION 02 (PLEXUS)</link>
-<regex>
-<name>hash</name>
-<expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://arenavision.cc/02</page>
-<referer>http://arenavision.cc</referer>
-<setcookie>beget=begetok</setcookie>
-</regex>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/ARENAVISION.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR lawngreen]• [COLOR white]ARENAVISION  3[COLOR red] [PLEXUS • Acestream][/B][/COLOR]</title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=ARENAVISION 03 (PLEXUS)</link>
-<regex>
-<name>hash</name>
-<expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://arenavision.cc/03</page>
-<referer>http://arenavision.cc</referer>
-<setcookie>beget=begetok</setcookie>
-</regex>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/ARENAVISION.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR lawngreen]• [COLOR white]ARENAVISION  4[COLOR red] [PLEXUS • Acestream][/B][/COLOR]</title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=ARENAVISION 04 (PLEXUS)</link>
-<regex>
-<name>hash</name>
-<expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://arenavision.cc/04</page>
-<referer>http://arenavision.cc</referer>
-<setcookie>beget=begetok</setcookie>
-</regex>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/ARENAVISION.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR lawngreen]• [COLOR white]ARENAVISION  5[COLOR red] [PLEXUS • Acestream][/B][/COLOR]</title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=ARENAVISION 05 (PLEXUS)</link>
-<regex>
-<name>hash</name>
-<expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://arenavision.cc/05</page>
-<referer>http://arenavision.cc</referer>
-<setcookie>beget=begetok</setcookie>
-</regex>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/ARENAVISION.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR lawngreen]• [COLOR white]ARENAVISION  6[COLOR red] [PLEXUS • Acestream][/B][/COLOR]</title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=ARENAVISION 06 (PLEXUS)</link>
-<regex>
-<name>hash</name>
-<expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://arenavision.cc/06</page>
-<referer>http://arenavision.cc</referer>
-<setcookie>beget=begetok</setcookie>
-</regex>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/ARENAVISION.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR lawngreen]• [COLOR white]ARENAVISION  7[COLOR red] [PLEXUS • Acestream][/B][/COLOR]</title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=ARENAVISION 07 (PLEXUS)</link>
-<regex>
-<name>hash</name>
-<expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://arenavision.cc/07</page>
-<referer>http://arenavision.cc</referer>
-<setcookie>beget=begetok</setcookie>
-</regex>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/ARENAVISION.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR lawngreen]• [COLOR white]ARENAVISION  8[COLOR red] [PLEXUS • Acestream][/B][/COLOR]</title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=ARENAVISION 08 (PLEXUS)</link>
-<regex>
-<name>hash</name>
-<expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://arenavision.cc/08</page>
-<referer>http://arenavision.cc</referer>
-<setcookie>beget=begetok</setcookie>
-</regex>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/ARENAVISION.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR lawngreen]• [COLOR white]ARENAVISION  9[COLOR red] [PLEXUS • Acestream][/B][/COLOR]</title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=ARENAVISION 09 (PLEXUS)</link>
-<regex>
-<name>hash</name>
-<expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://arenavision.cc/09</page>
-<referer>http://arenavision.cc</referer>
-<setcookie>beget=begetok</setcookie>
-</regex>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/ARENAVISION.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR lawngreen]• [COLOR white]ARENAVISION 10[COLOR red] [PLEXUS • Acestream][/B][/COLOR]</title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=ARENAVISION 10 (PLEXUS)</link>
-<regex>
-<name>hash</name>
-<expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://arenavision.cc/10</page>
-<referer>http://arenavision.cc</referer>
-<setcookie>beget=begetok</setcookie>
-</regex>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/ARENAVISION.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR lawngreen]• [COLOR white]ARENAVISION 11[COLOR red] [PLEXUS • Acestream][/B][/COLOR]</title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=ARENAVISION 11 (PLEXUS)</link>
-<regex>
-<name>hash</name>
-<expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://arenavision.cc/11</page>
-<referer>http://arenavision.cc</referer>
-<setcookie>beget=begetok</setcookie>
-</regex>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/ARENAVISION.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR lawngreen]• [COLOR white]ARENAVISION 12[COLOR red] [PLEXUS • Acestream][/B][/COLOR]</title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=ARENAVISION 12 (PLEXUS)</link>
-<regex>
-<name>hash</name>
-<expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://arenavision.cc/12</page>
-<referer>http://arenavision.cc</referer>
-<setcookie>beget=begetok</setcookie>
-</regex>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/ARENAVISION.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR lawngreen]• [COLOR white]ARENAVISION 13[COLOR red] [PLEXUS • Acestream][/B][/COLOR]</title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=ARENAVISION 13 (PLEXUS)</link>
-<regex>
-<name>hash</name>
-<expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://arenavision.cc/13</page>
-<referer>http://arenavision.cc</referer>
-<setcookie>beget=begetok</setcookie>
-</regex>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/ARENAVISION.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR lawngreen]• [COLOR white]ARENAVISION 14[COLOR red] [PLEXUS • Acestream][/B][/COLOR]</title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=ARENAVISION 14 (PLEXUS)</link>
-<regex>
-<name>hash</name>
-<expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://arenavision.cc/14</page>
-<referer>http://arenavision.cc</referer>
-<setcookie>beget=begetok</setcookie>
-</regex>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/ARENAVISION.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR lawngreen]• [COLOR white]ARENAVISION 15[COLOR red] [PLEXUS • Acestream][/B][/COLOR]</title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=ARENAVISION 15 (PLEXUS)</link>
-<regex>
-<name>hash</name>
-<expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://arenavision.cc/15</page>
-<referer>http://arenavision.cc</referer>
-<setcookie>beget=begetok</setcookie>
-</regex>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/ARENAVISION.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR lawngreen]• [COLOR white]ARENAVISION 16[COLOR red] [PLEXUS • Acestream][/B][/COLOR]</title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=ARENAVISION 16 (PLEXUS)</link>
-<regex>
-<name>hash</name>
-<expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://arenavision.cc/16</page>
-<referer>http://arenavision.cc</referer>
-<setcookie>beget=begetok</setcookie>
-</regex>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/ARENAVISION.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR lawngreen]• [COLOR white]ARENAVISION 17[COLOR red] [PLEXUS • Acestream][/B][/COLOR]</title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=ARENAVISION 17 (PLEXUS)</link>
-<regex>
-<name>hash</name>
-<expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://arenavision.cc/17</page>
-<referer>http://arenavision.cc</referer>
-<setcookie>beget=begetok</setcookie>
-</regex>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/ARENAVISION.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR lawngreen]• [COLOR white]ARENAVISION 18[COLOR red] [PLEXUS • Acestream][/B][/COLOR]</title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=ARENAVISION 18 (PLEXUS)</link>
-<regex>
-<name>hash</name>
-<expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://arenavision.cc/18</page>
-<referer>http://arenavision.cc</referer>
-<setcookie>beget=begetok</setcookie>
-</regex>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/ARENAVISION.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR lawngreen]• [COLOR white]ARENAVISION 19[COLOR red] [PLEXUS • Acestream][/B][/COLOR]</title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=ARENAVISION 19 (PLEXUS)</link>
-<regex>
-<name>hash</name>
-<expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://arenavision.cc/19</page>
-<referer>http://arenavision.cc</referer>
-<setcookie>beget=begetok</setcookie>
-</regex>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/ARENAVISION.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR lawngreen]• [COLOR white]ARENAVISION 20[COLOR red] [PLEXUS • Acestream][/B][/COLOR]</title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=ARENAVISION 20 (PLEXUS)</link>
-<regex>
-<name>hash</name>
-<expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://arenavision.cc/20</page>
-<referer>http://arenavision.cc</referer>
-<setcookie>beget=begetok</setcookie>
-</regex>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/ARENAVISION.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR lawngreen]• [COLOR white]ARENAVISION 21[COLOR red] [PLEXUS • Acestream][/B][/COLOR]</title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=ARENAVISION 21 (PLEXUS)</link>
-<regex>
-<name>hash</name>
-<expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://arenavision.cc/21</page>
-<referer>http://arenavision.cc</referer>
-<setcookie>beget=begetok</setcookie>
-</regex>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/ARENAVISION.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR lawngreen]• [COLOR white]ARENAVISION 22[COLOR red] [PLEXUS • Acestream][/B][/COLOR]</title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=ARENAVISION 22 (PLEXUS)</link>
-<regex>
-<name>hash</name>
-<expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://arenavision.cc/22</page>
-<referer>http://arenavision.cc</referer>
-<setcookie>beget=begetok</setcookie>
-</regex>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/ARENAVISION.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR lawngreen]• [COLOR white]ARENAVISION 23[COLOR red] [PLEXUS • Acestream][/B][/COLOR]</title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=ARENAVISION 23 (PLEXUS)</link>
-<regex>
-<name>hash</name>
-<expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://arenavision.cc/23</page>
-<referer>http://arenavision.cc</referer>
-<setcookie>beget=begetok</setcookie>
-</regex>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/ARENAVISION.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR lawngreen]• [COLOR white]ARENAVISION 24[COLOR red] [PLEXUS • Acestream][/B][/COLOR]</title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=ARENAVISION 24 (PLEXUS)</link>
-<regex>
-<name>hash</name>
-<expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://arenavision.cc/24</page>
-<referer>http://arenavision.cc</referer>
-<setcookie>beget=begetok</setcookie>
-</regex>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/ARENAVISION.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR lawngreen]• [COLOR white]ARENAVISION 25[COLOR red] [PLEXUS • Acestream][/B][/COLOR]</title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=ARENAVISION 25 (PLEXUS)</link>
-<regex>
-<name>hash</name>
-<expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://arenavision.cc/25</page>
-<referer>http://arenavision.cc</referer>
-<setcookie>beget=begetok</setcookie>
-</regex>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/ARENAVISION.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR lawngreen]• [COLOR white]ARENAVISION 26[COLOR red] [PLEXUS • Acestream][/B][/COLOR]</title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=ARENAVISION 26 (PLEXUS)</link>
-<regex>
-<name>hash</name>
-<expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://arenavision.cc/26</page>
-<referer>http://arenavision.cc</referer>
-<setcookie>beget=begetok</setcookie>
-</regex>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/ARENAVISION.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR lawngreen]• [COLOR white]ARENAVISION 27[COLOR red] [PLEXUS • Acestream][/B][/COLOR]</title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=ARENAVISION 27 (PLEXUS)</link>
-<regex>
-<name>hash</name>
-<expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://arenavision.cc/27</page>
-<referer>http://arenavision.cc</referer>
-<setcookie>beget=begetok</setcookie>
-</regex>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/ARENAVISION.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR lawngreen]• [COLOR white]ARENAVISION 28[COLOR red] [PLEXUS • Acestream][/B][/COLOR]</title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=ARENAVISION 28 (PLEXUS)</link>
-<regex>
-<name>hash</name>
-<expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://arenavision.cc/28</page>
-<referer>http://arenavision.cc</referer>
-<setcookie>beget=begetok</setcookie>
-</regex>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/ARENAVISION.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR lawngreen]• [COLOR white]ARENAVISION 29[COLOR red] [PLEXUS • Acestream][/B][/COLOR]</title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=ARENAVISION 29 (PLEXUS)</link>
-<regex>
-<name>hash</name>
-<expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://arenavision.cc/29</page>
-<referer>http://arenavision.cc</referer>
-<setcookie>beget=begetok</setcookie>
-</regex>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/ARENAVISION.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR lawngreen]• [COLOR white]ARENAVISION 30[COLOR red] [PLEXUS • Acestream][/B][/COLOR]</title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=ARENAVISION 30 (PLEXUS)</link>
-<regex>
-<name>hash</name>
-<expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://arenavision.cc/30</page>
-<referer>http://arenavision.cc</referer>
-<setcookie>beget=begetok</setcookie>
-</regex>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/ARENAVISION.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR lawngreen]• [COLOR white]ARENAVISION 31[COLOR red] [PLEXUS • Acestream][/B][/COLOR]</title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=ARENAVISION 31 (PLEXUS)</link>
-<regex>
-<name>hash</name>
-<expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://arenavision.cc/31</page>
-<referer>http://arenavision.cc</referer>
-<setcookie>beget=begetok</setcookie>
-</regex>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/ARENAVISION.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR lawngreen]• [COLOR white]ARENAVISION 32[COLOR red] [PLEXUS • Acestream][/B][/COLOR]</title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=ARENAVISION 32 (PLEXUS)</link>
-<regex>
-<name>hash</name>
-<expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://arenavision.cc/32</page>
-<referer>http://arenavision.cc</referer>
-<setcookie>beget=begetok</setcookie>
-</regex>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/ARENAVISION.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR lawngreen]• [COLOR white]ARENAVISION 33[COLOR red] [PLEXUS • Acestream][/B][/COLOR]</title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=ARENAVISION 33 (PLEXUS)</link>
-<regex>
-<name>hash</name>
-<expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://arenavision.cc/33</page>
-<referer>http://arenavision.cc</referer>
-<setcookie>beget=begetok</setcookie>
-</regex>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/ARENAVISION.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR lawngreen]• [COLOR white]ARENAVISION 34[COLOR red] [PLEXUS • Acestream][/B][/COLOR]</title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=ARENAVISION 34 (PLEXUS)</link>
-<regex>
-<name>hash</name>
-<expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://arenavision.cc/34</page>
-<referer>http://arenavision.cc</referer>
-<setcookie>beget=begetok</setcookie>
-</regex>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/ARENAVISION.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR lawngreen]• [COLOR white]ARENAVISION 35[COLOR red] [PLEXUS • Acestream][/B][/COLOR]</title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=ARENAVISION 35 (PLEXUS)</link>
-<regex>
-<name>hash</name>
-<expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://arenavision.cc/35</page>
-<referer>http://arenavision.cc</referer>
-<setcookie>beget=begetok</setcookie>
-</regex>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/ARENAVISION.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR lawngreen]• [COLOR white]ARENAVISION 36[COLOR red] [PLEXUS • Acestream][/B][/COLOR]</title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=ARENAVISION 36 (PLEXUS)</link>
-<regex>
-<name>hash</name>
-<expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://arenavision.cc/36</page>
-<referer>http://arenavision.cc</referer>
-<setcookie>beget=begetok</setcookie>
-</regex>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/ARENAVISION.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR lawngreen]• [COLOR white]ARENAVISION 37[COLOR red] [PLEXUS • Acestream][/B][/COLOR]</title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=ARENAVISION 37 (PLEXUS)</link>
-<regex>
-<name>hash</name>
-<expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://arenavision.cc/37</page>
-<referer>http://arenavision.cc</referer>
-<setcookie>beget=begetok</setcookie>
-</regex>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/ARENAVISION.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR lawngreen]• [COLOR white]ARENAVISION 38[COLOR red] [PLEXUS • Acestream][/B][/COLOR]</title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=ARENAVISION 38 (PLEXUS)</link>
-<regex>
-<name>hash</name>
-<expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://arenavision.cc/38</page>
-<referer>http://arenavision.cc</referer>
-<setcookie>beget=begetok</setcookie>
-</regex>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/ARENAVISION.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR lawngreen]• [COLOR white]ARENAVISION 39[COLOR red] [PLEXUS • Acestream][/B][/COLOR]</title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=ARENAVISION 39 (PLEXUS)</link>
-<regex>
-<name>hash</name>
-<expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://arenavision.cc/39</page>
-<referer>http://arenavision.cc</referer>
-<setcookie>beget=begetok</setcookie>
-</regex>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/ARENAVISION.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR lawngreen]• [COLOR white]ARENAVISION 40[COLOR red] [PLEXUS • Acestream][/B][/COLOR]</title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=ARENAVISION 40 (PLEXUS)</link>
-<regex>
-<name>hash</name>
-<expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://arenavision.cc/40</page>
-<referer>http://arenavision.cc</referer>
-<setcookie>beget=begetok</setcookie>
-</regex>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/ARENAVISION.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR lawngreen]• [COLOR white]ARENAVISION 41[COLOR red] [PLEXUS • Acestream][/B][/COLOR]</title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=ARENAVISION 41 (PLEXUS)</link>
-<regex>
-<name>hash</name>
-<expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://arenavision.cc/41</page>
-<referer>http://arenavision.cc</referer>
-<setcookie>beget=begetok</setcookie>
-</regex>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/ARENAVISION.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR lawngreen]• [COLOR white]ARENAVISION 42[COLOR red] [PLEXUS • Acestream][/B][/COLOR]</title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=ARENAVISION 42 (PLEXUS)</link>
-<regex>
-<name>hash</name>
-<expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://arenavision.cc/42</page>
-<referer>http://arenavision.cc</referer>
-<setcookie>beget=begetok</setcookie>
-</regex>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/ARENAVISION.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR lawngreen]• [COLOR white]ARENAVISION 43[COLOR red] [PLEXUS • Acestream][/B][/COLOR]</title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=ARENAVISION 43 (PLEXUS)</link>
-<regex>
-<name>hash</name>
-<expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://arenavision.cc/43</page>
-<referer>http://arenavision.cc</referer>
-<setcookie>beget=begetok</setcookie>
-</regex>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/ARENAVISION.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR lawngreen]• [COLOR white]ARENAVISION 44[COLOR red] [PLEXUS • Acestream][/B][/COLOR]</title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=ARENAVISION 44 (PLEXUS)</link>
-<regex>
-<name>hash</name>
-<expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://arenavision.cc/44</page>
-<referer>http://arenavision.cc</referer>
-<setcookie>beget=begetok</setcookie>
-</regex>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/ARENAVISION.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR red]====================[/B][/COLOR]</title>
-<link>http://fui.me</link>
-<item>
-<title>[B][COLOR lawngreen]• [COLOR white]ARENAVISION OPÇÃO 2[/B][/COLOR]</title>
-<link>http://fui.me</link>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/ARENAVISION.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR lawngreen]• [COLOR white]ARENAVISION 1[COLOR red] [PLEXUS • Acestream][/B][/COLOR]</title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=ARENAVISION 1 (PLEXUS)</link>
-<regex>
-<name>hash</name>
-<expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://www.flipax.net/h229-av1</page>
-<referer>http://www.flipax.net/h229-av1</referer>
-setcookie>beget=begetok</setcookie>
-</regex>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/ARENAVISION.png</thumbnail>
-<fanart></fanart>
-</item>
-<item>
-<title>[B][COLOR lawngreen]• [COLOR white]ARENAVISION 2[COLOR red] [PLEXUS • Acestream][/B][/COLOR]</title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=ARENAVISION 2 (PLEXUS)</link>
-<regex>
-<name>hash</name>
-<expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://www.flipax.net/h230-av2</page>
-<referer>http://www.flipax.net/h230-av2</referer>
-<setcookie>beget=begetok</setcookie>
-</regex>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/ARENAVISION.png</thumbnail>
-<fanart></fanart>
-</item>
-<item>
-<title>[B][COLOR lawngreen]• [COLOR white]ARENAVISION 3[COLOR red] [PLEXUS • Acestream][/B][/COLOR]</title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=ARENAVISION 3 (PLEXUS)</link>
-<regex>
-<name>hash</name>
-<expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://www.flipax.net/h231-av3</page>
-<referer>http://www.flipax.net/h231-av3</referer>
-<setcookie>beget=begetok</setcookie>
-</regex>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/ARENAVISION.png</thumbnail>
-<fanart></fanart>
-</item>
-<item>
-<title>[B][COLOR lawngreen]• [COLOR white]ARENAVISION 4[COLOR red] [PLEXUS • Acestream][/B][/COLOR]</title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=ARENAVISION 4 (PLEXUS)</link>
-<regex>
-<name>hash</name>
-<expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://www.flipax.net/h232-av4</page>
-<referer>http://www.flipax.net/h232-av4</referer>
-<setcookie>beget=begetok</setcookie>
-</regex>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/ARENAVISION.png</thumbnail>
-<fanart></fanart>
-</item>
-<item>
-<title>[B][COLOR lawngreen]• [COLOR white]ARENAVISION 5[COLOR red] [PLEXUS • Acestream][/B][/COLOR]</title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=ARENAVISION 5 (PLEXUS)</link>
-<regex>
-<name>hash</name>
-<expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://www.flipax.net/h233-av5</page>
-<referer>http://www.flipax.net/h233-av5</referer>
-<setcookie>beget=begetok</setcookie>
-</regex>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/ARENAVISION.png</thumbnail>
-<fanart></fanart>
-</item>
-<item>
-<title>[B][COLOR lawngreen]• [COLOR white]ARENAVISION 6[COLOR red] [PLEXUS • Acestream][/B][/COLOR]</title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=ARENAVISION 6 (PLEXUS)</link>
-<regex>
-<name>hash</name>
-<expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://www.flipax.net/h234-av6</page>
-<referer>http://www.flipax.net/h234-av6</referer>
-<setcookie>beget=begetok</setcookie>
-</regex>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/ARENAVISION.png</thumbnail>
-<fanart></fanart>
-</item>
-<item>
-<title>[B][COLOR lawngreen]• [COLOR white]ARENAVISION 7[COLOR red] [PLEXUS • Acestream][/B][/COLOR]</title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=ARENAVISION 7 (PLEXUS)</link>
-<regex>
-<name>hash</name>
-<expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://www.flipax.net/h235-av7</page>
-<referer>http://www.flipax.net/h235-av7</referer>
-<setcookie>beget=begetok</setcookie>
-</regex>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/ARENAVISION.png</thumbnail>
-<fanart></fanart>
-</item>
-<item>
-<title>[B][COLOR lawngreen]• [COLOR white]ARENAVISION 8[COLOR red] [PLEXUS • Acestream][/B][/COLOR]</title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=ARENAVISION 8 (PLEXUS)</link>
-<regex>
-<name>hash</name>
-<expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://www.flipax.net/h236-av8</page>
-<referer>http://www.flipax.net/h236-av8</referer>
-<setcookie>beget=begetok</setcookie>
-</regex>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/ARENAVISION.png</thumbnail>
-<fanart></fanart>
-</item>
-<item>
-<title>[B][COLOR lawngreen]• [COLOR white]ARENAVISION 9[COLOR red] [PLEXUS • Acestream][/B][/COLOR]</title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=ARENAVISION 9 (PLEXUS)</link>
-<regex>
-<name>hash</name>
-<expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://www.flipax.net/h237-av9</page>
-<referer>http://www.flipax.net/h237-av9</referer>
-<setcookie>beget=begetok</setcookie>
-</regex>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/ARENAVISION.png</thumbnail>
-<fanart></fanart>
-</item>
-<item>
-<title>[B][COLOR lawngreen]• [COLOR white]ARENAVISION 10[COLOR red] [PLEXUS • Acestream][/B][/COLOR]</title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=ARENAVISION 10 (PLEXUS)</link>
-<regex>
-<name>hash</name>
-<expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://www.flipax.net/h238-av10</page>
-<referer>http://www.flipax.net/h238-av10</referer>
-<setcookie>beget=begetok</setcookie>
-</regex>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/ARENAVISION.png</thumbnail>
-<fanart></fanart>
-</item>
-<item>
-<title>[B][COLOR lawngreen]• [COLOR white]ARENAVISION 11[COLOR red] [PLEXUS • Acestream][/B][/COLOR]</title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=ARENAVISION 11 (PLEXUS)</link>
-<regex>
-<name>hash</name>
-<expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://www.flipax.net/h239-av11</page>
-<referer>http://www.flipax.net/h239-av11</referer>
-setcookie>beget=begetok</setcookie>
-</regex>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/ARENAVISION.png</thumbnail>
-<fanart></fanart>
-</item>
-<item>
-<title>[B][COLOR lawngreen]• [COLOR white]ARENAVISION 12[COLOR red] [PLEXUS • Acestream][/B][/COLOR]</title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=ARENAVISION 12 (PLEXUS)</link>
-<regex>
-<name>hash</name>
-<expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://www.flipax.net/h240-av12</page>
-<referer>http://www.flipax.net/h240-av12</referer>
-setcookie>beget=begetok</setcookie>
-</regex>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/ARENAVISION.png</thumbnail>
-<fanart></fanart>
-</item>
-<item>
-<title>[B][COLOR lawngreen]• [COLOR white]ARENAVISION 13[COLOR red] [PLEXUS • Acestream][/B][/COLOR]</title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=ARENAVISION 13 (PLEXUS)</link>
-<regex>
-<name>hash</name>
-<expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://www.flipax.net/h241-av13</page>
-<referer>http://www.flipax.net/h241-av13</referer>
-setcookie>beget=begetok</setcookie>
-</regex>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/ARENAVISION.png</thumbnail>
-<fanart></fanart>
-</item>
-<item>
-<title>[B][COLOR lawngreen]• [COLOR white]ARENAVISION 14[COLOR red] [PLEXUS • Acestream][/B][/COLOR]</title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=ARENAVISION 14 (PLEXUS)</link>
-<regex>
-<name>hash</name>
-<expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://www.flipax.net/h242-av14</page>
-<referer>http://www.flipax.net/h242-av14</referer>
-setcookie>beget=begetok</setcookie>
-</regex>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/ARENAVISION.png</thumbnail>
-<fanart></fanart>
-</item>
-<item>
-<title>[B][COLOR lawngreen]• [COLOR white]ARENAVISION 15[COLOR red] [PLEXUS • Acestream][/B][/COLOR]</title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=ARENAVISION 15 (PLEXUS)</link>
-<regex>
-<name>hash</name>
-<expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://www.flipax.net/h243-av15</page>
-<referer>http://www.flipax.net/h243-av15</referer>
-setcookie>beget=begetok</setcookie>
-</regex>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/ARENAVISION.png</thumbnail>
-<fanart></fanart>
-</item>
-<item>
-<title>[B][COLOR lawngreen]• [COLOR white]ARENAVISION 16[COLOR red] [PLEXUS • Acestream][/B][/COLOR]</title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=ARENAVISION 16 (PLEXUS)</link>
-<regex>
-<name>hash</name>
-<expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://www.flipax.net/h244-av16</page>
-<referer>http://www.flipax.net/h244-av16</referer>
-setcookie>beget=begetok</setcookie>
-</regex>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/ARENAVISION.png</thumbnail>
-<fanart></fanart>
-</item>
-<item>
-<title>[B][COLOR lawngreen]• [COLOR white]ARENAVISION 17[COLOR red] [PLEXUS • Acestream][/B][/COLOR]</title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=ARENAVISION 17 (PLEXUS)</link>
-<regex>
-<name>hash</name>
-<expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://www.flipax.net/h245-av17</page>
-<referer>http://www.flipax.net/h245-av17</referer>
-setcookie>beget=begetok</setcookie>
-</regex>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/ARENAVISION.png</thumbnail>
-<fanart></fanart>
-</item>
-<item>
-<title>[B][COLOR lawngreen]• [COLOR white]ARENAVISION 18[COLOR red] [PLEXUS • Acestream][/B][/COLOR]</title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=ARENAVISION 18 (PLEXUS)</link>
-<regex>
-<name>hash</name>
-<expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://www.flipax.net/h246-av18</page>
-<referer>http://www.flipax.net/h246-av18</referer>
-setcookie>beget=begetok</setcookie>
-</regex>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/ARENAVISION.png</thumbnail>
-<fanart></fanart>
-</item>
-<item>
-<title>[B][COLOR lawngreen]• [COLOR white]ARENAVISION 19[COLOR red] [PLEXUS • Acestream][/B][/COLOR]</title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=ARENAVISION 19 (PLEXUS)</link>
-<regex>
-<name>hash</name>
-<expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://www.flipax.net/h247-av19</page>
-<referer>http://www.flipax.net/h247-av19</referer>
-<setcookie>beget=begetok</setcookie>
-</regex>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/ARENAVISION.png</thumbnail>
-<fanart></fanart>
-</item>
-<item>
-<title>[B][COLOR lawngreen]• [COLOR white]ARENAVISION 20[COLOR red] [PLEXUS • Acestream][/B][/COLOR]</title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=ARENAVISION 20 (PLEXUS)</link>
-<regex>
-<name>hash</name>
-<expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://www.flipax.net/h248-av20</page>
-<referer>http://www.flipax.net/h248-av20</referer>
-<setcookie>beget=begetok</setcookie>
-</regex>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/ARENAVISION.png</thumbnail>
-<fanart></fanart>
-</item>
-<item>
-<title>[B][COLOR lawngreen]• [COLOR white]ARENAVISION 21[COLOR red] [PLEXUS • Acestream][/B][/COLOR]</title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=ARENAVISION 21 (PLEXUS)</link>
-<regex>
-<name>hash</name>
-<expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://www.flipax.net/h249-av21</page>
-<referer>http://www.flipax.net/h249-av21</referer>
-<setcookie>beget=begetok</setcookie>
-</regex>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/ARENAVISION.png</thumbnail>
-<fanart></fanart>
-</item>
-<item>
-<title>[B][COLOR lawngreen]• [COLOR white]ARENAVISION 22[COLOR red] [PLEXUS • Acestream][/B][/COLOR]</title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=ARENAVISION 22 (PLEXUS)</link>
-<regex>
-<name>hash</name>
-<expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://www.flipax.net/h250-av22</page>
-<referer>http://www.flipax.net/h250-av22</referer>
-<setcookie>beget=begetok</setcookie>
-</regex>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/ARENAVISION.png</thumbnail>
-<fanart></fanart>
-</item>
-<item>
-<title>[B][COLOR lawngreen]• [COLOR white]ARENAVISION 23[COLOR red] [PLEXUS • Acestream][/B][/COLOR]</title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=ARENAVISION 23 (PLEXUS)</link>
-<regex>
-<name>hash</name>
-<expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://www.flipax.net/h251-av23</page>
-<referer>http://www.flipax.net/h251-av23</referer>
-<setcookie>beget=begetok</setcookie>
-</regex>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/ARENAVISION.png</thumbnail>
-<fanart></fanart>
-</item>
-<item>
-<title>[B][COLOR lawngreen]• [COLOR white]ARENAVISION 24[COLOR red] [PLEXUS • Acestream][/B][/COLOR]</title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=ARENAVISION 24 (PLEXUS)</link>
-<regex>
-<name>hash</name>
-<expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://www.flipax.net/h252-av24</page>
-<referer>http://www.flipax.net/h252-av24</referer>
-<setcookie>beget=begetok</setcookie>
-</regex>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/ARENAVISION.png</thumbnail>
-<fanart></fanart>
-</item>
-<item>
-<title>[B][COLOR lawngreen]• [COLOR white]ARENAVISION 25[COLOR red] [PLEXUS • Acestream][/B][/COLOR]</title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=ARENAVISION 25 (PLEXUS)</link>
-<regex>
-<name>hash</name>
-<expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://www.flipax.net/h253-av25</page>
-<referer>http://www.flipax.net/h253-av25</referer>
-<setcookie>beget=begetok</setcookie>
-</regex>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/ARENAVISION.png</thumbnail>
-<fanart></fanart>
-</item>
-<item>
-<title>[B][COLOR lawngreen]• [COLOR white]ARENAVISION 26[COLOR red] [PLEXUS • Acestream][/B][/COLOR]</title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=ARENAVISION 26 (PLEXUS)</link>
-<regex>
-<name>hash</name>
-<expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://www.flipax.net/h254-av26</page>
-<referer>http://www.flipax.net/h254-av26</referer>
-<setcookie>beget=begetok</setcookie>
-</regex>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/ARENAVISION.png</thumbnail>
-<fanart></fanart>
-</item>
-<item>
-<title>[B][COLOR lawngreen]• [COLOR white]ARENAVISION 27[COLOR red] [PLEXUS • Acestream][/B][/COLOR]</title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=ARENAVISION 27 (PLEXUS)</link>
-<regex>
-<name>hash</name>
-<expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://www.flipax.net/h255-av27</page>
-<referer>http://www.flipax.net/h255-av27</referer>
-<setcookie>beget=begetok</setcookie>
-</regex>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/ARENAVISION.png</thumbnail>
-<fanart></fanart>
-</item>
-<item>
-<title>[B][COLOR lawngreen]• [COLOR white]ARENAVISION 28[COLOR red] [PLEXUS • Acestream][/B][/COLOR]</title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=ARENAVISION 28 (PLEXUS)</link>
-<regex>
-<name>hash</name>
-<expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://www.flipax.net/h256-av28</page>
-<referer>http://www.flipax.net/h256-av28</referer>
-<setcookie>beget=begetok</setcookie>
-</regex>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/ARENAVISION.png</thumbnail>
-<fanart></fanart>
-</item>
-<item>
-<title>[B][COLOR lawngreen]• [COLOR white]ARENAVISION 29[COLOR red] [PLEXUS • Acestream][/B][/COLOR]</title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=ARENAVISION 29 (PLEXUS)</link>
-<regex>
-<name>hash</name>
-<expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://www.flipax.net/h257-av29</page>
-<referer>http://www.flipax.net/h257-av29</referer>
-<setcookie>beget=begetok</setcookie>
-</regex>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/ARENAVISION.png</thumbnail>
-<fanart></fanart>
-</item>
-<item>
-<title>[B][COLOR lawngreen]• [COLOR white]ARENAVISION 30[COLOR red] [PLEXUS • Acestream][/B][/COLOR]</title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=ARENAVISION 30 (PLEXUS)</link>
-<regex>
-<name>hash</name>
-<expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://www.flipax.net/h258-av30</page>
-<referer>http://www.flipax.net/h258-av30</referer>
-<setcookie>beget=begetok</setcookie>
-</regex>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/ARENAVISION.png</thumbnail>
-<fanart></fanart>
-</item>
-<item>
-<title>[B][COLOR lawngreen]• [COLOR white]ARENAVISION 31[COLOR red] [PLEXUS • Acestream][/B][/COLOR]</title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=ARENAVISION 31 (PLEXUS)</link>
-<regex>
-<name>hash</name>
-<expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://www.flipax.net/h259-av31</page>
-<referer>http://www.flipax.net/h259-av31</referer>
-<setcookie>beget=begetok</setcookie>
-</regex>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/ARENAVISION.png</thumbnail>
-<fanart></fanart>
-</item>
-<item>
-<title>[B][COLOR lawngreen]• [COLOR white]ARENAVISION 32[COLOR red] [PLEXUS • Acestream][/B][/COLOR]</title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=ARENAVISION 32 (PLEXUS)</link>
-<regex>
-<name>hash</name>
-<expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://www.flipax.net/h260-av32</page>
-<referer>http://www.flipax.net/h260-av32</referer>
-<setcookie>beget=begetok</setcookie>
-</regex>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/ARENAVISION.png</thumbnail>
-<fanart></fanart>
-</item>
-<item>
-<title>[B][COLOR lawngreen]• [COLOR white]ARENAVISION 33[COLOR red] [PLEXUS • Acestream][/B][/COLOR]</title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=ARENAVISION 33 (PLEXUS)</link>
-<regex>
-<name>hash</name>
-<expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://www.flipax.net/h261-av33</page>
-<referer>http://www.flipax.net/h261-av33</referer>
-<setcookie>beget=begetok</setcookie>
-</regex>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/ARENAVISION.png</thumbnail>
-<fanart></fanart>
-</item>
-<item>
-<title>[B][COLOR lawngreen]• [COLOR white]ARENAVISION 34[COLOR red] [PLEXUS • Acestream][/B][/COLOR]</title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=ARENAVISION 34 (PLEXUS)</link>
-<regex>
-<name>hash</name>
-<expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://www.flipax.net/h262-av34</page>
-<referer>http://www.flipax.net/h262-av34</referer>
-<setcookie>beget=begetok</setcookie>
-</regex>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/ARENAVISION.png</thumbnail>
-<fanart></fanart>
-</item>
-<item>
-<title>[B][COLOR lawngreen]• [COLOR white]ARENAVISION 35[COLOR red] [PLEXUS • Acestream][/B][/COLOR]</title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=ARENAVISION 35 (PLEXUS)</link>
-<regex>
-<name>hash</name>
-<expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://www.flipax.net/h263-av35</page>
-<referer>http://www.flipax.net/h263-av35</referer>
-<setcookie>beget=begetok</setcookie>
-</regex>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/ARENAVISION.png</thumbnail>
-<fanart></fanart>
-</item>
-<item>
-<title>[B][COLOR lawngreen]• [COLOR white]ARENAVISION 36[COLOR red] [PLEXUS • Acestream][/B][/COLOR]</title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=ARENAVISION 36 (PLEXUS)</link>
-<regex>
-<name>hash</name>
-<expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://www.flipax.net/h264-av36</page>
-<referer>http://www.flipax.net/h264-av36</referer>
-<setcookie>beget=begetok</setcookie>
-</regex>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/ARENAVISION.png</thumbnail>
-<fanart></fanart>
-</item>
-<item>
-<title>[B][COLOR lawngreen]• [COLOR white]ARENAVISION 37[COLOR red] [PLEXUS • Acestream][/B][/COLOR]</title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=ARENAVISION 37 (PLEXUS)</link>
-<regex>
-<name>hash</name>
-<expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://www.flipax.net/h265-av37</page>
-<referer>http://www.flipax.net/h265-av37</referer>
-<setcookie>beget=begetok</setcookie>
-</regex>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/ARENAVISION.png</thumbnail>
-<fanart></fanart>
-</item>
-<item>
-<title>[B][COLOR lawngreen]• [COLOR white]ARENAVISION 38[COLOR red] [PLEXUS • Acestream][/B][/COLOR]</title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=ARENAVISION 38 (PLEXUS)</link>
-<regex>
-<name>hash</name>
-<expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://www.flipax.net/h266-av38</page>
-<referer>http://www.flipax.net/h266-av38</referer>
-<setcookie>beget=begetok</setcookie>
-</regex>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/ARENAVISION.png</thumbnail>
-<fanart></fanart>
-</item>
-<item>
-<title>[B][COLOR lawngreen]• [COLOR white]ARENAVISION 39[COLOR red] [PLEXUS • Acestream][/B][/COLOR]</title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=ARENAVISION 39 (PLEXUS)</link>
-<regex>
-<name>hash</name>
-<expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://www.flipax.net/h267-av39</page>
-<referer>http://www.flipax.net/h267-av39</referer>
-<setcookie>beget=begetok</setcookie>
-</regex>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/ARENAVISION.png</thumbnail>
-<fanart></fanart>
-</item>
-<item>
-<title>[B][COLOR lawngreen]• [COLOR white]ARENAVISION 40[COLOR red] [PLEXUS • Acestream][/B][/COLOR]</title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=ARENAVISION 40 (PLEXUS)</link>
-<regex>
-<name>hash</name>
-<expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://www.flipax.net/h268-av40</page>
-<referer>http://www.flipax.net/h268-av40</referer>
-<setcookie>beget=begetok</setcookie>
-</regex>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/ARENAVISION.png</thumbnail>
-<fanart></fanart>
-</item>
-<item>
-<title>[B][COLOR lawngreen]• [COLOR white]ARENAVISION 41[COLOR red] [PLEXUS • Acestream][/B][/COLOR]</title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=ARENAVISION 41 (PLEXUS)</link>
-<regex>
-<name>hash</name>
-<expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://www.flipax.net/h269-av41</page>
-<referer>http://www.flipax.net/h269-av41</referer>
-<setcookie>beget=begetok</setcookie>
-</regex>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/ARENAVISION.png</thumbnail>
-<fanart></fanart>
-</item>
-<item>
-<title>[B][COLOR lawngreen]• [COLOR white]ARENAVISION 42[COLOR red] [PLEXUS • Acestream][/B][/COLOR]</title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=ARENAVISION 42 (PLEXUS)</link>
-<regex>
-<name>hash</name>
-<expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://www.flipax.net/h270-av42</page>
-<referer>http://www.flipax.net/h270-av42</referer>
-<setcookie>beget=begetok</setcookie>
-</regex>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/ARENAVISION.png</thumbnail>
-<fanart></fanart>
-</item>
-<item>
-<title>[B][COLOR lawngreen]• [COLOR white]ARENAVISION 43[COLOR red] [PLEXUS • Acestream][/B][/COLOR]</title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=ARENAVISION 43 (PLEXUS)</link>
-<regex>
-<name>hash</name>
-<expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://www.flipax.net/h271-av43</page>
-<referer>http://www.flipax.net/h271-av43</referer>
-<setcookie>beget=begetok</setcookie>
-</regex>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/ARENAVISION.png</thumbnail>
-<fanart></fanart>
-</item>
-<item>
-<title>[B][COLOR lawngreen]• [COLOR white]ARENAVISION 44[COLOR red] [PLEXUS • Acestream][/B][/COLOR]</title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=ARENAVISION 44 (PLEXUS)</link>
-<regex>
-<name>hash</name>
-<expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://www.flipax.net/h272-av44</page>
-<referer>http://www.flipax.net/h272-av44</referer>
-<setcookie>beget=begetok</setcookie>
-</regex>
-<thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/ARENAVISION.png</thumbnail>
-<fanart></fanart>
-</item>
-<item>
+#EXTINF:-1 tvg-logo="https://bilutv.org/upload/images/2019/09/phi-hanh-gia-2019_1569139963.jpg" group-title="Web bilutv.org",Phi Hành Gia - Astronaut (2019)
+https://bilutv.org/phim-phi-hanh-gia-tap-hd-14569.213059.html
+#EXTINF:-1 tvg-logo="https://bilutv.org/upload/images/2019/09/cuoc-tinh-gian-doi-2019_1569140269.jpg" group-title="Web bilutv.org",Cuộc tình gian dối (Vietsub)
+https://bilutv.org/phim-cuoc-tinh-gian-doi-tap-hd-14570.213061.html
+
+#EXTINF:-1 tvg-logo="http://xemtvtructuyen.net/ima/kplus.png" group-title="Web VietTV",K+1
+http://www.xemtvtructuyen.net/ok/k-1.php
+#EXTINF:-1 tvg-logo="http://xemtvtructuyen.net/ima/kpm.png" group-title="Web VietTV",K+PM
+http://www.xemtvtructuyen.net/ok/k-2.php
+#EXTINF:-1 tvg-logo="http://xemtvtructuyen.net/ima/kpc.png" group-title="Web VietTV",K+PC
+http://www.xemtvtructuyen.net/ok/k-3.php
+#EXTINF:-1 tvg-logo="http://xemtvtructuyen.net/ima/kns.png" group-title="Web VietTV",K+NS
+http://www.xemtvtructuyen.net/ok/k-4.php
+
+#EXTINF:-1 tvg-logo="" group-title="Web totalsport.me",BT SPORT 1 HD
+http://totalsport.me/btsport1_uk.html
+#EXTINF:-1 tvg-logo="" group-title="Web totalsport.me",BT SPORT 2 HD
+http://totalsport.me/btsport2_uk.html
+#EXTINF:-1 tvg-logo="" group-title="Web totalsport.me",BT SPORT 3 HD
+http://totalsport.me/btsport3_uk.html
+#EXTINF:-1 tvg-logo="" group-title="Web totalsport.me",BT SPORT ESPN HD
+http://totalsport.me/btsportespn_uk.html
+#EXTINF:-1 tvg-logo="" group-title="Web totalsport.me",SKY SPORTS MAIN EVENT HD
+http://totalsport.me/skymain_hd.html
+#EXTINF:-1 tvg-logo="" group-title="Web totalsport.me",SKY SPORTS FOOTBALL HD
+http://totalsport.me/skyfootball_hd.html
+#EXTINF:-1 tvg-logo="" group-title="Web totalsport.me",SKY SPORTS PREMIER LEAGUE HD
+http://totalsport.me/skypremier_hd.html
+#EXTINF:-1 tvg-logo="" group-title="Web totalsport.me",SKY SPORTS ARENA HD
+http://totalsport.me/skyarena_hd.html
+#EXTINF:-1 tvg-logo="" group-title="Web totalsport.me",SKY SPORTS ACTION HD
+http://totalsport.me/skyaction_hd.html
+#EXTINF:-1 tvg-logo="" group-title="Web totalsport.me",ITV 1 HD
+http://totalsport.me/linkitv1hd.html
+#EXTINF:-1 tvg-logo="" group-title="Web totalsport.me",BEINSPORT USA HD
+http://totalsport.me/linkbeinusa.html
+#EXTINF:-1 tvg-logo="" group-title="Web totalsport.me",ESPN USA HD
+http://totalsport.me/espnusa_hd.html
+#EXTINF:-1 tvg-logo="" group-title="Web totalsport.me",ESPN 2 USA HD
+http://totalsport.me/espn2usa_hd.html
+#EXTINF:-1 tvg-logo="" group-title="Web totalsport.me",ESPN U USA HD
+http://totalsport.me/espnu_hd.html
+#EXTINF:-1 tvg-logo="" group-title="Web totalsport.me",ESPN DEPORTES USA HD
+http://totalsport.me/espndeportes_hd.html
+#EXTINF:-1 tvg-logo="" group-title="Web totalsport.me",NBCSN USA HD
+http://totalsport.me/nbcsnusahd.html
+#EXTINF:-1 tvg-logo="" group-title="Web totalsport.me",FOX SPORTS 1 USA HD
+http://totalsport.me/foxsports1usa_hd.html
+#EXTINF:-1 tvg-logo="" group-title="Web totalsport.me",FOX SPORTS 2 USA HD
+http://totalsport.me/foxsports2usa_hd.html
+#EXTINF:-1 tvg-logo="" group-title="Web totalsport.me",FOX DEPORTES USA HD
+http://totalsport.me/foxdeportesusa_hd.html
+#EXTINF:-1 tvg-logo="" group-title="Web totalsport.me",SportTV 1 PORTUGAL HD
+http://totalsport.me/1pt.html
+#EXTINF:-1 tvg-logo="" group-title="Web totalsport.me",SportTV 2 PORTUGAL HD
+http://totalsport.me/2pt.html
+#EXTINF:-1 tvg-logo="" group-title="Web totalsport.me",SportTV 3 PORTUGAL HD
+http://totalsport.me/3pt.html
+#EXTINF:-1 tvg-logo="" group-title="Web totalsport.me",SportTV 4 PORTUGAL HD
+http://totalsport.me/4pt.html
+#EXTINF:-1 tvg-logo="" group-title="Web totalsport.me",SportTV 5 PORTUGAL HD
+http://totalsport.me/5pt.html
+#EXTINF:-1 tvg-logo="" group-title="Web totalsport.me",Beinsport 1 HD
+http://totalsport.me/beinsport1.html
+#EXTINF:-1 tvg-logo="" group-title="Web totalsport.me",Beinsport 2 HD
+http://totalsport.me/beinsport2.html
+#EXTINF:-1 tvg-logo="" group-title="Web totalsport.me",Beinsport 3 HD
+http://totalsport.me/beinsport3.html
+#EXTINF:-1 tvg-logo="" group-title="Web totalsport.me",Beinsport 4 HD
+http://totalsport.me/beinsport4.html
+#EXTINF:-1 tvg-logo="" group-title="Web totalsport.me",Beinsport 5 HD
+http://totalsport.me/beinsport5.html
+#EXTINF:-1 tvg-logo="" group-title="Web totalsport.me",Beinsport 6 HD
+http://totalsport.me/beinsport6.html
+#EXTINF:-1 tvg-logo="" group-title="Web totalsport.me",Beinsport 7 HD
+http://totalsport.me/beinsport7.html
+#EXTINF:-1 tvg-logo="" group-title="Web totalsport.me",Beinsport 8 HD
+http://totalsport.me/beinsport8.html
+#EXTINF:-1 tvg-logo="" group-title="Web totalsport.me",Beinsport 9 HD
+http://totalsport.me/beinsport9.html
+#EXTINF:-1 tvg-logo="" group-title="Web totalsport.me",Beinsport 10 HD
+http://totalsport.me/beinsport10.html
+#EXTINF:-1 tvg-logo="" group-title="Web totalsport.me",Beinsport 11 HD
+http://totalsport.me/beinsport11.html
+#EXTINF:-1 tvg-logo="" group-title="Web totalsport.me",MATCH FUTBOl 1 HD Russia
+http://totalsport.me/linkmatchf1.html
+#EXTINF:-1 tvg-logo="" group-title="Web totalsport.me",MATCH FUTBOl 2 HD Russia
+http://totalsport.me/linkmatchf2.html
+#EXTINF:-1 tvg-logo="" group-title="Web totalsport.me",MATCH FUTBOl 3 HD Russia
+http://totalsport.me/linkmatchf3.html
+#EXTINF:-1 tvg-logo="" group-title="Web totalsport.me",Setanta Sport 1 Russia HD
+http://totalsport.me/setanta1.html
+#EXTINF:-1 tvg-logo="" group-title="Web totalsport.me",Setanta Sport 2 Russia HD
+http://totalsport.me/setanta2.html
+#EXTINF:-1 tvg-logo="" group-title="Web totalsport.me",Match TV Russia HD
+http://totalsport.me/match_hd.html
+
+#EXTINF:-1 tvg-logo="" group-title="Web totalsport.me",TV HD1
+http://totalsport.me/tvhd1.html
+#EXTINF:-1 tvg-logo="" group-title="Web totalsport.me",TV HD2
+http://totalsport.me/tvhd2.html
+#EXTINF:-1 tvg-logo="" group-title="Web totalsport.me",TV HD3
+http://totalsport.me/tvhd3.html
+#EXTINF:-1 tvg-logo="" group-title="Web totalsport.me",TV HD4
+http://totalsport.me/tvhd4.html
+#EXTINF:-1 tvg-logo="" group-title="Web totalsport.me",TV HD5
+http://totalsport.me/tvhd5.html
+#EXTINF:-1 tvg-logo="" group-title="Web totalsport.me",TV HD6
+http://totalsport.me/tvhd6.html
+#EXTINF:-1 tvg-logo="" group-title="Web totalsport.me",TV HD7
+http://totalsport.me/tvhd7.html
+#EXTINF:-1 tvg-logo="" group-title="Web totalsport.me",TV HD8
+http://totalsport.me/tvhd8.html
+#EXTINF:-1 tvg-logo="" group-title="Web totalsport.me",TV HD9
+http://totalsport.me/tvhd9.html
+#EXTINF:-1 tvg-logo="" group-title="Web totalsport.me",1 Premier
+http://totalsport.me/1premier.html
+#EXTINF:-1 tvg-logo="" group-title="Web totalsport.me",2 Premier
+http://totalsport.me/2premier.html
+#EXTINF:-1 tvg-logo="" group-title="Web totalsport.me",3 Premier
+http://totalsport.me/3premier.html
+#EXTINF:-1 tvg-logo="" group-title="Web totalsport.me",4 Premier
+http://totalsport.me/4premier.html
+#EXTINF:-1 tvg-logo="" group-title="Web totalsport.me",5 Premier
+http://totalsport.me/5premier.html
+#EXTINF:-1 tvg-logo="" group-title="Web totalsport.me",6 Premier
+http://totalsport.me/6premier.html
+#EXTINF:-1 tvg-logo="" group-title="Web totalsport.me",7 Premier
+http://totalsport.me/7premier.html
+#EXTINF:-1 tvg-logo="" group-title="Web totalsport.me",8 Premier
+http://totalsport.me/8premier.html
+#EXTINF:-1 tvg-logo="" group-title="Web totalsport.me",9 Premier
+http://totalsport.me/9premier.html
+#EXTINF:-1 tvg-logo="" group-title="Web totalsport.me",10 Premier
+http://totalsport.me/10premier.html
+#EXTINF:-1 tvg-logo="" group-title="Web totalsport.me",11 Premier
+http://totalsport.me/11premier.html
+#EXTINF:-1 tvg-logo="" group-title="Web totalsport.me",12 Premier
+http://totalsport.me/12premier.html
+#EXTINF:-1 tvg-logo="" group-title="Web totalsport.me",13 Premier
+http://totalsport.me/13premier.html
+#EXTINF:-1 tvg-logo="" group-title="Web totalsport.me",14 Premier
+http://totalsport.me/14premier.html 
+		
+#EXTINF:-1 tvg-logo="" group-title="Web totalsport.me",TV HD1 ENGLISH
+http://totalsport.me/1.html
+#EXTINF:-1 tvg-logo="" group-title="Web totalsport.me",TV HD2 ENGLISH
+http://totalsport.me/2.html
+#EXTINF:-1 tvg-logo="" group-title="Web totalsport.me",TV HD3 GERMAN
+http://totalsport.me/3.html
+#EXTINF:-1 tvg-logo="" group-title="Web totalsport.me",TV HD4 FRENCH
+http://totalsport.me/4.html
+#EXTINF:-1 tvg-logo="" group-title="Web totalsport.me",TV HD5 ENGLISH
+http://totalsport.me/5.html
+#EXTINF:-1 tvg-logo="" group-title="Web totalsport.me",TV HD6 SPANISH
+http://totalsport.me/6.html
+#EXTINF:-1 tvg-logo="" group-title="Web totalsport.me",TV HD7 ITALIAN
+http://totalsport.me/7.html
+#EXTINF:-1 tvg-logo="" group-title="Web totalsport.me",TV HD8 ENGLISH/DUTCH/TURKISH
+http://totalsport.me/8.html
+#EXTINF:-1 tvg-logo="" group-title="Web totalsport.me",BRAZIL 1 HD
+http://totalsport.me/br1.html
+#EXTINF:-1 tvg-logo="" group-title="Web totalsport.me",BRAZIL 2 HD
+http://totalsport.me/br2.html
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i2.wp.com/www.ar.m3uiptv.com/wp-content/uploads/2018/08/sport-iptv-m3u.jpg" group-title="Web sports-stream.net",CH1
+http://www.sports-stream.net/ch.php?id=1
+#EXTINF:-1 tvg-logo="https://i2.wp.com/www.ar.m3uiptv.com/wp-content/uploads/2018/08/sport-iptv-m3u.jpg" group-title="Web sports-stream.net",CH2
+http://www.sports-stream.net/ch.php?id=2
+#EXTINF:-1 tvg-logo="https://i2.wp.com/www.ar.m3uiptv.com/wp-content/uploads/2018/08/sport-iptv-m3u.jpg" group-title="Web sports-stream.net",CH3
+http://www.sports-stream.net/ch.php?id=3
+#EXTINF:-1 tvg-logo="https://i2.wp.com/www.ar.m3uiptv.com/wp-content/uploads/2018/08/sport-iptv-m3u.jpg" group-title="Web sports-stream.net",CH4
+http://www.sports-stream.net/ch.php?id=4
+#EXTINF:-1 tvg-logo="https://i2.wp.com/www.ar.m3uiptv.com/wp-content/uploads/2018/08/sport-iptv-m3u.jpg" group-title="Web sports-stream.net",CH5
+http://www.sports-stream.net/ch.php?id=5
+#EXTINF:-1 tvg-logo="https://i2.wp.com/www.ar.m3uiptv.com/wp-content/uploads/2018/08/sport-iptv-m3u.jpg" group-title="Web sports-stream.net",CH6
+http://www.sports-stream.net/ch.php?id=6
+#EXTINF:-1 tvg-logo="https://i2.wp.com/www.ar.m3uiptv.com/wp-content/uploads/2018/08/sport-iptv-m3u.jpg" group-title="Web sports-stream.net",CH7
+http://www.sports-stream.net/ch.php?id=7
+#EXTINF:-1 tvg-logo="https://i2.wp.com/www.ar.m3uiptv.com/wp-content/uploads/2018/08/sport-iptv-m3u.jpg" group-title="Web sports-stream.net",CH8
+http://www.sports-stream.net/ch.php?id=8
+#EXTINF:-1 tvg-logo="https://i2.wp.com/www.ar.m3uiptv.com/wp-content/uploads/2018/08/sport-iptv-m3u.jpg" group-title="Web sports-stream.net",CH9
+http://www.sports-stream.net/ch.php?id=9
+#EXTINF:-1 tvg-logo="https://i2.wp.com/www.ar.m3uiptv.com/wp-content/uploads/2018/08/sport-iptv-m3u.jpg" group-title="Web sports-stream.net",CH10
+http://www.sports-stream.net/ch.php?id=10
+#EXTINF:-1 tvg-logo="https://i2.wp.com/www.ar.m3uiptv.com/wp-content/uploads/2018/08/sport-iptv-m3u.jpg" group-title="Web sports-stream.net",CH11
+http://www.sports-stream.net/CH1.php?id=11
+#EXTINF:-1 tvg-logo="https://i2.wp.com/www.ar.m3uiptv.com/wp-content/uploads/2018/08/sport-iptv-m3u.jpg" group-title="Web sports-stream.net",CH12
+http://www.sports-stream.net/CH1.php?id=12
+#EXTINF:-1 tvg-logo="https://i2.wp.com/www.ar.m3uiptv.com/wp-content/uploads/2018/08/sport-iptv-m3u.jpg" group-title="Web sports-stream.net",CH13
+http://www.sports-stream.net/CH1.php?id=13
+#EXTINF:-1 tvg-logo="https://i2.wp.com/www.ar.m3uiptv.com/wp-content/uploads/2018/08/sport-iptv-m3u.jpg" group-title="Web sports-stream.net",CH14
+http://www.sports-stream.net/CH1.php?id=14
+#EXTINF:-1 tvg-logo="https://i2.wp.com/www.ar.m3uiptv.com/wp-content/uploads/2018/08/sport-iptv-m3u.jpg" group-title="Web sports-stream.net",CH15
+http://www.sports-stream.net/CH1.php?id=15
+#EXTINF:-1 tvg-logo="https://i2.wp.com/www.ar.m3uiptv.com/wp-content/uploads/2018/08/sport-iptv-m3u.jpg" group-title="Web sports-stream.net",CH16
+http://www.sports-stream.net/CH1.php?id=16
+#EXTINF:-1 tvg-logo="https://i2.wp.com/www.ar.m3uiptv.com/wp-content/uploads/2018/08/sport-iptv-m3u.jpg" group-title="Web sports-stream.net",CH17
+http://www.sports-stream.net/CH1.php?id=17
+#EXTINF:-1 tvg-logo="https://i2.wp.com/www.ar.m3uiptv.com/wp-content/uploads/2018/08/sport-iptv-m3u.jpg" group-title="Web sports-stream.net",CH18
+http://www.sports-stream.net/CH1.php?id=18
+#EXTINF:-1 tvg-logo="https://i2.wp.com/www.ar.m3uiptv.com/wp-content/uploads/2018/08/sport-iptv-m3u.jpg" group-title="Web sports-stream.net",CH19
+http://www.sports-stream.net/CH1.php?id=19
+#EXTINF:-1 tvg-logo="https://i2.wp.com/www.ar.m3uiptv.com/wp-content/uploads/2018/08/sport-iptv-m3u.jpg" group-title="Web sports-stream.net",CH20
+http://www.sports-stream.net/CH1.php?id=20
+#EXTINF:-1 tvg-logo="https://i2.wp.com/www.ar.m3uiptv.com/wp-content/uploads/2018/08/sport-iptv-m3u.jpg" group-title="Web sports-stream.net",CH21
+http://www.sports-stream.net/CH2.php?id=21
+#EXTINF:-1 tvg-logo="https://i2.wp.com/www.ar.m3uiptv.com/wp-content/uploads/2018/08/sport-iptv-m3u.jpg" group-title="Web sports-stream.net",CH22
+http://www.sports-stream.net/CH2.php?id=22
+#EXTINF:-1 tvg-logo="https://i2.wp.com/www.ar.m3uiptv.com/wp-content/uploads/2018/08/sport-iptv-m3u.jpg" group-title="Web sports-stream.net",CH23
+http://www.sports-stream.net/CH2.php?id=23
+#EXTINF:-1 tvg-logo="https://i2.wp.com/www.ar.m3uiptv.com/wp-content/uploads/2018/08/sport-iptv-m3u.jpg" group-title="Web sports-stream.net",CH24
+http://www.sports-stream.net/CH2.php?id=24
+#EXTINF:-1 tvg-logo="https://i2.wp.com/www.ar.m3uiptv.com/wp-content/uploads/2018/08/sport-iptv-m3u.jpg" group-title="Web sports-stream.net",CH25
+http://www.sports-stream.net/CH2.php?id=25
+#EXTINF:-1 tvg-logo="https://i2.wp.com/www.ar.m3uiptv.com/wp-content/uploads/2018/08/sport-iptv-m3u.jpg" group-title="Web sports-stream.net",CH26
+http://www.sports-stream.net/CH2.php?id=26
+#EXTINF:-1 tvg-logo="https://i2.wp.com/www.ar.m3uiptv.com/wp-content/uploads/2018/08/sport-iptv-m3u.jpg" group-title="Web sports-stream.net",CH27
+http://www.sports-stream.net/CH2.php?id=27
+#EXTINF:-1 tvg-logo="https://i2.wp.com/www.ar.m3uiptv.com/wp-content/uploads/2018/08/sport-iptv-m3u.jpg" group-title="Web sports-stream.net",CH28
+http://www.sports-stream.net/CH2.php?id=28
+#EXTINF:-1 tvg-logo="https://i2.wp.com/www.ar.m3uiptv.com/wp-content/uploads/2018/08/sport-iptv-m3u.jpg" group-title="Web sports-stream.net",CH29
+http://www.sports-stream.net/CH2.php?id=29
+#EXTINF:-1 tvg-logo="https://i2.wp.com/www.ar.m3uiptv.com/wp-content/uploads/2018/08/sport-iptv-m3u.jpg" group-title="Web sports-stream.net",CH30
+http://www.sports-stream.net/CH2.php?id=30
+
+
+#EXTINF:-1 tvg-logo="" group-title="Web sports24.club",Fox sports Asia 1
+http://sports24.club/tv/v?id=fs1asia
+#EXTINF:-1 tvg-logo="" group-title="Web sports24.club",Fox sports Asia 2
+http://sports24.club/tv/v?id=fs2asia
+#EXTINF:-1 tvg-logo="" group-title="Web sports24.club",Fox sports Asia 3
+http://sports24.club/tv/v?id=fs3asia
+#EXTINF:-1 tvg-logo="" group-title="Web sports24.club",FS1
+http://sports24.club/tv/v?id=fs1
+#EXTINF:-1 tvg-logo="" group-title="Web sports24.club",FS2
+http://sports24.club/tv/v?id=fs2
+#EXTINF:-1 tvg-logo="" group-title="Web sports24.club",Tennis
+http://sports24.club/tv/v?id=tennis
+#EXTINF:-1 tvg-logo="" group-title="Web sports24.club",TSN
+http://sports24.club/tv/v?id=tsn
+#EXTINF:-1 tvg-logo="" group-title="Web sports24.club",Match futbol 1
+http://sports24.club/tv/v?id=matchf1
+#EXTINF:-1 tvg-logo="" group-title="Web sports24.club",Match futbol 2
+http://sports24.club/tv/v?id=matchf2
+#EXTINF:-1 tvg-logo="" group-title="Web sports24.club",Match futbol 3
+http://sports24.club/tv/v?id=matchf3
+#EXTINF:-1 tvg-logo="" group-title="Web sports24.club",Football 1 UA
+http://sports24.club/tv/v?id=football1ua
+#EXTINF:-1 tvg-logo="" group-title="Web sports24.club",Football 2 UA
+http://sports24.club/tv/v?id=football2ua
+
+
+#EXTINF:-1 tvg-logo="https://daddylive.live/images/bt_sport_uk_1.png"group-title="Web daddylive.live",BT Sport 1 HD
+https://daddylive.live/channels/stream-31.php
+#EXTINF:-1 tvg-logo="https://daddylive.live/images/bt_sport_uk_2.png"group-title="Web daddylive.live",BT Sport 2 HD
+https://daddylive.live/channels/stream-32.php
+#EXTINF:-1 tvg-logo="https://daddylive.live/images/bt_sport_uk_3.png"group-title="Web daddylive.live",BT Sport 3 HD
+https://daddylive.live/channels/stream-33.php
+#EXTINF:-1 tvg-logo="https://daddylive.live/images/bt_sport_uk_espn.png"group-title="Web daddylive.live",BT Sport ESPN HD
+https://daddylive.live/channels/stream-34.php
+#EXTINF:-1 tvg-logo="https://daddylive.live/images/sky_uk_sports_premier_league.png"group-title="Web daddylive.live",Sky Sports Premier League
+https://daddylive.live/channels/stream-46.php
+#EXTINF:-1 tvg-logo="https://daddylive.live/images/sky_uk_sports_main_event.png"group-title="Web daddylive.live",Sky Sports Main Event
+https://daddylive.live/channels/stream-38.php
+#EXTINF:-1 tvg-logo="https://daddylive.live/images/sky_uk_sports_football.png"group-title="Web daddylive.live",Sky Sports Football
+https://daddylive.live/channels/stream-35.php
+#EXTINF:-1 tvg-logo="https://daddylive.live/images/sky-sport-arena.png"group-title="Web daddylive.live",Sky Sports Arena
+https://daddylive.live/channels/stream-36.php
+#EXTINF:-1 tvg-logo="https://daddylive.live/images/sky_uk_sports_action.png"group-title="Web daddylive.live",Sky Sports Action
+https://daddylive.live/channels/stream-37.php
+#EXTINF:-1 tvg-logo="https://daddylive.live/images/fox_sports_us_1.png"group-title="Web daddylive.live",Fox Sports 1
+https://daddylive.live/channels/stream-39.php
+#EXTINF:-1 tvg-logo="https://daddylive.live/images/tennis_channel.png"group-title="Web daddylive.live",Tennis Channel
+https://daddylive.live/channels/stream-40.php
+#EXTINF:-1 tvg-logo="https://daddylive.live/images/british_eurosport_1.png"group-title="Web daddylive.live",Eurosport 1 UK
+https://daddylive.live/channels/stream-41.php
+#EXTINF:-1 tvg-logo="https://daddylive.live/images/british_eurosport_2.png"group-title="Web daddylive.live",Eurosport 2 UK
+https://daddylive.live/channels/stream-42.php
+#EXTINF:-1 tvg-logo="https://daddylive.live/images/nbcsn-us.png"group-title="Web daddylive.live",NBCSN
+https://daddylive.live/channels/stream-43.php
+#EXTINF:-1 tvg-logo="https://daddylive.live/images/espn_us.png"group-title="Web daddylive.live",ESPN
+https://daddylive.live/channels/stream-44.php
+#EXTINF:-1 tvg-logo="https://daddylive.live/images/espn_2.png"group-title="Web daddylive.live",ESPN 2
+https://daddylive.live/channels/stream-45.php
+#EXTINF:-1 tvg-logo="https://daddylive.live/images/polsat_sport_hd.png"group-title="Web daddylive.live",Polsat Sport Poland
+https://daddylive.live/channels/stream-47.php
+#EXTINF:-1 tvg-logo="https://daddylive.live/images/canalplus_pl_sport_hd.png"group-title="Web daddylive.live",Canal+ Sport Poland
+https://daddylive.live/channels/stream-48.php
+#EXTINF:-1 tvg-logo="https://daddylive.live/images/sport_tv_pt_1.png"group-title="Web daddylive.live",Sport Tv1 Portugal
+https://daddylive.live/channels/stream-49.php
+#EXTINF:-1 tvg-logo="https://daddylive.live/images/polsat_sport_extra.png"group-title="Web daddylive.live",Polsat Sport Extra Poland
+https://daddylive.live/channels/stream-50.php
+#EXTINF:-1 tvg-logo="https://daddylive.live/images/abc.jpg"group-title="Web daddylive.live",ABC HD
+https://daddylive.live/channels/stream-51.php
+#EXTINF:-1 tvg-logo="https://daddylive.live/images/cbs.png"group-title="Web daddylive.live",CBS HD
+https://daddylive.live/channels/stream-52.php
+#EXTINF:-1 tvg-logo="https://daddylive.live/images/nbc_us.png"group-title="Web daddylive.live",NBC HD
+https://daddylive.live/channels/stream-53.php
+#EXTINF:-1 tvg-logo="https://daddylive.live/images/fox_networks_us.png"group-title="Web daddylive.live",FOX
+https://daddylive.live/channels/stream-54.php
+#EXTINF:-1 tvg-logo="https://daddylive.live/images/cw.png"group-title="Web daddylive.live",The CW
+https://daddylive.live/channels/stream-55.php
+#EXTINF:-1 tvg-logo="https://daddylive.live/images/tnt.png"group-title="Web daddylive.live",TNT
+https://daddylive.live/channels/stream-56.php
+#EXTINF:-1 tvg-logo="https://daddylive.live/images/mtv.png"group-title="Web daddylive.live",MTV HD
+https://daddylive.live/channels/stream-57.php
+#EXTINF:-1 tvg-logo="https://daddylive.live/images/hbo.jpg"group-title="Web daddylive.live",HBO
+https://daddylive.live/channels/stream-58.php
+#EXTINF:-1 tvg-logo="https://daddylive.live/images/tbs.png"group-title="Web daddylive.live",TBS
+https://daddylive.live/channels/stream-59.php
+#EXTINF:-1 tvg-logo="https://daddylive.live/images/fx.png"group-title="Web daddylive.live",FX HD
+https://daddylive.live/channels/stream-60.php
+#EXTINF:-1 tvg-logo="https://daddylive.live/images/vh1.png"group-title="Web daddylive.live",VH1 HD
+https://daddylive.live/channels/stream-61.php
+#EXTINF:-1 tvg-logo="https://daddylive.live/images/amc.jpg"group-title="Web daddylive.live",AMC
+https://daddylive.live/channels/stream-62.php
+#EXTINF:-1 tvg-logo="https://daddylive.live/images/BET.jpg"group-title="Web daddylive.live",BET
+https://daddylive.live/channels/stream-63.php
+#EXTINF:-1 tvg-logo="https://daddylive.live/images/freeform-us.png"group-title="Web daddylive.live",FreeForm
+https://daddylive.live/channels/stream-64.php
+#EXTINF:-1 tvg-logo="https://daddylive.live/images/discovery_global_us.png"group-title="Web daddylive.live",Discovery HD
+https://daddylive.live/channels/stream-65.php
+#EXTINF:-1 tvg-logo="https://daddylive.live/images/history_us.png"group-title="Web daddylive.live",History HD
+https://daddylive.live/channels/stream-66.php
+#EXTINF:-1 tvg-logo="https://daddylive.live/images/ae_us.png"group-title="Web daddylive.live",A&E
+https://daddylive.live/channels/stream-67.php
+#EXTINF:-1 tvg-logo="https://daddylive.live/images/syfy_us_global.png"group-title="Web daddylive.live",SYFY HD
+https://daddylive.live/channels/stream-68.php
+#EXTINF:-1 tvg-logo="https://daddylive.live/images/id.jpg"group-title="Web daddylive.live",I.D
+https://daddylive.live/channels/stream-69.php
+#EXTINF:-1 tvg-logo="https://daddylive.live/images/cartoon-network.png"group-title="Web daddylive.live",Cartoon Network
+https://daddylive.live/channels/stream-70.php
+
+
+#EXTINF:-1 tvg-logo="https://www.iptvsource.com/wp-content/uploads/2017/12/sprt.png" group-title="Web Sports",CH 1 
+http://hdstreams.club/page/ch1.php
+#EXTINF:-1 tvg-logo="https://www.iptvsource.com/wp-content/uploads/2017/12/sprt.png" group-title="Web Sports",CH 2 
+http://hdstreams.club/page/ch2.php
+#EXTINF:-1 tvg-logo="https://www.iptvsource.com/wp-content/uploads/2017/12/sprt.png" group-title="Web Sports",CH 3 
+http://hdstreams.club/page/ch3.php
+#EXTINF:-1 tvg-logo="https://www.iptvsource.com/wp-content/uploads/2017/12/sprt.png" group-title="Web Sports",CH 4 
+http://hdstreams.club/page/ch4.php
+#EXTINF:-1 tvg-logo="https://www.iptvsource.com/wp-content/uploads/2017/12/sprt.png" group-title="Web Sports",CH 5 
+http://hdstreams.club/page/ch5.php
+#EXTINF:-1 tvg-logo="https://www.iptvsource.com/wp-content/uploads/2017/12/sprt.png" group-title="Web Sports",CH 6 
+http://hdstreams.club/page/ch6.php
+#EXTINF:-1 tvg-logo="https://www.iptvsource.com/wp-content/uploads/2017/12/sprt.png" group-title="Web Sports",CH 7 
+http://hdstreams.club/page/ch7.php
+#EXTINF:-1 tvg-logo="https://www.iptvsource.com/wp-content/uploads/2017/12/sprt.png" group-title="Web Sports",CH 8 
+http://hdstreams.club/page/ch8.php
+#EXTINF:-1 tvg-logo="https://www.iptvsource.com/wp-content/uploads/2017/12/sprt.png" group-title="Web Sports",CH 9 
+http://hdstreams.club/page/ch9.php
+#EXTINF:-1 tvg-logo="https://www.iptvsource.com/wp-content/uploads/2017/12/sprt.png" group-title="Web Sports",CH 10 
+http://hdstreams.club/page/ch10.php
+#EXTINF:-1 tvg-logo="https://www.iptvsource.com/wp-content/uploads/2017/12/sprt.png" group-title="Web Sports",CH 11 
+http://hdstreams.club/page/ch11.php
+#EXTINF:-1 tvg-logo="https://www.iptvsource.com/wp-content/uploads/2017/12/sprt.png" group-title="Web Sports",CH 12 
+http://hdstreams.club/page/ch12.php
+#EXTINF:-1 tvg-logo="https://www.iptvsource.com/wp-content/uploads/2017/12/sprt.png" group-title="Web Sports",CH 13 
+http://hdstreams.club/page/ch13.php
+#EXTINF:-1 tvg-logo="https://www.iptvsource.com/wp-content/uploads/2017/12/sprt.png" group-title="Web Sports",CH 14 
+http://hdstreams.club/page/ch14.php
+#EXTINF:-1 tvg-logo="https://www.iptvsource.com/wp-content/uploads/2017/12/sprt.png" group-title="Web Sports",CH 15 
+http://hdstreams.club/page/ch15.php
+#EXTINF:-1 tvg-logo="https://www.iptvsource.com/wp-content/uploads/2017/12/sprt.png" group-title="Web Sports",CH 16 
+http://hdstreams.club/page/ch16.php
+#EXTINF:-1 tvg-logo="https://www.iptvsource.com/wp-content/uploads/2017/12/sprt.png" group-title="Web Sports",CH 17 
+http://hdstreams.club/page/ch17.php
+#EXTINF:-1 tvg-logo="https://www.iptvsource.com/wp-content/uploads/2017/12/sprt.png" group-title="Web Sports",CH 18 
+http://hdstreams.club/page/ch18.php
+#EXTINF:-1 tvg-logo="https://www.iptvsource.com/wp-content/uploads/2017/12/sprt.png" group-title="Web Sports",CH 19 
+http://hdstreams.club/page/ch19.php
+#EXTINF:-1 tvg-logo="https://www.iptvsource.com/wp-content/uploads/2017/12/sprt.png" group-title="Web Sports",CH 20 
+http://hdstreams.club/page/ch20.php
+#EXTINF:-1 tvg-logo="https://www.iptvsource.com/wp-content/uploads/2017/12/sprt.png" group-title="Web Sports",CH 21 
+http://hdstreams.club/page/ch21.php
+#EXTINF:-1 tvg-logo="https://www.iptvsource.com/wp-content/uploads/2017/12/sprt.png" group-title="Web Sports",CH 22 
+http://hdstreams.club/page/ch22.php
+#EXTINF:-1 tvg-logo="https://www.iptvsource.com/wp-content/uploads/2017/12/sprt.png" group-title="Web Sports",CH 23 
+http://hdstreams.club/page/ch23.php
+#EXTINF:-1 tvg-logo="https://www.iptvsource.com/wp-content/uploads/2017/12/sprt.png" group-title="Web Sports",CH 24 
+http://hdstreams.club/page/ch24.php
+#EXTINF:-1 tvg-logo="https://www.iptvsource.com/wp-content/uploads/2017/12/sprt.png" group-title="Web Sports",CH 25 
+http://hdstreams.club/page/ch25.php
+#EXTINF:-1 tvg-logo="https://www.iptvsource.com/wp-content/uploads/2017/12/sprt.png" group-title="Web Sports",CH 26 
+http://hdstreams.club/page/ch26.php
+#EXTINF:-1 tvg-logo="https://www.iptvsource.com/wp-content/uploads/2017/12/sprt.png" group-title="Web Sports",CH 27 
+http://hdstreams.club/page/ch27.php
+#EXTINF:-1 tvg-logo="https://www.iptvsource.com/wp-content/uploads/2017/12/sprt.png" group-title="Web Sports",CH 28 
+http://hdstreams.club/page/ch28.php
+#EXTINF:-1 tvg-logo="https://www.iptvsource.com/wp-content/uploads/2017/12/sprt.png" group-title="Web Sports",CH 29 
+http://hdstreams.club/page/ch29.php
+
+
+#EXTINF:-1 tvg-logo="" group-title="Web Sports TH",FreeSports TV/ITV4 UK/Win Sports/FSWI (CH-1)
+https://daddylive.live/channels/stream-1.php
+#EXTINF:-1 tvg-logo="" group-title="Web Sports TH",Win Sports/TVP Sport Poland/PFC Internacional/YES (CH-2)
+https://daddylive.live/channels/stream-2.php
+#EXTINF:-1 tvg-logo="" group-title="Web Sports TH",Fox Soccer Plus/Eurosport1 PL/FSAZ/NESN (CH-3)
+https://daddylive.live/channels/stream-3.php
+#EXTINF:-1 tvg-logo="" group-title="Web Sports TH",SporTV Brazil/Sky Sports Racing/WGN/FOX (CH-4)
+https://daddylive.live/channels/stream-4.php
+#EXTINF:-1 tvg-logo="" group-title="Web Sports TH",Premier Sports 1/Racing TV UK/FSMW/FOX (CH-5)
+https://daddylive.live/channels/stream-5.php
+#EXTINF:-1 tvg-logo="" group-title="Web Sports TH",Premier Sports 2/NBCSCH/MASN/ITV4 UK (CH-6)
+https://daddylive.live/channels/stream-6.php
+#EXTINF:-1 tvg-logo="" group-title="Web Sports TH",FSD/SNW/NBCSBA/FSSW/Sky Sports Racing/SNLA/ATTH/Eleven Sport 1 Poland (CH-7)
+https://daddylive.live/channels/stream-7.php
+#EXTINF:-1 tvg-logo="" group-title="Web Sports TH",NBCSP/RSNW/Racing TV UK (CH-9)
+https://daddylive.live/channels/stream-9.php
+#EXTINF:-1 tvg-logo="" group-title="Web Sports TH",NESN/Sky Sports Cricket (CH-10)
+https://daddylive.live/channels/stream-10.php
+#EXTINF:-1 tvg-logo="" group-title="Web Sports TH",FSWI/Sky Sports Golf (CH-11)
+https://daddylive.live/channels/stream-11.php
+#EXTINF:-1 tvg-logo="" group-title="Web Sports TH",FSAZ/GOLF Channel USA (CH-12)
+https://daddylive.live/channels/stream-12.php
+#EXTINF:-1 tvg-logo="" group-title="Web Sports TH",FSNO/Eurosport 1 Poland (CH-13)
+https://daddylive.live/channels/stream-13.php
+#EXTINF:-1 tvg-logo="" group-title="Web Sports TH",FSSW/SporTV 3 Brasil (CH-14)
+https://daddylive.live/channels/stream-14.php
+#EXTINF:-1 tvg-logo="" group-title="Web Sports TH",STO (CH-15)
+https://daddylive.live/channels/stream-15.php
+#EXTINF:-1 tvg-logo="" group-title="Web Sports TH",ATTH (CH-16)
+https://daddylive.live/channels/stream-16.php
+#EXTINF:-1 tvg-logo="" group-title="Web Sports TH",NBCSCH (CH-17)
+https://daddylive.live/channels/stream-17.php
+#EXTINF:-1 tvg-logo="" group-title="Web Sports TH",FSMW (CH-18)
+https://daddylive.live/channels/stream-18.php
+#EXTINF:-1 tvg-logo="" group-title="Web Sports TH",NBCSBA (CH-19)
+https://daddylive.live/channels/stream-19.php
+#EXTINF:-1 tvg-logo="" group-title="Web Sports TH",Sky Sports Cricket (CH-20)
+https://daddylive.live/channels/stream-20.php
+#EXTINF:-1 tvg-logo="" group-title="Web Sports TH",ESPNU USA (CH-21)
+https://daddylive.live/channels/stream-21.php
+#EXTINF:-1 tvg-logo="" group-title="Web Sports TH",BT Sport 1 (CH-31)
+https://daddylive.live/channels/stream-31.php
+#EXTINF:-1 tvg-logo="" group-title="Web Sports TH",BT Sport 2 (CH-32)
+https://daddylive.live/channels/stream-32.php
+#EXTINF:-1 tvg-logo="" group-title="Web Sports TH",BT Sport 3 (CH-33)
+https://daddylive.live/channels/stream-33.php
+#EXTINF:-1 tvg-logo="" group-title="Web Sports TH",BT Sport ESPN (CH-34)
+https://daddylive.live/channels/stream-34.php
+#EXTINF:-1 tvg-logo="" group-title="Web Sports TH",Sky Sports Arena (CH-36)
+https://daddylive.live/channels/stream-36.php
+#EXTINF:-1 tvg-logo="" group-title="Web Sports TH",Sky Sports Action (CH-37)
+https://daddylive.live/channels/stream-37.php
+#EXTINF:-1 tvg-logo="" group-title="Web Sports TH",Sky Sports Main Event (CH-38)
+https://daddylive.live/channels/stream-38.php
+#EXTINF:-1 tvg-logo="" group-title="Web Sports TH",Tennis Channel (CH-40)
+https://daddylive.live/channels/stream-40.php
+#EXTINF:-1 tvg-logo="" group-title="Web Sports TH",Eurosport 1 UK (CH-41)
+https://daddylive.live/channels/stream-41.php
+#EXTINF:-1 tvg-logo="" group-title="Web Sports TH",Eurosport 2 UK (CH-42)
+https://daddylive.live/channels/stream-42.php
+#EXTINF:-1 tvg-logo="" group-title="Web Sports TH",ESPN (CH-44)
+https://daddylive.live/channels/stream-44.php
+#EXTINF:-1 tvg-logo="" group-title="Web Sports TH",ESPN2 USA (CH-45)
+https://daddylive.live/channels/stream-45.php
+#EXTINF:-1 tvg-logo="" group-title="Web Sports TH",Polsat Sport Poland (CH-47)
+https://daddylive.live/channels/stream-47.php
+#EXTINF:-1 tvg-logo="" group-title="Web Sports TH",Sport TV1 Portugal (CH-49)
+https://daddylive.live/channels/stream-49.php
+#EXTINF:-1 tvg-logo="" group-title="Web Sports TH",Polsat Sport Extra Poland (CH-50)
+https://daddylive.live/channels/stream-50.php
+
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/epl-bein1.png" group-title="Webdoomovie-hd.com",BEIN SPORT HD 1
+https://www.doomovie-hd.com/?r=tv_view&id=18
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/epl-bein2.png" group-title="Webdoomovie-hd.com",BEIN SPORT HD 2
+https://www.doomovie-hd.com/?r=tv_view&id=19
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/epl-bein3.png" group-title="Webdoomovie-hd.com",BEIN SPORT HD 3
+https://www.doomovie-hd.com/?r=tv_view&id=20
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/epl-bein4.png" group-title="Webdoomovie-hd.com",BEIN SPORT HD 4
+https://www.doomovie-hd.com/?r=tv_view&id=21
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-tsport1.png" group-title="Webdoomovie-hd.com",TRUE SPORT HD1
+https://www.doomovie-hd.com/?r=tv_view&id=22
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-tsport2.png" group-title="Webdoomovie-hd.com",TRUE SPORT HD2
+https://www.doomovie-hd.com/?r=tv_view&id=23
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-tsport3.png" group-title="Webdoomovie-hd.com",TRUE SPORT HD3
+https://www.doomovie-hd.com/?r=tv_view&id=24
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-nba.png" group-title="Webdoomovie-hd.com",NBA HD
+https://www.doomovie-hd.com/?r=tv_view&id=25
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-tennis.png" group-title="Webdoomovie-hd.com",TENNIS HD
+https://www.doomovie-hd.com/?r=tv_view&id=26
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-golf.png" group-title="Webdoomovie-hd.com",GOLF CHANNEL HD
+https://www.doomovie-hd.com/?r=tv_view&id=27
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxsports1.png" group-title="Webdoomovie-hd.com",FOX SPORT HD1
+https://www.doomovie-hd.com/?r=tv_view&id=28
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-foxsports2.png" group-title="Webdoomovie-hd.com",FOX SPORT 2
+https://www.doomovie-hd.com/?r=tv_view&id=29
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-foxsports3.png" group-title="Webdoomovie-hd.com",FOX SPORT 3
+https://www.doomovie-hd.com/?r=tv_view&id=30
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-tsport2.png" group-title="Webdoomovie-hd.com",TRUE SPORT 2
+https://www.doomovie-hd.com/?r=tv_view&id=31
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-tsport5.png" group-title="Webdoomovie-hd.com",TRUE SPORT 5
+https://www.doomovie-hd.com/?r=tv_view&id=32
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-tsport6.png" group-title="Webdoomovie-hd.com",TRUE SPORT 6
+https://www.doomovie-hd.com/?r=tv_view&id=33
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-tsport7.png" group-title="Webdoomovie-hd.com",TRUE SPORT 7
+https://www.doomovie-hd.com/?r=tv_view&id=60
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/uk-eurosport1.jpg" group-title="Webdoomovie-hd.com",EURO SPORT
+https://www.doomovie-hd.com/?r=tv_view&id=69
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/uk-eurosport2.jpg" group-title="Webdoomovie-hd.com",EURO SPORT2
+https://www.doomovie-hd.com/?r=tv_view&id=70
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-edge.png" group-title="Webdoomovie-hd.com",EDGE HD
+https://www.doomovie-hd.com/?r=tv_view&id=115
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-tsport4.png" group-title="Webdoomovie-hd.com",TRUE SPORT HD4
+https://www.doomovie-hd.com/?r=tv_view&id=116
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/doomovie-epl1.png" group-title="Webdoomovie-hd.com",Premier Football HD 1
+https://www.doomovie-hd.com/?r=tv_view&id=151
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/doomovie-epl2.png" group-title="Webdoomovie-hd.com",Premier Football HD 2
+https://www.doomovie-hd.com/?r=tv_view&id=152
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/doomovie-epl3.png" group-title="Webdoomovie-hd.com",Premier Football HD 3
+https://www.doomovie-hd.com/?r=tv_view&id=153
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/doomovie-epl4.png" group-title="Webdoomovie-hd.com",Premier Football HD 4
+https://www.doomovie-hd.com/?r=tv_view&id=154
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/doomovie-epl5.png" group-title="Webdoomovie-hd.com",Premier Football HD 5
+https://www.doomovie-hd.com/?r=tv_view&id=155
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-pptv.png" group-title="Webdoomovie-hd.com",PPTV HD
+https://www.doomovie-hd.com/?r=tv_view&id=9
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/uk-mutv.jpg" group-title="Webdoomovie-hd.com",MUTV UK
+https://www.doomovie-hd.com/?r=tv_view&id=71
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-wwe.jpg" group-title="Webdoomovie-hd.com",WWE US
+https://www.doomovie-hd.com/?r=tv_view&id=72
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/uk-lfctv.png" group-title="Webdoomovie-hd.com",LFCTV UK
+https://www.doomovie-hd.com/?r=tv_view&id=73
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsportsplus.png" group-title="Webdoomovie-hd.com",CHELSEA TV
+https://www.doomovie-hd.com/?r=tv_view&id=74
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsports6.png" group-title="Webdoomovie-hd.com",SKYNET SPORT 6
+https://www.doomovie-hd.com/?r=tv_view&id=75
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsports5.png" group-title="Webdoomovie-hd.com",SKYNET SPORT 5
+https://www.doomovie-hd.com/?r=tv_view&id=76
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsports4.png" group-title="Webdoomovie-hd.com",SKYNET SPORT 4
+https://www.doomovie-hd.com/?r=tv_view&id=77
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsports3.png" group-title="Webdoomovie-hd.com",SKYNET SPORT 3
+https://www.doomovie-hd.com/?r=tv_view&id=78
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsports2.png" group-title="Webdoomovie-hd.com",SKYNET SPORT 2
+https://www.doomovie-hd.com/?r=tv_view&id=79
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsports1.png" group-title="Webdoomovie-hd.com",SKYNET SPORT 1
+https://www.doomovie-hd.com/?r=tv_view&id=80
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsportshd.png" group-title="Webdoomovie-hd.com",SKYNET SPORT HD
+https://www.doomovie-hd.com/?r=tv_view&id=81
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/20180603112102Sport TV 1.jpg" group-title="Webdoomovie-hd.com",Sport TV 1
+https://www.doomovie-hd.com/?r=tv_view&id=139
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/20180603112031Sport TV 2.jpg" group-title="Webdoomovie-hd.com",Sport TV 2
+https://www.doomovie-hd.com/?r=tv_view&id=140
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/20180603111957Sport TV 3.jpg" group-title="Webdoomovie-hd.com",Sport TV 3
+https://www.doomovie-hd.com/?r=tv_view&id=141
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/20180603111929Sport TV 4.jpg" group-title="Webdoomovie-hd.com",Sport TV 4
+https://www.doomovie-hd.com/?r=tv_view&id=142
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/20180603111852Sport TV 5.jpg" group-title="Webdoomovie-hd.com",Sport TV 5
+https://www.doomovie-hd.com/?r=tv_view&id=143
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/20180417112454Bein France 1.jpg" group-title="Webdoomovie-hd.com",Bein France 1
+https://www.doomovie-hd.com/?r=tv_view&id=148
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/20180417112437Bein France 2.jpg" group-title="Webdoomovie-hd.com",Bein France 2
+https://www.doomovie-hd.com/?r=tv_view&id=149
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/20180417112309Bein France 3.jpg" group-title="Webdoomovie-hd.com",Bein France 3
+https://www.doomovie-hd.com/?r=tv_view&id=150
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/uk-btsport1.jpg" group-title="Webdoomovie-hd.com",BT SPORT HD1
+https://www.doomovie-hd.com/?r=tv_view&id=156
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/uk-btsport2.jpg" group-title="Webdoomovie-hd.com",BT SPORT HD2
+https://www.doomovie-hd.com/?r=tv_view&id=157
+
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/epl-bein1.png" group-title="Sports Thailand",BEIN SPORT HD 1
+https://live.youlive-cdn.com/02_epl1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/epl-bein2.png" group-title="Sports Thailand",BEIN SPORT HD 2
+https://live.youlive-cdn.com/02_epl2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/epl-bein3.png" group-title="Sports Thailand",BEIN SPORT HD 3
+https://live.youlive-cdn.com/02_epl3_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/epl-bein4.png" group-title="Sports Thailand",BEIN SPORT HD 4
+https://live.youlive-cdn.com/02_epl4_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/doomovie-epl1.png" group-title="Sports Thailand",Premier Football HD 1
+https://live.youlive-cdn.com/02_PremierHD1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/doomovie-epl2.png" group-title="Sports Thailand",Premier Football HD 2
+https://live.youlive-cdn.com/02_PremierHD2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/doomovie-epl3.png" group-title="Sports Thailand",Premier Football HD 3
+https://live.youlive-cdn.com/02_PremierHD3_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/doomovie-epl4.png" group-title="Sports Thailand",Premier Football HD 4
+https://live.youlive-cdn.com/02_PremierHD4_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/doomovie-epl5.png" group-title="Sports Thailand",Premier Football HD 5
+https://live.youlive-cdn.com/02_PremierHD5_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-tsport2.png" group-title="Sports Thailand",TRUE SPORT 2
+https://live.youlive-cdn.com/02_sport2_480p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-tsport5.png" group-title="Sports Thailand",TRUE SPORT 5
+https://live.youlive-cdn.com/02_sport5_480p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-tsport6.png" group-title="Sports Thailand",TRUE SPORT 6
+https://live.youlive-cdn.com/02_sport6_480p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-tsport7.png" group-title="Sports Thailand",TRUE SPORT 7
+https://live.youlive-cdn.com/02_sport7_480p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-tsport1.png" group-title="Sports Thailand",TRUE SPORT HD1
+https://live.youlive-cdn.com/02_2sporthd1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-tsport2.png" group-title="Sports Thailand",TRUE SPORT HD2
+https://live.youlive-cdn.com/02_2sporthd2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-tsport3.png" group-title="Sports Thailand",TRUE SPORT HD3
+https://live.youlive-cdn.com/02_2sporthd3_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-tsport4.png" group-title="Sports Thailand",TRUE SPORT HD4
+https://live.youlive-cdn.com/02_2sporthd4_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsportshd.png" group-title="Sports Thailand",Skynet Sports HD
+https://live.youlive-cdn.com/03_skynetsporthd_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsports1.png" group-title="Sports Thailand",Skynet Sports 1
+https://live.youlive-cdn.com/03_skynetsport1_480p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsports2.png" group-title="Sports Thailand",Skynet Sports 2
+https://live.youlive-cdn.com/03_skynetsport2_480p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsports3.png" group-title="Sports Thailand",Skynet Sports 3
+https://live.youlive-cdn.com/03_skynetsport3_480p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsports4.png" group-title="Sports Thailand",Skynet Sports 4
+https://live.youlive-cdn.com/03_skynetsport4_480p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsports5.png" group-title="Sports Thailand",Skynet Sports 5
+https://live.youlive-cdn.com/03_skynetsport5_480p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsports6.png" group-title="Sports Thailand",Skynet Sports 6
+https://live.youlive-cdn.com/03_skynetsport6_480p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/20180603112102Sport%20TV%201.jpg" group-title="Sports Thailand",Sport Tv 1
+https://live.youlive-cdn.com/02_SPORTTV_1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/20180603112031Sport%20TV%202.jpg" group-title="Sports Thailand",Sport Tv 2
+https://live.youlive-cdn.com/02_SPORTTV_2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/20180603111957Sport%20TV%203.jpg" group-title="Sports Thailand",Sport Tv 3
+https://live.youlive-cdn.com/02_SPORTTV_3_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/20180603111929Sport%20TV%204.jpg" group-title="Sports Thailand",Sport Tv 4
+https://live.youlive-cdn.com/02_SPORTTV_4_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/20180603111852Sport%20TV%205.jpg" group-title="Sports Thailand",Sport Tv 5
+https://live.youlive-cdn.com/02_SPORTTV_5_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/uk-btsport1.jpg" group-title="Sports Thailand",BT SPORT HD1
+https://live.youlive-cdn.com/02_BTSPORTHD_1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/uk-btsport2.jpg" group-title="Sports Thailand",BT SPORT HD2
+https://live.youlive-cdn.com/02_BTSPORTHD_2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-tennis.png" group-title="Sports Thailand",TENNIS HD
+https://live.youlive-cdn.com/02_TennisHD_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-pptv.png" group-title="Sports Thailand",PPTV HD
+https://live.youlive-cdn.com/02_PPTVHD_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-thairath.png" group-title="Sports Thailand",THAIRATH HD
+https://live.youlive-cdn.com/02_THAIRATH_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxsports1.png" group-title="Sports Thailand",FOX SPORT 1
+https://live.youlive-cdn.com/02_foxsport_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-foxsports2.png" group-title="Sports Thailand",FOX SPORT 2
+https://stream5.xpeer-cdn.com/02_FoxSport2_TH_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-foxsports3.png" group-title="Sports Thailand",FOX SPORT 3
+https://stream5.xpeer-cdn.com/02_FoxSport3_TH_720p/chunklist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/07/true-epl-1.jpg" group-title="Web Sports Thailand",True Premier Football HD 1
+https://www.we-play.tv/live/channel.php?name=true-epl-1
+#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/07/true-epl-2.jpg" group-title="Web Sports Thailand",True Premier Football HD 2
+https://www.we-play.tv/live/channel.php?name=true-epl-2
+#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/07/true-epl-3.jpg" group-title="Web Sports Thailand",True Premier Football HD 3
+https://www.we-play.tv/live/channel.php?name=true-epl-3
+#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/07/true-epl-4.jpg" group-title="Web Sports Thailand",True Premier Football HD 4
+https://www.we-play.tv/live/channel.php?name=true-epl-4
+#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/07/true-epl-5.jpg" group-title="Web Sports Thailand",True Premier Football HD 5
+https://www.we-play.tv/live/channel.php?name=true-epl-5
+
+#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2018/11/skynetsporthd.jpg" group-title="Web Sports Thailand",SkyNet Sport HD
+https://www.we-play.tv/live/channel.php?name=skynethd
+#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2018/11/skynetsport1.jpg" group-title="Web Sports Thailand",SkyNet Sport 1
+https://www.we-play.tv/live/channel.php?name=skynet1
+#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2018/11/skynetsport2.jpg" group-title="Web Sports Thailand",SkyNet Sport 2
+https://www.we-play.tv/live/channel.php?name=skynet2
+#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2018/11/skynetsport3.jpg" group-title="Web Sports Thailand",SkyNet Sport 3
+https://www.we-play.tv/live/channel.php?name=skynet3
+#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2018/11/skynetsport4.jpg" group-title="Web Sports Thailand",SkyNet Sport 4
+https://www.we-play.tv/live/channel.php?name=skynet4
+#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2018/11/skynetsport5.jpg" group-title="Web Sports Thailand",SkyNet Sport 5
+https://www.we-play.tv/live/channel.php?name=skynet5
+#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2018/11/skynetsport6.jpg" group-title="Web Sports Thailand",SkyNet Sport 6
+https://www.we-play.tv/live/channel.php?name=skynet6
+
+#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/05/Astro1.jpg" group-title="Web Sports Thailand",Astro Supersport 1
+https://www.we-play.tv/live/channel.php?name=astro1
+#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/05/Astro1.jpg" group-title="Web Sports Thailand",Astro Supersport 2
+https://www.we-play.tv/live/channel.php?name=astro2
+#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/05/Astro1.jpg" group-title="Web Sports Thailand",Astro Supersport 3
+https://www.we-play.tv/live/channel.php?name=astro3
+#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/05/Astro1.jpg" group-title="Web Sports Thailand",Astro Supersport 4
+https://www.we-play.tv/live/channel.php?name=astro4
+
+#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2018/11/bein1.jpg" group-title="Web Sports Thailand",Bein Sport 1 HD
+https://www.we-play.tv/live/channel.php?name=bein1
+#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2018/11/bein2.jpg" group-title="Web Sports Thailand",Bein Sport 1 HD
+https://www.we-play.tv/live/channel.php?name=bein2
+
+#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2018/11/truesporthd-1.jpg" group-title="Web Sports Thailand",True Sport HD
+https://www.we-play.tv/live/channel.php?name=thd1
+#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2018/11/truesporthd2.jpg" group-title="Web Sports Thailand",True Sport 2HD
+https://www.we-play.tv/live/channel.php?name=thd2
+#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2018/11/truesporthd3.jpg" group-title="Web Sports Thailand",True Sport 3HD
+https://www.we-play.tv/live/channel.php?name=thd3
+
+#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/05/tsp2.jpg" group-title="Web Sports Thailand",True Sport 2
+https://www.we-play.tv/live/channel.php?name=tsp2
+#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/05/tsp5.jpg" group-title="Web Sports Thailand",True Sport 5
+https://www.we-play.tv/live/channel.php?name=tsp5
+#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/05/tsp6.jpg" group-title="Web Sports Thailand",True Sport 6
+https://www.we-play.tv/live/channel.php?name=tsp6
+#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/05/tsp7.jpg" group-title="Web Sports Thailand",True Sport 7
+https://www.we-play.tv/live/channel.php?name=tsp7
+
+#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/btsport1.jpg" group-title="Web Sports Thailand",BT Sport 1 HD
+https://www.we-play.tv/live/channel.php?name=btsport1hd
+#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/btsport2.jpg" group-title="Web Sports Thailand",BT Sport 2 HD
+https://www.we-play.tv/live/channel.php?name=btsport2hd
+#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/btsport3.jpg" group-title="Web Sports Thailand",BT Sport 3 HD
+https://www.we-play.tv/live/channel.php?name=btsport3hd
+
+#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/01/sporttv1.jpg" group-title="Web Sports Thailand",SPORT TV 1
+https://www.we-play.tv/live/channel.php?name=sporttv1
+#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/01/sporttv2.jpg" group-title="Web Sports Thailand",SPORT TV 2
+https://www.we-play.tv/live/channel.php?name=sporttv2
+#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/01/sporttv3.jpg" group-title="Web Sports Thailand",SPORT TV 3
+https://www.we-play.tv/live/channel.php?name=sporttv3
+#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/01/sporttv4.jpg" group-title="Web Sports Thailand",SPORT TV 4
+https://www.we-play.tv/live/channel.php?name=sporttv4
+
+#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/foxsporthd.jpg" group-title="Web Sports Thailand",Fox Sport HD
+https://www.we-play.tv/live/channel.php?name=foxsportshd
+#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/foxsport2.jpg" group-title="Web Sports Thailand",Fox Sport 2
+https://www.we-play.tv/live/channel.php?name=foxsports2
+#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/foxsport3.jpg" group-title="Web Sports Thailand",Fox Sport 3
+https://www.we-play.tv/live/channel.php?name=foxsports3
+
+#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/05/mutv.jpg" group-title="Web Sports Thailand",MUTV
+https://www.we-play.tv/live/channel.php?name=mutv
+#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/truetennis.jpg" group-title="Web Sports Thailand",True Tennis
+https://www.we-play.tv/live/channel.php?name=truetennis
+
+
+#EXTINF:-1 tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtv1-hd_150173500659.jpg" group-title="fpt play",VTV1 HD
+https://fptplay.vn/xem-truyen-hinh/vtv1-hd
+#EXTINF:-1 tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtv2_15089873505.jpg" group-title="fpt play",VTV2 HD
+https://fptplay.vn/xem-truyen-hinh/vtv2-hd
+#EXTINF:-1 tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtv3-hd_150173501764.jpg" group-title="fpt play",VTV3 HD
+https://fptplay.vn/xem-truyen-hinh/vtv3-hd
+#EXTINF:-1 tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtv6-hd_150173503925.jpg" group-title="fpt play",VTV6 HD
+https://fptplay.vn/xem-truyen-hinh/vtv6-hd
+#EXTINF:-1 tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_antv_156455515067.jpg" group-title="fpt play",ANTV HD
+https://fptplay.vn/xem-truyen-hinh/antv
+#EXTINF:-1 tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtc1_156455622263.jpg" group-title="fpt play",VTC1 HD
+https://fptplay.vn/xem-truyen-hinh/vtc1
+#EXTINF:-1 tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtc7-todaytv_145673310065.jpg" group-title="fpt play",VTC7
+https://fptplay.vn/xem-truyen-hinh/todaytv-vtc7
+#EXTINF:-1 tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtc14-hd_151489110373.png" group-title="fpt play",VTV14 HD
+https://fptplay.vn/xem-truyen-hinh/vtc14-hd
+#EXTINF:-1 tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_htv7-hd_150225274372.jpg" group-title="fpt play",HTV7 HD
+https://fptplay.vn/xem-truyen-hinh/htv7-hd
+#EXTINF:-1 tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_htv9-hd_146841310555.jpg" group-title="fpt play",HTV9 HD
+https://fptplay.vn/xem-truyen-hinh/htv9-hd
+#EXTINF:-1 tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_htvc-thuan-viet-hd_150055170596.jpg" group-title="fpt play",HTVC THUANVIET HD
+https://fptplay.vn/xem-truyen-hinh/htvc-thuan-viet-hd
+#EXTINF:-1 tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_thvl1_156455587276.jpg" group-title="fpt play",THVL1
+https://fptplay.vn/xem-truyen-hinh/thvl1
+#EXTINF:-1 tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vinh-long-2_15645558841.jpg" group-title="fpt play",THVL2
+https://fptplay.vn/xem-truyen-hinh/vinh-long-2
+#EXTINF:-1 tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_dong-thap_145880869744.jpg" group-title="fpt play",THDT
+https://fptplay.vn/xem-truyen-hinh/dong-thap
+#EXTINF:-1 tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_serie-a-1_156724034877.jpg" group-title="fpt play",SU KIEN 1
+https://fptplay.vn/xem-truyen-hinh/serie-a-1
+#EXTINF:-1 tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_serie-a-2_156728994266.jpg" group-title="fpt play",SU KIEN 2
+https://fptplay.vn/xem-truyen-hinh/serie-a-2
+#EXTINF:-1 tvg-logo="" group-title="fpt play",SU KIEN 3
+https://fptplay.vn/xem-truyen-hinh/serie-a-3
+#EXTINF:-1 tvg-logo="" group-title="fpt play",SU KIEN 4
+https://fptplay.vn/xem-truyen-hinh/serie-a-4
+#EXTINF:-1 tvg-logo="" group-title="fpt play",SU KIEN 5
+https://fptplay.vn/xem-truyen-hinh/serie-a-5
+#EXTINF:-1 tvg-logo="" group-title="fpt play",SU KIEN 6
+https://fptplay.vn/xem-truyen-hinh/serie-a-6
+#EXTINF:-1 tvg-logo="" group-title="fpt play",SU KIEN 7
+https://fptplay.vn/xem-truyen-hinh/serie-a-7
+#EXTINF:-1 tvg-logo="" group-title="fpt play",SU KIEN 8
+https://fptplay.vn/xem-truyen-hinh/serie-a-8
+#EXTINF:-1 tvg-logo="" group-title="fpt play",SU KIEN 9
+https://fptplay.vn/xem-truyen-hinh/serie-a-9
+#EXTINF:-1 tvg-logo="" group-title="fpt play",SU KIEN 10
+https://fptplay.vn/xem-truyen-hinh/serie-a-10
+
+#EXTINF:-1 tvg-logo="http://xemtvtructuyen.net/ima/vtv1.png" group-title="xemtvtructuyen.net", VTV1
+http://www.xemtvtructuyen.net/ok/vtv1.php
+#EXTINF:-1 tvg-logo="http://xemtvtructuyen.net/ima/vtv2.png" group-title="xemtvtructuyen.net", VTV2
+http://www.xemtvtructuyen.net/ok/vtv2.php
+#EXTINF:-1 tvg-logo="http://xemtvtructuyen.net/ima/vtv3.png" group-title="xemtvtructuyen.net", VTV3
+http://www.xemtvtructuyen.net/ok/vtv3.php
+#EXTINF:-1 tvg-logo="http://xemtvtructuyen.net/ima/vtv4.png" group-title="xemtvtructuyen.net", VTV4
+http://www.xemtvtructuyen.net/ok/vtv4.php
+#EXTINF:-1 tvg-logo="http://xemtvtructuyen.net/ima/vtv5.png" group-title="xemtvtructuyen.net", VTV5
+http://www.xemtvtructuyen.net/ok/vtv5.php
+#EXTINF:-1 tvg-logo="http://xemtvtructuyen.net/ima/vtv6.png" group-title="xemtvtructuyen.net", VTV6
+http://www.xemtvtructuyen.net/ok/vtv6.php
+#EXTINF:-1 tvg-logo="http://xemtvtructuyen.net/ima/vtv7.png" group-title="xemtvtructuyen.net", VTV7
+http://www.xemtvtructuyen.net/ok/vtv7.php
+#EXTINF:-1 tvg-logo="http://xemtvtructuyen.net/ima/vtv8.png" group-title="xemtvtructuyen.net", VTV8
+http://www.xemtvtructuyen.net/ok/vtv8.php
+#EXTINF:-1 tvg-logo="http://xemtvtructuyen.net/ima/vtv9.png" group-title="xemtvtructuyen.net", VTV9
+http://www.xemtvtructuyen.net/ok/vtv9.php
+
+#EXTINF:-1 tvg-logo="http://xemtvtructuyen.net/ima/vtc1.png" group-title="xemtvtructuyen.net",VTC1
+http://www.xemtvtructuyen.net/ok/vtc1.php
+#EXTINF:-1 tvg-logo="http://xemtvtructuyen.net/ima/vtc2.png" group-title="xemtvtructuyen.net",VTC2
+http://www.xemtvtructuyen.net/ok/vtc2.php
+#EXTINF:-1 tvg-logo="http://xemtvtructuyen.net/ima/vtc3hd.png" group-title="xemtvtructuyen.net",VTC3
+http://www.xemtvtructuyen.net/ok/vtc3.php
+#EXTINF:-1 tvg-logo="http://xemtvtructuyen.net/ima/vtc4.png" group-title="xemtvtructuyen.net",VTC4
+http://www.xemtvtructuyen.net/ok/vtc4.php
+#EXTINF:-1 tvg-logo="http://xemtvtructuyen.net/ima/vtc5.png" group-title="xemtvtructuyen.net",VTC5
+http://www.xemtvtructuyen.net/ok/vtc5.php
+#EXTINF:-1 tvg-logo="http://xemtvtructuyen.net/ima/vtc6.png" group-title="xemtvtructuyen.net",VTC6
+http://www.xemtvtructuyen.net/ok/vtc6.php
+#EXTINF:-1 tvg-logo="http://xemtvtructuyen.net/ima/vtc7.png" group-title="xemtvtructuyen.net",VTC7
+http://www.xemtvtructuyen.net/ok/vtc7.php
+#EXTINF:-1 tvg-logo="http://xemtvtructuyen.net/ima/vtc8.png" group-title="xemtvtructuyen.net",VTC8
+http://www.xemtvtructuyen.net/ok/vtc8.php
+#EXTINF:-1 tvg-logo="http://xemtvtructuyen.net/ima/vtc9.png" group-title="xemtvtructuyen.net",VTC9
+http://www.xemtvtructuyen.net/ok/vtc9.php
+#EXTINF:-1 tvg-logo="http://xemtvtructuyen.net/ima/vtc10.png" group-title="xemtvtructuyen.net",VTC10
+http://www.xemtvtructuyen.net/ok/vtc10.php
+#EXTINF:-1 tvg-logo="http://xemtvtructuyen.net/ima/vtc11.png" group-title="xemtvtructuyen.net",VTC11
+http://www.xemtvtructuyen.net/ok/vtc11.php
+#EXTINF:-1 tvg-logo="http://xemtvtructuyen.net/ima/vtc12.png" group-title="xemtvtructuyen.net",VTC12
+http://www.xemtvtructuyen.net/ok/vtc12.php
+#EXTINF:-1 tvg-logo="http://xemtvtructuyen.net/ima/vtc13.png" group-title="xemtvtructuyen.net",VTC13 
+http://www.xemtvtructuyen.net/ok/vtc13.php
+#EXTINF:-1 tvg-logo="http://xemtvtructuyen.net/ima/vtc14.png" group-title="xemtvtructuyen.net",VTC14
+http://www.xemtvtructuyen.net/ok/vtc14.php
+#EXTINF:-1 tvg-logo="http://xemtvtructuyen.net/ima/vtc16.png" group-title="xemtvtructuyen.net",VTC16
+http://www.xemtvtructuyen.net/ok/vtc16.php
+
