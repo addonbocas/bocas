@@ -1,8 +1,8 @@
 <channels>
 <channel>
-<name>[COLOR red]teste[/COLOR]</name>
+<name>[COLOR red]TESTE 1[/COLOR]</name>
 <thumbnail>https://imgur.com/UcGIxsG.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/addonbocas/bocas/master/TESTE</externallink>
+<externallink>https://raw.githubusercontent.com/addonbocas/bocas/master/TESTE%201</externallink>
 <fanart>https://ia601403.us.archive.org/25/items/fanart_20190909_1728/fanart.jpg</fanart>
 <info>[COLOR deeppink]|[/COLOR]- teste -[COLOR deeppink]|[/COLOR]</info>
 </channel>
@@ -13,9 +13,9 @@
 
 <channels>
 <channel>
-<name>[COLOR red]teste 2[/COLOR]</name>
+<name>[COLOR red]TESTE 2[/COLOR]</name>
 <thumbnail>https://imgur.com/UcGIxsG.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/addonbocas/bocas/master/TESTE2</externallink>
+<externallink>https://raw.githubusercontent.com/addonbocas/bocas/master/TESTE%202</externallink>
 <fanart>https://ia601403.us.archive.org/25/items/fanart_20190909_1728/fanart.jpg</fanart>
 <info>[COLOR deeppink]|[/COLOR]- teste -[COLOR deeppink]|[/COLOR]</info>
 </channel>
@@ -25,7 +25,7 @@
 
 <channels>
 <channel>
-<name>[COLOR red]teste 2[/COLOR]  2ARENAVISION2</name>
+<name>[COLOR red]TESTE 3[/COLOR]  LINK EXTERNO</name>
 <thumbnail>https://imgur.com/UcGIxsG.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/RuiJMoreira/arenamirror/master/channelplaylist</externallink>
 <fanart>https://ia601403.us.archive.org/25/items/fanart_20190909_1728/fanart.jpg</fanart>
@@ -38,7 +38,7 @@
 
 <channels>
 <channel>
-<name>[COLOR red]teste 2[/COLOR]  ARENAVISION</name>
+<name>[COLOR red]TESTE 4[/COLOR]  LINK EXTERNO</name>
 <thumbnail>https://imgur.com/UcGIxsG.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/Dionakra/arenavision-scraper/master/src/getChannels.js</externallink>
 <fanart>https://ia601403.us.archive.org/25/items/fanart_20190909_1728/fanart.jpg</fanart>
