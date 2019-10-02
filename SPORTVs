@@ -12,19 +12,18 @@ rtmp://89.163.224.168:80/live/sporttv5
 rtmp://89.163.224.168:80/live/btv1
 
 
-#EXTINF:-1,SPORT TV _1
+#EXTINF:-1,SPORT TV _1 (smartv)
 https://sport7.biz/lba/123/g6/tv1pt.m3u8
-#EXTINF:-1,SPORT TV _2
+#EXTINF:-1,SPORT TV _2 (smartv)
 https://sport7.biz/lba/123/g1/sport2port.m3u8
-#EXTINF:-1,SPORT TV _3
+#EXTINF:-1,SPORT TV _3 (smartv)
 https://sport7.biz/lba/123/g2/pt3sport.m3u8
-#EXTINF:-1,SPORT TV _4
+#EXTINF:-1,SPORT TV _4 (smartv)
 https://sport7.biz/lba/123/g4/portugalsport4.m3u8
-#EXTINF:-1,SPORT TV _5
+#EXTINF:-1,SPORT TV _5 (smartv)
 https://sport7.biz/lba/123/g8/ptsport5.m3u8
 
-#EXTINF:-1,SPORTTV3 HD
-https://vip7stream.pw/lba/123/g3/pt3sport.m3u8
+
 
 
 
