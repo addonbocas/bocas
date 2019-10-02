@@ -1,5 +1,22 @@
 <channels>
 <channel>
+<name>[COLOR yellow]JOGOS ESPECIAIS[/COLOR]</name>
+<thumbnail>http://imgur.com/OVG7OYQ.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/addonbocas/bocas/master/JOGOS%20ESPECIAIS</externallink>
+<fanart>https://ia601403.us.archive.org/25/items/fanart_20190909_1728/fanart.jpg</fanart>
+<info>
+
+
+[COLOR lime]JOGOS DA JORNADA - PLEXUS[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+
+
+<channels>
+<channel>
 <name>[COLOR orange]LISTA Magellan[/COLOR][COLOR white] (clicar aqui)[/COLOR][COLOR lime]  WEB [/COLOR][COLOR red] TS [/COLOR]</name>
 <thumbnail>http://imgur.com/cgHWHQX.png</thumbnail>
 <externallink>http://pastebin.com/raw/kdUL7Zap</externallink>
@@ -13,20 +30,7 @@
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
-<channels>
-<channel>
-<name>[COLOR yellow]JOGOS ESPECIAIS[/COLOR]</name>
-<thumbnail>http://imgur.com/OVG7OYQ.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/addonbocas/bocas/master/JOGOS%20ESPECIAIS</externallink>
-<fanart>https://ia601403.us.archive.org/25/items/fanart_20190909_1728/fanart.jpg</fanart>
-<info>
 
-
-[COLOR lime]JOGOS DA JORNADA - PLEXUS[/COLOR]</info>
-</channel>
-</channels>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 
 <channels>
