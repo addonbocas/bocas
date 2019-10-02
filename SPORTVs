@@ -7,3 +7,39 @@ rtmp://89.163.224.168:80/live/sporttv2
 rtmp://89.163.224.168:80/live/sporttv3
 #EXTINF:-1,SPORT | SPORT TV 5 HD (PT)
 rtmp://89.163.224.168:80/live/sporttv5
+
+#EXTINF:-1,BTV HD
+rtmp://89.163.224.168:80/live/btv1
+#EXTINF:-1,BTV HD
+rtmp://89.163.224.168:80/live/btv1backup
+#EXTINF:-1,SPORTTV1 HD
+https://vip7stream.pw/lba/123/g5/tv1pt.m3u8
+#EXTINF:-1,SPORTTV1 HD
+rtmp://89.163.224.168:80/live/sporttv1
+#EXTINF:-1,SPORTTV2 HD
+https://185-125-230-172.livesports24.online/portugalsport2.m3u8
+#EXTINF:-1,SPORTTV2 HD
+rtmp://89.163.224.168:80/live/sporttv2
+#EXTINF:-1,SPORTTV3 HD
+https://vip7stream.pw/lba/123/g3/pt3sport.m3u8
+#EXTINF:-1,SPORTTV3 HD
+rtmp://89.163.224.168:80/live/sporttv3
+#EXTINF:-1,SPORTTV4 HD
+https://vip7stream.pw/lba/123/g4/portugalsport4.m3u8
+#EXTINF:-1,SPORTTV4 HD
+rtmp://89.163.224.168:80/live/sporttv4
+#EXTINF:-1,SPORTTV5 HD
+https://vip7stream.pw/lba/123/g9/ptsport5.m3u8
+#EXTINF:-1,SPORTTV5 HD
+rtmp://89.163.224.168:80/live/sporttv5
+
+#EXTINF:-1,ELEVEN SPORTS 1 HD
+http://163.172.131.72:80/hls/elevensports1.m3u8
+#EXTINF:-1,ELEVEN SPORTS 2 HD
+http://163.172.131.72:80/hls/elevensports2.m3u8
+#EXTINF:-1,BT Sport 1 HD
+http://185-125-230-172.livesports24.online/btsportone.m3u8
+#EXTINF:-1,BT Sport 2 HD
+http://185-125-230-172.livesports24.online/btsportsport2.m3u8
+#EXTINF:-1,BT Sport 3 HD
+http://185-125-230-172.livesports24.online/btsporteurope.m3u8
