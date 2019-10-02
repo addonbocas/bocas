@@ -76,11 +76,9 @@
 </channel>
 </channels>
 
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 <channels>
 <channel>
@@ -94,69 +92,5 @@
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-
-<channels>
-<channel>
-<name>[COLOR red]teste[/COLOR]</name>
-<thumbnail>https://imgur.com/UcGIxsG.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/addonbocas/bocas/master/TESTE</externallink>
-<fanart>https://ia601403.us.archive.org/25/items/fanart_20190909_1728/fanart.jpg</fanart>
-<info>
-
-
-[COLOR deeppink]|[/COLOR]- teste -[COLOR deeppink]|[/COLOR]</info>
-</channel>
-</channels>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-
-<channels>
-<channel>
-<name>[COLOR red]teste 2[/COLOR]</name>
-<thumbnail>https://imgur.com/UcGIxsG.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/addonbocas/bocas/master/TESTE2</externallink>
-<fanart>https://ia601403.us.archive.org/25/items/fanart_20190909_1728/fanart.jpg</fanart>
-<info>
-
-
-[COLOR deeppink]|[/COLOR]- teste -[COLOR deeppink]|[/COLOR]</info>
-</channel>
-</channels>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-<channels>
-<channel>
-<name>[COLOR red]teste 2[/COLOR]  2ARENAVISION2</name>
-<thumbnail>https://imgur.com/UcGIxsG.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/RuiJMoreira/arenamirror/master/channelplaylist</externallink>
-<fanart>https://ia601403.us.archive.org/25/items/fanart_20190909_1728/fanart.jpg</fanart>
-<info>
-
-
-[COLOR deeppink]|[/COLOR]- teste -[COLOR deeppink]|[/COLOR]</info>
-</channel>
-</channels>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-
-<channels>
-<channel>
-<name>[COLOR red]teste 2[/COLOR]  ARENAVISION</name>
-<thumbnail>https://imgur.com/UcGIxsG.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/Dionakra/arenavision-scraper/master/src/getChannels.js</externallink>
-<fanart>https://ia601403.us.archive.org/25/items/fanart_20190909_1728/fanart.jpg</fanart>
-<info>
-
-
-[COLOR deeppink]|[/COLOR]- teste -[COLOR deeppink]|[/COLOR]</info>
-</channel>
-</channels>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
 
 
