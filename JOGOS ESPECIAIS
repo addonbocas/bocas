@@ -275,17 +275,7 @@ item>
 
 
 
-#EXTM3U
-#EXTINF:-1,SPORT | SPORT TV 1 HD (PT)
-rtmp://89.163.224.168:80/live/sporttv1
-#EXTINF:-1,SPORT | SPORT TV 2 HD (PT)
-rtmp://89.163.224.168:80/live/sporttv2
-#EXTINF:-1,SPORT | SPORT TV 3 HD (PT)
-rtmp://89.163.224.168:80/live/sporttv3
-#EXTINF:-1,SPORT | SPORT TV 5 HD (PT)
-rtmp://89.163.224.168:80/live/sporttv5
-#EXTINF:-1,SPORT | Sports TV (TR)
-https://blutv-beta.akamaized.net/sportstv/sportstv.smil/playlist.m3u8
+
 
 
 
