@@ -76,13 +76,24 @@
 </channel>
 </channels>
 
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 
 
+<channels>
+<channel>
+<name>[COLOR red]espaço reservado para testes[/COLOR]</name>
+<thumbnail>http://www.afolhadomedionorte.com.br/wp-content/uploads/teste.jpg</thumbnail>
+<externallink>https://raw</externallink>
+<fanart>http://www.afolhadomedionorte.com.br/wp-content/uploads/teste.jpg</fanart>
+<info>[COLOR deeppink]|[/COLOR]- teste -[COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>
 
-
-
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 
 <channels>
