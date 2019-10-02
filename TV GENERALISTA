@@ -132,4 +132,20 @@
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 
+<channels>
+<channel>
+<name>[COLOR red]teste 2[/COLOR]  ARENAVISION</name>
+<thumbnail>https://imgur.com/UcGIxsG.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/Dionakra/arenavision-scraper/master/src/getChannels.js</externallink>
+<fanart>https://ia601403.us.archive.org/25/items/fanart_20190909_1728/fanart.jpg</fanart>
+<info>
+
+
+[COLOR deeppink]|[/COLOR]- teste -[COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+
 
