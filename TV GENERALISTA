@@ -26,6 +26,19 @@
 
 <channels>
 <channel>
+<name>[COLOR yellow]TV GENERALISTA[/COLOR] - [COLOR lime]UK[/COLOR]</name>
+<thumbnail>http://imgur.com/PCGI7rU.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/iptv-org/iptv/master/channels/uk.m3u</externallink>
+<fanart>http://imgur.com/PCGI7rU.png</fanart>
+<info>[COLOR deeppink]|[/COLOR]- CREDITOS A IPTV-ORG -[COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+
+<channels>
+<channel>
 <name>[COLOR yellow]TV GENERALISTA[/COLOR] - [COLOR lime]TEAMBLUE[/COLOR]</name>
 <thumbnail>http://imgur.com/PCGI7rU.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/teamblue65/LISTAS/master/LISTA_SSIPTV</externallink>
