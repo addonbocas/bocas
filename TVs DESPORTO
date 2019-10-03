@@ -4,10 +4,19 @@
 <thumbnail>http://imgur.com/OVG7OYQ.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/addonbocas/bocas/master/JOGOS%20ESPECIAIS</externallink>
 <fanart>https://ia601403.us.archive.org/25/items/fanart_20190909_1728/fanart.jpg</fanart>
-<info>
+<info>[COLOR lime]JOGOS DA JORNADA - PLEXUS[/COLOR]</info>
+</channel>
+</channels>
 
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
-[COLOR lime]JOGOS DA JORNADA - PLEXUS[/COLOR]</info>
+<channels>
+<channel>
+<name>[COLOR yellow]SPORTVs[/COLOR] (WEB)</name>
+<thumbnail>http://imgur.com/cgHWHQX.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/addonbocas/bocas/master/SPORTVs</externallink>
+<fanart>http://imgur.com/cgHWHQX.png</fanart>
+<info>[COLOR lime]CANAIS WEB[/COLOR]</info>
 </channel>
 </channels>
 
@@ -21,32 +30,25 @@
 <thumbnail>http://imgur.com/cgHWHQX.png</thumbnail>
 <externallink>http://pastebin.com/raw/kdUL7Zap</externallink>
 <fanart>https://ia601403.us.archive.org/25/items/fanart_20190909_1728/fanart.jpg</fanart>
-<info>
-
-
-[COLOR lime]CRÉDITOS a Magellan[/COLOR]</info>
+<info>[COLOR lime]CRÉDITOS a Magellan[/COLOR]</info>
 </channel>
 </channels>
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-
-
 
 <channels>
 <channel>
-<name>[COLOR lime]SPORTVs[/COLOR] (WEB)</name>
+<name>[COLOR lime]DESPORTO IPTV-ORG[/COLOR] (CANAIS DESPORTIVOS MUNDIAIS)</name>
 <thumbnail>http://imgur.com/cgHWHQX.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/addonbocas/bocas/master/SPORTVs</externallink>
+<externallink>https://raw.githubusercontent.com/iptv-org/iptv/master/categories/sport.m3u</externallink>
 <fanart>http://imgur.com/cgHWHQX.png</fanart>
-<info>
-
-
-[COLOR lime]JOGOS DA JORNADA - PLEXUS[/COLOR]</info>
+<info>[COLOR lime]CANAIS WEB[/COLOR]</info>
 </channel>
 </channels>
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+
 
 
 
