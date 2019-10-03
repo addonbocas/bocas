@@ -1,59 +1,6 @@
 <channels>
 <channel>
-<name>[COLOR yellow]TV GENERALISTA[/COLOR] - [COLOR lime]PORTUGAL[/COLOR]</name>
-<thumbnail>https://imgur.com/so2MdYB</thumbnail>
-<externallink>https://raw.githubusercontent.com/iptv-org/iptv/master/channels/pt.m3u</externallink>
-<fanart>https://imgur.com/so2MdYB</fanart>
-<info>[COLOR deeppink]|[/COLOR]- CREDITOS A IPTV-ORG -[COLOR deeppink]|[/COLOR]</info>
-</channel>
-</channels>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-
-<channels>
-<channel>
-<name>[COLOR yellow]TV GENERALISTA[/COLOR] - [COLOR lime]BRASIL[/COLOR]</name>
-<thumbnail>https://imgur.com/euzWVzv</thumbnail>
-<externallink>https://raw.githubusercontent.com/iptv-org/iptv/master/channels/br.m3u</externallink>
-<fanart>https://imgur.com/euzWVzv</fanart>
-<info>[COLOR deeppink]|[/COLOR]- CREDITOS A IPTV-ORG -[COLOR deeppink]|[/COLOR]</info>
-</channel>
-</channels>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-
-<channels>
-<channel>
-<name>[COLOR yellow]TV GENERALISTA[/COLOR] - [COLOR lime]UK[/COLOR]</name>
-<thumbnail>http://imgur.com/PCGI7rU.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/iptv-org/iptv/master/channels/uk.m3u</externallink>
-<fanart>http://imgur.com/PCGI7rU.png</fanart>
-<info>[COLOR deeppink]|[/COLOR]- CREDITOS A IPTV-ORG -[COLOR deeppink]|[/COLOR]</info>
-</channel>
-</channels>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-
-<channels>
-<channel>
-<name>[COLOR yellow]TV GENERALISTA[/COLOR] - [COLOR lime]TEAMBLUE[/COLOR]</name>
-<thumbnail>http://imgur.com/PCGI7rU.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/teamblue65/LISTAS/master/LISTA_SSIPTV</externallink>
-<fanart>https://ia601403.us.archive.org/25/items/fanart_20190909_1728/fanart.jpg</fanart>
-<info>[COLOR deeppink]|[/COLOR]- CREDITOS A TEAMBLUE -[COLOR deeppink]|[/COLOR]</info>
-</channel>
-</channels>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-
-
-<channels>
-<channel>
-<name>[COLOR yellow]TV GENERALISTA[/COLOR] - [COLOR lime]CAIXA NEGRA[/COLOR]</name>
+<name>[COLOR yellow]TV GENERALISTA[/COLOR] - [COLOR lime]PORTUGAL[/COLOR] (CAIXA NEGRA)</name>
 <thumbnail>http://imgur.com/PCGI7rU.png</thumbnail>
 <externallink>https://caixapreta.pt/iptv</externallink>
 <fanart>https://ia601403.us.archive.org/25/items/fanart_20190909_1728/fanart.jpg</fanart>
@@ -66,11 +13,62 @@
 
 <channels>
 <channel>
-<name>[COLOR yellow]TV GENERALISTA[/COLOR] - [COLOR lime]KODI PORTUGAL[/COLOR]</name>
+<name>[COLOR yellow]TV GENERALISTA[/COLOR] - [COLOR lime]PORTUGAL[/COLOR] (TEAMBLUE)</name>
+<thumbnail>http://imgur.com/PCGI7rU.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/teamblue65/LISTAS/master/LISTA_SSIPTV</externallink>
+<fanart>https://ia601403.us.archive.org/25/items/fanart_20190909_1728/fanart.jpg</fanart>
+<info>[COLOR deeppink]|[/COLOR]- CREDITOS A TEAMBLUE -[COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+
+<channels>
+<channel>
+<name>[COLOR yellow]TV GENERALISTA[/COLOR] - [COLOR lime]PORTUGAL[/COLOR] (KODI PORTUGAL)</name>
 <thumbnail>http://imgur.com/PCGI7rU.png</thumbnail>
 <externallink>http://lista.kodiportugal.com</externallink>
 <fanart>https://ia601403.us.archive.org/25/items/fanart_20190909_1728/fanart.jpg</fanart>
 <info>[COLOR deeppink]|[/COLOR]- CREDITOS A CAIXA PRETA -[COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
+<name>[COLOR yellow]TV GENERALISTA[/COLOR] - [COLOR lime]PORTUGAL[/COLOR] (IPTV-ORG)</name>
+<thumbnail>https://imgur.com/so2MdYB</thumbnail>
+<externallink>https://raw.githubusercontent.com/iptv-org/iptv/master/channels/pt.m3u</externallink>
+<fanart>https://imgur.com/so2MdYB</fanart>
+<info>[COLOR deeppink]|[/COLOR]- CREDITOS A IPTV-ORG -[COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+
+<channels>
+<channel>
+<name>[COLOR yellow]TV GENERALISTA[/COLOR] - [COLOR lime]BRASIL[/COLOR] (IPTV-ORG)</name>
+<thumbnail>https://imgur.com/euzWVzv</thumbnail>
+<externallink>https://raw.githubusercontent.com/iptv-org/iptv/master/channels/br.m3u</externallink>
+<fanart>https://imgur.com/euzWVzv</fanart>
+<info>[COLOR deeppink]|[/COLOR]- CREDITOS A IPTV-ORG -[COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+
+<channels>
+<channel>
+<name>[COLOR yellow]TV GENERALISTA[/COLOR] - [COLOR lime]UK[/COLOR] (IPTV-ORG)</name>
+<thumbnail>http://imgur.com/PCGI7rU.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/iptv-org/iptv/master/channels/uk.m3u</externallink>
+<fanart>http://imgur.com/PCGI7rU.png</fanart>
+<info>[COLOR deeppink]|[/COLOR]- CREDITOS A IPTV-ORG -[COLOR deeppink]|[/COLOR]</info>
 </channel>
 </channels>
 
