@@ -39,9 +39,9 @@
 <channels>
 <channel>
 <name>[COLOR yellow]TV GENERALISTA[/COLOR] - [COLOR lime]PORTUGAL[/COLOR] (IPTV-ORG)</name>
-<thumbnail>https://imgur.com/so2MdYB</thumbnail>
+<thumbnail>https://imgur.com/so2MdYB.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/iptv-org/iptv/master/channels/pt.m3u</externallink>
-<fanart>https://imgur.com/so2MdYB</fanart>
+<fanart>https://imgur.com/so2MdYB.png</fanart>
 <info>[COLOR deeppink]|[/COLOR]- CREDITOS A IPTV-ORG -[COLOR deeppink]|[/COLOR]</info>
 </channel>
 </channels>
@@ -52,9 +52,9 @@
 <channels>
 <channel>
 <name>[COLOR yellow]TV GENERALISTA[/COLOR] - [COLOR lime]BRASIL[/COLOR] (IPTV-ORG)</name>
-<thumbnail>https://imgur.com/euzWVzv</thumbnail>
+<thumbnail>https://imgur.com/euzWVzv.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/iptv-org/iptv/master/channels/br.m3u</externallink>
-<fanart>https://imgur.com/euzWVzv</fanart>
+<fanart>https://imgur.com/euzWVzv.png</fanart>
 <info>[COLOR deeppink]|[/COLOR]- CREDITOS A IPTV-ORG -[COLOR deeppink]|[/COLOR]</info>
 </channel>
 </channels>
