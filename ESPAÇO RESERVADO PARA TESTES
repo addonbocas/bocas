@@ -25,9 +25,9 @@
 
 <channels>
 <channel>
-<name>[COLOR red]TESTE 3[/COLOR]  LINK EXTERNO</name>
+<name>[COLOR red]TESTE 3[/COLOR]</name>
 <thumbnail>https://imgur.com/UcGIxsG.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/RuiJMoreira/arenamirror/master/channelplaylist</externallink>
+<externallink>https://raw.githubusercontent.com/addonbocas/bocas/master/TESTE%203</externallink>
 <fanart>https://ia601403.us.archive.org/25/items/fanart_20190909_1728/fanart.jpg</fanart>
 <info>[COLOR deeppink]|[/COLOR]- teste -[COLOR deeppink]|[/COLOR]</info>
 </channel>
