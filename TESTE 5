@@ -1,67 +1,12 @@
-#EXTM3U
-#EXTINF:0 tvg-id="rtp1.pt" group-title="Channels",RTP 1
-http://77.54.145.209:81/play/a02w/index.m3u8
-#EXTINF:0 tvg-id="rtp2.pt" group-title="Channels",RTP 2
-http://77.54.145.209:81/play/a02x/index.m3u8
-#EXTINF:0 tvg-id="sic.pt" group-title="Channels",SIC
-http://77.54.145.209:81/play/a01f/index.m3u8
-#EXTINF:0 tvg-id="TVI.pt" group-title="Channels",TVI
-http://77.54.145.209:81/play/a01g/index.m3u8
-#EXTINF:0 tvg-id="sicnoticias.pt" group-title="Channels",SIC Noticias
-http://77.54.145.209:81/play/a030/index.m3u8
-#EXTINF:0 tvg-id="RTP3.pt" group-title="Channels",RTP 3
-http://77.54.145.209:81/play/a02y/index.m3u8
-#EXTINF:0 tvg-id="TVI24.pt" group-title="Channels",TVI 24
-http://77.54.145.209:81/play/a02m/index.m3u8
-#EXTINF:0 tvg-id="CMTV.pt" group-title="Channels",CMTV
-http://77.54.145.209:81/play/a00o/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Sport TV+
-http://77.54.145.209:81/play/a021/index.m3u8
-#EXTINF:0 tvg-id="Globosp.br" group-title="Channels",Globo
-http://77.54.145.209:81/play/a02l/index.m3u8
-#EXTINF:0 tvg-id="TVIReal.pt" group-title="Channels",TVI Reality
-http://77.54.145.209:81/play/a01v/index.m3u8
-#EXTINF:0 tvg-id="PortoCanal.pt" group-title="Channels",Porto Canal
-http://77.54.145.209:81/play/a003/index.m3u8
-#EXTINF:0 tvg-id="sicradical.pt" group-title="Channels",SIC Radical
-http://77.54.145.209:81/play/a002/index.m3u8
-#EXTINF:0 tvg-id="sporttv1.pt" group-title="Channels",Sport TV 1
-http://77.54.145.209:81/play/a02v/index.m3u8
-#EXTINF:0 tvg-id="sporttv2.pt" group-title="Channels",Sport TV 2
-http://77.54.145.209:81/play/a02j/index.m3u8
-#EXTINF:0 tvg-id="sporttv3.pt" group-title="Channels",Sport TV 3
-http://77.54.145.209:81/play/a02n/index.m3u8
-#EXTINF:0 tvg-id="sporttv4.pt" group-title="Channels",Sport TV 4
-http://77.54.145.209:81/play/a02o/index.m3u8
-#EXTINF:0 tvg-id="sporttv5.pt" group-title="Channels",Sport TV 5
-http://77.54.145.209:81/play/a02c/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Sport TV NBA
-http://77.54.145.209:81/play/a017/index.m3u8
-#EXTINF:0 tvg-id="sporttv1.pt" group-title="Channels",Sport TV 1 HD
-http://77.54.145.209:81/play/a00s/index.m3u8
-#EXTINF:0 tvg-id="baltijos-lt" group-title="Channels",BTV
-http://77.54.145.209:81/play/a032/index.m3u8
-#EXTINF:0 tvg-id="SPORTINGTV.pt" group-title="Channels",Sporting TV
-http://77.54.145.209:81/play/a02e/index.m3u8
-#EXTINF:0 tvg-id="ElevenSports1.pl" group-title="Channels",Eleven Sports 1
-http://77.54.145.209:81/play/a03f/index.m3u8
-#EXTINF:0 tvg-id="ElevenSports2.pl" group-title="Channels",Eleven Sports 2
-http://77.54.145.209:81/play/a03d/index.m3u8
-#EXTINF:0 tvg-id="ElevenSports3.pl" group-title="Channels",Eleven Sports 3
-http://77.54.145.209:81/play/a00m/index.m3u8
-#EXTINF:0 tvg-id="disney" group-title="Channels",Disney Channel
-http://77.54.145.209:81/play/a01q/index.m3u8
-#EXTINF:0 tvg-id="canalpanda.pt" group-title="Channels",Canal Panda
-http://77.54.145.209:81/play/a031/index.m3u8
-#EXTINF:0 tvg-id="mgm-int" group-title="Channels",AMC
-http://77.54.145.209:81/play/a01t/index.m3u8
-#EXTINF:0 tvg-id="AXN.it" group-title="Channels",AXN HD
-http://77.54.145.209:81/play/a00w/index.m3u8
-#EXTINF:0 tvg-id="HistoryChannel.pt" group-title="Channels",Canal Historia
-http://77.54.145.209:81/play/a02s/index.m3u8
-#EXTINF:0 tvg-id="esp-int" group-title="Channels",Eurosport 1
-http://77.54.145.209:81/play/a02p/index.m3u8
-#EXTINF:0 tvg-id="cnn" group-title="Channels",CNN
-http://77.54.145.209:81/play/a027/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Canal 11 HD
-http://77.54.145.209:81/play/a03l/index.m3u8
+https://pastebin.com/raw/D3BJu2u4
+<channels>
+<channel>
+<name>[COLOR red]Tsport365[/COLOR]</name>
+<thumbnail>https://imgur.com/UcGIxsG.png</thumbnail>
+<externallink>https://pastebin.com/raw/D3BJu2u4</externallink>
+<fanart>https://ia601403.us.archive.org/25/items/fanart_20190909_1728/fanart.jpg</fanart>
+<info>[COLOR deeppink]|[/COLOR]- teste -[COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
