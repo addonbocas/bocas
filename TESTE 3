@@ -2,9 +2,9 @@
 
 <channels>
 <channel>
-<name>[COLOR red]sports tv[/COLOR]</name>
+<name>[COLOR red]arenavision[/COLOR]</name>
 <thumbnail>https://imgur.com/UcGIxsG.png</thumbnail>
-<externallink>https://pastebin.com/raw/S9y8vD3s</externallink>
+<externallink>https://raw.githubusercontent.com/rtfpessoa/sportsflix/master/lib/sportsflix/providers/arenavision.rb</externallink>
 <fanart>https://ia601403.us.archive.org/25/items/fanart_20190909_1728/fanart.jpg</fanart>
 <info>[COLOR deeppink]|[/COLOR]- teste -[COLOR deeppink]|[/COLOR]</info>
 </channel>
