@@ -1,13 +1,5 @@
 <item>
-<title>[B][COLOR white]AVENIDA BRASIL - 2012[/COLOR][/B] GDRIVE SUPERFLIX3 - teste</title>
-<link>ignoreme</link>
-<externallink>https://pastebin.com/raw/dGfzNt8g</externallink>
-<thumbnail>https://i.imgur.com/AGWoov9.jpg</thumbnail>
-<fanart>https://i.imgur.com/jzS5JSi.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR white]A Viagem - 1994[/COLOR]</title>
+<title>[COLOR yellow]A Viagem - 1994[/COLOR]</title>
 <link>ignoreme</link>
 <jsonrpc>Plugin://plugin.video.youtube/playlist/PLpPCywuBlnQSI_tqCazKKw05KlDgn1UZL/?page=0</jsonrpc>
 <thumbnail>https://upload.wikimedia.org/wikipedia/pt/thumb/5/5b/Novela_A_Viagem_1994.JPG/260px-Novela_A_Viagem_1994.JPG</thumbnail>
@@ -15,7 +7,7 @@
 </item>
  
 <item>
-<title>[COLOR white]A Escrava Isaura - 2004[/COLOR]</title>
+<title>[COLOR yellow]A Escrava Isaura - 2004[/COLOR]</title>
 <link>ignoreme</link>
 <jsonrpc>Plugin://plugin.video.youtube/playlist/PLeOnZXYbavuMU7_BQpDg42UtSCg_pThDI/?page=0</jsonrpc>
 <thumbnail>https://upload.wikimedia.org/wikipedia/pt/c/c3/CD_TRILHA_SONORA_ESCRAVA_ISAURA_%282004%29.jpg</thumbnail>
@@ -29,31 +21,9 @@
 <thumbnail>https://http2.mlstatic.com/novela-a-feia-mais-bela-300-capitulos-em-hd-38-dvds-frete-D_NQ_NP_787735-MLB26041151011_092017-F.jpg</thumbnail>
 <fanart>https://tevconectados.files.wordpress.com/2015/03/a-feia-mais-bela.jpg</fanart>
 </item>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-<item>
-<title>[B][COLOR white]A GATA COMEU - 1985 [/COLOR][/B] GDRIVE SUPERFLIX3</title>
-<link>ignoreme</link>
-<jsonrpc>https://pastebin.com/raw/e4y2JwdV</jsonrpc>
-<thumbnail>https://i.imgur.com/AaRU5lq.jpg</thumbnail>
-<fanart>https://i.imgur.com/o1mJgpi.jpg</fanart>
-</item>
-
-<item>
-<title>[B][COLOR white]A LEI DO AMOR - 2016 [/COLOR][/B] GDRIVE SUPERFLIX3</title>
-<link>ignoreme</link>
-<jsonrpc>https://pastebin.com/raw/Yw5w7Yfh</jsonrpc>
-<thumbnail>https://i.imgur.com/ycMAOHH.jpg</thumbnail>
-<fanart>https://i.imgur.com/ycMAOHH.jpg</fanart>
-</item>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
  
 <item>
-<title>[COLOR white]A Próxima Vítima - 1995[/COLOR]</title>
+<title>[COLOR yellow]A Próxima Vítima - 1995[/COLOR]</title>
 <link>ignoreme</link>
 <jsonrpc>Plugin://plugin.video.youtube/playlist/PLYYBrx4dOdoANho5ImcS3q5le3d993lcb/?page=0</jsonrpc>
 <thumbnail>https://upload.wikimedia.org/wikipedia/pt/thumb/b/b2/A_Pr%C3%B3xima_V%C3%ADtima_novela.jpg/260px-A_Pr%C3%B3xima_V%C3%ADtima_novela.jpg</thumbnail>
@@ -67,18 +37,9 @@
 <thumbnail>https://pbs.twimg.com/media/Dj8kz7YXsAEwuMa.jpg</thumbnail>
 <fanart>https://observatoriodatelevisao.bol.uol.com.br/wp-content/uploads/2019/03/a-que-nao-podia-amar.jpg</fanart>
 </item>
-
-
-<channel>
-<name>[B][COLOR white]A USURPADORA - 1998 [/B][/COLOR] GDRIVE SUPERFLIX3</name>
-<thumbnail>https://i.imgur.com/1DuTO04.jpg</thumbnail>
-<externallink>https://pastebin.com/raw/YJsBb3Q0</externallink>
-<fanart>https://i.imgur.com/XKIPV1t.jpg</fanart>
-<info>Sinopse: Acompanhe a história de gêmeas que foram criadas separadas e tiveram vidas totalmente opostas. Um dia, o destino as une novamente, criando um novo cotidiano cheio de surpresas.</info>
-</channel>
  
 <item>
-<title>[COLOR white]Alma Gêmea - 2005[/COLOR]</title>
+<title>[COLOR yellow]Alma Gêmea - 2005[/COLOR]</title>
 <link>ignoreme</link>
 <jsonrpc>Plugin://plugin.video.youtube/playlist/PLIjRzDkNY5LKD6M_eh3yAQxiljPjUvCP_/?page=0</jsonrpc>
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8iM0CfjjMjL89PUCyBFTLUi4QFSz3qn0CutzFLwRQ_7JVb5z2Pg</thumbnail>
@@ -87,32 +48,17 @@
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-
 <item>
-<title>[B][COLOR white]AS AVENTURAS DE POLIANA - 2018[/COLOR][/B]  SUPERFLIX3</title>
+<title>[B][COLOR lime]AS AVENTURAS DE POLIANA - 2018[/COLOR][/B]  SUPERFLIX3</title>
 <thumbnail>https://i.imgur.com/1RpK2fv.jpg</thumbnail>
 <externallink>https://pastebin.com/raw/ghtTFiQg</externallink>
 <fanart>https://i.imgur.com/nIyQB3E.jpg</fanart>
-<info>Sinopse: Poliana é uma menina amorosa que fica sozinha no mundo após a morte de seu pai. Uma assistente social a envia para a casa de uma tia distante, uma matriarca autoritária.</info>
 </item>
-
-
-<item>
-<title>[B][COLOR white]ALEM DO TEMPO - 2015 [/COLOR][/B] GDRIVE  SUPERFLIX3</title>
-<thumbnail>https://i.imgur.com/UNCa9r0.jpg</thumbnail>
-<externallink>https://pastebin.com/raw/d5K5Mhep</externallink>
-<fanart>https://i.imgur.com/bvyBXWf.jpg</fanart>
-<info>Sinopse: Além do Tempo" é uma novela essencialmente romântica, que tem como tema principal a espiritualidade. A trama se passa no século 19, na fictícia Campobello, no sul do país, e conta a história de amor  
-de Lívia e Felipe, que perdura por gerações.</info>
-</item>
-
-
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
  
 <item>
-<title>[COLOR white]América - 2005[/COLOR]</title>
+<title>[COLOR yellow]América - 2005[/COLOR]</title>
 <link>ignoreme</link>
 <jsonrpc>Plugin://plugin.video.youtube/playlist/PLmKmH6bU1Wzb0msiP39iYJrDRTsptnzom/?page=0</jsonrpc>
 <thumbnail>https://upload.wikimedia.org/wikipedia/pt/thumb/4/45/Am%C3%A9rica_Disco_Duplo_%282005%29.jpg/220px-Am%C3%A9rica_Disco_Duplo_%282005%29.jpg</thumbnail>
@@ -120,39 +66,16 @@ de Lívia e Felipe, que perdura por gerações.</info>
 </item>
  
 <item>
-<title>[COLOR white]Amor à Vida - 2013[/COLOR]</title>
+<title>[COLOR yellow]Amor à Vida - 2013[/COLOR]</title>
 <link>ignoreme</link>
 <jsonrpc>Plugin://plugin.video.youtube/playlist/PLVM3jqcngTr_7xLJcVOGXbWqrjRoU-HyJ/?page=0</jsonrpc>
 <thumbnail>https://upload.wikimedia.org/wikipedia/pt/thumb/d/d5/Amor_%C3%A0_Vida_Internacional.jpg/220px-Amor_%C3%A0_Vida_Internacional.jpg</thumbnail>
 <fanart>https://upload.wikimedia.org/wikipedia/pt/thumb/d/d5/Amor_%C3%A0_Vida_Internacional.jpg/220px-Amor_%C3%A0_Vida_Internacional.jpg</fanart>
 </item>
 
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-<channel>
-<name>[B][COLOR white]AVENIDA BRASIL - 2012[/COLOR][/B] GDRIVE SUPERFLIX3</name>
-<thumbnail>https://i.imgur.com/AGWoov9.jpg</thumbnail>
-<externallink>https://pastebin.com/raw/dGfzNt8g</externallink>
-<fanart>https://i.imgur.com/jzS5JSi.jpg</fanart>
-</channel>
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-<item>
-<title>[B][COLOR white]AVENIDA BRASIL - 2012[/COLOR][/B] GDRIVE SUPERFLIX3</title>
-<link>ignoreme</link>
-<externallink>https://raw.githubusercontent.com/addonbocas/bocas/master/AVENIDA%20BRASIL%20-%202012</externallink>
-<thumbnail>https://i.imgur.com/AGWoov9.jpg</thumbnail>
-<fanart>https://i.imgur.com/jzS5JSi.jpg</fanart>
-</item>
-
-
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
  
 <item>
-<title>[COLOR white]Barriga de Aluguel - 1990[/COLOR]</title>
+<title>[COLOR orange]Barriga de Aluguel - 1990[/COLOR]</title>
 <link>ignoreme</link>
 <jsonrpc>Plugin://plugin.video.youtube/playlist/PLiU1L51rkFSI1hWDlgmvAA5XxDFZk8pjK/?page=0</jsonrpc>
 <thumbnail>https://upload.wikimedia.org/wikipedia/pt/e/ec/%C3%81lbum_Barriga_de_Aluguel_-_Internacional.jpg</thumbnail>
@@ -160,7 +83,7 @@ de Lívia e Felipe, que perdura por gerações.</info>
 </item>
  
 <item>
-<title>[COLOR white]Betty a Feia - 1999[/COLOR]</title>
+<title>[COLOR orange]Betty a Feia - 1999[/COLOR]</title>
 <link>ignoreme</link>
 <jsonrpc>Plugin://plugin.video.youtube/user/novelabettyafeia/</jsonrpc>
 <thumbnail>https://upload.wikimedia.org/wikipedia/pt/thumb/b/b5/Yo_soy_Betty%2C_la_fea.jpg/250px-Yo_soy_Betty%2C_la_fea.jpg</thumbnail>
@@ -168,24 +91,37 @@ de Lívia e Felipe, que perdura por gerações.</info>
 </item>
  
 <item>
-<title>[COLOR white]Cabloca - 2004[/COLOR]</title>
+<title>[COLOR yellow]Cabloca - 2004[/COLOR]</title>
 <link>ignoreme</link>
 <jsonrpc>Plugin://plugin.video.youtube/playlist/PLxmLYSscou_MmzSRr8VJ1r_4dEoLh4uIG/?page=0</jsonrpc>
 <thumbnail>https://upload.wikimedia.org/wikipedia/pt/thumb/7/7f/Cabocla04t1-300x300.jpg/220px-Cabocla04t1-300x300.jpg</thumbnail>
 <fanart>https://upload.wikimedia.org/wikipedia/pt/thumb/7/7f/Cabocla04t1-300x300.jpg/220px-Cabocla04t1-300x300.jpg</fanart>
 </item>
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-<channel>
-<name>[B][COLOR white]CANAVIAL DE PAIXÃO - 2003[/COLOR][/B]</name>
-<thumbnail>https://upload.wikimedia.org/wikipedia/pt/f/fb/Canavial_de_Paix%C3%B5es.jpg</thumbnail>
-<externallink>https://pastebin.com/raw/zpNjFMjN</externallink>
-<fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Fasanovictor13122006.jpg/170px-Fasanovictor13122006.jpg</fanart>
-<info>Sinopse: O povoado de São Bento dos Canaviais é cenário de encontros e desencontros, intrigas e amores.</info>
-</channel>
 
 <item>
-<title>[COLOR white]Canavial de Paixões - 2003[/COLOR]</title>
+<title>[COLOR yellow]CAMBALACHO[/COLOR][COLOR lime] 26EP[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLiU1L51rkFSJG5xoU7_czDFIdx9exFIQj/?page=0</jsonrpc>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR lime]CANAVIAL DE PAIXÃO - 2003[/COLOR][/B] teste</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLAGKzE94xITU0ZOUzZLw9mkDHVQsp2vjW/?page=0</jsonrpc>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/f/fb/Canavial_de_Paix%C3%B5es.jpg</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Fasanovictor13122006.jpg/170px-Fasanovictor13122006.jpg</fanart>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+
+
+<item>
+<title>[COLOR yellow]Canavial de Paixões - 2003[/COLOR]</title>
 <link>ignoreme</link>
 <jsonrpc>Plugin://plugin.video.youtube/playlist/PL4XZQcg1l23eGuAkq8QSrknNapkGtyCTg/?page=0</jsonrpc>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Fasanovictor13122006.jpg/170px-Fasanovictor13122006.jpg</thumbnail>
@@ -194,7 +130,7 @@ de Lívia e Felipe, que perdura por gerações.</info>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <item>
-<title>[COLOR white]Cara & Coroa - 1995[/COLOR]</title>
+<title>[COLOR yellow]Cara & Coroa - 1995[/COLOR]</title>
 <link>ignoreme</link>
 <jsonrpc>Plugin://plugin.video.youtube/playlist/PL2jYBA7iQQfaruWDlsmJuqbtz788o1DhB/?page=0</jsonrpc>
 <thumbnail>https://upload.wikimedia.org/wikipedia/pt/e/ec/Cara_%26_Coroa_-_internacional.jpg</thumbnail>
@@ -202,16 +138,23 @@ de Lívia e Felipe, que perdura por gerações.</info>
 </item>
  
 <item>
-<title>[COLOR white]Cristal - 2006[/COLOR]</title>
+<title>[COLOR yellow]Cristal - 2006[/COLOR]</title>
 <link>ignoreme</link>
 <jsonrpc>Plugin://plugin.video.youtube/playlist/PLOa72JP04KcP_jqZXh8NyLtEecUwpH-Ic/?page=0</jsonrpc>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BYTU5ZjRmOWEtOTEyNC00M2MzLWEzNzAtZmYxY2NiNDUwY2NlXkEyXkFqcGdeQXVyODU3Mjg3ODU@._V1_.jpg</thumbnail>
 <fanart>https://m.media-amazon.com/images/M/MV5BYTU5ZjRmOWEtOTEyNC00M2MzLWEzNzAtZmYxY2NiNDUwY2NlXkEyXkFqcGdeQXVyODU3Mjg3ODU@._V1_.jpg</fanart>
 </item>
  
+<item>
+<title>[COLOR yellow]CHOCOLATE COM PIMENTA[/COLOR][COLOR lime] 26EP[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLiU1L51rkFSJPyht-aTrQty2JsqwK-b1t/?page=0</jsonrpc>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
 
 <item>
-<title>[COLOR yellow]CHOCOLATE COM PIMENTA[/COLOR]</title>
+<title>[COLOR yellow]CHOCOLATE COM PIMENTA[/COLOR] COMPLETO</title>
 <link>ignoreme</link>
 <jsonrpc>Plugin://plugin.video.youtube/playlist/PLdmQPzsMCDtDLzrPxVjDj8skmnmBtV7YY/?page=0</jsonrpc>
 <thumbnail>https://upload.wikimedia.org/wikipedia/pt/thumb/f/fc/%C3%81lbum_Chocolate_com_Pimenta_Nacional.jpg/220px-%C3%81lbum_Chocolate_com_Pimenta_Nacional.jpg</thumbnail>
@@ -219,7 +162,7 @@ de Lívia e Felipe, que perdura por gerações.</info>
 </item>
  
 <item>
-<title>[COLOR white]Coração de Estudante - 2002[/COLOR]</title>
+<title>[COLOR yellow]Coração de Estudante - 2002[/COLOR]</title>
 <link>ignoreme</link>
 <jsonrpc>Plugin://plugin.video.youtube/playlist/PLiU1L51rkFSJiw6ambHUvoFd9x4z_FFPm/?page=0</jsonrpc>
 <thumbnail>https://upload.wikimedia.org/wikipedia/pt/thumb/6/6f/Cora%C3%A7%C3%A3o_de_Estudante_Volume_1.jpg/220px-Cora%C3%A7%C3%A3o_de_Estudante_Volume_1.jpg</thumbnail>
@@ -227,7 +170,7 @@ de Lívia e Felipe, que perdura por gerações.</info>
 </item>
 
 <channel>
-<name>[B][COLOR white]CORAÇÃO INDOMAVEL - 2013[/COLOR][/B]</name>
+<name>[B][COLOR yellow]CORAÇÃO INDOMAVEL - 2013[/COLOR][/B]</name>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/d/de/Coraz%C3%B3n_indomable-Televisa.jpg</thumbnail>
 <externallink>https://pastebin.com/raw/tBRG0Z2S</externallink>
 <fanart>https://upload.wikimedia.org/wikipedia/en/d/de/Coraz%C3%B3n_indomable-Televisa.jpg</fanart>
@@ -236,7 +179,7 @@ alta sociedade.</info>
 </channel>
  
 <item>
-<title>[COLOR white]Dona Beija - 1986[/COLOR]</title>
+<title>[COLOR orange]Dona Beija - 1986[/COLOR]</title>
 <link>ignoreme</link>
 <jsonrpc>Plugin://plugin.video.youtube/playlist/PLmKmH6bU1WzamhwFk43XIiR_R9xvhyo_u/?page=0</jsonrpc>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/8/8a/Maite_Proenca_cropped_2.jpg</thumbnail>
@@ -244,7 +187,7 @@ alta sociedade.</info>
 </item>
  
 <item>
-<title>[COLOR white]Duas Caras - 2008[/COLOR]</title>
+<title>[COLOR orange]Duas Caras - 2008[/COLOR]</title>
 <link>ignoreme</link>
 <jsonrpc>Plugin://plugin.video.youtube/playlist/PLqEcPsWKdBwTQwqqGwdkIZut_cmueRgKV/?page=0</jsonrpc>
 <thumbnail>https://upload.wikimedia.org/wikipedia/pt/thumb/b/b5/Duascaraslogotipo2.jpg/260px-Duascaraslogotipo2.jpg</thumbnail>
@@ -252,15 +195,23 @@ alta sociedade.</info>
 </item>
  
 <item>
-<title>[COLOR white]Era Uma Vez  - 1998[/COLOR]</title>
+<title>[COLOR yellow]Era Uma Vez  - 1998[/COLOR] 129EP</title>
 <link>ignoreme</link>
 <jsonrpc>Plugin://plugin.video.youtube/playlist/PLiU1L51rkFSLxaMt6DGAvTUt24Lkm37hS/?page=0</jsonrpc>
 <thumbnail>https://upload.wikimedia.org/wikipedia/pt/thumb/b/b5/Eraumavezt2-300x300.jpg/220px-Eraumavezt2-300x300.jpg</thumbnail>
 <fanart>https://upload.wikimedia.org/wikipedia/pt/thumb/0/0c/Era_Uma_Vez..._%28telenovela%29.jpg/250px-Era_Uma_Vez..._%28telenovela%29.jpg</fanart>
 </item>
+
+<item>
+<title>[COLOR orange]FELICIDADE[/COLOR][COLOR lime] 17EP[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLiU1L51rkFSIaLOtsGjD-Nf9kTHM6jscq/?page=0</jsonrpc>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
  
 <item>
-<title>[COLOR white]Felicidade - 1991[/COLOR]</title>
+<title>[COLOR orange]Felicidade - 1991[/COLOR] COMPLETO</title>
 <link>ignoreme</link>
 <jsonrpc>Plugin://plugin.video.youtube/playlist/PLWiuFWNI21oIvQUdZukvUSHfO6f-a7SGE/?page=0</jsonrpc>
 <thumbnail>https://upload.wikimedia.org/wikipedia/pt/f/fc/Felicidade_-_Trilha_Sonora_Nacional.jpg</thumbnail>
@@ -268,7 +219,7 @@ alta sociedade.</info>
 </item>
  
 <item>
-<title>[COLOR white]Fascinação - 1998[/COLOR]</title>
+<title>[COLOR orange]Fascinação - 1998[/COLOR]</title>
 <link>ignoreme</link>
 <jsonrpc>Plugin://plugin.video.youtube/playlist/PLWyFP69iQ_2Odmf2Gq-Vi5zs3cwbLsQd7/?page=0</jsonrpc>
 <thumbnail>https://upload.wikimedia.org/wikipedia/pt/f/f6/%C3%81lbum_Temas_musicais_da_novela_Fascina%C3%A7%C3%A3o.jpg</thumbnail>
@@ -276,7 +227,7 @@ alta sociedade.</info>
 </item>
  
 <item>
-<title>[COLOR white]Guadalupe - 1993[/COLOR]</title>
+<title>[COLOR yellow]Guadalupe - 1993[/COLOR]</title>
 <link>ignoreme</link>
 <jsonrpc>Plugin://plugin.video.youtube/playlist/PLmKmH6bU1WzY4PIlPeI2LSK7uEq-qri_0/?page=0</jsonrpc>
 <thumbnail>https://alchetron.com/cdn/guadalupe-telenovela-326d205f-5e20-41ae-b0b6-add5c94d55f-resize-750.jpeg</thumbnail>
@@ -284,7 +235,7 @@ alta sociedade.</info>
 </item>
 
 <item>
-<title>[COLOR yellow][B]Irmãos Coragem-1970[/B][/COLOR]</title>
+<title>[COLOR orange][B]Irmãos Coragem-1970[/B][/COLOR]</title>
 <link>ignoreme</link>
 <jsonrpc>Plugin://plugin.video.youtube/playlist/PLgPkLmK5XZjvNXrhySTxWmDQ4yK5pSsaR/?page=0</jsonrpc>
 <thumbnail>https://i.pinimg.com/originals/93/68/ae/9368aec54996eae1cf552dec0224d254.jpg</thumbnail>
@@ -300,7 +251,7 @@ alta sociedade.</info>
 </item>
  
 <item>
-<title>[COLOR white]Marisol - 2002[/COLOR]</title>
+<title>[COLOR yellow]Marisol - 2002[/COLOR]</title>
 <link>ignoreme</link>
 <jsonrpc>Plugin://plugin.video.youtube/playlist/PLAGKzE94xITVoU3XXnwNXss2YlG-3Uilr/?page=0</jsonrpc>
 <thumbnail>https://upload.wikimedia.org/wikipedia/pt/5/50/CD_Marisol.jpg</thumbnail>
@@ -308,62 +259,43 @@ alta sociedade.</info>
 </item>
 
 <item>
-<title>[COLOR yellow][B]O Clone[/B][/COLOR]</title>
+<title>[COLOR yellow]MULHERES APAIXONADAS[/COLOR][COLOR lime] 30EP[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLiU1L51rkFSIlC8wVL5CyoHsoCzW0fW7r/?page=0</jsonrpc>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR orange][B]O Clone[/B][/COLOR]</title>
 <link>ignoreme</link>
 <jsonrpc>Plugin://plugin.video.youtube/playlist/PLQfeL70bnZBoRAgOruIUcmfIDXBsj4J97/?page=0</jsonrpc>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMTk0NTgxMzU3Nl5BMl5BanBnXkFtZTgwNTE5NDY4OTE@._V1_.jpg</thumbnail>
 <fanart>https://telepadi.folha.uol.com.br/wp-content/uploads/2019/05/x1080-mzj-1140x545.jpg</fanart>
 </item>
 
+<item>
+<title>[COLOR orange]O REI SOU EU[/COLOR][COLOR lime] 29EP[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLiU1L51rkFSLN7Mek7IZwfIxw3Vgm9vf8/?page=0</jsonrpc>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
 
-<channel>
-<name>[B][COLOR white]O CRAVO E A ROSA - 2000[/COLOR][/B]</name>
-<thumbnail>https://i.imgur.com/OeXitTN.jpg</thumbnail>
-<externallink>https://pastebin.com/raw/zxFAFxLD</externallink>
-<fanart>https://i.imgur.com/sMWae8D.jpg</fanart>
-<info>Sinopse: A novela é ambientada na São Paulo dos anos 1920 e narra o conflituado romance entre o rude caipira Julião Petruchio e a geniosa Catarina, moça com ideias feministas e a filha mais velha do banqueiro  
-Nicanor Batista.</info>
-</channel>
-
-
-<channel>
-<name>[B][COLOR white]O OUTRO LADO DO PARAIZO - 2017 [/COLOR][/B]</name>
-<thumbnail>https://i.imgur.com/c6xNzE6.jpg</thumbnail>
-<externallink>https://pastebin.com/raw/WKdkRA3G</externallink>
-<fanart>https://i.imgur.com/ZVUh7SW.jpg</fanart>
-<info>Sinopse: Clara vive no Jalapão com o avô e se apaixona por Gael, herdeiro de uma família de Palmas. O rapaz se revela um homem muito agressivo e torna a vida dela um inferno. Sua sogra, uma mulher  
-manipuladora, tenta fazer com que Clara seja compreensiva.</info>
-</channel>
-
-<channel>
-<name>[B][COLOR white]O REI DO GADO - 1996[/COLOR][/B]</name>
-<thumbnail>https://i.imgur.com/yXfbDbY.jpg</thumbnail>
-<externallink>https://pastebin.com/raw/HmVRG29e</externallink>
-<fanart>https://i.imgur.com/Kxf0Dun.jpg</fanart>
-<info>Sinopse: Sinopse: O Bruno tem um romance com Luana, ambos descendentes de duas famílias de imigrantes italianos rivais, os Mezenga e os Berdinazi, que fizeram fortuna no Brasil com criação de gado e  
-plantações de café, respectivamente.</info>
-</channel>
-
-<channel>
-<name>[B][COLOR white]O SÉTIMO GUARDIÃO - 2018[/COLOR][/B]</name>
-<thumbnail>https://i.imgur.com/Wj3pBQg.jpg</thumbnail>
-<externallink>https://pastebin.com/raw/Zz4FvXkF</externallink>
-<fanart>https://i.imgur.com/2XZwt4u.jpg</fanart>
-<info>Sinopse: Sinopse: Uma pequena cidade possui uma fonte com propriedades curativas e rejuvenescedoras, protegida por sete guardiães que garantem sua segurança. Quando o poderoso gato Léon desaparece, todos  
-temem que ele tenha ido atrás de um substituto do guardião-mor.</info>
-</channel>
-
-<channel>
-<name>[B][COLOR white]OS MUTANTES: CAMINHOS DO CORAÇÃO - 2008 [/COLOR][/B]</name>
-<thumbnail>https://i.imgur.com/JOUXzeB.jpg</thumbnail>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR lime]OS MUTANTES: CAMINHOS DO CORAÇÃO - 2008 [/COLOR][/B] teste</title>
+<link>ignoreme</link>
 <externallink>https://pastebin.com/raw/Y97A37cJ</externallink>
+<thumbnail>https://i.imgur.com/JOUXzeB.jpg</thumbnail>
 <fanart>https://i.imgur.com/qqDxtru.jpg</fanart>
-<info>Sinopse: As mutações perigosas continuam a se espalhar pela sociedade, que transformam homens e mulheres em vampiros, felinos, serpentes e lobisomens, atacando nas ruas de São Paulo, além de ter boatos de  
-abduções entre algumas pessoas.</info>
-</channel>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
  
 <item>
-<title>[COLOR white]Olho No Olho - 1993[/COLOR]</title>
+<title>[COLOR orange]Olho No Olho - 1993[/COLOR]</title>
 <link>ignoreme</link>
 <jsonrpc>Plugin://plugin.video.youtube/playlist/PLEDC7311507005C7E/?page=0</jsonrpc>
 <thumbnail>https://upload.wikimedia.org/wikipedia/pt/thumb/9/9e/Olho_no_Olho_-_nacional.jpg/220px-Olho_no_Olho_-_nacional.jpg</thumbnail>
@@ -371,7 +303,7 @@ abduções entre algumas pessoas.</info>
 </item>
  
 <item>
-<title>[COLOR white]O Salvador da Pátria - 1989[/COLOR]</title>
+<title>[COLOR orange]O Salvador da Pátria - 1989[/COLOR]</title>
 <link>ignoreme</link>
 <jsonrpc>Plugin://plugin.video.youtube/playlist/PLFkIs0kLfH6c-VnDzmEttnG_JSryX7X6V/?page=0</jsonrpc>
 <thumbnail>https://upload.wikimedia.org/wikipedia/pt/7/76/OSalvadorDaPatriaInternacional.jpg</thumbnail>
@@ -379,7 +311,7 @@ abduções entre algumas pessoas.</info>
 </item>
  
 <item>
-<title>[COLOR white]Pantanal - 1990[/COLOR]</title>
+<title>[COLOR yellow]Pantanal - 1990[/COLOR]</title>
 <link>ignoreme</link>
 <jsonrpc>Plugin://plugin.video.youtube/playlist/PLVi7P8qHWU7ptmPvHS9WfSKT-zMCE7cDi/?page=0</jsonrpc>
 <thumbnail>https://upload.wikimedia.org/wikipedia/pt/3/3a/Novela_Pantanal_%282008%29.jpg</thumbnail>
@@ -387,23 +319,31 @@ abduções entre algumas pessoas.</info>
 </item>
  
 <item>
-<title>[COLOR white]Paraíso Tropical - 2007[/COLOR]</title>
+<title>[COLOR yellow]Paraíso Tropical - 2007[/COLOR]</title>
 <link>ignoreme</link>
 <jsonrpc>Plugin://plugin.video.youtube/playlist/PLcZVB9jUoNq7fta7B73CCP0TO85mcthuV/?page=0</jsonrpc>
 <thumbnail>https://upload.wikimedia.org/wikipedia/pt/7/75/Para%C3%ADso_Tropical_Globo.jpg</thumbnail>
 <fanart>https://upload.wikimedia.org/wikipedia/pt/7/75/Para%C3%ADso_Tropical_Globo.jpg</fanart>
 </item>
+
+<item>
+<title>[COLOR yellow]PERIGOSAS PERUAS[/COLOR][COLOR lime] 86EP[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLiU1L51rkFSIwKGcC1bLLkTveV0-wsX_5/?page=0</jsonrpc>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
  
 <item>
-<title>[COLOR white]Que Rei sou Eu ? - 1989[/COLOR]</title>
+<title>[COLOR orange]Que Rei sou Eu ? - 1989[/COLOR]</title>
 <link>ignoreme</link>
 <jsonrpc>Plugin://plugin.video.youtube/playlist/PLcZVB9jUoNq6nAaWIeMVPE6Kd87rMN6hD/?page=0</jsonrpc>
 <thumbnail>https://upload.wikimedia.org/wikipedia/pt/8/80/Que_Rei_Sou_Eu%3F.jpg</thumbnail>
 <fanart>https://upload.wikimedia.org/wikipedia/pt/8/80/Que_Rei_Sou_Eu%3F.jpg</fanart>
 </item>
- 
+
 <item>
-<title>[COLOR white]Quem é Você - 1996[/COLOR]</title>
+<title>[COLOR orange]Quem é Você - 1996[/COLOR] 90EP</title>
 <link>ignoreme</link>
 <jsonrpc>Plugin://plugin.video.youtube/playlist/PLiU1L51rkFSICc3OVxA7cbvsin7we14Og/?page=0</jsonrpc>
 <thumbnail>https://upload.wikimedia.org/wikipedia/pt/thumb/2/2a/Quemt2-300x300.jpg/220px-Quemt2-300x300.jpg</thumbnail>
@@ -411,7 +351,7 @@ abduções entre algumas pessoas.</info>
 </item>
  
 <item>
-<title>[COLOR white]Quatro por Quatro - 1994[/COLOR]</title>
+<title>[COLOR orange]Quatro por Quatro - 1994[/COLOR] 63EP</title>
 <link>ignoreme</link>
 <jsonrpc>Plugin://plugin.video.youtube/playlist/PLiU1L51rkFSLcjh8Jg5yUoSKEFVGPZmeP/?page=0</jsonrpc>
 <thumbnail>https://upload.wikimedia.org/wikipedia/pt/thumb/4/46/Quatro-porquatro-internacional.jpg/220px-Quatro-porquatro-internacional.jpg</thumbnail>
@@ -427,7 +367,7 @@ abduções entre algumas pessoas.</info>
 </item>
  
 <item>
-<title>[COLOR white]Roque Santeiro - 1985[/COLOR]</title>
+<title>[COLOR yellow]Roque Santeiro - 1985[/COLOR]</title>
 <link>ignoreme</link>
 <jsonrpc>Plugin://plugin.video.youtube/playlist/PLiU1L51rkFSJpKwmSlWPxPxC4yQOt9QL1/?page=0</jsonrpc>
 <thumbnail>https://upload.wikimedia.org/wikipedia/pt/thumb/6/61/Roque_santeiro_vol2_%28Custom%29.jpg/220px-Roque_santeiro_vol2_%28Custom%29.jpg</thumbnail>
@@ -435,7 +375,7 @@ abduções entre algumas pessoas.</info>
 </item>
  
 <item>
-<title>[COLOR white]Rebelde México- 2011 - Temporada 1[/COLOR]</title>
+<title>[COLOR yellow]Rebelde México- 2011 - Temporada 1[/COLOR]</title>
 <link>ignoreme</link>
 <jsonrpc>Plugin://plugin.video.youtube/playlist/PL8YwOLzXJIM9wMcsX82dwWBpeSP7qr8pe/?page=0</jsonrpc>
 <thumbnail>https://upload.wikimedia.org/wikipedia/pt/d/df/Elenco_de_Rebelde_%28telenovela_brasileira%29.jpeg</thumbnail>
@@ -443,7 +383,7 @@ abduções entre algumas pessoas.</info>
 </item>
  
 <item>
-<title>[COLOR white]Rebelde Brasil - 2011[/COLOR]</title>
+<title>[COLOR yellow]Rebelde Brasil - 2011[/COLOR]</title>
 <link>ignoreme</link>
 <jsonrpc>Plugin://plugin.video.youtube/playlist/PL8YwOLzXJIM8lYW9TdQEyqUJCQ9aKRRYw/?page=0</jsonrpc>
 <thumbnail>https://upload.wikimedia.org/wikipedia/pt/b/bf/Rebeldes_%28CD%29.jpg</thumbnail>
@@ -451,139 +391,11 @@ abduções entre algumas pessoas.</info>
 </item>
  
 <item>
-<title>[COLOR white]Renascer - 1993[/COLOR]</title>
+<title>[COLOR yellow]Renascer - 1993[/COLOR] 97EP</title>
 <link>ignoreme</link>
 <jsonrpc>Plugin://plugin.video.youtube/playlist/PLiU1L51rkFSL82clDEkJ71QkPd28QA5E-/?page=0</jsonrpc>
 <thumbnail>https://upload.wikimedia.org/wikipedia/pt/thumb/8/81/Renascert1-300x300.jpg/220px-Renascert1-300x300.jpg</thumbnail>
 <fanart>https://upload.wikimedia.org/wikipedia/pt/6/6f/Logotipo_de_Renascer.png</fanart>
-</item>
-
-<channel>
-<name>[B][COLOR white]REI DAVI - 2012[/COLOR][/B]</name>
-<thumbnail>https://i.imgur.com/r9R27vr.jpg</thumbnail>
-<externallink>https://pastebin.com/raw/W6AMnSz7</externallink>
-<fanart>https://i.imgur.com/DnQJ0CC.jpg</fanart>
-<info>Sinopse: Inspirada em uma das mais lindas e conturbadoras passagens da Bíblia, a minissérie retrata a vida de um homem polêmico, um herói valente e destemido, senhor da guerra, libertador de seu povo e, ao  
-mesmo tempo, um artista generoso e sensível, poeta, músico e amigo de Deus. Uma história de fé e coragem, que mostra como um humilde pastor de ovelhas derrotou o temível gigante Golias e transformou as doze  
-tribos de Israel em uma nação forte e respeitada. É também a história de um amor proibido e de suas consequências devastadoras.</info>
-</channel>
- 
-<item>
-<title>[COLOR white]Uga Uga - 2000[/COLOR]</title>
-<link>ignoreme</link>
-<jsonrpc>Plugin://plugin.video.youtube/playlist/PLq5y_WWxBzSDDYdy7O1IpYQRAyqy1yZUP/?page=0</jsonrpc>
-<thumbnail>https://upload.wikimedia.org/wikipedia/pt/thumb/2/21/Ugauga-internacional.jpg/220px-Ugauga-internacional.jpg</thumbnail>
-<fanart>https://upload.wikimedia.org/wikipedia/pt/thumb/2/21/Ugauga-internacional.jpg/220px-Ugauga-internacional.jpg</fanart>
-</item>
- 
-<item>
-<title>[COLOR white]Vamp - 1991[/COLOR]</title>
-<link>ignoreme</link>
-<jsonrpc>Plugin://plugin.video.youtube/playlist/PLjQJBMz1RjAHkms6EkpWH-0Uj73yt2TDS/?page=0</jsonrpc>
-<thumbnail>https://upload.wikimedia.org/wikipedia/pt/thumb/e/ef/Novela_Vamp_1991.JPG/260px-Novela_Vamp_1991.JPG</thumbnail>
-<fanart>https://upload.wikimedia.org/wikipedia/pt/thumb/e/ef/Novela_Vamp_1991.JPG/260px-Novela_Vamp_1991.JPG</fanart>
-</item>
-
-<item>
-<title>[COLOR yellow]XICA DA SILVA[/COLOR]</title>  
-<link>ignoreme</link>
-<jsonrpc>Plugin://plugin.video.youtube/playlist/PLcZVB9jUoNq76kXfo_hCu1W3Nmva3zBCR/?page=0</jsonrpc>
-<thumbnail>https://www.sonhosesons.com.br/media/com_eshop/products/resized/xica_da_silva____4faabb1050389-500x500.jpg</thumbnail>
-<fanart>http://www.tvhistoria.com.br/images/upload/110816-xicadasilva-imagem1.jpg</fanart>
-</item>
-
-<channel>
-<name>[B][COLOR white]Z4 - 2018[/COLOR][/B]</name>
-<thumbnail>https://i.imgur.com/WjNXXQo.jpg</thumbnail>
-<externallink>https://pastebin.com/raw/7XiXCAM8</externallink>
-<fanart>https://i.imgur.com/475YV9x.jpg</fanart>
-<info>Sinopse: Decidido à montar uma banda de sucesso, Zé Toledo encontra os garotos Paulo, Luca, Enzo e Rafael e utiliza de seus talentos individuais para montar um grupo perfeito. E o que poderia dar errado em uma  
-banda com carisma e grandes músicas</info>
-</channel>
-
-<item>
-<title>[COLOR lime]Sai de Baixo - Episódios Variados[/COLOR]</title>
-<link>ignoreme</link>
-<jsonrpc>Plugin://plugin.video.youtube/playlist/PL_vrs1RBRwm9BP0927nKd7bZPpYh0-FyY/?page=0</jsonrpc>
-<thumbnail>https://i.imgur.com/hVtC5br.png</thumbnail>
-<fanart>https://i.imgur.com/OO7t7xt.jpg</fanart>
-</item>
-
-
-
-
-
-
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-
-
-
-
-<item>
-<title>[COLOR yellow]XICA DA SILVA[/COLOR][COLOR lime] 26EP[/COLOR]</title>
-<link>ignorme</link>
-<jsonrpc>Plugin://plugin.video.youtube/playlist/PLiU1L51rkFSKREbsz41a-DChKBYx7OrL4/?page=0</jsonrpc>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>[COLOR yellow]CHOCOLATE COM PIMENTA[/COLOR][COLOR lime] 26EP[/COLOR]</title>
-<link>ignorme</link>
-<jsonrpc>Plugin://plugin.video.youtube/playlist/PLiU1L51rkFSJPyht-aTrQty2JsqwK-b1t/?page=0</jsonrpc>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>[COLOR yellow]CAMBALACHO[/COLOR][COLOR lime] 26EP[/COLOR]</title>
-<link>ignorme</link>
-<jsonrpc>Plugin://plugin.video.youtube/playlist/PLiU1L51rkFSJG5xoU7_czDFIdx9exFIQj/?page=0</jsonrpc>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>[COLOR yellow]CORAÇÃO DE ESTUDANTE[/COLOR][COLOR lime] 96EP[/COLOR]</title>
-<link>ignorme</link>
-<jsonrpc>Plugin://plugin.video.youtube/playlist/PLiU1L51rkFSJiw6ambHUvoFd9x4z_FFPm/?page=0</jsonrpc>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>[COLOR yellow]O REI SOU EU[/COLOR][COLOR lime] 29EP[/COLOR]</title>
-<link>ignorme</link>
-<jsonrpc>Plugin://plugin.video.youtube/playlist/PLiU1L51rkFSLN7Mek7IZwfIxw3Vgm9vf8/?page=0</jsonrpc>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>[COLOR yellow]MULHERES APAIXONADAS[/COLOR][COLOR lime] 30EP[/COLOR]</title>
-<link>ignorme</link>
-<jsonrpc>Plugin://plugin.video.youtube/playlist/PLiU1L51rkFSIlC8wVL5CyoHsoCzW0fW7r/?page=0</jsonrpc>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>[COLOR yellow]FELICIDADE[/COLOR][COLOR lime] 17EP[/COLOR]</title>
-<link>ignorme</link>
-<jsonrpc>Plugin://plugin.video.youtube/playlist/PLiU1L51rkFSIaLOtsGjD-Nf9kTHM6jscq/?page=0</jsonrpc>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>[COLOR yellow]RENASCER[/COLOR][COLOR lime] 97EP[/COLOR]</title>
-<link>ignorme</link>
-<jsonrpc>Plugin://plugin.video.youtube/playlist/PLiU1L51rkFSL82clDEkJ71QkPd28QA5E-/?page=0</jsonrpc>
-<thumbnail></thumbnail>
-<fanart></fanart>
 </item>
 
 <item>
@@ -595,41 +407,82 @@ banda com carisma e grandes músicas</info>
 </item>
 
 <item>
-<title>[COLOR yellow]QUATRO POR QUATRO[/COLOR][COLOR lime] 63EP[/COLOR]</title>
-<link>ignorme</link>
-<jsonrpc>Plugin://plugin.video.youtube/playlist/PLiU1L51rkFSLcjh8Jg5yUoSKEFVGPZmeP/?page=0</jsonrpc>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<title>[COLOR lime]Sai de Baixo - Episódios Variados[/COLOR]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PL_vrs1RBRwm9BP0927nKd7bZPpYh0-FyY/?page=0</jsonrpc>
+<thumbnail>https://i.imgur.com/hVtC5br.png</thumbnail>
+<fanart>https://i.imgur.com/OO7t7xt.jpg</fanart>
 </item>
-
+ 
 <item>
-<title>[COLOR yellow]ERA UMA VEZ[/COLOR][COLOR lime] 129EP[/COLOR]</title>
-<link>ignorme</link>
-<jsonrpc>Plugin://plugin.video.youtube/playlist/PLiU1L51rkFSLxaMt6DGAvTUt24Lkm37hS/?page=0</jsonrpc>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<title>[COLOR orange]Uga Uga - 2000[/COLOR]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLq5y_WWxBzSDDYdy7O1IpYQRAyqy1yZUP/?page=0</jsonrpc>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/thumb/2/21/Ugauga-internacional.jpg/220px-Ugauga-internacional.jpg</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/pt/thumb/2/21/Ugauga-internacional.jpg/220px-Ugauga-internacional.jpg</fanart>
 </item>
-
+ 
 <item>
-<title>[COLOR yellow]PERIGOSAS PERUAS[/COLOR][COLOR lime] 86EP[/COLOR]</title>
-<link>ignorme</link>
-<jsonrpc>Plugin://plugin.video.youtube/playlist/PLiU1L51rkFSIwKGcC1bLLkTveV0-wsX_5/?page=0</jsonrpc>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>[COLOR yellow]QUEM É VOCÊ[/COLOR][COLOR lime] 90EP[/COLOR]</title>
-<link>ignorme</link>
-<jsonrpc>Plugin://plugin.video.youtube/playlist/PLiU1L51rkFSICc3OVxA7cbvsin7we14Og/?page=0</jsonrpc>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>[COLOR yellow]VAMP[/COLOR][COLOR lime] 178EP[/COLOR]</title>
-<link>ignorme</link>
+<title>[COLOR yellow]Vamp - 1991[/COLOR] 178EP</title>
+<link>ignoreme</link>
 <jsonrpc>Plugin://plugin.video.youtube/playlist/PLjQJBMz1RjAHkms6EkpWH-0Uj73yt2TDS/?page=0</jsonrpc>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/thumb/e/ef/Novela_Vamp_1991.JPG/260px-Novela_Vamp_1991.JPG</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/pt/thumb/e/ef/Novela_Vamp_1991.JPG/260px-Novela_Vamp_1991.JPG</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]XICA DA SILVA[/COLOR][COLOR lime] 26EP[/COLOR] ORIGINAL</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLiU1L51rkFSKREbsz41a-DChKBYx7OrL4/?page=0</jsonrpc>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
+
+<item>
+<title>[COLOR orange]XICA DA SILVA[/COLOR] ESPANHOL (COMPLETO)</title>  
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLcZVB9jUoNq76kXfo_hCu1W3Nmva3zBCR/?page=0</jsonrpc>
+<thumbnail>https://www.sonhosesons.com.br/media/com_eshop/products/resized/xica_da_silva____4faabb1050389-500x500.jpg</thumbnail>
+<fanart>http://www.tvhistoria.com.br/images/upload/110816-xicadasilva-imagem1.jpg</fanart>
+</item>
+
+
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
