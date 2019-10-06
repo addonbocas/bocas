@@ -233,8 +233,8 @@ alta sociedade.</info>
 <title>[COLOR yellow]MULHERES APAIXONADAS[/COLOR] 2003</title>
 <link>ignorme</link>
 <jsonrpc>Plugin://plugin.video.youtube/playlist/PLiU1L51rkFSIlC8wVL5CyoHsoCzW0fW7r/?page=0</jsonrpc>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/7/7b/Mulheres_Apaixonadas_-_trilha_sonora.jpg</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/pt/e/e9/Mulheres_Apaixonadas.jpg</fanart>
 </item>
 
 <item>
@@ -245,18 +245,10 @@ alta sociedade.</info>
 <fanart>https://telepadi.folha.uol.com.br/wp-content/uploads/2019/05/x1080-mzj-1140x545.jpg</fanart>
 </item>
 
-<item>
-<title>[COLOR orange]O REI SOU EU[/COLOR] 1989</title>
-<link>ignorme</link>
-<jsonrpc>Plugin://plugin.video.youtube/playlist/PLiU1L51rkFSLN7Mek7IZwfIxw3Vgm9vf8/?page=0</jsonrpc>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <item>
-<title>[B][COLOR lime]OS MUTANTES: CAMINHOS DO CORAÇÃO - 2008 [/COLOR][/B] teste</title>
+<title>[COLOR orange]OS MUTANTES: CAMINHOS DO CORAÇÃO[/COLOR] 2008 </title>
 <link>ignoreme</link>
 <externallink>https://pastebin.com/raw/Y97A37cJ</externallink>
 <thumbnail>https://i.imgur.com/JOUXzeB.jpg</thumbnail>
@@ -301,8 +293,8 @@ alta sociedade.</info>
 <title>[COLOR yellow]PERIGOSAS PERUAS[/COLOR] 1992</title>
 <link>ignorme</link>
 <jsonrpc>Plugin://plugin.video.youtube/playlist/PLiU1L51rkFSIwKGcC1bLLkTveV0-wsX_5/?page=0</jsonrpc>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/thumb/9/91/Perigosas-peruas-internacional.jpg/220px-Perigosas-peruas-internacional.jpg</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/pt/6/61/Novela_Perigosas_Peruas_1992.JPG</fanart>
 </item>
  
 <item>
