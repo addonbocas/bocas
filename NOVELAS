@@ -130,13 +130,13 @@ de Lívia e Felipe, que perdura por gerações.</info>
 </channel>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-<channel>
-<name>[B][COLOR white]AVENIDA BRASIL - 2012[/COLOR][/B] GDRIVE SUPERFLIX3</name>
+<item>
+<title>[B][COLOR white]AVENIDA BRASIL - 2012[/COLOR][/B] GDRIVE SUPERFLIX3</title>
 <link>ignoreme</link>
 <jsonrpc>https://raw.githubusercontent.com/addonbocas/bocas/master/AVENIDA%20BRASIL%20-%202012</jsonrpc>
 <thumbnail>https://i.imgur.com/AGWoov9.jpg</thumbnail>
 <fanart>https://i.imgur.com/jzS5JSi.jpg</fanart>
-</channel>
+</item>
 
 
 
