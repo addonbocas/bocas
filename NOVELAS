@@ -21,6 +21,14 @@
 <thumbnail>https://http2.mlstatic.com/novela-a-feia-mais-bela-300-capitulos-em-hd-38-dvds-frete-D_NQ_NP_787735-MLB26041151011_092017-F.jpg</thumbnail>
 <fanart>https://tevconectados.files.wordpress.com/2015/03/a-feia-mais-bela.jpg</fanart>
 </item>
+
+<item>
+<title>[COLOR red]A Outra (178) - (480p)[/COLOR]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLmKmH6bU1Wzbhu1_WLmAo_OGUWc3lucG1/?page=0</jsonrpc>
+<thumbnail>http://sergiogracas.com/emular/kodi/imagens/outra.jpg</thumbnail>
+<fanart>http://sergiogracas.com/emular/kodi/imagens/outra.jpg</fanart>
+</item>
  
 <item>
 <title>[COLOR yellow]A Próxima Vítima[/COLOR] 1995</title>
@@ -31,11 +39,27 @@
 </item>
 
 <item>
+<title>[COLOR blue]A Viagem (165) - (480p)[/COLOR]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLpPCywuBlnQSI_tqCazKKw05KlDgn1UZL/?page=0</jsonrpc>
+<thumbnail>http://sergiogracas.com/emular/kodi/imagens/aviagem.jpg</thumbnail>
+<fanart>http://sergiogracas.com/emular/kodi/imagens/aviagem.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR yellow]A Que Não Podia Amar[/COLOR] 2011</title>
 <link>ignoreme</link>
 <jsonrpc>Plugin://plugin.video.youtube/playlist/PLBUliuvaVR9zZnyPoNgm4d1MsAriJ_UrW/?page=0</jsonrpc>
 <thumbnail>https://pbs.twimg.com/media/Dj8kz7YXsAEwuMa.jpg</thumbnail>
 <fanart>https://observatoriodatelevisao.bol.uol.com.br/wp-content/uploads/2019/03/a-que-nao-podia-amar.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue] A usurpadora[/COLOR] 1998</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLP2fAt1C1uin6x9WQ-b430ar8oScw2I0a/?page=0</jsonrpc>
+<thumbnail>http://br.web.img3.acsta.net/pictures/15/03/25/17/02/521755.jpg</thumbnail>
+<fanart>https://abrilveja.files.wordpress.com/2016/06/a-usurpadora-paola-bracho-e-paulina-original.jpeg?quality=70&strip=info&w=1024</fanart>
 </item>
  
 <item>
@@ -73,6 +97,13 @@
 <fanart>https://upload.wikimedia.org/wikipedia/pt/thumb/d/d5/Amor_%C3%A0_Vida_Internacional.jpg/220px-Amor_%C3%A0_Vida_Internacional.jpg</fanart>
 </item>
 
+<item>
+<title>[COLOR red]Ana Raio e Zé Trovão[/COLOR]</title>
+<link>ignoreme</link>
+<jsonrpc>plugin://plugin.video.youtube/user/TheHigorWinchester/?page=0</jsonrpc>
+<thumbnail>https://http2.mlstatic.com/cd-ana-raio-e-ze-trovo-1-ou-2-cdcoronel9club-D_NQ_NP_22117-MLB20223863953_012015-F.jpg</thumbnail>
+<fanart>https://ogimg.infoglobo.com.br/in/3003722-e13-6e7/FT1086A/652/Ze-Trovao-e-Ana-Raio-em-1991.-Foto-de-arquivo.jpg</fanart>
+</item>
  
 <item>
 <title>[COLOR orange]Barriga de Aluguel[/COLOR] 1990</title>
@@ -106,6 +137,14 @@
 <fanart>https://upload.wikimedia.org/wikipedia/pt/thumb/4/4e/Cambalacho_Internacional.jpg/220px-Cambalacho_Internacional.jpg</fanart>
 </item>
 
+<item>
+<title>[COLOR red]Caminhos do Coração[/COLOR]</title>
+<link>ignoreme</link>
+<jsonrpc>plugin://plugin.video.youtube/channel/UCVFM-szaKqzJRjVnVazaRQg/?page=0</jsonrpc>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/thumb/e/ec/Caminhos_do_Cora%C3%A7%C3%A3o_-_trilha_sonora.jpg/220px-Caminhos_do_Cora%C3%A7%C3%A3o_-_trilha_sonora.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/-whrTa_BVHU/hqdefault.jpg</fanart>
+</item>
+
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <item>
@@ -122,6 +161,30 @@
 <jsonrpc>Plugin://plugin.video.youtube/playlist/PL2jYBA7iQQfaruWDlsmJuqbtz788o1DhB/?page=0</jsonrpc>
 <thumbnail>https://upload.wikimedia.org/wikipedia/pt/e/ec/Cara_%26_Coroa_-_internacional.jpg</thumbnail>
 <fanart>https://upload.wikimedia.org/wikipedia/pt/e/ec/Cara_%26_Coroa_-_internacional.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red]Carrossel[/COLOR]</title>
+<link>ignoreme</link>
+<jsonrpc>plugin://plugin.video.youtube/channel/UC62chqw1TwkDl93iS8RzT1g/?page=0</jsonrpc>
+<thumbnail>https://novelas.redenoticia.com.br/imagens/2018/08/carrossel-sbt-1280x720.jpg</thumbnail>
+<fanart>https://novelas.redenoticia.com.br/imagens/2018/08/carrossel-sbt-1280x720.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red]Cheias de Charme[/COLOR]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLWKpzMGiJzcegXdeJZpiI6m1Ixx_cZS9o/?page=0</jsonrpc>
+<thumbnail>https://triloads1.files.wordpress.com/2017/08/cd-cheias-de-charme.png?w=500</thumbnail>
+<fanart>https://triloads1.files.wordpress.com/2017/08/cd-cheias-de-charme.png?w=500</fanart>
+</item>
+
+<item>
+<title>[COLOR red]Cobras e Lagartos[/COLOR]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PL0KKm6u5Xq-8CvHUTiMf2FSG-rOugRkhl/?page=0</jsonrpc>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/e/e3/%C3%81lbum_Cobras_%26_Lagartos_Nacional.jpg</thumbnail>
+<fanart>https://noticiasdatv.uol.com.br/media/_versions/noticias/2014/1400510976lazaro_ramos_mariana_ximenes_fixed_large.jpg</fanart>
 </item>
  
 <item>
@@ -180,6 +243,14 @@ alta sociedade.</info>
 <thumbnail>https://upload.wikimedia.org/wikipedia/pt/thumb/b/b5/Eraumavezt2-300x300.jpg/220px-Eraumavezt2-300x300.jpg</thumbnail>
 <fanart>https://upload.wikimedia.org/wikipedia/pt/thumb/0/0c/Era_Uma_Vez..._%28telenovela%29.jpg/250px-Era_Uma_Vez..._%28telenovela%29.jpg</fanart>
 </item>
+
+<item>
+<title>[COLOR red]Esmeralda [/COLOR]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLF_MZs4rce5tYiqMg3rd9rH4LJqpbBym-/?page=0</jsonrpc>
+<thumbnail>https://i.pinimg.com/236x/e9/1c/c2/e91cc2f80002c9f0f361f53cec3c5cb9--esmeralda-portal.jpg</thumbnail>
+<fanart>https://http2.mlstatic.com/novela-esmeralda-br-completa-em-dvd-frete-gratis-D_NQ_NP_551215-MLB25177875409_112016-F.jpg</fanart>
+</item>
  
 <item>
 <title>[COLOR orange]Felicidade[/COLOR] 1991</title>
@@ -214,6 +285,14 @@ alta sociedade.</info>
 </item>
 
 <item>
+<title>[COLOR red]Laços de Família [/COLOR]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLKqlw1DuoTWFUdWLwf1IyZ67EsEdZg4CJ/?page=0</jsonrpc>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/4/42/Lacosdefamilia.jpg</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/pt/4/42/Lacosdefamilia.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR yellow]MARIA DO BAIRRO[/COLOR] 1995</title>  
 <link>ignoreme</link>
 <jsonrpc>Plugin://plugin.video.youtube/playlist/PL_nW2OdQOEsbZGZdQlfXLMQ8f89ijPEAp/?page=0</jsonrpc>
@@ -245,6 +324,14 @@ alta sociedade.</info>
 <fanart>https://telepadi.folha.uol.com.br/wp-content/uploads/2019/05/x1080-mzj-1140x545.jpg</fanart>
 </item>
 
+<item>
+<title>[COLOR red]O Cravo e a Rosa[/COLOR] 2000</title>
+<link>ignoreme</link>
+<jsonrpc>plugin://plugin.video.youtube/channel/UCUZzcYsDIaHyYiHWTfRGZIw/?page=0</jsonrpc>
+<thumbnail>https://s2.glbimg.com/5vLrG-IF-_UPBjmKHSCfCX7CtVc=/362x536/s2.glbimg.com/PAmZhZte2Tie52Ip3M4MO9tOq7A=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/6d/88/7299450da29a6978076c450bf362.jpg</thumbnail>
+<fanart>http://www.bastidoresdatv.com.br/wp-content/uploads/2019/01/Novela-O-Cravo-e-a-Rosa.jpg</fanart>
+</item>
+
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <item>
@@ -272,6 +359,14 @@ alta sociedade.</info>
 <thumbnail>https://upload.wikimedia.org/wikipedia/pt/7/76/OSalvadorDaPatriaInternacional.jpg</thumbnail>
 <fanart>https://upload.wikimedia.org/wikipedia/pt/thumb/9/98/O_Salvador_da_P%C3%A1tria.jpg/260px-O_Salvador_da_P%C3%A1tria.jpg</fanart>
 </item>
+
+<item>
+<title>[COLOR red]os trapalhoes  [/COLOR]</title>
+<link>ignoreme</link>
+<jsonrpc>plugin://plugin.video.youtube/user/tvzenbrasilrj/?page=0</jsonrpc>
+<thumbnail>https://http2.mlstatic.com/os-trapalhoes-didi-dede-zacarias-mussum-coletnea-10-dvds-D_NQ_NP_624849-MLB27204153001_042018-F.jpg</thumbnail>
+<fanart>https://http2.mlstatic.com/os-trapalhoes-didi-dede-zacarias-mussum-coletnea-10-dvds-D_NQ_NP_624849-MLB27204153001_042018-F.jpg</fanart>
+</item>
  
 <item>
 <title>[COLOR yellow]Pantanal[/COLOR] 1990</title>
@@ -290,11 +385,27 @@ alta sociedade.</info>
 </item>
 
 <item>
+<title>[COLOR red]Pedra sobre Pedra[/COLOR]</title>
+<link>ignoreme</link>
+<jsonrpc>plugin://plugin.video.youtube/user/novpedsobped/?page=0</jsonrpc>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/c/c5/Pedra_Sobre_Pedra_-_Trilha_Sonora_2.jpg</thumbnail>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTD_EagAuc280cZP3EsSeAkeVhQdeHRRyQ_MEnp_xsCvqWOHDpcNw</fanart>
+</item>
+
+<item>
 <title>[COLOR yellow]PERIGOSAS PERUAS[/COLOR] 1992</title>
 <link>ignorme</link>
 <jsonrpc>Plugin://plugin.video.youtube/playlist/PLiU1L51rkFSIwKGcC1bLLkTveV0-wsX_5/?page=0</jsonrpc>
 <thumbnail>https://upload.wikimedia.org/wikipedia/pt/thumb/9/91/Perigosas-peruas-internacional.jpg/220px-Perigosas-peruas-internacional.jpg</thumbnail>
 <fanart>https://upload.wikimedia.org/wikipedia/pt/6/61/Novela_Perigosas_Peruas_1992.JPG</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Proxima Vitima (183) - (480p)[/COLOR]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLYYBrx4dOdoANho5ImcS3q5le3d993lcb/?page=0</jsonrpc>
+<thumbnail>http://sergiogracas.com/emular/kodi/imagens/proximavitima.jpg</thumbnail>
+<fanart>http://sergiogracas.com/emular/kodi/imagens/proximavitima.jpg</fanart>
 </item>
  
 <item>
@@ -327,6 +438,14 @@ alta sociedade.</info>
 <jsonrpc>Plugin://plugin.video.youtube/playlist/PL0WapWQxF9z62Hj-Hrg0EJ6ZkrfxP3T1Y/?page=0</jsonrpc>
 <thumbnail>https://upload.wikimedia.org/wikipedia/pt/thumb/6/6f/Rainhat1-300x300.jpg/220px-Rainhat1-300x300.jpg</thumbnail>
 <fanart>https://upload.wikimedia.org/wikipedia/pt/thumb/6/6f/Rainhat1-300x300.jpg/220px-Rainhat1-300x300.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red]Rebelde - TEMPORADA1 (40) - (480p)[/COLOR]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PL8YwOLzXJIM9wMcsX82dwWBpeSP7qr8pe/?page=0</jsonrpc>
+<thumbnail>http://sergiogracas.com/emular/kodi/imagens/rebelde1.jpg</thumbnail>
+<fanart>http://sergiogracas.com/emular/kodi/imagens/rebelde1.jpg</fanart>
 </item>
  
 <item>
@@ -370,11 +489,35 @@ alta sociedade.</info>
 </item>
 
 <item>
+<title>[COLOR red]Rubi [/COLOR]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLQFVyI5h_JOcHbbF5XfFW2rpl5oFyu2or/?page=0</jsonrpc>
+<thumbnail>https://media.fstatic.com/xmCCfGuUKEes2bTjwyv6VadAV4E=/fit-in/290x478/smart/media/movies/covers/2014/03/rubi_t39491.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/OlAWLkHdhFE/hqdefault.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR lime]Sai de Baixo[/COLOR] Episódios Variados</title>
 <link>ignoreme</link>
 <jsonrpc>Plugin://plugin.video.youtube/playlist/PL_vrs1RBRwm9BP0927nKd7bZPpYh0-FyY/?page=0</jsonrpc>
 <thumbnail>https://i.imgur.com/hVtC5br.png</thumbnail>
 <fanart>https://i.imgur.com/OO7t7xt.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Salome (100) - (480p)[/COLOR]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLj_fyNcQwr4b0I4tKvlW2p2NEN1m5GsrV/?page=0</jsonrpc>
+<thumbnail>http://sergiogracas.com/emular/kodi/imagens/salome.jpg</thumbnail>
+<fanart>http://sergiogracas.com/emular/kodi/imagens/salome.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue]Salve Jorge[/COLOR]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLcYpjl6TM2oXLeTnZ8TUEWlkBVWJvdXo8/?page=0</jsonrpc>
+<thumbnail>https://a-static.mlcdn.com.br/618x463/salve-jorge-nacional-cd-1-som-livre/somlivre/2712-2/2d8cd9c4607b55ffbaaa64f9722283d1.jpg</thumbnail>
+<fanart>https://http2.mlstatic.com/dvd-novela-salve-jorge-em-dvd-completa-frete-gratis-D_NQ_NP_667407-MLB26726837015_012018-F.jpg</fanart>
 </item>
  
 <item>
