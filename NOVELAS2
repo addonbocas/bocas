@@ -141,6 +141,24 @@
 <thumbnail>https://a-static.mlcdn.com.br/618x463/salve-jorge-nacional-cd-1-som-livre/somlivre/2712-2/2d8cd9c4607b55ffbaaa64f9722283d1.jpg</thumbnail>
 <fanart>https://http2.mlstatic.com/dvd-novela-salve-jorge-em-dvd-completa-frete-gratis-D_NQ_NP_667407-MLB26726837015_012018-F.jpg</fanart>
 </item>
+
+<item>
+<title>[COLOR yellow]Sassaricando[/COLOR] 1987</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLBBj0wxJif-0_K1pqZ8zDSggIABxK6km5/?page=0</jsonrpc>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/1/1e/Elenco_Sassaricando.jpg</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/pt/thumb/1/1d/Sassaricando-internacional.jpg/220px-Sassaricando-internacional.jpg</fanart>
+</item>
+ 
+ 
+<item>
+<title>[COLOR yellow]Tieta[/COLOR] 1989</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLwkvLF29euapZuhqj_w17LJI2qgXm37eu/?page=0</jsonrpc>
+<thumbnail>hhttps://upload.wikimedia.org/wikipedia/pt/thumb/2/2d/Tieta_2.jpg/220px-Tieta_2.jpg</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/pt/thumb/f/f3/Tieta-logo.jpg/260px-Tieta-logo.jpg</fanart>
+</item>
+ 
  
 <item>
 <title>[COLOR yellow]Uga Uga[/COLOR] 2000</title>
