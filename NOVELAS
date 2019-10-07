@@ -23,7 +23,7 @@
 </item>
 
 <item>
-<title>[COLOR red]A Outra (178) - (480p)[/COLOR]</title>
+<title>[COLOR yellow]A Outra[/COLOR] 2002</title>
 <link>ignoreme</link>
 <jsonrpc>Plugin://plugin.video.youtube/playlist/PLmKmH6bU1Wzbhu1_WLmAo_OGUWc3lucG1/?page=0</jsonrpc>
 <thumbnail>http://sergiogracas.com/emular/kodi/imagens/outra.jpg</thumbnail>
@@ -39,7 +39,7 @@
 </item>
 
 <item>
-<title>[COLOR blue]A Viagem (165) - (480p)[/COLOR]</title>
+<title>[COLOR yellow]A Viagem[/COLOR] 1994</title>
 <link>ignoreme</link>
 <jsonrpc>Plugin://plugin.video.youtube/playlist/PLpPCywuBlnQSI_tqCazKKw05KlDgn1UZL/?page=0</jsonrpc>
 <thumbnail>http://sergiogracas.com/emular/kodi/imagens/aviagem.jpg</thumbnail>
@@ -55,7 +55,7 @@
 </item>
 
 <item>
-<title>[COLOR blue] A usurpadora[/COLOR] 1998</title>
+<title>[COLOR yellow]A usurpadora[/COLOR] 1998</title>
 <link>ignoreme</link>
 <jsonrpc>Plugin://plugin.video.youtube/playlist/PLP2fAt1C1uin6x9WQ-b430ar8oScw2I0a/?page=0</jsonrpc>
 <thumbnail>http://br.web.img3.acsta.net/pictures/15/03/25/17/02/521755.jpg</thumbnail>
@@ -98,7 +98,7 @@
 </item>
 
 <item>
-<title>[COLOR red]Ana Raio e Zé Trovão[/COLOR]</title>
+<title>[COLOR yellow]Ana Raio e Zé Trovão[/COLOR] 1990</title>
 <link>ignoreme</link>
 <jsonrpc>plugin://plugin.video.youtube/user/TheHigorWinchester/?page=0</jsonrpc>
 <thumbnail>https://http2.mlstatic.com/cd-ana-raio-e-ze-trovo-1-ou-2-cdcoronel9club-D_NQ_NP_22117-MLB20223863953_012015-F.jpg</thumbnail>
@@ -106,7 +106,7 @@
 </item>
  
 <item>
-<title>[COLOR orange]Barriga de Aluguel[/COLOR] 1990</title>
+<title>[COLOR yellow]Barriga de Aluguel[/COLOR] 1990</title>
 <link>ignoreme</link>
 <jsonrpc>Plugin://plugin.video.youtube/playlist/PLiU1L51rkFSI1hWDlgmvAA5XxDFZk8pjK/?page=0</jsonrpc>
 <thumbnail>https://upload.wikimedia.org/wikipedia/pt/e/ec/%C3%81lbum_Barriga_de_Aluguel_-_Internacional.jpg</thumbnail>
@@ -114,7 +114,7 @@
 </item>
  
 <item>
-<title>[COLOR orange]Betty a Feia[/COLOR] 1999</title>
+<title>[COLOR yellow]Betty a Feia[/COLOR] 1999</title>
 <link>ignoreme</link>
 <jsonrpc>Plugin://plugin.video.youtube/user/novelabettyafeia/</jsonrpc>
 <thumbnail>https://upload.wikimedia.org/wikipedia/pt/thumb/b/b5/Yo_soy_Betty%2C_la_fea.jpg/250px-Yo_soy_Betty%2C_la_fea.jpg</thumbnail>
@@ -138,7 +138,7 @@
 </item>
 
 <item>
-<title>[COLOR red]Caminhos do Coração[/COLOR]</title>
+<title>[COLOR yellow]Caminhos do Coração[/COLOR] 2007</title>
 <link>ignoreme</link>
 <jsonrpc>plugin://plugin.video.youtube/channel/UCVFM-szaKqzJRjVnVazaRQg/?page=0</jsonrpc>
 <thumbnail>https://upload.wikimedia.org/wikipedia/pt/thumb/e/ec/Caminhos_do_Cora%C3%A7%C3%A3o_-_trilha_sonora.jpg/220px-Caminhos_do_Cora%C3%A7%C3%A3o_-_trilha_sonora.jpg</thumbnail>
@@ -164,7 +164,7 @@
 </item>
 
 <item>
-<title>[COLOR red]Carrossel[/COLOR]</title>
+<title>[COLOR yellow]Carrossel[/COLOR] 2012</title>
 <link>ignoreme</link>
 <jsonrpc>plugin://plugin.video.youtube/channel/UC62chqw1TwkDl93iS8RzT1g/?page=0</jsonrpc>
 <thumbnail>https://novelas.redenoticia.com.br/imagens/2018/08/carrossel-sbt-1280x720.jpg</thumbnail>
@@ -172,7 +172,7 @@
 </item>
 
 <item>
-<title>[COLOR red]Cheias de Charme[/COLOR]</title>
+<title>[COLOR yellow]Cheias de Charme[/COLOR] 2012</title>
 <link>ignoreme</link>
 <jsonrpc>Plugin://plugin.video.youtube/playlist/PLWKpzMGiJzcegXdeJZpiI6m1Ixx_cZS9o/?page=0</jsonrpc>
 <thumbnail>https://triloads1.files.wordpress.com/2017/08/cd-cheias-de-charme.png?w=500</thumbnail>
@@ -180,7 +180,7 @@
 </item>
 
 <item>
-<title>[COLOR red]Cobras e Lagartos[/COLOR]</title>
+<title>[COLOR yellow]Cobras e Lagartos[/COLOR] 2006</title>
 <link>ignoreme</link>
 <jsonrpc>Plugin://plugin.video.youtube/playlist/PL0KKm6u5Xq-8CvHUTiMf2FSG-rOugRkhl/?page=0</jsonrpc>
 <thumbnail>https://upload.wikimedia.org/wikipedia/pt/e/e3/%C3%81lbum_Cobras_%26_Lagartos_Nacional.jpg</thumbnail>
@@ -221,7 +221,7 @@ alta sociedade.</info>
 </channel>
  
 <item>
-<title>[COLOR orange]Dona Beija[/COLOR] 1986</title>
+<title>[COLOR yellow]Dona Beija[/COLOR] 1986</title>
 <link>ignoreme</link>
 <jsonrpc>Plugin://plugin.video.youtube/playlist/PLmKmH6bU1WzamhwFk43XIiR_R9xvhyo_u/?page=0</jsonrpc>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/8/8a/Maite_Proenca_cropped_2.jpg</thumbnail>
@@ -229,7 +229,7 @@ alta sociedade.</info>
 </item>
  
 <item>
-<title>[COLOR orange]Duas Caras[/COLOR] 2008</title>
+<title>[COLOR yellow]Duas Caras[/COLOR] 2008</title>
 <link>ignoreme</link>
 <jsonrpc>Plugin://plugin.video.youtube/playlist/PLqEcPsWKdBwTQwqqGwdkIZut_cmueRgKV/?page=0</jsonrpc>
 <thumbnail>https://upload.wikimedia.org/wikipedia/pt/thumb/b/b5/Duascaraslogotipo2.jpg/260px-Duascaraslogotipo2.jpg</thumbnail>
@@ -245,7 +245,7 @@ alta sociedade.</info>
 </item>
 
 <item>
-<title>[COLOR red]Esmeralda [/COLOR]</title>
+<title>[COLOR yellow]Esmeralda[/COLOR] 1997</title>
 <link>ignoreme</link>
 <jsonrpc>Plugin://plugin.video.youtube/playlist/PLF_MZs4rce5tYiqMg3rd9rH4LJqpbBym-/?page=0</jsonrpc>
 <thumbnail>https://i.pinimg.com/236x/e9/1c/c2/e91cc2f80002c9f0f361f53cec3c5cb9--esmeralda-portal.jpg</thumbnail>
@@ -253,7 +253,7 @@ alta sociedade.</info>
 </item>
  
 <item>
-<title>[COLOR orange]Felicidade[/COLOR] 1991</title>
+<title>[COLOR yellow]Felicidade[/COLOR] 1991</title>
 <link>ignoreme</link>
 <jsonrpc>Plugin://plugin.video.youtube/playlist/PLWiuFWNI21oIvQUdZukvUSHfO6f-a7SGE/?page=0</jsonrpc>
 <thumbnail>https://upload.wikimedia.org/wikipedia/pt/f/fc/Felicidade_-_Trilha_Sonora_Nacional.jpg</thumbnail>
@@ -261,7 +261,7 @@ alta sociedade.</info>
 </item>
  
 <item>
-<title>[COLOR orange]Fascinação[/COLOR] 1998</title>
+<title>[COLOR yellow]Fascinação[/COLOR] 1998</title>
 <link>ignoreme</link>
 <jsonrpc>Plugin://plugin.video.youtube/playlist/PLWyFP69iQ_2Odmf2Gq-Vi5zs3cwbLsQd7/?page=0</jsonrpc>
 <thumbnail>https://upload.wikimedia.org/wikipedia/pt/f/f6/%C3%81lbum_Temas_musicais_da_novela_Fascina%C3%A7%C3%A3o.jpg</thumbnail>
@@ -277,7 +277,7 @@ alta sociedade.</info>
 </item>
 
 <item>
-<title>[COLOR orange]Irmãos Coragem[/COLOR] 1970</title>
+<title>[COLOR yellow]Irmãos Coragem[/COLOR] 1970</title>
 <link>ignoreme</link>
 <jsonrpc>Plugin://plugin.video.youtube/playlist/PLgPkLmK5XZjvNXrhySTxWmDQ4yK5pSsaR/?page=0</jsonrpc>
 <thumbnail>https://i.pinimg.com/originals/93/68/ae/9368aec54996eae1cf552dec0224d254.jpg</thumbnail>
@@ -285,7 +285,7 @@ alta sociedade.</info>
 </item>
 
 <item>
-<title>[COLOR red]Laços de Família [/COLOR]</title>
+<title>[COLOR yellow]Laços de Família[/COLOR] 2000</title>
 <link>ignoreme</link>
 <jsonrpc>Plugin://plugin.video.youtube/playlist/PLKqlw1DuoTWFUdWLwf1IyZ67EsEdZg4CJ/?page=0</jsonrpc>
 <thumbnail>https://upload.wikimedia.org/wikipedia/pt/4/42/Lacosdefamilia.jpg</thumbnail>
@@ -317,7 +317,7 @@ alta sociedade.</info>
 </item>
 
 <item>
-<title>[COLOR orange]O Clone[/COLOR] 2002</title>
+<title>[COLOR yellow]O Clone[/COLOR] 2002</title>
 <link>ignoreme</link>
 <jsonrpc>Plugin://plugin.video.youtube/playlist/PLQfeL70bnZBoRAgOruIUcmfIDXBsj4J97/?page=0</jsonrpc>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMTk0NTgxMzU3Nl5BMl5BanBnXkFtZTgwNTE5NDY4OTE@._V1_.jpg</thumbnail>
@@ -325,7 +325,7 @@ alta sociedade.</info>
 </item>
 
 <item>
-<title>[COLOR red]O Cravo e a Rosa[/COLOR] 2000</title>
+<title>[COLOR yellow]O Cravo e a Rosa[/COLOR] 2000</title>
 <link>ignoreme</link>
 <jsonrpc>plugin://plugin.video.youtube/channel/UCUZzcYsDIaHyYiHWTfRGZIw/?page=0</jsonrpc>
 <thumbnail>https://s2.glbimg.com/5vLrG-IF-_UPBjmKHSCfCX7CtVc=/362x536/s2.glbimg.com/PAmZhZte2Tie52Ip3M4MO9tOq7A=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/6d/88/7299450da29a6978076c450bf362.jpg</thumbnail>
@@ -335,7 +335,7 @@ alta sociedade.</info>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <item>
-<title>[COLOR orange]OS MUTANTES: CAMINHOS DO CORAÇÃO[/COLOR] 2008 </title>
+<title>[COLOR yellow]OS MUTANTES: CAMINHOS DO CORAÇÃO[/COLOR] 2008</title>
 <link>ignoreme</link>
 <externallink>https://pastebin.com/raw/Y97A37cJ</externallink>
 <thumbnail>https://i.imgur.com/JOUXzeB.jpg</thumbnail>
@@ -345,7 +345,7 @@ alta sociedade.</info>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
  
 <item>
-<title>[COLOR orange]Olho No Olho[/COLOR] 1993</title>
+<title>[COLOR yellow]Olho No Olho[/COLOR] 1993</title>
 <link>ignoreme</link>
 <jsonrpc>Plugin://plugin.video.youtube/playlist/PLEDC7311507005C7E/?page=0</jsonrpc>
 <thumbnail>https://upload.wikimedia.org/wikipedia/pt/thumb/9/9e/Olho_no_Olho_-_nacional.jpg/220px-Olho_no_Olho_-_nacional.jpg</thumbnail>
@@ -353,7 +353,7 @@ alta sociedade.</info>
 </item>
  
 <item>
-<title>[COLOR orange]O Salvador da Pátria[/COLOR] 1989</title>
+<title>[COLOR yellow]O Salvador da Pátria[/COLOR] 1989</title>
 <link>ignoreme</link>
 <jsonrpc>Plugin://plugin.video.youtube/playlist/PLFkIs0kLfH6c-VnDzmEttnG_JSryX7X6V/?page=0</jsonrpc>
 <thumbnail>https://upload.wikimedia.org/wikipedia/pt/7/76/OSalvadorDaPatriaInternacional.jpg</thumbnail>
@@ -361,7 +361,7 @@ alta sociedade.</info>
 </item>
 
 <item>
-<title>[COLOR red]os trapalhoes  [/COLOR]</title>
+<title>[COLOR lime]os trapalhoes[/COLOR]</title>
 <link>ignoreme</link>
 <jsonrpc>plugin://plugin.video.youtube/user/tvzenbrasilrj/?page=0</jsonrpc>
 <thumbnail>https://http2.mlstatic.com/os-trapalhoes-didi-dede-zacarias-mussum-coletnea-10-dvds-D_NQ_NP_624849-MLB27204153001_042018-F.jpg</thumbnail>
