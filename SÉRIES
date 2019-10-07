@@ -83,7 +83,22 @@
 <info>
 
 
-[COLOR lime]NOVELAS VINDAS DO[/COLOR][COLOR lime] BR[/COLOR] YouTube</info>
+[COLOR lime]NOVELAS 1[/COLOR][COLOR lime] BR[/COLOR] YouTube</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
+<name>[COLOR red]NOVELAS 2[/COLOR][COLOR lime] BR[/COLOR] YouTube</name>
+<thumbnail>https://imgur.com/hHnZb4P.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/addonbocas/bocas/master/NOVELAS</externallink>
+<fanart>https://ia601403.us.archive.org/25/items/fanart_20190909_1728/fanart.jpg</fanart>
+<info>
+
+
+[COLOR lime]NOVELAS[/COLOR][COLOR lime] BR[/COLOR] YouTube</info>
 </channel>
 </channels>
 
