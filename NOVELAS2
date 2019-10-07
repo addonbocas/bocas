@@ -15,7 +15,7 @@
 </item>
 
 <item>
-<title>[COLOR red]Pedra sobre Pedra[/COLOR]</title>
+<title>[COLOR yellow]Pedra sobre Pedra[/COLOR] 1992</title>
 <link>ignoreme</link>
 <jsonrpc>plugin://plugin.video.youtube/user/novpedsobped/?page=0</jsonrpc>
 <thumbnail>https://upload.wikimedia.org/wikipedia/pt/c/c5/Pedra_Sobre_Pedra_-_Trilha_Sonora_2.jpg</thumbnail>
@@ -31,7 +31,7 @@
 </item>
 
 <item>
-<title>[COLOR blue]Proxima Vitima (183) - (480p)[/COLOR]</title>
+<title>[COLOR yellow]Proxima Vitima[/COLOR] 1995</title>
 <link>ignoreme</link>
 <jsonrpc>Plugin://plugin.video.youtube/playlist/PLYYBrx4dOdoANho5ImcS3q5le3d993lcb/?page=0</jsonrpc>
 <thumbnail>http://sergiogracas.com/emular/kodi/imagens/proximavitima.jpg</thumbnail>
@@ -39,7 +39,7 @@
 </item>
  
 <item>
-<title>[COLOR orange]Que Rei sou Eu ?[/COLOR] 1989</title>
+<title>[COLOR yellow]Que Rei sou Eu ?[/COLOR] 1989</title>
 <link>ignoreme</link>
 <jsonrpc>Plugin://plugin.video.youtube/playlist/PLcZVB9jUoNq6nAaWIeMVPE6Kd87rMN6hD/?page=0</jsonrpc>
 <thumbnail>https://upload.wikimedia.org/wikipedia/pt/8/80/Que_Rei_Sou_Eu%3F.jpg</thumbnail>
@@ -47,7 +47,7 @@
 </item>
 
 <item>
-<title>[COLOR orange]Quem é Você[/COLOR] 1996</title>
+<title>[COLOR yellow]Quem é Você[/COLOR] 1996</title>
 <link>ignoreme</link>
 <jsonrpc>Plugin://plugin.video.youtube/playlist/PLiU1L51rkFSICc3OVxA7cbvsin7we14Og/?page=0</jsonrpc>
 <thumbnail>https://upload.wikimedia.org/wikipedia/pt/thumb/2/2a/Quemt2-300x300.jpg/220px-Quemt2-300x300.jpg</thumbnail>
@@ -55,7 +55,7 @@
 </item>
  
 <item>
-<title>[COLOR orange]Quatro por Quatro[/COLOR] 1994</title>
+<title>[COLOR yellow]Quatro por Quatro[/COLOR] 1994</title>
 <link>ignoreme</link>
 <jsonrpc>Plugin://plugin.video.youtube/playlist/PLiU1L51rkFSLcjh8Jg5yUoSKEFVGPZmeP/?page=0</jsonrpc>
 <thumbnail>https://upload.wikimedia.org/wikipedia/pt/thumb/4/46/Quatro-porquatro-internacional.jpg/220px-Quatro-porquatro-internacional.jpg</thumbnail>
@@ -71,7 +71,7 @@
 </item>
 
 <item>
-<title>[COLOR red]Rebelde - TEMPORADA1 (40) - (480p)[/COLOR]</title>
+<title>[COLOR yellow]Rebelde - TEMPORADA 1[/COLOR] 2011</title>
 <link>ignoreme</link>
 <jsonrpc>Plugin://plugin.video.youtube/playlist/PL8YwOLzXJIM9wMcsX82dwWBpeSP7qr8pe/?page=0</jsonrpc>
 <thumbnail>http://sergiogracas.com/emular/kodi/imagens/rebelde1.jpg</thumbnail>
@@ -84,14 +84,6 @@
 <jsonrpc>Plugin://plugin.video.youtube/playlist/PLiU1L51rkFSJpKwmSlWPxPxC4yQOt9QL1/?page=0</jsonrpc>
 <thumbnail>https://upload.wikimedia.org/wikipedia/pt/thumb/6/61/Roque_santeiro_vol2_%28Custom%29.jpg/220px-Roque_santeiro_vol2_%28Custom%29.jpg</thumbnail>
 <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Roque-santeiro.jpg/260px-Roque-santeiro.jpg</fanart>
-</item>
- 
-<item>
-<title>[COLOR yellow]Rebelde México[/COLOR] 2011 - Temporada 1</title>
-<link>ignoreme</link>
-<jsonrpc>Plugin://plugin.video.youtube/playlist/PL8YwOLzXJIM9wMcsX82dwWBpeSP7qr8pe/?page=0</jsonrpc>
-<thumbnail>https://upload.wikimedia.org/wikipedia/pt/d/df/Elenco_de_Rebelde_%28telenovela_brasileira%29.jpeg</thumbnail>
-<fanart>https://upload.wikimedia.org/wikipedia/pt/d/df/Elenco_de_Rebelde_%28telenovela_brasileira%29.jpeg</fanart>
 </item>
  
 <item>
@@ -119,7 +111,7 @@
 </item>
 
 <item>
-<title>[COLOR red]Rubi [/COLOR]</title>
+<title>[COLOR yellow]Rubi[/COLOR] 2004</title>
 <link>ignoreme</link>
 <jsonrpc>Plugin://plugin.video.youtube/playlist/PLQFVyI5h_JOcHbbF5XfFW2rpl5oFyu2or/?page=0</jsonrpc>
 <thumbnail>https://media.fstatic.com/xmCCfGuUKEes2bTjwyv6VadAV4E=/fit-in/290x478/smart/media/movies/covers/2014/03/rubi_t39491.jpg</thumbnail>
@@ -135,7 +127,7 @@
 </item>
 
 <item>
-<title>[COLOR blue]Salome (100) - (480p)[/COLOR]</title>
+<title>[COLOR yellow]Salome[/COLOR] 2001</title>
 <link>ignoreme</link>
 <jsonrpc>Plugin://plugin.video.youtube/playlist/PLj_fyNcQwr4b0I4tKvlW2p2NEN1m5GsrV/?page=0</jsonrpc>
 <thumbnail>http://sergiogracas.com/emular/kodi/imagens/salome.jpg</thumbnail>
@@ -143,7 +135,7 @@
 </item>
 
 <item>
-<title>[COLOR blue]Salve Jorge[/COLOR]</title>
+<title>[COLOR yellow]Salve Jorge[/COLOR] 2012</title>
 <link>ignoreme</link>
 <jsonrpc>Plugin://plugin.video.youtube/playlist/PLcYpjl6TM2oXLeTnZ8TUEWlkBVWJvdXo8/?page=0</jsonrpc>
 <thumbnail>https://a-static.mlcdn.com.br/618x463/salve-jorge-nacional-cd-1-som-livre/somlivre/2712-2/2d8cd9c4607b55ffbaaa64f9722283d1.jpg</thumbnail>
@@ -151,7 +143,7 @@
 </item>
  
 <item>
-<title>[COLOR orange]Uga Uga[/COLOR] 2000</title>
+<title>[COLOR yellow]Uga Uga[/COLOR] 2000</title>
 <link>ignoreme</link>
 <jsonrpc>Plugin://plugin.video.youtube/playlist/PLq5y_WWxBzSDDYdy7O1IpYQRAyqy1yZUP/?page=0</jsonrpc>
 <thumbnail>https://upload.wikimedia.org/wikipedia/pt/thumb/2/21/Ugauga-internacional.jpg/220px-Ugauga-internacional.jpg</thumbnail>
@@ -167,7 +159,7 @@
 </item>
 
 <item>
-<title>[COLOR orange]XICA DA SILVA[/COLOR] 1996 AUDIO ORIGINAL</title>
+<title>[COLOR yellow]XICA DA SILVA[/COLOR] 1996 AUDIO ORIGINAL</title>
 <link>ignorme</link>
 <jsonrpc>Plugin://plugin.video.youtube/playlist/PLiU1L51rkFSKREbsz41a-DChKBYx7OrL4/?page=0</jsonrpc>
 <thumbnail></thumbnail>
@@ -175,7 +167,7 @@
 </item>
 
 <item>
-<title>[COLOR orange]XICA DA SILVA[/COLOR] 1996 AUDIO ESPANHOL (COMPLETO)</title>  
+<title>[COLOR yellow]XICA DA SILVA[/COLOR] 1996 AUDIO ESPANHOL (COMPLETO)</title>  
 <link>ignoreme</link>
 <jsonrpc>Plugin://plugin.video.youtube/playlist/PLcZVB9jUoNq76kXfo_hCu1W3Nmva3zBCR/?page=0</jsonrpc>
 <thumbnail>https://www.sonhosesons.com.br/media/com_eshop/products/resized/xica_da_silva____4faabb1050389-500x500.jpg</thumbnail>
