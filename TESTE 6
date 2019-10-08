@@ -1,11 +1,15 @@
-<channels>
-<channel>
-<name>[COLOR red]CANAIS TV[/COLOR]</name>
-<thumbnail>https://imgur.com/UcGIxsG.png</thumbnail>
-<externallink>https://pastebin.com/raw/LAAHq26y</externallink>
-<fanart>https://ia601403.us.archive.org/25/items/fanart_20190909_1728/fanart.jpg</fanart>
-<info>[COLOR deeppink]|[/COLOR]- teste -[COLOR deeppink]|[/COLOR]</info>
-</channel>
-</channels>
+<item>
+<title>[COLOR red]CANAIS TV[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>https://pastebin.com/raw/LAAHq26y</jsonrpc>
+<thumbnail>https://ia601403.us.archive.org/25/items/fanart_20190909_1728/fanart.jpg</thumbnail>
+<fanart>https://imgur.com/UcGIxsG.png</fanart>
+</item>
 
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR red]CANAIS TV[/COLOR]</title>
+<link>ignorme</link>
+<externallink>https://pastebin.com/raw/LAAHq26y</externallink>
+<thumbnail>https://ia601403.us.archive.org/25/items/fanart_20190909_1728/fanart.jpg</thumbnail>
+<fanart>https://imgur.com/UcGIxsG.png</fanart>
+</item>
