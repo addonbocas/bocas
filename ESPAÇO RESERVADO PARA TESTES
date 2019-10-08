@@ -1,6 +1,6 @@
 <channels>
 <channel>
-<name>[COLOR red]TESTE 1[/COLOR] SPORTSDEVIL</name>
+<name>[COLOR red]TESTE 1[/COLOR]</name>
 <thumbnail>https://imgur.com/UcGIxsG.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/addonbocas/bocas/master/TESTE%201</externallink>
 <fanart>https://ia601403.us.archive.org/25/items/fanart_20190909_1728/fanart.jpg</fanart>
@@ -13,7 +13,7 @@
 
 <channels>
 <channel>
-<name>[COLOR red]TESTE 2[/COLOR] NOVELAS</name>
+<name>[COLOR red]TESTE 2[/COLOR]</name>
 <thumbnail>https://imgur.com/UcGIxsG.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/addonbocas/bocas/master/TESTE%202</externallink>
 <fanart>https://ia601403.us.archive.org/25/items/fanart_20190909_1728/fanart.jpg</fanart>
@@ -25,7 +25,7 @@
 
 <channels>
 <channel>
-<name>[COLOR red]TESTE 3[/COLOR] CANAIS PT</name>
+<name>[COLOR red]TESTE 3[/COLOR]</name>
 <thumbnail>https://imgur.com/UcGIxsG.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/addonbocas/bocas/master/TESTE%203</externallink>
 <fanart>https://ia601403.us.archive.org/25/items/fanart_20190909_1728/fanart.jpg</fanart>
@@ -38,7 +38,7 @@
 
 <channels>
 <channel>
-<name>[COLOR red]TESTE 4[/COLOR]  CANAIS BRASIL</name>
+<name>[COLOR red]TESTE 4[/COLOR]</name>
 <thumbnail>https://imgur.com/UcGIxsG.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/iptv-org/iptv/master/channels/br.m3u</externallink>
 <fanart>https://ia601403.us.archive.org/25/items/fanart_20190909_1728/fanart.jpg</fanart>
@@ -51,7 +51,7 @@
 
 <channels>
 <channel>
-<name>[COLOR red]TESTE 5[/COLOR]  CANAIS PT</name>
+<name>[COLOR red]TESTE 5[/COLOR]</name>
 <thumbnail>https://imgur.com/UcGIxsG.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/addonbocas/bocas/master/TESTE%205</externallink>
 <fanart>https://ia601403.us.archive.org/25/items/fanart_20190909_1728/fanart.jpg</fanart>
@@ -64,7 +64,7 @@
 
 <channels>
 <channel>
-<name>[COLOR red]TESTE 6[/COLOR] ARENAVISION</name>
+<name>[COLOR red]TESTE 6[/COLOR]</name>
 <thumbnail>https://imgur.com/UcGIxsG.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/addonbocas/bocas/master/TESTE%206</externallink>
 <fanart>https://ia601403.us.archive.org/25/items/fanart_20190909_1728/fanart.jpg</fanart>
