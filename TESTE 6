@@ -1,12 +1,4 @@
 <item>
-<title>[COLOR red]CANAIS TV 1[/COLOR]</title>
-<link>ignorme</link>
-<jsonrpc>https://pastebin.com/raw/LAAHq26y</jsonrpc>
-<thumbnail>https://ia601403.us.archive.org/25/items/fanart_20190909_1728/fanart.jpg</thumbnail>
-<fanart>https://imgur.com/UcGIxsG.png</fanart>
-</item>
-
-<item>
 <title>[COLOR red]CANAIS TV 2[/COLOR]</title>
 <link>ignorme</link>
 <externallink>https://pastebin.com/raw/LAAHq26y</externallink>
@@ -16,9 +8,4 @@
 
 
 
-<item>
-<title>[COLOR red]CANAIS TV 3[/COLOR]</title>
-<link>https://5-226-137-173.netvarp.is/beint/sporttv1/tracks-v2a1/mono.m3u8</link>
-<thumbnail>https://ia601403.us.archive.org/25/items/fanart_20190909_1728/fanart.jpg</thumbnail>
-<fanart>https://imgur.com/UcGIxsG.png</fanart>
-</item>
+
