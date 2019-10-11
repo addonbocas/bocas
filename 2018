@@ -1,22 +1,4 @@
 <item>
-<title>[COLOR lawngreen][B]    [/B][/COLOR] 2018</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:    &amp$$lsname=[COLOR blue] 1080P bluray torrent[/COLOR] Fast and Furious Presents Hobbs and Shaw 2019</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=     $$lsname=[COLOR red]360P gdrive[/COLOR] The Lion King 2019</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
-</item>
-
-<item>
-<title>[COLOR lawngreen][B]    [/B][/COLOR] 2018</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:    &amp$$lsname=[COLOR blue] 1080P bluray torrent[/COLOR] Fast and Furious Presents Hobbs and Shaw 2019</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=     $$lsname=[COLOR red]360P gdrive[/COLOR] The Lion King 2019</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
-</item>
-
-<item>
 <title>[COLOR lawngreen][B]Black Panther[/B][/COLOR] 2018</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8d7210eee5fbae2f35ad84779706d5626d0a34d8&amp$$lsname=[COLOR blue] 1080P bluray torrent[/COLOR] Black Panther 2018</link>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1tFAFj2AtS6mHZwEv_bKYh27WR5zTTP2P/view$$lsname=[COLOR red]360P gdrive[/COLOR] Black Panther 2018</link>
@@ -33,3 +15,22 @@
 <fanart>https://m.media-amazon.com/images/M/MV5BMTA2NDc3Njg5NDVeQTJeQWpwZ15BbWU4MDc1NDcxNTUz._V1_.jpg</fanart>
 <info>Freddie Mercury, Brian May, Roger Taylor e John Deacon formam a banda de rock Queen em 1970. Quando o estilo de vida agitado de Mercury começa a sair de controle, o grupo precisa encontrar uma forma de lidar com o sucesso e os excessos de seu líder.</info>
 </item>
+
+<item>
+<title>[COLOR lawngreen][B]    [/B][/COLOR] 2018</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:    &amp$$lsname=[COLOR blue] 1080P bluray torrent[/COLOR] Fast and Furious Presents Hobbs and Shaw 2019</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=     $$lsname=[COLOR red]360P gdrive[/COLOR] The Lion King 2019</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]    [/B][/COLOR] 2018</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:    &amp$$lsname=[COLOR blue] 1080P bluray torrent[/COLOR] Fast and Furious Presents Hobbs and Shaw 2019</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=     $$lsname=[COLOR red]360P gdrive[/COLOR] The Lion King 2019</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
