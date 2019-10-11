@@ -1,25 +1,6 @@
 <item>
-<title>[COLOR lawngreen][B]    [/B][/COLOR] 2019</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:    &amp$$lsname=[COLOR blue] 1080P bluray torrent[/COLOR] Fast and Furious Presents Hobbs and Shaw 2019</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=     $$lsname=[COLOR red]360P gdrive[/COLOR] The Lion King 2019</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
-</item>
-
-<item>
-<title>[COLOR lawngreen][B]    [/B][/COLOR] 2019</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:    &amp$$lsname=[COLOR blue] 1080P bluray torrent[/COLOR] Fast and Furious Presents Hobbs and Shaw 2019</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=     $$lsname=[COLOR red]360P gdrive[/COLOR] The Lion King 2019</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
-</item>
-
-<item>
 <title>[COLOR lawngreen][B]The Lion King[/B][/COLOR] 2019</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0d18397945bcc9f495818aa2c823ab167dc8da5c&amp$$lsname=[COLOR blue] 1080P bluray torrent[/COLOR] Fast and Furious Presents Hobbs and Shaw 2019</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=     $$lsname=[COLOR red]360P gdrive[/COLOR] The Lion King 2019</link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/I/81MdzK4jw%2BL._SY445_.jpg</thumbnail>
 <fanart>https://m.media-amazon.com/images/M/MV5BMjIwMjE1Nzc4NV5BMl5BanBnXkFtZTgwNDg4OTA1NzM@._V1_.jpg</fanart>
 <info>Traído e exilado de seu reino, o leãozinho Simba precisa descobrir como crescer e retomar seu destino como herdeiro real nas planícies da savana africana.</info>
@@ -28,7 +9,6 @@
 <item>
 <title>[COLOR lawngreen][B]Little Monsters[/B][/COLOR] 2019</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d00d8375687831951d8edd765038f85cdc4a360c&amp$$lsname=[COLOR blue] 1080P bluray torrent[/COLOR] Fast and Furious Presents Hobbs and Shaw 2019</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=     $$lsname=[COLOR red]360P gdrive[/COLOR] Little Monsters 2019</link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMjkxMDIyNTAtYjgwZC00YmIwLWFmZTEtZTIzOWZhZjNiZDQwXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
 <fanart>https://m.media-amazon.com/images/M/MV5BMjkxMDIyNTAtYjgwZC00YmIwLWFmZTEtZTIzOWZhZjNiZDQwXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_UX182_CR0,0,182,268_AL_.jpg</fanart>
 <info>Little Monsters é um filme de zumbi australiano-americano-britânico de 2019, escrito e dirigido por Abe Forsythe. É estrelado por Lupita Nyong'o, Alexander England, Kat Stewart, Diesel La Torraca e Josh Gad. O filme teve sua estreia mundial no Sundance Film Festival em 27 de janeiro de 2019.</info>
@@ -68,4 +48,25 @@
 <thumbnail>https://upload.wikimedia.org/wikipedia/pt/5/50/Shazam%21.jpg</thumbnail>
 <fanart>https://upload.wikimedia.org/wikipedia/pt/5/50/Shazam%21.jpg</fanart>
 <info>Billy Batson tem apenas 14 anos de idade, mas recebeu de um antigo mago o dom de se transformar em um super-herói adulto chamado Shazam. Ao gritar a palavra SHAZAM!, o adolescente se transforma nessa sua poderosa versão adulta para se divertir e testar suas habilidades. Contudo, ele precisa aprender a controlar seus poderes para enfrentar o malvado Dr. Thaddeus Sivana.</info>
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<item>
+<title>[COLOR lawngreen][B]    [/B][/COLOR] 2019</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:    &amp$$lsname=[COLOR blue] 1080P bluray torrent[/COLOR] Fast and Furious Presents Hobbs and Shaw 2019</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=     $$lsname=[COLOR red]360P gdrive[/COLOR] The Lion King 2019</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]    [/B][/COLOR] 2019</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:    &amp$$lsname=[COLOR blue] 1080P bluray torrent[/COLOR] Fast and Furious Presents Hobbs and Shaw 2019</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=     $$lsname=[COLOR red]360P gdrive[/COLOR] The Lion King 2019</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
 </item>
