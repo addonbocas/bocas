@@ -23,10 +23,16 @@ https://sport7.biz/lba/123/g4/portugalsport4.m3u8
 #EXTINF:-1,SPORT TV _5 (smartv)
 https://sport7.biz/lba/123/g8/ptsport5.m3u8
 
-#EXTINF:-1,SPORT TV 1 TESTE
+#EXTINF:-1,SPORT TV 1 (totalsport.me)
 https://ul.cdn946.net:8443/hls/cyqomyts14egn.m3u8?s=U0KXXcULadai1qu6E6tMCg&e=1571085918
-#EXTINF:-1,SPORT TV 2 TESTE
+#EXTINF:-1,SPORT TV 2 (totalsport.me)
 https://ul.cdn946.net:8443/hls/dftsbx86z8qhvbg.m3u8?s=ILpGtY_D215jT7CRs0TFZA&e=1571085335
+#EXTINF:-1,SPORT TV 3 (totalsport.me)
+https://ul.cdn946.net:8443/hls/rxujvy5u40gwel.m3u8?s=9wTDXoOuHNsxjZnLsIGhrg&e=1571086862
+#EXTINF:-1,SPORT TV 4 (totalsport.me)
+https://ul.cdn946.net:8443/hls/oh66wnqhpbdcy.m3u8?s=3C_gKtP988GvSQ8-oYvcHA&e=1571086739
+#EXTINF:-1,SPORT TV 5 (totalsport.me)
+https://ul.cdn946.net:8443/hls/oecm2no.m3u8?s=jhmIIvaIX8D3JRy5uUHz7g&e=1571086793
 
 
 
