@@ -1,8 +1,8 @@
 <channels>
 <channel>
-<name>[COLOR red]TSPORTV 2 WEB[/COLOR]</name>
+<name>[COLOR red]canais desporto WEB[/COLOR]</name>
 <thumbnail>https://imgur.com/UcGIxsG.png</thumbnail>
-<externallink>https://ul.cdn946.net:8443/hls/dftsbx86z8qhvbg.m3u8?s=ILpGtY_D215jT7CRs0TFZA&e=1571085335</externallink>
+<externallink>https://raw.githubusercontent.com/thanh51/repository.thanh51/master/WiseplayTV.m3u</externallink>
 <fanart>https://ia601403.us.archive.org/25/items/fanart_20190909_1728/fanart.jpg</fanart>
 <info>[COLOR deeppink]|[/COLOR]- teste -[COLOR deeppink]|[/COLOR]</info>
 </channel>
