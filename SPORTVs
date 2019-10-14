@@ -1,11 +1,11 @@
 #EXTM3U
-#EXTINF:-1,SPORT | SPORT TV 1 HD (PT)
+#EXTINF:-1,SPORT | SPORT TV 1 HD (OFF)
 rtmp://89.163.224.168:80/live/sporttv1
-#EXTINF:-1,SPORT | SPORT TV 2 HD (PT)
+#EXTINF:-1,SPORT | SPORT TV 2 HD (OFF)
 rtmp://89.163.224.168:80/live/sporttv2
-#EXTINF:-1,SPORT | SPORT TV 3 HD (PT)
+#EXTINF:-1,SPORT | SPORT TV 3 HD (OFF)
 rtmp://89.163.224.168:80/live/sporttv3
-#EXTINF:-1,SPORT | SPORT TV 5 HD (PT)
+#EXTINF:-1,SPORT | SPORT TV 5 HD (OFF)
 rtmp://89.163.224.168:80/live/sporttv5
 
 #EXTINF:-1,BTV HD
@@ -34,6 +34,14 @@ https://ul.cdn946.net:8443/hls/oh66wnqhpbdcy.m3u8?s=3C_gKtP988GvSQ8-oYvcHA&e=157
 #EXTINF:-1,SPORT TV 5 (totalsport.me)(smartv)
 https://ul.cdn946.net:8443/hls/oecm2no.m3u8?s=jhmIIvaIX8D3JRy5uUHz7g&e=1571086793
 
+#EXTINF:-1,BtSport 1 (fifa55u.com)(smartv)
+https://cdn235.cloud-streaming.com/fifa55u_x4/btsport1/chunks.m3u8?nimblesessionid=29974102&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAxOSAzOjI4OjQ5IFBNJmhhc2hfdmFsdWU9ZDRadTNycUI3VlNXQmlBSXdsS3Z3UT09JnZhbGlkbWludXRlcz0xJmlkPTU0MjAxOQ==
+#EXTINF:-1,BtSport 2 (fifa55u.com)(smartv)
+https://cdn235.cloud-streaming.com/fifa55u_x4/btsport2/chunks.m3u8?nimblesessionid=29974236&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAxOSAzOjMxOjAzIFBNJmhhc2hfdmFsdWU9M0VPNFREMW1YN3piellIa3JGUm93QT09JnZhbGlkbWludXRlcz0xJmlkPTczODMxOQ==
+#EXTINF:-1,BtSport 3 (fifa55u.com)(smartv)
+https://cdn235.cloud-streaming.com/fifa55u_x4/btsport3/chunks.m3u8?nimblesessionid=29974548&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAxOSAzOjM1OjAwIFBNJmhhc2hfdmFsdWU9WG8zRHZDdDlBK1k4THRQeG9NOFR0UT09JnZhbGlkbWludXRlcz0xJmlkPTQwMDk2Mg==
+#EXTINF:-1,BtSport ESPN (fifa55u.com)(smartv)
+https://cdn235.cloud-streaming.com/fifa55u_x4/btsportespn/chunks.m3u8?nimblesessionid=29974589&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAxOSAzOjM1OjQ4IFBNJmhhc2hfdmFsdWU9VTVERGV0NjVWZkJtaTlrQkptcXdoUT09JnZhbGlkbWludXRlcz0xJmlkPTExNzU4MA==
 
 
 
