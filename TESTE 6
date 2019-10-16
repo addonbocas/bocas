@@ -6,6 +6,29 @@
 <fanart>https://imgur.com/UcGIxsG.png</fanart>
 </item>
 
+<item>
+<title>[COLOR white][B][/B][/COLOR][COLOR yellow][B]SPORT TV [/COLOR][COLOR=white] 1[/COLOR][COLOR lime] [/B][/COLOR]</title><link>$doregex[m3u8]</link>
+<regex><name>m3u8</name><expres>file: "([^\"].*)"</expres>
+<page>http://sharecast.eu/embed.php?ch=live1-rbi6c</page>
+<link>$doregex[m3u8]</link><regex><name>m3u8</name><expres>file: "([^\"].*)"</expres>
+<page>http://sharecast.eu/embed.php?ch=live1-rbi6c</page>
+<agent>Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36</agent>
+</regex>
+<agent>Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36</agent>
+<referer>$$lsname=Sport TV 1 SD</referer>
+</regex><thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/sportv1.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/sportv1.png</fanart>
+</item>
+
+<item>
+<title>[COLOR red]teste canais[/COLOR]</title>
+<link>ignorme</link>
+<externallink>https://pastebin.com/raw/bGmvMZXD</externallink>
+<thumbnail>https://ia601403.us.archive.org/25/items/fanart_20190909_1728/fanart.jpg</thumbnail>
+<fanart>https://imgur.com/UcGIxsG.png</fanart>
+</item>
+
+
 
 
 
