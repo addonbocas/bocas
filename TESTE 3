@@ -1,13 +1,7 @@
+#EXTM3U
+#EXTINF:5380,Despicable Me 3 (2017)
+http://moviebuzz.one/Data/Movies/Animated%20Movie/Despicable%20Me%203%20%282017%29/Despicable.Me.3.2017.720p.BluRay.x264.750MB-Pahe.in.mkv
 
 
-<channels>
-<channel>
-<name>[COLOR red]arenavision[/COLOR]</name>
-<thumbnail>https://imgur.com/UcGIxsG.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/rtfpessoa/sportsflix/master/lib/sportsflix/providers/arenavision.rb</externallink>
-<fanart>https://ia601403.us.archive.org/25/items/fanart_20190909_1728/fanart.jpg</fanart>
-<info>[COLOR deeppink]|[/COLOR]- teste -[COLOR deeppink]|[/COLOR]</info>
-</channel>
-</channels>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+#EXTINF:Alien.vs.Predator.2004.1080p.BrRip.x264.YIFY
+http://moviebuzz.one/Data/Movies/Hollywood/Alien%20vs.%20Predator%20%282004%29/Alien.vs.Predator.2004.1080p.BrRip.x264.YIFY.mp4
