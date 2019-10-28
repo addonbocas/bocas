@@ -26,6 +26,8 @@ https://ul.cdn946.net:8443/hls/oecm2no.m3u8?s=HHpk-5rCKNPQX0NYvbLcrg&e=157230884
 https://ul.cdn946.net:8443/hls/akfmyi.m3u8?s=32bqN-6F1H6QNx5VQwgPUw&e=1572309271
 #EXTINF:-1, sportzonline.to - espn brasil
 https://sportzonline.to/channels/bra/br3.php
+#EXTINF:-1, sportzonline.to - SPORT TV 1 acestream
+http://127.0.0.1:6878/ace/manifest.m3u8?id=b702635c679ce598b641ab6cdbd6e11547eaa67d
 
 
 
