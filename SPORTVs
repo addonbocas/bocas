@@ -147,3 +147,19 @@ https://arenavision.in/p81/cloud/servers/truecode/xpond/445ghg6/arenavision-47
 https://arenavision.in/p81/cloud/servers/truecode/xpond/445ghg6/arenavision-48 
 #EXTINF:-1 tvg-logo="http://taimienphi.vn/tmp/cf/icon/ace-stream-media.jpg" group-title="Sports (link Acestream)", ArenaVision 49
 https://arenavision.in/p81/cloud/servers/truecode/xpond/445ghg6/arenavision-49
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="http://totalsport.me/brand.png" group-title="Web totalsport.me",SportTV 1 PORTUGAL HD
+http://totalsport.me/1pt.html
+#EXTINF:-1 tvg-logo="http://totalsport.me/brand.png" group-title="Web totalsport.me",SportTV 2 PORTUGAL HD
+http://totalsport.me/2pt.html
+#EXTINF:-1 tvg-logo="http://totalsport.me/brand.png" group-title="Web totalsport.me",SportTV 3 PORTUGAL HD
+http://totalsport.me/3pt.html
+#EXTINF:-1 tvg-logo="http://totalsport.me/brand.png" group-title="Web totalsport.me",SportTV 4 PORTUGAL HD
+http://totalsport.me/4pt.html
+#EXTINF:-1 tvg-logo="http://totalsport.me/brand.png" group-title="Web totalsport.me",SportTV 5 PORTUGAL HD
+http://totalsport.me/5pt.html
