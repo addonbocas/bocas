@@ -12,6 +12,24 @@ rtmp://89.163.224.168:80/live/sporttv5
 rtmp://89.163.224.168:80/live/btv1
 
 
+#EXTINF:-1, sportzonline.to - SPORT TV 1
+https://ul.cdn946.net:8443/hls/cyqomyts14egn.m3u8?s=Q67IF6XctqEvCRS9T4R19w&e=1572308244
+#EXTINF:-1, sportzonline.to - SPORT TV 2
+https://ul.cdn946.net:8443/hls/dftsbx86z8qhvbg.m3u8?s=3JR6NpD90UwoXwJWLLIpKg&e=1572308486
+#EXTINF:-1, sportzonline.to - SPORT TV 3
+https://ul.cdn946.net:8443/hls/rxujvy5u40gwel.m3u8?s=lzwF5hfa1WW9pbJpemZAsQ&e=1572308609
+#EXTINF:-1, sportzonline.to - SPORT TV 4
+https://ul.cdn946.net:8443/hls/oh66wnqhpbdcy.m3u8?s=JKU1Tu3H6mb8_bzjQdfI5w&e=1572308646
+#EXTINF:-1, sportzonline.to - SPORT TV 5
+https://ul.cdn946.net:8443/hls/oecm2no.m3u8?s=HHpk-5rCKNPQX0NYvbLcrg&e=1572308847
+#EXTINF:-1, sportzonline.to - premiere brasil
+https://ul.cdn946.net:8443/hls/akfmyi.m3u8?s=32bqN-6F1H6QNx5VQwgPUw&e=1572309271
+#EXTINF:-1, sportzonline.to - espn brasil
+https://sportzonline.to/channels/bra/br3.php
+
+
+
+
 #EXTINF:-1,SPORT TV _1 (smartv)
 https://sport7.biz/lba/123/g6/tv1pt.m3u8
 #EXTINF:-1,SPORT TV _2 (smartv)
@@ -23,28 +41,10 @@ https://sport7.biz/lba/123/g4/portugalsport4.m3u8
 #EXTINF:-1,SPORT TV _5 (smartv)
 https://sport7.biz/lba/123/g8/ptsport5.m3u8
 
-#EXTINF:-1,SPORT TV 1 (totalsport.me)(smartv)(só funciona na minha casa)
-https://ul.cdn946.net:8443/hls/cyqomyts14egn.m3u8?s=U0KXXcULadai1qu6E6tMCg&e=1571085918
-#EXTINF:-1,SPORT TV 2 (totalsport.me)(smartv)(só funciona na minha casa)
-https://ul.cdn946.net:8443/hls/dftsbx86z8qhvbg.m3u8?s=ILpGtY_D215jT7CRs0TFZA&e=1571085335
-#EXTINF:-1,SPORT TV 3 (totalsport.me)(smartv)(só funciona na minha casa)
-https://ul.cdn946.net:8443/hls/rxujvy5u40gwel.m3u8?s=9wTDXoOuHNsxjZnLsIGhrg&e=1571086862
-#EXTINF:-1,SPORT TV 4 (totalsport.me)(smartv)(só funciona na minha casa)
-https://ul.cdn946.net:8443/hls/oh66wnqhpbdcy.m3u8?s=3C_gKtP988GvSQ8-oYvcHA&e=1571086739
-#EXTINF:-1,SPORT TV 5 (totalsport.me)(smartv)(só funciona na minha casa)
-https://ul.cdn946.net:8443/hls/oecm2no.m3u8?s=jhmIIvaIX8D3JRy5uUHz7g&e=1571086793
 
 
 
 
 
-#EXTINF:-1, sportzonline.to - SPORT TV 1
-https://ul.cdn946.net:8443/hls/cyqomyts14egn.m3u8?s=Q67IF6XctqEvCRS9T4R19w&e=1572308244
-#EXTINF:-1, sportzonline.to - SPORT TV 2
-https://ul.cdn946.net:8443/hls/dftsbx86z8qhvbg.m3u8?s=3JR6NpD90UwoXwJWLLIpKg&e=1572308486
-#EXTINF:-1, sportzonline.to - SPORT TV 3
-https://ul.cdn946.net:8443/hls/rxujvy5u40gwel.m3u8?s=lzwF5hfa1WW9pbJpemZAsQ&e=1572308609
-#EXTINF:-1, sportzonline.to - SPORT TV 4
-https://ul.cdn946.net:8443/hls/oh66wnqhpbdcy.m3u8?s=JKU1Tu3H6mb8_bzjQdfI5w&e=1572308646
-#EXTINF:-1, sportzonline.to - SPORT TV 5
-https://ul.cdn946.net:8443/hls/oecm2no.m3u8?s=HHpk-5rCKNPQX0NYvbLcrg&e=1572308847
+
+
