@@ -1,485 +1,112 @@
 <item>
-<title>[COLOR yellow]#EXTINF:-1 tvg-logo="http://taimienphi.vn/tmp/cf/icon/ace-stream-media.jpg" group-title="Sports (link Acestream)", ArenaVision 1[/COLOR]</title>
-<link>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://arenavision.in/p81/cloud/servers/truecode/xpond/445ghg6/arenavision-1&amp;mode=1&amp;name=SPORTS</link>
+<title>[COLOR yellow] ArenaVision 1[/COLOR]</title>
+<link>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://arenavision.in/p81/cloud/servers/truecode/xpond/445ghg6/arenavision-1</link>
 </item>
 
 
 <item>
-<title>[COLOR yellow]#EXTINF:-1 tvg-logo="http://taimienphi.vn/tmp/cf/icon/ace-stream-media.jpg" group-title="Sports (link Acestream)", ArenaVision 2[/COLOR]</title>
-<link>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://arenavision.in/p81/cloud/servers/truecode/xpond/445ghg6/arenavision-2 &amp;mode=1&amp;name=SPORTS</link>
+<title>[COLOR yellow]ArenaVision 2[/COLOR]</title>
+<link>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://arenavision.in/p81/cloud/servers/truecode/xpond/445ghg6/arenavision-2 </link>
 </item>
 
 
 <item>
-<title>[COLOR yellow]#EXTINF:-1 tvg-logo="http://taimienphi.vn/tmp/cf/icon/ace-stream-media.jpg" group-title="Sports (link Acestream)", ArenaVision 3[/COLOR]</title>
-<link>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://arenavision.in/p81/cloud/servers/truecode/xpond/445ghg6/arenavision-3 &amp;mode=1&amp;name=SPORTS</link>
+<title>[COLOR yellow]ArenaVision 3[/COLOR]</title>
+<link>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://arenavision.in/p81/cloud/servers/truecode/xpond/445ghg6/arenavision-3 </link>
 </item>
 
 
 <item>
-<title>[COLOR yellow]#EXTINF:-1 tvg-logo="http://taimienphi.vn/tmp/cf/icon/ace-stream-media.jpg" group-title="Sports (link Acestream)", ArenaVision 10[/COLOR]</title>
-<link>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://arenavision.in/p81/cloud/servers/truecode/xpond/445ghg6/arenavision-10&amp;mode=1&amp;name=SPORTS</link>
+<title>[COLOR yellow]ArenaVision 10[/COLOR]</title>
+<link>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://arenavision.in/p81/cloud/servers/truecode/xpond/445ghg6/arenavision-10</link>
 </item>
 
 
 <item>
-<title>[COLOR yellow]#EXTINF:-1 tvg-logo="http://taimienphi.vn/tmp/cf/icon/ace-stream-media.jpg" group-title="Sports (link Acestream)", ArenaVision 11[/COLOR]</title>
-<link>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://arenavision.in/p81/cloud/servers/truecode/xpond/445ghg6/arenavision-11&amp;mode=1&amp;name=SPORTS</link>
+<title>[COLOR yellow]ArenaVision 11[/COLOR]</title>
+<link>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://arenavision.in/p81/cloud/servers/truecode/xpond/445ghg6/arenavision-11</link>
 </item>
 
 
 <item>
-<title>[COLOR yellow]#EXTINF:-1 tvg-logo="http://taimienphi.vn/tmp/cf/icon/ace-stream-media.jpg" group-title="Sports (link Acestream)", ArenaVision 12[/COLOR]</title>
-<link>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://arenavision.in/p81/cloud/servers/truecode/xpond/445ghg6/arenavision-12 &amp;mode=1&amp;name=SPORTS</link>
+<title>[COLOR yellow] ArenaVision 12[/COLOR]</title>
+<link>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://arenavision.in/p81/cloud/servers/truecode/xpond/445ghg6/arenavision-12 </link>
 </item>
 
 
 <item>
-<title>[COLOR yellow]#EXTINF:-1 tvg-logo="http://taimienphi.vn/tmp/cf/icon/ace-stream-media.jpg" group-title="Sports (link Acestream)", ArenaVision 19[/COLOR]</title>
-<link>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://arenavision.in/p81/cloud/servers/truecode/xpond/445ghg6/arenavision-19&amp;mode=1&amp;name=SPORTS</link>
+<title>[COLOR yellow]ArenaVision 19[/COLOR]</title>
+<link>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://arenavision.in/p81/cloud/servers/truecode/xpond/445ghg6/arenavision-19</link>
 </item>
 
 
 <item>
-<title>[COLOR yellow]#EXTINF:-1 tvg-logo="http://taimienphi.vn/tmp/cf/icon/ace-stream-media.jpg" group-title="Sports (link Acestream)", ArenaVision 20[/COLOR]</title>
-<link>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://arenavision.in/p81/cloud/servers/truecode/xpond/445ghg6/arenavision-20&amp;mode=1&amp;name=SPORTS</link>
+<title>[COLOR yellow]ArenaVision 20[/COLOR]</title>
+<link>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://arenavision.in/p81/cloud/servers/truecode/xpond/445ghg6/arenavision-20</link>
 </item>
 
 
 <item>
-<title>[COLOR yellow]#EXTINF:-1 tvg-logo="http://taimienphi.vn/tmp/cf/icon/ace-stream-media.jpg" group-title="Sports (link Acestream)", ArenaVision 21[/COLOR]</title>
-<link>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://arenavision.in/p81/cloud/servers/truecode/xpond/445ghg6/arenavision-21&amp;mode=1&amp;name=SPORTS</link>
+<title>[COLOR yellow]ArenaVision 21[/COLOR]</title>
+<link>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://arenavision.in/p81/cloud/servers/truecode/xpond/445ghg6/arenavision-21</link>
 </item>
 
 
 <item>
-<title>[COLOR yellow]#EXTINF:-1 tvg-logo="http://taimienphi.vn/tmp/cf/icon/ace-stream-media.jpg" group-title="Sports (link Acestream)", ArenaVision 28[/COLOR]</title>
-<link>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://arenavision.in/p81/cloud/servers/truecode/xpond/445ghg6/arenavision-28 &amp;mode=1&amp;name=SPORTS</link>
+<title>[COLOR yellow]ArenaVision 28[/COLOR]</title>
+<link>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://arenavision.in/p81/cloud/servers/truecode/xpond/445ghg6/arenavision-28 </link>
 </item>
 
 
 <item>
-<title>[COLOR yellow]#EXTINF:-1 tvg-logo="http://taimienphi.vn/tmp/cf/icon/ace-stream-media.jpg" group-title="Sports (link Acestream)", ArenaVision 29[/COLOR]</title>
-<link>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://arenavision.in/p81/cloud/servers/truecode/xpond/445ghg6/arenavision-29&amp;mode=1&amp;name=SPORTS</link>
+<title>[COLOR yellow]ArenaVision 29[/COLOR]</title>
+<link>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://arenavision.in/p81/cloud/servers/truecode/xpond/445ghg6/arenavision-29</link>
 </item>
 
 
 <item>
-<title>[COLOR yellow]#EXTINF:-1 tvg-logo="http://taimienphi.vn/tmp/cf/icon/ace-stream-media.jpg" group-title="Sports (link Acestream)", ArenaVision 30[/COLOR]</title>
-<link>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://arenavision.in/p81/cloud/servers/truecode/xpond/445ghg6/arenavision-30&amp;mode=1&amp;name=SPORTS</link>
+<title>[COLOR yellow]ArenaVision 30[/COLOR]</title>
+<link>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://arenavision.in/p81/cloud/servers/truecode/xpond/445ghg6/arenavision-30</link>
 </item>
 
 
 <item>
-<title>[COLOR yellow]#EXTINF:-1 tvg-logo="http://taimienphi.vn/tmp/cf/icon/ace-stream-media.jpg" group-title="Sports (link Acestream)", ArenaVision 37[/COLOR]</title>
-<link>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://arenavision.in/p81/cloud/servers/truecode/xpond/445ghg6/arenavision-37 &amp;mode=1&amp;name=SPORTS</link>
+<title>[COLOR yellow]ArenaVision 37[/COLOR]</title>
+<link>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://arenavision.in/p81/cloud/servers/truecode/xpond/445ghg6/arenavision-37 </link>
 </item>
 
 
 <item>
-<title>[COLOR yellow]#EXTINF:-1 tvg-logo="http://taimienphi.vn/tmp/cf/icon/ace-stream-media.jpg" group-title="Sports (link Acestream)", ArenaVision 38[/COLOR]</title>
-<link>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://arenavision.in/p81/cloud/servers/truecode/xpond/445ghg6/arenavision-38 &amp;mode=1&amp;name=SPORTS</link>
+<title>[COLOR yellow]ArenaVision 38[/COLOR]</title>
+<link>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://arenavision.in/p81/cloud/servers/truecode/xpond/445ghg6/arenavision-38 </link>
 </item>
 
 
 <item>
-<title>[COLOR yellow]#EXTINF:-1 tvg-logo="http://taimienphi.vn/tmp/cf/icon/ace-stream-media.jpg" group-title="Sports (link Acestream)", ArenaVision 39[/COLOR]</title>
-<link>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://arenavision.in/p81/cloud/servers/truecode/xpond/445ghg6/arenavision-39&amp;mode=1&amp;name=SPORTS</link>
+<title>[COLOR yellow]ArenaVision 39[/COLOR]</title>
+<link>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://arenavision.in/p81/cloud/servers/truecode/xpond/445ghg6/arenavision-39</link>
 </item>
 
 
 <item>
-<title>[COLOR yellow]#EXTINF:-1 tvg-logo="http://taimienphi.vn/tmp/cf/icon/ace-stream-media.jpg" group-title="Sports (link Acestream)", ArenaVision 46[/COLOR]</title>
-<link>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://arenavision.in/p81/cloud/servers/truecode/xpond/445ghg6/arenavision-46 &amp;mode=1&amp;name=SPORTS</link>
+<title>[COLOR yellow]ArenaVision 46[/COLOR]</title>
+<link>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://arenavision.in/p81/cloud/servers/truecode/xpond/445ghg6/arenavision-46 </link>
 </item>
 
 
 <item>
-<title>[COLOR yellow]#EXTINF:-1 tvg-logo="http://taimienphi.vn/tmp/cf/icon/ace-stream-media.jpg" group-title="Sports (link Acestream)", ArenaVision 47[/COLOR]</title>
-<link>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://arenavision.in/p81/cloud/servers/truecode/xpond/445ghg6/arenavision-47 &amp;mode=1&amp;name=SPORTS</link>
+<title>[COLOR yellow]ArenaVision 47[/COLOR]</title>
+<link>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://arenavision.in/p81/cloud/servers/truecode/xpond/445ghg6/arenavision-47 </link>
 </item>
 
 
 <item>
-<title>[COLOR yellow]#EXTINF:-1 tvg-logo="http://taimienphi.vn/tmp/cf/icon/ace-stream-media.jpg" group-title="Sports (link Acestream)", ArenaVision 48[/COLOR]</title>
-<link>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://arenavision.in/p81/cloud/servers/truecode/xpond/445ghg6/arenavision-48 &amp;mode=1&amp;name=SPORTS</link>
+<title>[COLOR yellow]ArenaVision 48[/COLOR]</title>
+<link>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://arenavision.in/p81/cloud/servers/truecode/xpond/445ghg6/arenavision-48 </link>
 </item>
 
 
 <item>
-<title>[COLOR yellow]#EXTINF:-1 tvg-logo="http://taimienphi.vn/tmp/cf/icon/ace-stream-media.jpg" group-title="Sports (link Acestream)", ArenaVision 49[/COLOR]</title>
-<link>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://arenavision.in/p81/cloud/servers/truecode/xpond/445ghg6/arenavision-49&amp;mode=1&amp;name=SPORTS</link>
+<title>[COLOR yellow]ArenaVision 49[/COLOR]</title>
+<link>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://arenavision.in/p81/cloud/servers/truecode/xpond/445ghg6/arenavision-49</link>
 </item>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
