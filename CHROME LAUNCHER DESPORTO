@@ -125,11 +125,11 @@
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 <item>
-<title>[COLOR lime]https://sportbar.biz[/COLOR]</title>
+<title>[COLOR lime]https://www.we-play.tv[/COLOR]</title>
 <link>ignore</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<jsonrpc>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://sportzonline.co/channels/pt/sporttv1.php</jsonrpc>
+<jsonrpc>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://www.we-play.tv</jsonrpc>
 </item>
 
 <item>
@@ -137,7 +137,7 @@
 <link>ignore</link>
 <thumbnail>https://iptv.bestsky.pt/wp-content/uploads/2019/02/a450.png</thumbnail>
 <fanart>https://iptv.bestsky.pt/wp-content/uploads/2019/02/a450.png</fanart>
-<jsonrpc>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://sportbar.biz/tv1pt.html</jsonrpc>
+<jsonrpc>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://www.we-play.tv/live/channel.php?name=sporttv1</jsonrpc>
 </item>
 
 <item>
@@ -145,7 +145,7 @@
 <link>ignore</link>
 <thumbnail>https://sport-tv-guide.live/images/stations/a451.png</thumbnail>
 <fanart>https://sport-tv-guide.live/images/stations/a451.png</fanart>
-<jsonrpc>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://sportbar.biz/tv2pt.html</jsonrpc>
+<jsonrpc>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://www.we-play.tv/live/channel.php?name=sporttv2</jsonrpc>
 </item>
 
 <item>
@@ -153,7 +153,7 @@
 <link>ignore</link>
 <thumbnail>https://sport-tv-guide.live/images/stations/a452.png</thumbnail>
 <fanart>https://sport-tv-guide.live/images/stations/a452.png</fanart>
-<jsonrpc>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://sportbar.biz/tv3pt.html</jsonrpc>
+<jsonrpc>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://www.we-play.tv/live/channel.php?name=sporttv3</jsonrpc>
 </item>
 
 <item>
@@ -161,7 +161,7 @@
 <link>ignore</link>
 <thumbnail>https://iptv.bestsky.pt/wp-content/uploads/2019/02/a453.png</thumbnail>
 <fanart>https://iptv.bestsky.pt/wp-content/uploads/2019/02/a453.png</fanart>
-<jsonrpc>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://sportbar.biz/tv4pt.html</jsonrpc>
+<jsonrpc>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://www.we-play.tv/live/channel.php?name=sporttv4</jsonrpc>
 </item>
 
 <item>
@@ -169,7 +169,7 @@
 <link>ignore</link>
 <thumbnail>https://sport-tv-guide.live/images/stations/a454.png</thumbnail>
 <fanart>https://sport-tv-guide.live/images/stations/a454.png</fanart>
-<jsonrpc>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://sportbar.biz/tv5pt.html</jsonrpc>
+<jsonrpc>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://www.we-play.tv/live/channel.php?name=sporttv5</jsonrpc>
 </item>
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
