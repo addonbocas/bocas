@@ -122,10 +122,41 @@
 
 
 <item>
-<title>[COLOR yellow]arenavision 17[/COLOR]</title>
+<title>[COLOR yellow]arenavision AV17/AV18[/COLOR] sportv 1</title>
 <link>ignore</link>
 <thumbnail>https://www.dropbox.com/s/pg8j27k7uyy5m5n/images.jpg?dl=1</thumbnail>
 <fanart>https://www.dropbox.com/s/39cmgm9udy3kwwi/photo_2018-03-21_20-49-52.jpg?dl=1</fanart>
 <jsonrpc>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://arenavision.in/p81/cloud/servers/truecode/xpond/445ghg6/arenavision-17</jsonrpc>
 </item>
 
+<item>
+<title>[COLOR yellow]arenavision AV7/AV8[/COLOR] sportv 2</title>
+<link>ignore</link>
+<thumbnail>https://www.dropbox.com/s/pg8j27k7uyy5m5n/images.jpg?dl=1</thumbnail>
+<fanart>https://www.dropbox.com/s/39cmgm9udy3kwwi/photo_2018-03-21_20-49-52.jpg?dl=1</fanart>
+<jsonrpc>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://arenavision.in/p81/cloud/servers/truecode/xpond/445ghg6/arenavision-7</jsonrpc>
+</item>
+
+<item>
+<title>[COLOR yellow]arenavision AV5/AV6[/COLOR] sportv 3</title>
+<link>ignore</link>
+<thumbnail>https://www.dropbox.com/s/pg8j27k7uyy5m5n/images.jpg?dl=1</thumbnail>
+<fanart>https://www.dropbox.com/s/39cmgm9udy3kwwi/photo_2018-03-21_20-49-52.jpg?dl=1</fanart>
+<jsonrpc>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://arenavision.in/p81/cloud/servers/truecode/xpond/445ghg6/arenavision-5</jsonrpc>
+</item>
+
+<item>
+<title>[COLOR yellow]arenavision AV37/AV38[/COLOR] sportv 4</title>
+<link>ignore</link>
+<thumbnail>https://www.dropbox.com/s/pg8j27k7uyy5m5n/images.jpg?dl=1</thumbnail>
+<fanart>https://www.dropbox.com/s/39cmgm9udy3kwwi/photo_2018-03-21_20-49-52.jpg?dl=1</fanart>
+<jsonrpc>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://arenavision.in/p81/cloud/servers/truecode/xpond/445ghg6/arenavision-37</jsonrpc>
+</item>
+
+<item>
+<title>[COLOR yellow]arenavision AV21/AV22[/COLOR] sportv 5</title>
+<link>ignore</link>
+<thumbnail>https://www.dropbox.com/s/pg8j27k7uyy5m5n/images.jpg?dl=1</thumbnail>
+<fanart>https://www.dropbox.com/s/39cmgm9udy3kwwi/photo_2018-03-21_20-49-52.jpg?dl=1</fanart>
+<jsonrpc>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://arenavision.in/p81/cloud/servers/truecode/xpond/445ghg6/arenavision-21</jsonrpc>
+</item>
