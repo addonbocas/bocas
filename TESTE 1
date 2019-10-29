@@ -1,4 +1,14 @@
 <item>
+<title>[COLOR red] * * * * [/COLOR][COLOR lime][B] teste sportv 1 chrome launcher [/COLOR][/B][COLOR red] * * * * [/COLOR]</title>
+<link>ignore</link>
+<thumbnail>https://www.dropbox.com/s/pg8j27k7uyy5m5n/images.jpg?dl=1</thumbnail>
+<fanart>https://www.dropbox.com/s/39cmgm9udy3kwwi/photo_2018-03-21_20-49-52.jpg?dl=1</fanart>
+<jsonrpc>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://sportzonline.co/channels/pt/sporttv1.php</jsonrpc>
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<item>
 <title>[COLOR blue]live MOBDRO channels click links twice to play.[/COLOR]</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.SportsDevil/?item=url=customs/tvone1.tv.cfg&amp;mode=1</jsonrpc>
