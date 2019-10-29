@@ -12,48 +12,48 @@
 <item>
 <title>[COLOR lime]https://sportzonline.co[/COLOR]</title>
 <link>ignore</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>http://www.apostasemportugal.com/wp-content/uploads/2018/01/sporttv-online-gratis.jpg</thumbnail>
+<fanart>http://www.apostasemportugal.com/wp-content/uploads/2018/01/sporttv-online-gratis.jpg</fanart>
 <jsonrpc>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://sportzonline.co/channels/pt/sporttv1.php</jsonrpc>
 </item>
 
 <item>
 <title>[COLOR yellow]sportv 1[/COLOR]</title>
 <link>ignore</link>
-<thumbnail>https://www.dropbox.com/s/pg8j27k7uyy5m5n/images.jpg?dl=1</thumbnail>
-<fanart>https://www.dropbox.com/s/39cmgm9udy3kwwi/photo_2018-03-21_20-49-52.jpg?dl=1</fanart>
+<thumbnail>https://iptv.bestsky.pt/wp-content/uploads/2019/02/a450.png</thumbnail>
+<fanart>https://iptv.bestsky.pt/wp-content/uploads/2019/02/a450.png</fanart>
 <jsonrpc>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://sportzonline.co/channels/pt/sporttv1.php</jsonrpc>
 </item>
 
 <item>
 <title>[COLOR yellow]sportv 2[/COLOR]</title>
 <link>ignore</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>https://sport-tv-guide.live/images/stations/a451.png</thumbnail>
+<fanart>https://sport-tv-guide.live/images/stations/a451.png</fanart>
 <jsonrpc>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://sportzonline.co/channels/pt/sporttv2.php</jsonrpc>
 </item>
 
 <item>
 <title>[COLOR yellow]sportv 3[/COLOR]</title>
 <link>ignore</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>https://sport-tv-guide.live/images/stations/a452.png</thumbnail>
+<fanart>https://sport-tv-guide.live/images/stations/a452.png</fanart>
 <jsonrpc>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://sportzonline.co/channels/pt/sporttv3.php</jsonrpc>
 </item>
 
 <item>
 <title>[COLOR yellow]sportv 4[/COLOR]</title>
 <link>ignore</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>https://iptv.bestsky.pt/wp-content/uploads/2019/02/a453.png</thumbnail>
+<fanart>https://iptv.bestsky.pt/wp-content/uploads/2019/02/a453.png</fanart>
 <jsonrpc>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://sportzonline.co/channels/pt/sporttv4.php</jsonrpc>
 </item>
 
 <item>
 <title>[COLOR yellow]sportv 5[/COLOR]</title>
 <link>ignore</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>https://sport-tv-guide.live/images/stations/a454.png</thumbnail>
+<fanart>https://sport-tv-guide.live/images/stations/a454.png</fanart>
 <jsonrpc>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://sportzonline.co/channels/pt/sporttv5.php</jsonrpc>
 </item>
 
@@ -71,40 +71,40 @@
 <item>
 <title>[COLOR yellow]sportv 1[/COLOR]</title>
 <link>ignore</link>
-<thumbnail>https://www.dropbox.com/s/pg8j27k7uyy5m5n/images.jpg?dl=1</thumbnail>
-<fanart>https://www.dropbox.com/s/39cmgm9udy3kwwi/photo_2018-03-21_20-49-52.jpg?dl=1</fanart>
+<thumbnail>https://iptv.bestsky.pt/wp-content/uploads/2019/02/a450.png</thumbnail>
+<fanart>https://iptv.bestsky.pt/wp-content/uploads/2019/02/a450.png</fanart>
 <jsonrpc>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://sportbar.biz/tv1pt.html</jsonrpc>
 </item>
 
 <item>
 <title>[COLOR yellow]sportv 2[/COLOR]</title>
 <link>ignore</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>https://sport-tv-guide.live/images/stations/a451.png</thumbnail>
+<fanart>https://sport-tv-guide.live/images/stations/a451.png</fanart>
 <jsonrpc>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://sportbar.biz/tv2pt.html</jsonrpc>
 </item>
 
 <item>
 <title>[COLOR yellow]sportv 3[/COLOR]</title>
 <link>ignore</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>https://sport-tv-guide.live/images/stations/a452.png</thumbnail>
+<fanart>https://sport-tv-guide.live/images/stations/a452.png</fanart>
 <jsonrpc>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://sportbar.biz/tv3pt.html</jsonrpc>
 </item>
 
 <item>
 <title>[COLOR yellow]sportv 4[/COLOR]</title>
 <link>ignore</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>https://iptv.bestsky.pt/wp-content/uploads/2019/02/a453.png</thumbnail>
+<fanart>https://iptv.bestsky.pt/wp-content/uploads/2019/02/a453.png</fanart>
 <jsonrpc>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://sportbar.biz/tv4pt.html</jsonrpc>
 </item>
 
 <item>
 <title>[COLOR yellow]sportv 5[/COLOR]</title>
 <link>ignore</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>https://sport-tv-guide.live/images/stations/a454.png</thumbnail>
+<fanart>https://sport-tv-guide.live/images/stations/a454.png</fanart>
 <jsonrpc>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://sportbar.biz/tv5pt.html</jsonrpc>
 </item>
 
@@ -114,8 +114,8 @@
 <item>
 <title>[COLOR lime]https://arenavision.in[/COLOR]</title>
 <link>ignore</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>https://i.ytimg.com/vi/FuP4HdFYRhw/maxresdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/FuP4HdFYRhw/maxresdefault.jpg</fanart>
 <jsonrpc>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://arenavision.in</jsonrpc>
 </item>
 
@@ -124,39 +124,39 @@
 <item>
 <title>[COLOR yellow]arenavision AV17/AV18[/COLOR] sportv 1</title>
 <link>ignore</link>
-<thumbnail>https://www.dropbox.com/s/pg8j27k7uyy5m5n/images.jpg?dl=1</thumbnail>
-<fanart>https://www.dropbox.com/s/39cmgm9udy3kwwi/photo_2018-03-21_20-49-52.jpg?dl=1</fanart>
+<thumbnail>https://iptv.bestsky.pt/wp-content/uploads/2019/02/a450.png</thumbnail>
+<fanart>https://iptv.bestsky.pt/wp-content/uploads/2019/02/a450.png</fanart>
 <jsonrpc>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://arenavision.in/p81/cloud/servers/truecode/xpond/445ghg6/arenavision-17</jsonrpc>
 </item>
 
 <item>
 <title>[COLOR yellow]arenavision AV07/AV08[/COLOR] sportv 2</title>
 <link>ignore</link>
-<thumbnail>https://www.dropbox.com/s/pg8j27k7uyy5m5n/images.jpg?dl=1</thumbnail>
-<fanart>https://www.dropbox.com/s/39cmgm9udy3kwwi/photo_2018-03-21_20-49-52.jpg?dl=1</fanart>
+<thumbnail>https://sport-tv-guide.live/images/stations/a451.png</thumbnail>
+<fanart>https://sport-tv-guide.live/images/stations/a451.png</fanart>
 <jsonrpc>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://arenavision.in/p81/cloud/servers/truecode/xpond/445ghg6/arenavision-7</jsonrpc>
 </item>
 
 <item>
 <title>[COLOR yellow]arenavision AV05/AV06[/COLOR] sportv 3</title>
 <link>ignore</link>
-<thumbnail>https://www.dropbox.com/s/pg8j27k7uyy5m5n/images.jpg?dl=1</thumbnail>
-<fanart>https://www.dropbox.com/s/39cmgm9udy3kwwi/photo_2018-03-21_20-49-52.jpg?dl=1</fanart>
+<thumbnail>https://sport-tv-guide.live/images/stations/a452.png</thumbnail>
+<fanart>https://sport-tv-guide.live/images/stations/a452.png</fanart>
 <jsonrpc>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://arenavision.in/p81/cloud/servers/truecode/xpond/445ghg6/arenavision-5</jsonrpc>
 </item>
 
 <item>
 <title>[COLOR yellow]arenavision AV37/AV38[/COLOR] sportv 4</title>
 <link>ignore</link>
-<thumbnail>https://www.dropbox.com/s/pg8j27k7uyy5m5n/images.jpg?dl=1</thumbnail>
-<fanart>https://www.dropbox.com/s/39cmgm9udy3kwwi/photo_2018-03-21_20-49-52.jpg?dl=1</fanart>
+<thumbnail>https://iptv.bestsky.pt/wp-content/uploads/2019/02/a453.png</thumbnail>
+<fanart>https://iptv.bestsky.pt/wp-content/uploads/2019/02/a453.png</fanart>
 <jsonrpc>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://arenavision.in/p81/cloud/servers/truecode/xpond/445ghg6/arenavision-37</jsonrpc>
 </item>
 
 <item>
 <title>[COLOR yellow]arenavision AV21/AV22[/COLOR] sportv 5</title>
 <link>ignore</link>
-<thumbnail>https://www.dropbox.com/s/pg8j27k7uyy5m5n/images.jpg?dl=1</thumbnail>
-<fanart>https://www.dropbox.com/s/39cmgm9udy3kwwi/photo_2018-03-21_20-49-52.jpg?dl=1</fanart>
+<thumbnail>https://sport-tv-guide.live/images/stations/a454.png</thumbnail>
+<fanart>https://sport-tv-guide.live/images/stations/a454.png</fanart>
 <jsonrpc>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://arenavision.in/p81/cloud/servers/truecode/xpond/445ghg6/arenavision-21</jsonrpc>
 </item>
