@@ -12,6 +12,18 @@
 
 <channels>
 <channel>
+<name>[COLOR yellow]CANAIS DESPORTIVOS - SITES[/COLOR] precisa ter instalado o addon CHROME LAUNCHER 1.2.0</name>
+<thumbnail>https://media.wired.com/photos/5ba91472ffac9b2ce1d578ba/191:100/w_2381,h_1246,c_limit/Chrome-1011178068.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/addonbocas/bocas/master/CHROME%20LAUNCHER%20DESPORTO</externallink>
+<fanart>https://media.wired.com/photos/5ba91472ffac9b2ce1d578ba/191:100/w_2381,h_1246,c_limit/Chrome-1011178068.jpg</fanart>
+<info>[COLOR lime]CANAIS WEB[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
 <name>[COLOR yellow]SPORTVs[/COLOR] (WEB)</name>
 <thumbnail>http://imgur.com/cgHWHQX.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/addonbocas/bocas/master/SPORTVs</externallink>
@@ -49,17 +61,7 @@
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 
-<channels>
-<channel>
-<name>[COLOR lime]CHROME LAUNCHER[/COLOR] (CANAIS DESPORTIVOS - SITES)</name>
-<thumbnail>https://media.wired.com/photos/5ba91472ffac9b2ce1d578ba/191:100/w_2381,h_1246,c_limit/Chrome-1011178068.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/addonbocas/bocas/master/CHROME%20LAUNCHER</externallink>
-<fanart>https://media.wired.com/photos/5ba91472ffac9b2ce1d578ba/191:100/w_2381,h_1246,c_limit/Chrome-1011178068.jpg</fanart>
-<info>[COLOR lime]CANAIS WEB[/COLOR]</info>
-</channel>
-</channels>
 
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 
 
