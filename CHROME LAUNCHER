@@ -1,5 +1,5 @@
 <item>
-<title>[COLOR lime]CHROME LAUNCHER PARA WINDOWS[/COLOR]</title>
+<title>[COLOR lime]https://sportzonline.co[/COLOR]</title>
 <link>ignore</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -7,11 +7,94 @@
 </item>
 
 <item>
-<title>[COLOR yellow][B] teste 1 - sportv 1 chrome launcher [/COLOR]</title>
+<title>[COLOR yellow]sportv 1[/COLOR]</title>
 <link>ignore</link>
 <thumbnail>https://www.dropbox.com/s/pg8j27k7uyy5m5n/images.jpg?dl=1</thumbnail>
 <fanart>https://www.dropbox.com/s/39cmgm9udy3kwwi/photo_2018-03-21_20-49-52.jpg?dl=1</fanart>
 <jsonrpc>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://sportzonline.co/channels/pt/sporttv1.php</jsonrpc>
+</item>
+
+<item>
+<title>[COLOR yellow]sportv 2[/COLOR]</title>
+<link>ignore</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<jsonrpc>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://sportzonline.co/channels/pt/sporttv2.php</jsonrpc>
+</item>
+
+<item>
+<title>[COLOR yellow]sportv 3[/COLOR]</title>
+<link>ignore</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<jsonrpc>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://sportzonline.co/channels/pt/sporttv3.php</jsonrpc>
+</item>
+
+<item>
+<title>[COLOR yellow]sportv 4[/COLOR]</title>
+<link>ignore</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<jsonrpc>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://sportzonline.co/channels/pt/sporttv4.php</jsonrpc>
+</item>
+
+<item>
+<title>[COLOR yellow]sportv 5[/COLOR]</title>
+<link>ignore</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<jsonrpc>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://sportzonline.co/channels/pt/sporttv5.php</jsonrpc>
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<item>
+<title>[COLOR lime]https://sportbar.biz[/COLOR]</title>
+<link>ignore</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<jsonrpc>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://sportzonline.co/channels/pt/sporttv1.php</jsonrpc>
+</item>
+
+<item>
+<title>[COLOR yellow]sportv 1[/COLOR]</title>
+<link>ignore</link>
+<thumbnail>https://www.dropbox.com/s/pg8j27k7uyy5m5n/images.jpg?dl=1</thumbnail>
+<fanart>https://www.dropbox.com/s/39cmgm9udy3kwwi/photo_2018-03-21_20-49-52.jpg?dl=1</fanart>
+<jsonrpc>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://sportbar.biz/tv1pt.html</jsonrpc>
+</item>
+
+<item>
+<title>[COLOR yellow]sportv 2[/COLOR]</title>
+<link>ignore</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<jsonrpc>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://sportbar.biz/tv2pt.html</jsonrpc>
+</item>
+
+<item>
+<title>[COLOR yellow]sportv 3[/COLOR]</title>
+<link>ignore</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<jsonrpc>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://sportbar.biz/tv3pt.html</jsonrpc>
+</item>
+
+<item>
+<title>[COLOR yellow]sportv 4[/COLOR]</title>
+<link>ignore</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<jsonrpc>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://sportbar.biz/tv4pt.html</jsonrpc>
+</item>
+
+<item>
+<title>[COLOR yellow]sportv 5[/COLOR]</title>
+<link>ignore</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<jsonrpc>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://sportbar.biz/tv5pt.html</jsonrpc>
 </item>
 
 <item>
