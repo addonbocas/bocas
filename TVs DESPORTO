@@ -51,10 +51,10 @@
 
 <channels>
 <channel>
-<name>[COLOR lime]DESPORTO IPTV-ORG[/COLOR] (CANAIS DESPORTIVOS MUNDIAIS)</name>
-<thumbnail>http://imgur.com/cgHWHQX.png</thumbnail>
+<name>[COLOR lime]CHROME LAUNCHER[/COLOR] (CANAIS DESPORTIVOS - SITES)</name>
+<thumbnail>https://media.wired.com/photos/5ba91472ffac9b2ce1d578ba/191:100/w_2381,h_1246,c_limit/Chrome-1011178068.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/addonbocas/bocas/master/CHROME%20LAUNCHER</externallink>
-<fanart>http://imgur.com/cgHWHQX.png</fanart>
+<fanart>https://media.wired.com/photos/5ba91472ffac9b2ce1d578ba/191:100/w_2381,h_1246,c_limit/Chrome-1011178068.jpg</fanart>
 <info>[COLOR lime]CANAIS WEB[/COLOR]</info>
 </channel>
 </channels>
