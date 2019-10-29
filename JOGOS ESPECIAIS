@@ -1,12 +1,4 @@
 <item>
-<title>[COLOR yellow]CANAIS DESPORTIVOS MUNDIAIS[/COLOR] (DD1)</title>
-<link>ignorme</link>
-<externallink>https://pastebin.com/raw/LAAHq26y</externallink>
-<thumbnail>https://ia601403.us.archive.org/25/items/fanart_20190909_1728/fanart.jpg</thumbnail>
-<fanart>https://imgur.com/UcGIxsG.png</fanart>
-</item>
-
-<item>
 <title>[COLOR lime]EXECUTAR PRIMEIRO A APK ACESTREAM FORA DO KODI[/COLOR]</title>
 <link>plugin://program.plexus/?url=acestream://9b698c3305080df2a8d1f8e572d6ecc3a2849bae&amp;mode=1&amp;name=SPORTS</link>
 <thumbnail>https://miracomohacerlo.com/wp-content/uploads/2017/10/C%C3%B3mo-descargar-Ace-Stream-APK-en-Android-en-5-pasos-1024x544.jpg</thumbnail>
@@ -17,21 +9,21 @@
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 <item>
-<title>[COLOR yellow]27/10[/COLOR][COLOR orange] 17:30H[/COLOR][COLOR deepskyblue] PORTO-FC Famalicão[/COLOR][COLOR yellow] AV17 AV18[/COLOR]</title>
+<title>[COLOR yellow]30/10[/COLOR][COLOR orange] 18:45H[/COLOR][COLOR deepskyblue] Marítimo-PORTO[/COLOR][COLOR yellow] AV17 AV18[/COLOR]</title>
 <link>plugin://program.plexus/?url=acestream://e90ee8df09767c0d456e843de459af17e7e17f24&amp;mode=1&amp;name=SPORTS</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/pt/c/c5/F.C._Porto_logo.png</thumbnail>
 <fanart>https://i.ytimg.com/vi/5nCH4wtzRms/maxresdefault.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR yellow]27/10[/COLOR][COLOR orange] 15:00H[/COLOR][COLOR red] BENFICA-CD Tondela[/COLOR][COLOR yellow] AV17 AV18[/COLOR]</title>
+<title>[COLOR yellow]30/10[/COLOR][COLOR orange] 20:15H[/COLOR][COLOR red] BENFICA-Portimonense[/COLOR][COLOR yellow] AV17 AV18[/COLOR]</title>
 <link>plugin://program.plexus/?url=acestream://e90ee8df09767c0d456e843de459af17e7e17f24&amp;mode=1&amp;name=SPORTS</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/5/5d/Emblema_Benfica_1930_%28Sem_fundo%29.png</thumbnail>
 <fanart>http://stadiumdb.com/pictures/stadiums/por/estadio_da_luz/estadio_da_luz11.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR yellow]27/10[/COLOR][COLOR orange] 20:00H[/COLOR][COLOR lime] SPORTING-V. Guimarães[/COLOR][COLOR yellow] AV17 AV18[/COLOR]</title>
+<title>[COLOR yellow]31/10[/COLOR][COLOR orange] 19:45H[/COLOR][COLOR lime] Paços de Ferreira-SPORTING[/COLOR][COLOR yellow] AV17 AV18[/COLOR]</title>
 <link>plugin://program.plexus/?url=acestream://e90ee8df09767c0d456e843de459af17e7e17f24&amp;mode=1&amp;name=SPORTS</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/pt/3/3e/Sporting_Clube_de_Portugal.png</thumbnail>
 <fanart>http://www.maisfutebol.iol.pt/multimedia/oratvi/multimedia/imagem/id/569035b40cf2468d8fd07fb2/1024.jpg</fanart>
@@ -195,54 +187,6 @@
 
 
 <item>
-<title>-</title>
-<link>http://bocas.com</link>
-<thumbnail>http://clevelandphotoandvideobooth.com/images/black-background-ohio.jpg</thumbnail>
-</item>
-
-
-
-
-
-
-<item>
-<title>[COLOR yellow]AGENDA 1[/COLOR][COLOR white] (clicar aqui)[/COLOR]</title>  
-<link>ignorme</link>
-<jsonrpc>plugin://plugin.video.p2psport/?mode=livefootballvideo.com</jsonrpc>
-<thumbnail>https://climate.usurf.usu.edu/CPASW/agenda2.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR yellow]AGENDA 2[COLOR lime] LiveTv.Ru-eventos do dia[/COLOR] Sports Devil</title>
-<link>ignorme</link>
-<jsonrpc>plugin://plugin.video.SportsDevil/?item=url=livesports/livetv.ru.cfg&amp;mode=1</jsonrpc>
-<thumbnail>https://climate.usurf.usu.edu/CPASW/agenda2.jpg</thumbnail>
-<fanart>https://climate.usurf.usu.edu/CPASW/agenda2.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR yellow]AGENDA 3[COLOR lime] Rojadirecta-Eventos do dia[/COLOR]</title>
-<link>ignorme</link>
-<jsonrpc>plugin://plugin.video.SportsDevil/?item=url=livesports/rojadirecta.me.cfg&amp;mode=1</jsonrpc>
-<thumbnail>https://climate.usurf.usu.edu/CPASW/agenda2.jpg</thumbnail>
-<fanart>https://climate.usurf.usu.edu/CPASW/agenda2.jpg</fanart>
-</item>
-
-
-
-
-
-
-<item>
-<title>-</title>
-<link>http://bocas.com</link>
-<thumbnail>http://clevelandphotoandvideobooth.com/images/black-background-ohio.jpg</thumbnail>
-</item>
-
-
-
-
-<item>
 <title>[COLOR red]YOUTUBE[/COLOR][COLOR orange] PESQUISA[/COLOR]</title>
 <premium>True</premium>
 <link>ignorme</link>
@@ -254,7 +198,13 @@
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 
-
+<item>
+<title>[COLOR yellow]CANAIS DESPORTIVOS MUNDIAIS[/COLOR] (DD1)</title>
+<link>ignorme</link>
+<externallink>https://pastebin.com/raw/LAAHq26y</externallink>
+<thumbnail>https://ia601403.us.archive.org/25/items/fanart_20190909_1728/fanart.jpg</thumbnail>
+<fanart>https://imgur.com/UcGIxsG.png</fanart>
+</item>
 
 
 
