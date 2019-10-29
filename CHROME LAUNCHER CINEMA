@@ -1,8 +1,8 @@
 <item>
 <title>[COLOR lime]MrPiracy[/COLOR]</title>
 <link>ignore</link>
-<thumbnail>http://arquivoskodi.com.br/wp-content/uploads/2019/03/icon.jpg</thumbnail>
-<fanart>http://arquivoskodi.com.br/wp-content/uploads/2019/03/icon.jpg</fanart>
+<thumbnail>https://i.pinimg.com/originals/38/bd/c2/38bdc27dc60befce3f55c16ae38286f8.jpg</thumbnail>
+<fanart>https://i.pinimg.com/originals/38/bd/c2/38bdc27dc60befce3f55c16ae38286f8.jpg</fanart>
 <jsonrpc>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://v1.mrpiracy.top</jsonrpc>
 </item>
 
@@ -12,9 +12,20 @@
 <item>
 <title>[COLOR lime]Portugaldownloads[/COLOR] infantil</title>
 <link>ignore</link>
-<thumbnail>https://thumbnails.webinfcdn.net/thumbnails/350x350/p/portugaldownload.biz.png</thumbnail>
-<fanart>https://thumbnails.webinfcdn.net/thumbnails/350x350/p/portugaldownload.biz.png</fanart>
+<thumbnail>https://i.pinimg.com/originals/38/bd/c2/38bdc27dc60befce3f55c16ae38286f8.jpg</thumbnail>
+<fanart>https://i.pinimg.com/originals/38/bd/c2/38bdc27dc60befce3f55c16ae38286f8.jpg</fanart>
 <jsonrpc>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://portugaldownload.biz</jsonrpc>
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<item>
+<title>[COLOR lime]Tugaflix[/COLOR] agora Tugaa.tv</title>
+<link>ignore</link>
+<thumbnail>https://i.pinimg.com/originals/38/bd/c2/38bdc27dc60befce3f55c16ae38286f8.jpg</thumbnail>
+<fanart>https://i.pinimg.com/originals/38/bd/c2/38bdc27dc60befce3f55c16ae38286f8.jpg</fanart>
+<jsonrpc>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://tuga.tv</jsonrpc>
 </item>
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
