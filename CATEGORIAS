@@ -4,10 +4,7 @@
 <thumbnail>http://imgur.com/PCGI7rU.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/addonbocas/bocas/master/TV%20GENERALISTA</externallink>
 <fanart>https://ia601403.us.archive.org/25/items/fanart_20190909_1728/fanart.jpg</fanart>
-<info>
-
-
-[COLOR deeppink]|[/COLOR]- TVS GENERALISTAS -[COLOR deeppink]|[/COLOR]</info>
+<info>[COLOR deeppink]|[/COLOR]- TVS GENERALISTAS -[COLOR deeppink]|[/COLOR]</info>
 </channel>
 </channels>
 
@@ -19,10 +16,7 @@
 <thumbnail>http://imgur.com/cgHWHQX.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/addonbocas/bocas/master/TVs%20DESPORTO</externallink>
 <fanart>https://ia601403.us.archive.org/25/items/fanart_20190909_1728/fanart.jpg</fanart>
-<info>
-
-
-[COLOR deeppink]|[/COLOR]- LINKS WEB E ACESTREAM -[COLOR deeppink]|[/COLOR]</info>
+<info>[COLOR deeppink]|[/COLOR]- LINKS WEB E ACESTREAM -[COLOR deeppink]|[/COLOR]</info>
 </channel>
 </channels>
 
@@ -34,10 +28,7 @@
 <thumbnail>http://imgur.com/szle8o2.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/addonbocas/bocas/master/TV%20PLEXUS</externallink>
 <fanart>https://ia601403.us.archive.org/25/items/fanart_20190909_1728/fanart.jpg</fanart>
-<info>
-
-
-[COLOR deeppink]|[/COLOR]- LINKS ACESTREAM -[COLOR deeppink]|[/COLOR]</info>
+<info>[COLOR deeppink]|[/COLOR]- LINKS ACESTREAM -[COLOR deeppink]|[/COLOR]</info>
 </channel>
 </channels>
 
@@ -49,10 +40,7 @@
 <thumbnail>http://imgur.com/cLwnC8w.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/addonbocas/bocas/master/FILMES</externallink>
 <fanart>https://ia601403.us.archive.org/25/items/fanart_20190909_1728/fanart.jpg</fanart>
-<info>
-
-
-[COLOR deeppink]|[/COLOR]- ÚLTIMOS LANÇAMENTOS -[COLOR deeppink]|[/COLOR]</info>
+<info>[COLOR deeppink]|[/COLOR]- ÚLTIMOS LANÇAMENTOS -[COLOR deeppink]|[/COLOR]</info>
 </channel>
 </channels>
 
@@ -64,10 +52,7 @@
 <thumbnail>https://imgur.com/mw9g7Oz.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/addonbocas/bocas/master/S%C3%89RIES</externallink>
 <fanart>https://ia601403.us.archive.org/25/items/fanart_20190909_1728/fanart.jpg</fanart>
-<info>
-
-
-[COLOR deeppink]|[/COLOR]- SÉRIES YOUTUBE -[COLOR deeppink]|[/COLOR]</info>
+<info>[COLOR deeppink]|[/COLOR]- SÉRIES YOUTUBE -[COLOR deeppink]|[/COLOR]</info>
 </channel>
 </channels>
 
@@ -79,13 +64,23 @@
 <thumbnail>http://imgur.com/EQp3N0T.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/addonbocas/bocas/master/DESENHOS%20ANIMADOS%20S2</externallink>
 <fanart>https://ia601403.us.archive.org/25/items/fanart_20190909_1728/fanart.jpg</fanart>
-<info>
-
-
-[COLOR deeppink]|[/COLOR]- ANIMAÇÃO PARA TODOS -[COLOR deeppink]|[/COLOR]</info>
+<info>[COLOR deeppink]|[/COLOR]- ANIMAÇÃO PARA TODOS -[COLOR deeppink]|[/COLOR]</info>
 </channel>
 </channels>
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
+<name>[COLOR orange]APLICAÇÕES ANDROID[/COLOR]</name>
+<thumbnail>https://hmbrasil.weebly.com/uploads/1/1/6/5/116544005/melhores-apps-para-android_orig.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/addonbocas/bocas/master/APLICACOES%20ANDROID</externallink>
+<fanart>https://ia601403.us.archive.org/25/items/fanart_20190909_1728/fanart.jpg</fanart>
+<info>[COLOR deeppink]|[/COLOR]- ANIMAÇÃO PARA TODOS -[COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
 
 
