@@ -97,10 +97,9 @@
 <item>
 <title>[COLOR lawngreen][B]    [/B][/COLOR]</title>
 <link>$$lsname=[COLOR blue]   [/COLOR]</link>
+<thumbnail></thumbnail>
 <fanart></fanart>
 <info></info>
 </item>
 
 
-<link>ignoreme</link>
-<jsonrpc>Plugin://plugin.video.youtube/playlist/PLYYBrx4dOdoANho5ImcS3q5le3d993lcb/?page=0</jsonrpc>
