@@ -198,6 +198,59 @@
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
+
+<item>
+<title>[COLOR lime]http://www.liveballsod.com[/COLOR]</title>
+<link>ignore</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<jsonrpc>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://www.we-play.tv</jsonrpc>
+</item>
+
+<item>
+<title>[COLOR yellow]sportv 1[/COLOR]</title>
+<link>ignore</link>
+<thumbnail>https://iptv.bestsky.pt/wp-content/uploads/2019/02/a450.png</thumbnail>
+<fanart>https://iptv.bestsky.pt/wp-content/uploads/2019/02/a450.png</fanart>
+<jsonrpc>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=http://www.liveballsod.com/tv-online/ch093</jsonrpc>
+</item>
+
+<item>
+<title>[COLOR yellow]sportv 2[/COLOR]</title>
+<link>ignore</link>
+<thumbnail>https://sport-tv-guide.live/images/stations/a451.png</thumbnail>
+<fanart>https://sport-tv-guide.live/images/stations/a451.png</fanart>
+<jsonrpc>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=http://www.liveballsod.com/tv-online/ch094</jsonrpc>
+</item>
+
+<item>
+<title>[COLOR yellow]sportv 3[/COLOR]</title>
+<link>ignore</link>
+<thumbnail>https://sport-tv-guide.live/images/stations/a452.png</thumbnail>
+<fanart>https://sport-tv-guide.live/images/stations/a452.png</fanart>
+<jsonrpc>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=http://www.liveballsod.com/tv-online/ch095</jsonrpc>
+</item>
+
+<item>
+<title>[COLOR yellow]sportv 4[/COLOR]</title>
+<link>ignore</link>
+<thumbnail>https://iptv.bestsky.pt/wp-content/uploads/2019/02/a453.png</thumbnail>
+<fanart>https://iptv.bestsky.pt/wp-content/uploads/2019/02/a453.png</fanart>
+<jsonrpc>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=http://www.liveballsod.com/tv-online/ch096</jsonrpc>
+</item>
+
+<item>
+<title>[COLOR yellow]sportv 5[/COLOR]</title>
+<link>ignore</link>
+<thumbnail>https://sport-tv-guide.live/images/stations/a454.png</thumbnail>
+<fanart>https://sport-tv-guide.live/images/stations/a454.png</fanart>
+<jsonrpc>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://www.we-play.tv/live/channel.php?name=sporttv5</jsonrpc>
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+
 <item>
 <title>[COLOR lime]https://arenavision.in[/COLOR]</title>
 <link>ignore</link>
