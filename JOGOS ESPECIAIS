@@ -9,21 +9,21 @@
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 <item>
-<title>[COLOR yellow]30/10[/COLOR][COLOR orange] 18:45H[/COLOR][COLOR deepskyblue] Marítimo-PORTO[/COLOR][COLOR yellow] AV17 AV18[/COLOR]</title>
+<title>[COLOR yellow]02/12[/COLOR][COLOR orange] 20:45H[/COLOR][COLOR deepskyblue] PORTO-P.FERREIRA[/COLOR][COLOR yellow] AV17 AV18[/COLOR]</title>
 <link>plugin://program.plexus/?url=acestream://9230b15d0b210a7baa33ecea9c18bb85d5b023d3&amp;mode=1&amp;name=SPORTS</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/pt/c/c5/F.C._Porto_logo.png</thumbnail>
 <fanart>https://i.ytimg.com/vi/5nCH4wtzRms/maxresdefault.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR yellow]30/10[/COLOR][COLOR orange] 20:15H[/COLOR][COLOR red] BENFICA-Portimonense[/COLOR][COLOR yellow] AV17 AV18[/COLOR]</title>
+<title>[COLOR yellow]30/11[/COLOR][COLOR orange] 18:00H[/COLOR][COLOR red] BENFICA-MARITIMO[/COLOR][COLOR yellow] AV17 AV18[/COLOR]</title>
 <link>plugin://program.plexus/?url=acestream://9230b15d0b210a7baa33ecea9c18bb85d5b023d3&amp;mode=1&amp;name=SPORTS</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/5/5d/Emblema_Benfica_1930_%28Sem_fundo%29.png</thumbnail>
 <fanart>http://stadiumdb.com/pictures/stadiums/por/estadio_da_luz/estadio_da_luz11.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR yellow]31/10[/COLOR][COLOR orange] 19:45H[/COLOR][COLOR lime] Paços de Ferreira-SPORTING[/COLOR][COLOR yellow] AV17 AV18[/COLOR]</title>
+<title>[COLOR yellow]01/12[/COLOR][COLOR orange] 20:00H[/COLOR][COLOR lime] GILVICENTE-SPORTING[/COLOR][COLOR yellow] AV17 AV18[/COLOR]</title>
 <link>plugin://program.plexus/?url=acestream://9230b15d0b210a7baa33ecea9c18bb85d5b023d3&amp;mode=1&amp;name=SPORTS</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/pt/3/3e/Sporting_Clube_de_Portugal.png</thumbnail>
 <fanart>http://www.maisfutebol.iol.pt/multimedia/oratvi/multimedia/imagem/id/569035b40cf2468d8fd07fb2/1024.jpg</fanart>
@@ -32,100 +32,6 @@
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-
-<item>
-<title>                  [COLOR deepskyblue] FORMULA 1[/COLOR]</title>
-<link>http://bocas.com</link>
-<thumbnail>http://clevelandphotoandvideobooth.com/images/black-background-ohio.jpg</thumbnail>
-<fanart>https://cdn-7.motorsport.com/images/amp/Y9oD4ZP0/s6/f1-aston-martin-red-bull-racing-fantasy-rendering-2017-aston-martin-red-bull-racing-livery-5727457.jpg</fanart>
-</item>
-
-
-<item>
-<title>[COLOR yellow]27/10[/COLOR][COLOR lime] 19:10H[/COLOR][COLOR orange] MÉXICO GP[/COLOR] AV28 AV29</title>
-<link>plugin://program.plexus/?url=acestream://7b25faec686d111138d9e74985f2c10a83fa2033&amp;mode=1&amp;name=SPORTS</link>
-<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJAXJQwhHHEY5X56kXRAJYsuk8AfT0E04a2FOQy5eh-v8g52NF</thumbnail>
-<fanart>http://www.enciclopediaf1.com.br/wp-content/uploads/2013/02/ultrapassagem_01.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR yellow]03/11[/COLOR][COLOR lime] 19:10H[/COLOR][COLOR orange] ESTADOS UNIDOS GP[/COLOR] AV28 AV29</title>
-<link>plugin://program.plexus/?url=acestream://7b25faec686d111138d9e74985f2c10a83fa2033&amp;mode=1&amp;name=SPORTS</link>
-<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJAXJQwhHHEY5X56kXRAJYsuk8AfT0E04a2FOQy5eh-v8g52NF</thumbnail>
-<fanart>http://www.enciclopediaf1.com.br/wp-content/uploads/2013/02/ultrapassagem_01.jpg</fanart>
-</item>
-
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-
-
-<item>
-<title>[COLOR green]-[/COLOR]</title>
-<link>http://bocas.com</link>
-<thumbnail>http://clevelandphotoandvideobooth.com/images/black-background-ohio.jpg</thumbnail>
-</item>
-
-
-
-<item>
-<title>[COLOR deepskyblue]                      UEFA[/COLOR]</title>
-<link>http://bocas.com</link>
-<thumbnail>https://img.uefa.com/imgml/uefaorg/new/logo.png</thumbnail>
-<fanart>http://www.uefa.com/MultimediaFiles/Photo/uefaorg/General/01/77/25/93/1772593_w1.jpg</fanart>
-</item>
-
-
-
-
-
-<item>
-<title>[COLOR yellow]24/10[/COLOR][COLOR orange] 17:55H[/COLOR][COLOR deepskyblue] PORTO-Rangers[/COLOR][COLOR yellow] AV17 AV18[/COLOR]</title>
-<link>plugin://program.plexus/?url=acestream://9230b15d0b210a7baa33ecea9c18bb85d5b023d3&amp;mode=1&amp;name=SPORTS</link>
-<thumbnail>https://i.ytimg.com/vi/DVQauPb2Nfc/maxresdefault.jpg</thumbnail>
-<fanart>https://i.ytimg.com/vi/v4EqV-pi31c/maxresdefault.jpg</fanart>
-</item>
-
-
-<item>
-<title>[COLOR yellow]24/10[/COLOR][COLOR orange] 20:00H[/COLOR][COLOR lime] SPORTING-Rosenborg[/COLOR][COLOR yellow] AV17 AV18[/COLOR]</title>
-<link>plugin://program.plexus/?url=acestream://9230b15d0b210a7baa33ecea9c18bb85d5b023d3&amp;mode=1&amp;name=SPORTS</link>
-<thumbnail>https://i.ytimg.com/vi/DVQauPb2Nfc/maxresdefault.jpg</thumbnail>
-<fanart>https://i.ytimg.com/vi/v4EqV-pi31c/maxresdefault.jpg</fanart>
-</item>
-
-
-
-<item>
-<title>[COLOR yellow]23/10[/COLOR][COLOR orange] 20:00H[/COLOR][COLOR red] BENFICA-Lyon[/COLOR][COLOR yellow] AV17 AV18[/COLOR]</title>
-<link>plugin://program.plexus/?url=acestream://9230b15d0b210a7baa33ecea9c18bb85d5b023d3&amp;mode=1&amp;name=SPORTS</link>
-<thumbnail>http://www.caoazul.com/loja/images/benfica%20champions.gif</thumbnail>
-<fanart>https://decoracao.slbenfica.pt/wp-content/uploads/2015/09/benfica-adeptos.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR yellow]24/10[/COLOR][COLOR orange] 17:55H[/COLOR][COLOR lime] Besiktas-BRAGA[/COLOR][COLOR yellow] AV17 AV18[/COLOR]</title>
-<link>plugin://program.plexus/?url=acestream://9230b15d0b210a7baa33ecea9c18bb85d5b023d3&amp;mode=1&amp;name=SPORTS</link>
-<thumbnail>http://static.goal.com/3049200/3049202_heroa.jpg</thumbnail>
-<fanart>http://www.hungarianfootball.com/wp-content/uploads/2013/07/el1.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR yellow]24/10[/COLOR][COLOR orange] 20:00H[/COLOR][COLOR lime] Arsenal-V.GUIMARAES[/COLOR][COLOR yellow] AV17 AV18[/COLOR]</title>
-<link>plugin://program.plexus/?url=acestream://9230b15d0b210a7baa33ecea9c18bb85d5b023d3&amp;mode=1&amp;name=SPORTS</link>
-<thumbnail>http://static.goal.com/3049200/3049202_heroa.jpg</thumbnail>
-<fanart>http://www.hungarianfootball.com/wp-content/uploads/2013/07/el1.jpg</fanart>
-</item>
-
-
-
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-
 
 
 
