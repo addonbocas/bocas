@@ -5,11 +5,8 @@
 <fanart></fanart>
 <jsonrpc>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=http://milhano.com.pt/team/milhano.html</jsonrpc>
 </item>
-
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-
 <item>
 <title>[COLOR lime]https://canaisgratis.top/index.html[/COLOR] Site de canais BR</title>
 <link>ignore</link>
@@ -17,10 +14,8 @@
 <fanart></fanart>
 <jsonrpc>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://canaisgratis.top/index.html</jsonrpc>
 </item>
-
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
 <item>
 <title>[COLOR lime]https://daddylive.live[/COLOR] Site desportivo multidesportos</title>
 <link>ignore</link>
@@ -28,10 +23,8 @@
 <fanart></fanart>
 <jsonrpc>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://daddylive.live</jsonrpc>
 </item>
-
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
 <item>
 <title>[COLOR lime]http://livetv.sx/pt[/COLOR] Site desportivo multidesportos</title>
 <link>ignore</link>
@@ -39,11 +32,8 @@
 <fanart></fanart>
 <jsonrpc>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=http://livetv.sx/pt</jsonrpc>
 </item>
-
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-
 <item>
 <title>[COLOR lime]https://sportzonline.co[/COLOR]</title>
 <link>ignore</link>
@@ -51,9 +41,20 @@
 <fanart>http://www.apostasemportugal.com/wp-content/uploads/2018/01/sporttv-online-gratis.jpg</fanart>
 <jsonrpc>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://sportzonline.co/channels/pt/sporttv1.php</jsonrpc>
 </item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]https://www.we-play.tv[/COLOR]</title>
+<link>ignore</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<jsonrpc>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://www.we-play.tv</jsonrpc>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 <item>
-<title>[COLOR yellow]sportv 1[/COLOR]</title>
+<title>[COLOR yellow]sportv 1[/COLOR] sportzonline</title>
 <link>ignore</link>
 <thumbnail>https://iptv.bestsky.pt/wp-content/uploads/2019/02/a450.png</thumbnail>
 <fanart>https://iptv.bestsky.pt/wp-content/uploads/2019/02/a450.png</fanart>
@@ -61,12 +62,86 @@
 </item>
 
 <item>
-<title>[COLOR yellow]sportv 2[/COLOR]</title>
+<title>[COLOR yellow]sportv 1[/COLOR] totalsport</title>
+<link>ignore</link>
+<thumbnail>https://iptv.bestsky.pt/wp-content/uploads/2019/02/a450.png</thumbnail>
+<fanart>https://iptv.bestsky.pt/wp-content/uploads/2019/02/a450.png</fanart>
+<jsonrpc>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=http://totalsport.me/1pt.html</jsonrpc>
+</item>
+
+<item>
+<title>[COLOR yellow]sportv 1[/COLOR] we-play.tv</title>
+<link>ignore</link>
+<thumbnail>https://iptv.bestsky.pt/wp-content/uploads/2019/02/a450.png</thumbnail>
+<fanart>https://iptv.bestsky.pt/wp-content/uploads/2019/02/a450.png</fanart>
+<jsonrpc>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://www.we-play.tv/live/channel.php?name=sporttv1</jsonrpc>
+</item>
+
+<item>
+<title>[COLOR yellow]sportv 1[/COLOR] liveballsod</title>
+<link>ignore</link>
+<thumbnail>https://iptv.bestsky.pt/wp-content/uploads/2019/02/a450.png</thumbnail>
+<fanart>https://iptv.bestsky.pt/wp-content/uploads/2019/02/a450.png</fanart>
+<jsonrpc>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=http://www.liveballsod.com/tv-online/ch093</jsonrpc>
+</item>
+
+<item>
+<title>[COLOR yellow]sportv 1[/COLOR] sportbar.biz</title>
+<link>ignore</link>
+<thumbnail>https://iptv.bestsky.pt/wp-content/uploads/2019/02/a450.png</thumbnail>
+<fanart>https://iptv.bestsky.pt/wp-content/uploads/2019/02/a450.png</fanart>
+<jsonrpc>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://sportbar.biz/tv1pt.html</jsonrpc>
+</item>
+
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+
+<item>
+<title>[COLOR orange]sportv 2[/COLOR] sportzonline</title>
 <link>ignore</link>
 <thumbnail>https://sport-tv-guide.live/images/stations/a451.png</thumbnail>
 <fanart>https://sport-tv-guide.live/images/stations/a451.png</fanart>
 <jsonrpc>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://sportzonline.co/channels/pt/sporttv2.php</jsonrpc>
 </item>
+
+<item>
+<title>[COLOR orange]sportv 2[/COLOR] totalsport</title>
+<link>ignore</link>
+<thumbnail>https://sport-tv-guide.live/images/stations/a451.png</thumbnail>
+<fanart>https://sport-tv-guide.live/images/stations/a451.png</fanart>
+<jsonrpc>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=http://totalsport.me/2pt.html</jsonrpc>
+</item>
+
+<item>
+<title>[COLOR orange]sportv 2[/COLOR] we-play</title>
+<link>ignore</link>
+<thumbnail>https://sport-tv-guide.live/images/stations/a451.png</thumbnail>
+<fanart>https://sport-tv-guide.live/images/stations/a451.png</fanart>
+<jsonrpc>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://www.we-play.tv/live/channel.php?name=sporttv2</jsonrpc>
+</item>
+
+<item>
+<title>[COLOR orange]sportv 2[/COLOR] liveballsod</title>
+<link>ignore</link>
+<thumbnail>https://sport-tv-guide.live/images/stations/a451.png</thumbnail>
+<fanart>https://sport-tv-guide.live/images/stations/a451.png</fanart>
+<jsonrpc>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=http://www.liveballsod.com/tv-online/ch094</jsonrpc>
+</item>
+
+<item>
+<title>[COLOR orange]sportv 2[/COLOR] sportbar</title>
+<link>ignore</link>
+<thumbnail>https://sport-tv-guide.live/images/stations/a451.png</thumbnail>
+<fanart>https://sport-tv-guide.live/images/stations/a451.png</fanart>
+<jsonrpc>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://sportbar.biz/sport2port.html</jsonrpc>
+</item>
+
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
 
 <item>
 <title>[COLOR yellow]sportv 3[/COLOR]</title>
@@ -77,51 +152,7 @@
 </item>
 
 <item>
-<title>[COLOR yellow]sportv 4[/COLOR]</title>
-<link>ignore</link>
-<thumbnail>https://iptv.bestsky.pt/wp-content/uploads/2019/02/a453.png</thumbnail>
-<fanart>https://iptv.bestsky.pt/wp-content/uploads/2019/02/a453.png</fanart>
-<jsonrpc>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://sportzonline.co/channels/pt/sporttv4.php</jsonrpc>
-</item>
-
-<item>
-<title>[COLOR yellow]sportv 5[/COLOR]</title>
-<link>ignore</link>
-<thumbnail>https://sport-tv-guide.live/images/stations/a454.png</thumbnail>
-<fanart>https://sport-tv-guide.live/images/stations/a454.png</fanart>
-<jsonrpc>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://sportzonline.co/channels/pt/sporttv5.php</jsonrpc>
-</item>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-
-<item>
-<title>[COLOR lime]http://totalsport.me[/COLOR]</title>
-<link>ignore</link>
-<thumbnail>http://www.apostasemportugal.com/wp-content/uploads/2018/01/sporttv-online-gratis.jpg</thumbnail>
-<fanart>http://www.apostasemportugal.com/wp-content/uploads/2018/01/sporttv-online-gratis.jpg</fanart>
-<jsonrpc>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://sportzonline.co/channels/pt/sporttv1.php</jsonrpc>
-</item>
-
-<item>
-<title>[COLOR yellow]sportv 1[/COLOR]</title>
-<link>ignore</link>
-<thumbnail>https://iptv.bestsky.pt/wp-content/uploads/2019/02/a450.png</thumbnail>
-<fanart>https://iptv.bestsky.pt/wp-content/uploads/2019/02/a450.png</fanart>
-<jsonrpc>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=http://totalsport.me/1pt.html</jsonrpc>
-</item>
-
-<item>
-<title>[COLOR yellow]sportv 2[/COLOR]</title>
-<link>ignore</link>
-<thumbnail>https://sport-tv-guide.live/images/stations/a451.png</thumbnail>
-<fanart>https://sport-tv-guide.live/images/stations/a451.png</fanart>
-<jsonrpc>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=http://totalsport.me/2pt.html</jsonrpc>
-</item>
-
-<item>
-<title>[COLOR yellow]sportv 3[/COLOR]</title>
+<title>[COLOR yellow]sportv 3[/COLOR] totalsport</title>
 <link>ignore</link>
 <thumbnail>https://sport-tv-guide.live/images/stations/a452.png</thumbnail>
 <fanart>https://sport-tv-guide.live/images/stations/a452.png</fanart>
@@ -129,50 +160,7 @@
 </item>
 
 <item>
-<title>[COLOR yellow]sportv 4[/COLOR]</title>
-<link>ignore</link>
-<thumbnail>https://iptv.bestsky.pt/wp-content/uploads/2019/02/a453.png</thumbnail>
-<fanart>https://iptv.bestsky.pt/wp-content/uploads/2019/02/a453.png</fanart>
-<jsonrpc>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=http://totalsport.me/4pt.html</jsonrpc>
-</item>
-
-<item>
-<title>[COLOR yellow]sportv 5[/COLOR]</title>
-<link>ignore</link>
-<thumbnail>https://sport-tv-guide.live/images/stations/a454.png</thumbnail>
-<fanart>https://sport-tv-guide.live/images/stations/a454.png</fanart>
-<jsonrpc>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=http://totalsport.me/5pt.html</jsonrpc>
-</item>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-<item>
-<title>[COLOR lime]https://www.we-play.tv[/COLOR]</title>
-<link>ignore</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<jsonrpc>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://www.we-play.tv</jsonrpc>
-</item>
-
-<item>
-<title>[COLOR yellow]sportv 1[/COLOR]</title>
-<link>ignore</link>
-<thumbnail>https://iptv.bestsky.pt/wp-content/uploads/2019/02/a450.png</thumbnail>
-<fanart>https://iptv.bestsky.pt/wp-content/uploads/2019/02/a450.png</fanart>
-<jsonrpc>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://www.we-play.tv/live/channel.php?name=sporttv1</jsonrpc>
-</item>
-
-<item>
-<title>[COLOR yellow]sportv 2[/COLOR]</title>
-<link>ignore</link>
-<thumbnail>https://sport-tv-guide.live/images/stations/a451.png</thumbnail>
-<fanart>https://sport-tv-guide.live/images/stations/a451.png</fanart>
-<jsonrpc>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://www.we-play.tv/live/channel.php?name=sporttv2</jsonrpc>
-</item>
-
-<item>
-<title>[COLOR yellow]sportv 3[/COLOR]</title>
+<title>[COLOR yellow]sportv 3[/COLOR] we-play</title>
 <link>ignore</link>
 <thumbnail>https://sport-tv-guide.live/images/stations/a452.png</thumbnail>
 <fanart>https://sport-tv-guide.live/images/stations/a452.png</fanart>
@@ -180,51 +168,7 @@
 </item>
 
 <item>
-<title>[COLOR yellow]sportv 4[/COLOR]</title>
-<link>ignore</link>
-<thumbnail>https://iptv.bestsky.pt/wp-content/uploads/2019/02/a453.png</thumbnail>
-<fanart>https://iptv.bestsky.pt/wp-content/uploads/2019/02/a453.png</fanart>
-<jsonrpc>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://www.we-play.tv/live/channel.php?name=sporttv4</jsonrpc>
-</item>
-
-<item>
-<title>[COLOR yellow]sportv 5[/COLOR]</title>
-<link>ignore</link>
-<thumbnail>https://sport-tv-guide.live/images/stations/a454.png</thumbnail>
-<fanart>https://sport-tv-guide.live/images/stations/a454.png</fanart>
-<jsonrpc>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://www.we-play.tv/live/channel.php?name=sporttv5</jsonrpc>
-</item>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-
-<item>
-<title>[COLOR lime]http://www.liveballsod.com[/COLOR]</title>
-<link>ignore</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<jsonrpc>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://www.we-play.tv</jsonrpc>
-</item>
-
-<item>
-<title>[COLOR yellow]sportv 1[/COLOR]</title>
-<link>ignore</link>
-<thumbnail>https://iptv.bestsky.pt/wp-content/uploads/2019/02/a450.png</thumbnail>
-<fanart>https://iptv.bestsky.pt/wp-content/uploads/2019/02/a450.png</fanart>
-<jsonrpc>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=http://www.liveballsod.com/tv-online/ch093</jsonrpc>
-</item>
-
-<item>
-<title>[COLOR yellow]sportv 2[/COLOR]</title>
-<link>ignore</link>
-<thumbnail>https://sport-tv-guide.live/images/stations/a451.png</thumbnail>
-<fanart>https://sport-tv-guide.live/images/stations/a451.png</fanart>
-<jsonrpc>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=http://www.liveballsod.com/tv-online/ch094</jsonrpc>
-</item>
-
-<item>
-<title>[COLOR yellow]sportv 3[/COLOR]</title>
+<title>[COLOR yellow]sportv 3[/COLOR] liveballsod</title>
 <link>ignore</link>
 <thumbnail>https://sport-tv-guide.live/images/stations/a452.png</thumbnail>
 <fanart>https://sport-tv-guide.live/images/stations/a452.png</fanart>
@@ -232,7 +176,44 @@
 </item>
 
 <item>
-<title>[COLOR yellow]sportv 4[/COLOR]</title>
+<title>[COLOR yellow]sportv 3[/COLOR] sportbar</title>
+<link>ignore</link>
+<thumbnail>https://sport-tv-guide.live/images/stations/a452.png</thumbnail>
+<fanart>https://sport-tv-guide.live/images/stations/a452.png</fanart>
+<jsonrpc>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://sportbar.biz/pt3sport.html</jsonrpc>
+</item>
+
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+
+<item>
+<title>[COLOR orange]sportv 4[/COLOR] sportzonline</title>
+<link>ignore</link>
+<thumbnail>https://iptv.bestsky.pt/wp-content/uploads/2019/02/a453.png</thumbnail>
+<fanart>https://iptv.bestsky.pt/wp-content/uploads/2019/02/a453.png</fanart>
+<jsonrpc>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://sportzonline.co/channels/pt/sporttv4.php</jsonrpc>
+</item>
+
+<item>
+<title>[COLOR orange]sportv 4[/COLOR] totalsport</title>
+<link>ignore</link>
+<thumbnail>https://iptv.bestsky.pt/wp-content/uploads/2019/02/a453.png</thumbnail>
+<fanart>https://iptv.bestsky.pt/wp-content/uploads/2019/02/a453.png</fanart>
+<jsonrpc>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=http://totalsport.me/4pt.html</jsonrpc>
+</item>
+
+<item>
+<title>[COLOR orange]sportv 4[/COLOR] we-play</title>
+<link>ignore</link>
+<thumbnail>https://iptv.bestsky.pt/wp-content/uploads/2019/02/a453.png</thumbnail>
+<fanart>https://iptv.bestsky.pt/wp-content/uploads/2019/02/a453.png</fanart>
+<jsonrpc>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://www.we-play.tv/live/channel.php?name=sporttv4</jsonrpc>
+</item>
+
+<item>
+<title>[COLOR orange]sportv 4[/COLOR] liveballsod</title>
 <link>ignore</link>
 <thumbnail>https://iptv.bestsky.pt/wp-content/uploads/2019/02/a453.png</thumbnail>
 <fanart>https://iptv.bestsky.pt/wp-content/uploads/2019/02/a453.png</fanart>
@@ -240,68 +221,53 @@
 </item>
 
 <item>
-<title>[COLOR yellow]sportv 5[/COLOR]</title>
-<link>ignore</link>
-<thumbnail>https://sport-tv-guide.live/images/stations/a454.png</thumbnail>
-<fanart>https://sport-tv-guide.live/images/stations/a454.png</fanart>
-<jsonrpc>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://www.we-play.tv/live/channel.php?name=sporttv5</jsonrpc>
-</item>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-
-<item>
-<title>[COLOR lime]https://sportbar.biz/pt3sport.html[/COLOR]</title>
-<link>ignore</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<jsonrpc>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://www.we-play.tv</jsonrpc>
-</item>
-
-<item>
-<title>[COLOR yellow]sportv 1[/COLOR]</title>
-<link>ignore</link>
-<thumbnail>https://iptv.bestsky.pt/wp-content/uploads/2019/02/a450.png</thumbnail>
-<fanart>https://iptv.bestsky.pt/wp-content/uploads/2019/02/a450.png</fanart>
-<jsonrpc>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://sportbar.biz/tv1pt.html</jsonrpc>
-</item>
-
-<item>
-<title>[COLOR yellow]sportv 2[/COLOR]</title>
-<link>ignore</link>
-<thumbnail>https://sport-tv-guide.live/images/stations/a451.png</thumbnail>
-<fanart>https://sport-tv-guide.live/images/stations/a451.png</fanart>
-<jsonrpc>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://sportbar.biz/sport2port.html</jsonrpc>
-</item>
-
-<item>
-<title>[COLOR yellow]sportv 3[/COLOR]</title>
-<link>ignore</link>
-<thumbnail>https://sport-tv-guide.live/images/stations/a452.png</thumbnail>
-<fanart>https://sport-tv-guide.live/images/stations/a452.png</fanart>
-<jsonrpc>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://sportbar.biz/pt3sport.html</jsonrpc>
-</item>
-
-<item>
-<title>[COLOR yellow]sportv 4[/COLOR]</title>
+<title>[COLOR orange]sportv 4[/COLOR] sportbar</title>
 <link>ignore</link>
 <thumbnail>https://iptv.bestsky.pt/wp-content/uploads/2019/02/a453.png</thumbnail>
 <fanart>https://iptv.bestsky.pt/wp-content/uploads/2019/02/a453.png</fanart>
 <jsonrpc>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://sportbar.biz/portugalsport4.html</jsonrpc>
 </item>
 
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+
 <item>
-<title>[COLOR yellow]sportv 5[/COLOR]</title>
+<title>[COLOR yellow]sportv 5[/COLOR] sportzonline</title>
+<link>ignore</link>
+<thumbnail>https://sport-tv-guide.live/images/stations/a454.png</thumbnail>
+<fanart>https://sport-tv-guide.live/images/stations/a454.png</fanart>
+<jsonrpc>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://sportzonline.co/channels/pt/sporttv5.php</jsonrpc>
+</item>
+
+<item>
+<title>[COLOR yellow]sportv 5[/COLOR] totalsport</title>
+<link>ignore</link>
+<thumbnail>https://sport-tv-guide.live/images/stations/a454.png</thumbnail>
+<fanart>https://sport-tv-guide.live/images/stations/a454.png</fanart>
+<jsonrpc>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=http://totalsport.me/5pt.html</jsonrpc>
+</item>
+
+<item>
+<title>[COLOR yellow]sportv 5[/COLOR] we-play</title>
+<link>ignore</link>
+<thumbnail>https://sport-tv-guide.live/images/stations/a454.png</thumbnail>
+<fanart>https://sport-tv-guide.live/images/stations/a454.png</fanart>
+<jsonrpc>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://www.we-play.tv/live/channel.php?name=sporttv5</jsonrpc>
+</item>
+
+<item>
+<title>[COLOR yellow]sportv 5[/COLOR] sportbar</title>
 <link>ignore</link>
 <thumbnail>https://sport-tv-guide.live/images/stations/a454.png</thumbnail>
 <fanart>https://sport-tv-guide.live/images/stations/a454.png</fanart>
 <jsonrpc>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://sportbar.biz/ptsport5.html</jsonrpc>
 </item>
 
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 
 
@@ -316,19 +282,19 @@
 
 
 <item>
-<title>[COLOR yellow]arenavision AV17/AV18[/COLOR] sportv 1</title>
+<title>[COLOR yellow]arenavision AV01/AV02[/COLOR] sportv 1</title>
 <link>ignore</link>
 <thumbnail>https://iptv.bestsky.pt/wp-content/uploads/2019/02/a450.png</thumbnail>
 <fanart>https://iptv.bestsky.pt/wp-content/uploads/2019/02/a450.png</fanart>
-<jsonrpc>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://arenavision.in/p81/cloud/servers/truecode/xpond/445ghg6/arenavision-17</jsonrpc>
+<jsonrpc>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://arenavision.in/p81/cloud/servers/bdbud/3fe/3/4fer/rff745tdwc/dc5sc/xclvkx/arenavision-1</jsonrpc>
 </item>
 
 <item>
-<title>[COLOR yellow]arenavision AV07/AV08[/COLOR] sportv 2</title>
+<title>[COLOR yellow]arenavision AV03/AV04[/COLOR] sportv 2</title>
 <link>ignore</link>
 <thumbnail>https://sport-tv-guide.live/images/stations/a451.png</thumbnail>
 <fanart>https://sport-tv-guide.live/images/stations/a451.png</fanart>
-<jsonrpc>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://arenavision.in/p81/cloud/servers/truecode/xpond/445ghg6/arenavision-7</jsonrpc>
+<jsonrpc>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://arenavision.in/p81/cloud/servers/bdbud/3fe/3/4fer/rff745tdwc/dc5sc/xclvkx/arenavision-3</jsonrpc>
 </item>
 
 <item>
