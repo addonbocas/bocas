@@ -10,21 +10,21 @@
 
 <item>
 <title>[COLOR yellow]02/12[/COLOR][COLOR orange] 20:45H[/COLOR][COLOR deepskyblue] PORTO-P.FERREIRA[/COLOR][COLOR yellow] AV17 AV18[/COLOR]</title>
-<link>plugin://program.plexus/?url=acestream://9230b15d0b210a7baa33ecea9c18bb85d5b023d3&amp;mode=1&amp;name=SPORTS</link>
+<link>plugin://program.plexus/?url=acestream://95c93a72deb7b6df95d8696538d00f71d74263f5&amp;mode=1&amp;name=SPORTS</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/pt/c/c5/F.C._Porto_logo.png</thumbnail>
 <fanart>https://i.ytimg.com/vi/5nCH4wtzRms/maxresdefault.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR yellow]30/11[/COLOR][COLOR orange] 18:00H[/COLOR][COLOR red] BENFICA-MARITIMO[/COLOR][COLOR yellow] AV17 AV18[/COLOR]</title>
-<link>plugin://program.plexus/?url=acestream://9230b15d0b210a7baa33ecea9c18bb85d5b023d3&amp;mode=1&amp;name=SPORTS</link>
+<link>plugin://program.plexus/?url=acestream://95c93a72deb7b6df95d8696538d00f71d74263f5&amp;mode=1&amp;name=SPORTS</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/5/5d/Emblema_Benfica_1930_%28Sem_fundo%29.png</thumbnail>
 <fanart>http://stadiumdb.com/pictures/stadiums/por/estadio_da_luz/estadio_da_luz11.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR yellow]01/12[/COLOR][COLOR orange] 20:00H[/COLOR][COLOR lime] GILVICENTE-SPORTING[/COLOR][COLOR yellow] AV17 AV18[/COLOR]</title>
-<link>plugin://program.plexus/?url=acestream://9230b15d0b210a7baa33ecea9c18bb85d5b023d3&amp;mode=1&amp;name=SPORTS</link>
+<link>plugin://program.plexus/?url=acestream://95c93a72deb7b6df95d8696538d00f71d74263f5&amp;mode=1&amp;name=SPORTS</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/pt/3/3e/Sporting_Clube_de_Portugal.png</thumbnail>
 <fanart>http://www.maisfutebol.iol.pt/multimedia/oratvi/multimedia/imagem/id/569035b40cf2468d8fd07fb2/1024.jpg</fanart>
 </item>
@@ -54,7 +54,7 @@
 
 <item>
 <title>[COLOR yellow]SPORTV 1[/COLOR][COLOR lime] ACESTREAM[/COLOR] AV17/AV18</title>
-<link>plugin://program.plexus/?url=acestream://9230b15d0b210a7baa33ecea9c18bb85d5b023d3&amp;mode=1&amp;name=SPORTS</link>
+<link>plugin://program.plexus/?url=acestream://95c93a72deb7b6df95d8696538d00f71d74263f5&amp;mode=1&amp;name=SPORTS</link>
 <thumbnail>http://i.imgur.com/qjonLZ0.png</thumbnail>
 </item>
 
