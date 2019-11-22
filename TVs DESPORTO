@@ -12,33 +12,7 @@
 
 <channels>
 <channel>
-<name>[COLOR yellow]CANAIS DESPORTIVOS - SITES[/COLOR] Chrome Launcher 1.2.0</name>
-<thumbnail>https://imgur.com/mTdPChs.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/addonbocas/bocas/master/CHROME%20LAUNCHER%20DESPORTO</externallink>
-<fanart>https://imgur.com/WfL81fZ.png</fanart>
-<info>[COLOR lime]CANAIS WEB[/COLOR]</info>
-</channel>
-</channels>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-<channels>
-<channel>
-<name>[COLOR yellow]SPORTVs[/COLOR] (WEB)</name>
-<thumbnail>http://imgur.com/cgHWHQX.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/addonbocas/bocas/master/SPORTVs</externallink>
-<fanart>http://imgur.com/cgHWHQX.png</fanart>
-<info>[COLOR lime]CANAIS WEB[/COLOR]</info>
-</channel>
-</channels>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-
-
-<channels>
-<channel>
-<name>[COLOR orange]LISTA Magellan[/COLOR][COLOR lime]  WEB [/COLOR][COLOR red]TS [/COLOR]</name>
+<name>[COLOR orange]LISTA DESPORTIVA Magellan[/COLOR][COLOR lime]  WEB [/COLOR][COLOR red]TS [/COLOR]</name>
 <thumbnail>http://imgur.com/cgHWHQX.png</thumbnail>
 <externallink>http://pastebin.com/raw/kdUL7Zap</externallink>
 <fanart>https://ia601403.us.archive.org/25/items/fanart_20190909_1728/fanart.jpg</fanart>
@@ -50,15 +24,33 @@
 
 <channels>
 <channel>
-<name>[COLOR lime]DESPORTO IPTV-ORG[/COLOR] (CANAIS DESPORTIVOS MUNDIAIS)</name>
+<name>[COLOR red]SITES[/COLOR][COLOR orange] CANAIS DESPORTIVOS [/COLOR] Chrome Launcher 1.2.0</name>
+<thumbnail>https://imgur.com/mTdPChs.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/addonbocas/bocas/master/CHROME%20LAUNCHER%20DESPORTO</externallink>
+<fanart>https://imgur.com/WfL81fZ.png</fanart>
+<info>[COLOR lime]CANAIS WEB[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
+<name>[COLOR limeSPORTVs[/COLOR] (WEB)</name>
 <thumbnail>http://imgur.com/cgHWHQX.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/iptv-org/iptv/master/categories/sport.m3u</externallink>
+<externallink>https://raw.githubusercontent.com/addonbocas/bocas/master/SPORTVs</externallink>
 <fanart>http://imgur.com/cgHWHQX.png</fanart>
 <info>[COLOR lime]CANAIS WEB[/COLOR]</info>
 </channel>
 </channels>
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+
+
+
+
+
 
 
 
