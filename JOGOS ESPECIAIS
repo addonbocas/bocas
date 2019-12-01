@@ -10,21 +10,21 @@
 
 <item>
 <title>[COLOR yellow]02/12[/COLOR][COLOR orange] 20:45H[/COLOR][COLOR deepskyblue] PORTO-P.FERREIRA[/COLOR][COLOR yellow] AV01 AV02[/COLOR]</title>
-<link>plugin://program.plexus/?url=acestream://60adeda24ce328e01b1279b8edd4f0b76d0f2b11&amp;mode=1&amp;name=SPORTS</link>
+<link>plugin://program.plexus/?url=acestream://697f8aeafae879c6fc0a735468594ceceee33063&amp;mode=1&amp;name=SPORTS</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/pt/c/c5/F.C._Porto_logo.png</thumbnail>
 <fanart>https://i.ytimg.com/vi/5nCH4wtzRms/maxresdefault.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR yellow]30/11[/COLOR][COLOR orange] 18:00H[/COLOR][COLOR red] BENFICA-MARITIMO[/COLOR][COLOR yellow] AV01 AV02[/COLOR]</title>
-<link>plugin://program.plexus/?url=acestream://60adeda24ce328e01b1279b8edd4f0b76d0f2b11&amp;mode=1&amp;name=SPORTS</link>
+<link>plugin://program.plexus/?url=acestream://697f8aeafae879c6fc0a735468594ceceee33063&amp;mode=1&amp;name=SPORTS</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/5/5d/Emblema_Benfica_1930_%28Sem_fundo%29.png</thumbnail>
 <fanart>http://stadiumdb.com/pictures/stadiums/por/estadio_da_luz/estadio_da_luz11.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR yellow]01/12[/COLOR][COLOR orange] 20:00H[/COLOR][COLOR lime] GILVICENTE-SPORTING[/COLOR][COLOR yellow] AV01 AV02[/COLOR]</title>
-<link>plugin://program.plexus/?url=acestream://60adeda24ce328e01b1279b8edd4f0b76d0f2b11&amp;mode=1&amp;name=SPORTS</link>
+<link>plugin://program.plexus/?url=acestream://697f8aeafae879c6fc0a735468594ceceee33063&amp;mode=1&amp;name=SPORTS</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/pt/3/3e/Sporting_Clube_de_Portugal.png</thumbnail>
 <fanart>http://www.maisfutebol.iol.pt/multimedia/oratvi/multimedia/imagem/id/569035b40cf2468d8fd07fb2/1024.jpg</fanart>
 </item>
@@ -54,19 +54,19 @@
 
 <item>
 <title>[COLOR yellow]SPORTV 1[/COLOR][COLOR lime] ACESTREAM[/COLOR] AV01 AV02</title>
-<link>plugin://program.plexus/?url=acestream://60adeda24ce328e01b1279b8edd4f0b76d0f2b11&amp;mode=1&amp;name=SPORTS</link>
+<link>plugin://program.plexus/?url=acestream://697f8aeafae879c6fc0a735468594ceceee33063&amp;mode=1&amp;name=SPORTS</link>
 <thumbnail>http://i.imgur.com/qjonLZ0.png</thumbnail>
 </item>
 
 <item>
 <title>[COLOR yellow]SPORTV 2[/COLOR][COLOR lime] ACESTREAM[/COLOR] AV03/AV04</title>
-<link>plugin://program.plexus/?url=acestream://ead9f90d0f9c4c13cf9e0c55a634304bbd597edd&amp;mode=1&amp;name=SPORTS</link>
+<link>plugin://program.plexus/?url=acestream://39a447700edfbf3e1f3b42be5ada67184890d064&amp;mode=1&amp;name=SPORTS</link>
 <thumbnail>http://i.imgur.com/VXqfdAx.png</thumbnail>
 </item>
 
 <item>
 <title>[COLOR yellow]SPORTV 3[/COLOR][COLOR lime] ACESTREAM[/COLOR] AV05/AV06</title>
-<link>plugin://program.plexus/?url=acestream://04f52b441b5338a3dc41f003921ed6d4e4f90f55&amp;mode=1&amp;name=SPORTS</link>
+<link>plugin://program.plexus/?url=acestream://083287810554d180ebd9aa7fd6429345e9df2082&amp;mode=1&amp;name=SPORTS</link>
 <thumbnail>http://i.imgur.com/318BQ4h.png</thumbnail>
 </item>
 
@@ -78,7 +78,7 @@
 
 <item>
 <title>[COLOR yellow]SPORTV 5[/COLOR][COLOR lime] ACESTREAM[/COLOR] AV21/AV22</title>
-<link>plugin://program.plexus/?url=acestream://58029f05ebd4a95475c48e82d1987c80b334f092&amp;mode=1&amp;name=SPORTS</link>
+<link>plugin://program.plexus/?url=acestream://255bd601b6ce056e96534571465989ff542cf1a9&amp;mode=1&amp;name=SPORTS</link>
 <thumbnail>http://i.imgur.com/2c6ZcJc.png</thumbnail>
 </item>
 
