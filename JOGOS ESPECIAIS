@@ -55,6 +55,7 @@
 <item>
 <title>[COLOR yellow]SPORTV 1[/COLOR][COLOR lime] ACESTREAM[/COLOR] AV01 AV02</title>
 <link>plugin://program.plexus/?url=acestream://697f8aeafae879c6fc0a735468594ceceee33063&amp;mode=1&amp;name=SPORTS</link>
+<link>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://arenavision.in/p81/cloud/servers/bdbud/3fe/3/4fer/rff745tdwc/dc5sc/xclvkx/arenavision-1</link>
 <thumbnail>http://i.imgur.com/qjonLZ0.png</thumbnail>
 </item>
 
@@ -152,7 +153,7 @@
 <item>
 <title>[COLOR yellow]SPORTV 1[/COLOR][COLOR lime] ACESTREAM[/COLOR] AV01 AV02</title>
 <link>plugin://program.plexus/?url=acestream://697f8aeafae879c6fc0a735468594ceceee33063&amp;mode=1&amp;name=SPORTS</link>
-<link>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://arenavision.in/p81/cloud/servers/bdbud/3fe/3/4fer/rff745tdwc/dc5sc/xclvkx/arenavision-1</link>
+<link>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://arenavision.in/p81/cloud/servers/bdbud/3fe/3/4fer/rff745tdwc/dc5sc/xclvkx/arenavision-1&amp;name=SPORTS</link>
 <thumbnail>http://i.imgur.com/qjonLZ0.png</thumbnail>
 </item>
 
