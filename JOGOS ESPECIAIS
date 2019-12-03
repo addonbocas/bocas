@@ -1,4 +1,26 @@
 <item>
+<title>[COLOR lime]SITE[/COLOR] para ver TV PT</title>
+<link>ignore</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<jsonrpc>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=http://tvdomanel.blogspot.com</jsonrpc>
+</item>
+
+
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR green]-[/COLOR]</title>
+<link>http://bocas.com</link>
+<thumbnail>http://clevelandphotoandvideobooth.com/images/black-background-ohio.jpg</thumbnail>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+
+
+<item>
 <title>[COLOR lime]EXECUTAR PRIMEIRO A APK ACESTREAM FORA DO KODI[/COLOR]</title>
 <link>plugin://program.plexus/?url=acestream://9b698c3305080df2a8d1f8e572d6ecc3a2849bae&amp;mode=1&amp;name=SPORTS</link>
 <thumbnail>https://miracomohacerlo.com/wp-content/uploads/2017/10/C%C3%B3mo-descargar-Ace-Stream-APK-en-Android-en-5-pasos-1024x544.jpg</thumbnail>
@@ -91,26 +113,9 @@
 </item>
 
 
-<item>
-<title>[COLOR green]-[/COLOR]</title>
-<link>http://bocas.com</link>
-<thumbnail>http://clevelandphotoandvideobooth.com/images/black-background-ohio.jpg</thumbnail>
-</item>
 
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-<item>
-<title>[COLOR lime]VER ONLINE[/COLOR] Site desportivo PT</title>
-<link>ignore</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<jsonrpc>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=http://tvdomanel.blogspot.com</jsonrpc>
-</item>
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 
 
