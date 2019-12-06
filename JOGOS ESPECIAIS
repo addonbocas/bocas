@@ -12,6 +12,7 @@
 <title>[COLOR yellow]02/12[/COLOR][COLOR orange] 20:45H[/COLOR][COLOR deepskyblue] PORTO-P.FERREIRA[/COLOR][COLOR yellow] AV01 AV02[/COLOR]</title>
 <link>plugin://program.plexus/?url=acestream://697f8aeafae879c6fc0a735468594ceceee33063&amp;mode=1&amp;name=SPORTS</link>
 <link>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://arenavision.in/p81/cloud/servers/bdbud/3fe/3/4fer/rff745tdwc/dc5sc/xclvkx/arenavision-1</link>
+<link>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://www.zerozero.pt/edicao.php?id_edicao=135717</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/pt/c/c5/F.C._Porto_logo.png</thumbnail>
 <fanart>https://i.ytimg.com/vi/5nCH4wtzRms/maxresdefault.jpg</fanart>
 </item>
