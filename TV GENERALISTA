@@ -1,6 +1,6 @@
 <channels>
 <channel>
-<name>[COLOR yellow]TV GENERALISTA[/COLOR] - [COLOR lime]PORTUGAL[/COLOR] (CAIXA NEGRA)</name>
+<name>[COLOR yellow]TV GENERALISTA[/COLOR] - [COLOR lime]PORTUGAL[/COLOR] (CAIXA PRETA)</name>
 <thumbnail>https://imgur.com/so2MdYB.png</thumbnail>
 <externallink>https://caixapreta.pt/iptv</externallink>
 <fanart>https://ia601403.us.archive.org/25/items/fanart_20190909_1728/fanart.jpg</fanart>
@@ -13,11 +13,11 @@
 
 <channels>
 <channel>
-<name>[COLOR yellow]TV GENERALISTA[/COLOR] - [COLOR lime]PORTUGAL[/COLOR] (TEAMBLUE)</name>
+<name>[COLOR yellow]TV GENERALISTA[/COLOR] - [COLOR lime]PORTUGAL[/COLOR] (KITINA)</name>
 <thumbnail>https://imgur.com/so2MdYB.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/teamblue65/LISTAS/master/LISTA_SSIPTV</externallink>
+<externallink>http://kitina.kodiportugal.com</externallink>
 <fanart>https://ia601403.us.archive.org/25/items/fanart_20190909_1728/fanart.jpg</fanart>
-<info>[COLOR deeppink]|[/COLOR]- CREDITOS A TEAMBLUE -[COLOR deeppink]|[/COLOR]</info>
+<info>[COLOR deeppink]|[/COLOR]- CREDITOS A KITINA -[COLOR deeppink]|[/COLOR]</info>
 </channel>
 </channels>
 
@@ -77,7 +77,7 @@
 
 <channels>
 <channel>
-<name>[COLOR orange]PRAIAS[/COLOR]</name>
+<name>[COLOR orange]PRAIAS[/COLOR] (minha lista)</name>
 <thumbnail>http://imgur.com/ChFiESO.png</thumbnail>
 <externallink>https://pastebin.com/raw/BweMpAfV</externallink>
 <fanart>https://ia601403.us.archive.org/25/items/fanart_20190909_1728/fanart.jpg</fanart>
@@ -90,7 +90,7 @@
 
 <channels>
 <channel>
-<name>[COLOR red]RÁDIOS[/COLOR]</name>
+<name>[COLOR red]RÁDIOS[/COLOR] (minha lista)</name>
 <thumbnail>http://imgur.com/lMAd5nO.png</thumbnail>
 <externallink>https://pastebin.com/raw/1QnVnupp</externallink>
 <fanart>https://ia601403.us.archive.org/25/items/fanart_20190909_1728/fanart.jpg</fanart>
