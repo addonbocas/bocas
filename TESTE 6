@@ -1,34 +1,12 @@
 <item>
-<title>[COLOR red]CANAIS TV 2[/COLOR]</title>
-<link>ignorme</link>
-<externallink>https://pastebin.com/raw/LAAHq26y</externallink>
-<thumbnail>https://ia601403.us.archive.org/25/items/fanart_20190909_1728/fanart.jpg</thumbnail>
-<fanart>https://imgur.com/UcGIxsG.png</fanart>
+<title>Legenda</title>
+<link>plugin://plugin.video.webplayer/?logos=&amp;move=0&amp;mode=3&amp;index=-1&amp;url=http://207.180.205.251/users/cangaco/home/The%20Thinning-XD3M5JN1uhg.pt-BR.vtt
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/55yQMgLwJDyEom2Kose80JjTlDt.jpg</thumbnail>
+<fanart></fanart>
+<info>Em um futuro pós-apocalíptico onde o controle populacional é ditado por um teste de aptidão do ensino médio, dois estudantes descobrem que o teste é fumaça e espelhos escondem uma conspiração maior.</info>
 </item>
-
-<item>
-<title>[COLOR white][B][/B][/COLOR][COLOR yellow][B]SPORT TV [/COLOR][COLOR=white] 1[/COLOR][COLOR lime] [/B][/COLOR]</title><link>$doregex[m3u8]</link>
-<regex><name>m3u8</name><expres>file: "([^\"].*)"</expres>
-<page>http://sharecast.eu/embed.php?ch=live1-rbi6c</page>
-<link>$doregex[m3u8]</link><regex><name>m3u8</name><expres>file: "([^\"].*)"</expres>
-<page>http://sharecast.eu/embed.php?ch=live1-rbi6c</page>
-<agent>Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36</agent>
-</regex>
-<agent>Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36</agent>
-<referer>$$lsname=Sport TV 1 SD</referer>
-</regex><thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/sportv1.png</thumbnail>
-<fanart>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/sportv1.png</fanart>
-</item>
-
-<item>
-<title>[COLOR red]teste canais[/COLOR]</title>
-<link>ignorme</link>
-<externallink>https://pastebin.com/raw/bGmvMZXD</externallink>
-<thumbnail>https://ia601403.us.archive.org/25/items/fanart_20190909_1728/fanart.jpg</thumbnail>
-<fanart>https://imgur.com/UcGIxsG.png</fanart>
-</item>
-
-
+</channel>
 
 
 
