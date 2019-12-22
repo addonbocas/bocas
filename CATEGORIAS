@@ -72,6 +72,18 @@
 
 <channels>
 <channel>
+<name>[COLOR yellow]STAND UP COMEDY[/COLOR]</name>
+<thumbnail>https://www.chaves.pt/cmchaves/uploads/event/image/820/standup.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/addonbocas/bocas/master/Stand%20Up%20Comedy</externallink>
+<fanart>https://www.chaves.pt/cmchaves/uploads/event/image/820/standup.png</fanart>
+<info>[COLOR deeppink]|[/COLOR]- STAND UP COMEDY -[COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
 <name>[COLOR red]APLICAÇÕES ANDROID[/COLOR]</name>
 <thumbnail>https://http2.mlstatic.com/curso-criaco-de-aplicativos-para-android-top-tecnicas-D_NQ_NP_675976-MLB31047114725_062019-F.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/addonbocas/bocas/master/APLICACOES%20ANDROID</externallink>
