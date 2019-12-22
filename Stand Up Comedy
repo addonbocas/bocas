@@ -1,3 +1,5 @@
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=
+
 <item>
 <title>[COLOR lime]Rui Sinel de Cordes[/COLOR] Punchliner [COLOR orange]HUMOR NEGRO[/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=PTPBce6QhTQ&t=3050s</link>
