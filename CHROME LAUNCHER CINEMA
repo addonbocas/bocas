@@ -10,7 +10,7 @@
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 <item>
-<title>[COLOR lime]Portugaldownloads[/COLOR] infantil</title>
+<title>[COLOR lime]Portugaldownloads[/COLOR] https://portugaldownload.biz (infantil)</title>
 <link>ignore</link>
 <thumbnail>https://i.pinimg.com/originals/38/bd/c2/38bdc27dc60befce3f55c16ae38286f8.jpg</thumbnail>
 <fanart>https://i.pinimg.com/originals/38/bd/c2/38bdc27dc60befce3f55c16ae38286f8.jpg</fanart>
@@ -52,6 +52,18 @@
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<item>
+<title>[COLOR lime]voditv (EX Oxe7)[/COLOR] https://voditv.com</title>
+<link>ignore</link>
+<thumbnail>https://i.pinimg.com/originals/38/bd/c2/38bdc27dc60befce3f55c16ae38286f8.jpg</thumbnail>
+<fanart>https://i.pinimg.com/originals/38/bd/c2/38bdc27dc60befce3f55c16ae38286f8.jpg</fanart>
+<jsonrpc>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://voditv.com</jsonrpc>
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
 
 <item>
 <title>[COLOR lime]Redecanais[/COLOR] https://redecanais.observer/</title>
