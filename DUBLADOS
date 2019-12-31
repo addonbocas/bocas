@@ -1,6 +1,6 @@
 <channels>
 <channel>
-<name>[COLOR yellow]FILMES[/COLOR][COLOR lime] BR[/COLOR] LHMTV</name>
+<name>[COLOR yellow]FILMES LHMTV[/COLOR][COLOR lime] BR[/COLOR] http://lhmtv.ga/filmes</name>
 <thumbnail>http://3.bp.blogspot.com/-gLIbiMpRNPg/Ty3px0a35EI/AAAAAAAAGUU/O7tIehY45Hw/s1600/logotipo-campanha2.png</thumbnail>
 <externallink>http://lhmtv.ga/filmes</externallink>
 <fanart>https://ia601403.us.archive.org/25/items/fanart_20190909_1728/fanart.jpg</fanart>
@@ -13,14 +13,11 @@
 
 <channels>
 <channel>
-<name>[COLOR yellow]FILMES (Box1)[/COLOR][COLOR lime] BR[/COLOR] GuiadoLuiz</name>
+<name>[COLOR yellow]FILMES GuiadoLuiz[/COLOR][COLOR lime] BR[/COLOR] http://bit.ly/GuiadoLuizBox1</name>
 <thumbnail>http://3.bp.blogspot.com/-gLIbiMpRNPg/Ty3px0a35EI/AAAAAAAAGUU/O7tIehY45Hw/s1600/logotipo-campanha2.png</thumbnail>
 <externallink>http://bit.ly/GuiadoLuizBox1</externallink>
 <fanart>https://ia601403.us.archive.org/25/items/fanart_20190909_1728/fanart.jpg</fanart>
-<info>
-
-
-[COLOR lime]CREDITOS PARA[/COLOR] GuiadoLuiz</info>
+<info>[COLOR lime]CREDITOS PARA[/COLOR] GuiadoLuiz</info>
 </channel>
 </channels>
 
@@ -29,7 +26,7 @@
 
 <channels>
 <channel>
-<name>[COLOR yellow]FILMES (LC1)[/COLOR][COLOR lime] BR[/COLOR] GuiadoLuiz</name>
+<name>[COLOR yellow]FILMES GuiadoLuiz[/COLOR][COLOR lime] BR[/COLOR] http://bit.ly/GuiadoLuizLC1</name>
 <thumbnail>http://3.bp.blogspot.com/-gLIbiMpRNPg/Ty3px0a35EI/AAAAAAAAGUU/O7tIehY45Hw/s1600/logotipo-campanha2.png</thumbnail>
 <externallink>http://bit.ly/GuiadoLuizLC1</externallink>
 <fanart>https://ia601403.us.archive.org/25/items/fanart_20190909_1728/fanart.jpg</fanart>
@@ -38,6 +35,17 @@
 </channels>
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+
+<channels>
+<channel>
+<name>[COLOR orange]FILMES[/COLOR][COLOR lime] BR[/COLOR] TONYWARLLEY</name>
+<thumbnail>https://imgur.com/H2ylCnA.png</thumbnail>
+<externallink>https://pastebin.com/raw/7h6d2Rsw</externallink>
+<fanart>https://ia601403.us.archive.org/25/items/fanart_20190909_1728/fanart.jpg</fanart>
+<info>[COLOR lime]CREDITOS PARA[/COLOR] GuiadoLuiz</info>
+</channel>
+</channels>
 
 
 <channels>
@@ -68,7 +76,7 @@
 
 <channels>
 <channel>
-<name>[COLOR orange]SERIES[/COLOR][COLOR lime] BR[/COLOR] LHMTV</name>
+<name>[COLOR orange]SERIES LHMTV[/COLOR][COLOR lime] BR[/COLOR] http://lhmtv.ga/series</name>
 <thumbnail>http://3.bp.blogspot.com/-gLIbiMpRNPg/Ty3px0a35EI/AAAAAAAAGUU/O7tIehY45Hw/s1600/logotipo-campanha2.png</thumbnail>
 <externallink>http://lhmtv.ga/series</externallink>
 <fanart>https://ia601403.us.archive.org/25/items/fanart_20190909_1728/fanart.jpg</fanart>
@@ -80,7 +88,7 @@
 
 <channels>
 <channel>
-<name>[COLOR orange]SÉRIES 1[/COLOR][COLOR lime] BR[/COLOR] GuiadoLuiz</name>
+<name>[COLOR orange]SÉRIES GuiadoLuiz[/COLOR][COLOR lime] BR[/COLOR] http://bit.ly/GuiadoLuizseries1</name>
 <thumbnail>http://3.bp.blogspot.com/-gLIbiMpRNPg/Ty3px0a35EI/AAAAAAAAGUU/O7tIehY45Hw/s1600/logotipo-campanha2.png</thumbnail>
 <externallink>http://bit.ly/GuiadoLuizseries1</externallink>
 <fanart>https://ia601403.us.archive.org/25/items/fanart_20190909_1728/fanart.jpg</fanart>
@@ -92,7 +100,7 @@
 
 <channels>
 <channel>
-<name>[COLOR orange]SÉRIES 2[/COLOR][COLOR lime] BR[/COLOR] GuiadoLuiz</name>
+<name>[COLOR orange]SÉRIES GuiadoLuiz[/COLOR][COLOR lime] BR[/COLOR] http://bit.ly/GuiadoLuizseries2</name>
 <thumbnail>http://3.bp.blogspot.com/-gLIbiMpRNPg/Ty3px0a35EI/AAAAAAAAGUU/O7tIehY45Hw/s1600/logotipo-campanha2.png</thumbnail>
 <externallink>http://bit.ly/GuiadoLuizseries2</externallink>
 <fanart>https://ia601403.us.archive.org/25/items/fanart_20190909_1728/fanart.jpg</fanart>
@@ -118,7 +126,7 @@
 
 <channels>
 <channel>
-<name>[COLOR red]NOVELAS[/COLOR][COLOR lime] BR[/COLOR] GuiadoLuiz</name>
+<name>[COLOR red]NOVELAS GuiadoLuiz[/COLOR][COLOR lime] BR[/COLOR] http://bit.ly/GuiadoLuizNovelas1</name>
 <thumbnail>http://3.bp.blogspot.com/-gLIbiMpRNPg/Ty3px0a35EI/AAAAAAAAGUU/O7tIehY45Hw/s1600/logotipo-campanha2.png</thumbnail>
 <externallink>http://bit.ly/GuiadoLuizNovelas1</externallink>
 <fanart>https://ia601403.us.archive.org/25/items/fanart_20190909_1728/fanart.jpg</fanart>
@@ -143,7 +151,7 @@
 
 <channels>
 <channel>
-<name>[COLOR lime]DESENHOS ANIMADOS[/COLOR][COLOR lime] BR[/COLOR] LHMTV</name>
+<name>[COLOR lime]DESENHOS ANIMADOS LHMTV[/COLOR][COLOR lime] BR[/COLOR] http://lhmtv.ga/cartoon</name>
 <thumbnail>http://3.bp.blogspot.com/-gLIbiMpRNPg/Ty3px0a35EI/AAAAAAAAGUU/O7tIehY45Hw/s1600/logotipo-campanha2.png</thumbnail>
 <externallink>http://lhmtv.ga/cartoon</externallink>
 <fanart>https://ia601403.us.archive.org/25/items/fanart_20190909_1728/fanart.jpg</fanart>
@@ -155,7 +163,7 @@
 
 <channels>
 <channel>
-<name>[COLOR lime]DESENHOS ANIMADOS[/COLOR][COLOR lime] BR[/COLOR] GuiadoLuizBox2</name>
+<name>[COLOR lime]DESENHOS ANIMADOS GuiadoLuiz[/COLOR][COLOR lime] BR[/COLOR] http://bit.ly/GuiadoLuizBox2</name>
 <thumbnail>http://3.bp.blogspot.com/-gLIbiMpRNPg/Ty3px0a35EI/AAAAAAAAGUU/O7tIehY45Hw/s1600/logotipo-campanha2.png</thumbnail>
 <externallink>http://bit.ly/GuiadoLuizBox2</externallink>
 <fanart>https://ia601403.us.archive.org/25/items/fanart_20190909_1728/fanart.jpg</fanart>
