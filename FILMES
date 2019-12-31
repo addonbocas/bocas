@@ -1,30 +1,6 @@
 <channels>
 <channel>
-<name>[COLOR yellow]OUTROS ADDONS[/COLOR][COLOR lime] FILMES, SERIES, ANIMES[/COLOR] (Clicar aqui)</name>
-<thumbnail>http://imgur.com/FrfFp4l.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/addonbocas/bocas/master/OUTROS%20ADDONS</externallink>
-<fanart>http://imgur.com/FrfFp4l.png</fanart>
-<info>[COLOR deeppink]|[/COLOR]- CRÉDITOS AOS CRIADORES DOS ADDONS -[COLOR deeppink]|[/COLOR]</info>
-</channel>
-</channels>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-<channels>
-<channel>
-<name>[COLOR yellow]SITES[/COLOR][COLOR lime] PARA VER FILMES, SERIES, ANIMES[/COLOR]</name>
-<thumbnail>https://imgur.com/mTdPChs.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/addonbocas/bocas/master/CHROME%20LAUNCHER%20CINEMA</externallink>
-<fanart>https://imgur.com/WfL81fZ.png</fanart>
-<info>[COLOR deeppink]SITES PARA VER FILMES, SERIES, ANIMES[/COLOR]</info>
-</channel>
-</channels>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-<channels>
-<channel>
-<name>[COLOR orange]FILMES[/COLOR][COLOR lime] BOCAS[/COLOR]</name>
+<name>[COLOR yellow]FILMES[/COLOR][COLOR lime] BOCAS[/COLOR]</name>
 <thumbnail>http://imgur.com/cLwnC8w.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/addonbocas/bocas/master/FILMES%20BOCAS</externallink>
 <fanart>https://ia601403.us.archive.org/25/items/fanart_20190909_1728/fanart.jpg</fanart>
@@ -37,11 +13,36 @@
 
 <channels>
 <channel>
-<name>[COLOR orange]FILMES[/COLOR][COLOR lime] PORTUGUESES[/COLOR]</name>
+<name>[COLOR yellow]FILMES[/COLOR][COLOR lime] PORTUGUESES[/COLOR]</name>
 <thumbnail>https://i.imgur.com/H3DXHjm.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/addonbocas/bocas/master/FILMES%20PT%20CLASSICOS</externallink>
 <fanart>https://ia601403.us.archive.org/25/items/fanart_20190909_1728/fanart.jpg</fanart>
 <info>[COLOR lime]FILMES[/COLOR] PORTUGUESES</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+
+<channels>
+<channel>
+<name>[COLOR orange]OUTROS ADDONS[/COLOR][COLOR lime] FILMES, SERIES, ANIMES[/COLOR] (Clicar aqui)</name>
+<thumbnail>http://imgur.com/FrfFp4l.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/addonbocas/bocas/master/OUTROS%20ADDONS</externallink>
+<fanart>http://imgur.com/FrfFp4l.png</fanart>
+<info>[COLOR deeppink]|[/COLOR]- CRÉDITOS AOS CRIADORES DOS ADDONS -[COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
+<name>[COLOR orange]SITES[/COLOR][COLOR lime] PARA VER FILMES, SERIES, ANIMES[/COLOR]</name>
+<thumbnail>https://imgur.com/mTdPChs.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/addonbocas/bocas/master/CHROME%20LAUNCHER%20CINEMA</externallink>
+<fanart>https://imgur.com/WfL81fZ.png</fanart>
+<info>[COLOR deeppink]SITES PARA VER FILMES, SERIES, ANIMES[/COLOR]</info>
 </channel>
 </channels>
 
