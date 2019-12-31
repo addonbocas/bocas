@@ -24,7 +24,7 @@
 
 <channels>
 <channel>
-<name>[COLOR yellow]FILMES[/COLOR][COLOR lime] BOCAS[/COLOR]</name>
+<name>[COLOR orange]FILMES[/COLOR][COLOR lime] BOCAS[/COLOR]</name>
 <thumbnail>http://imgur.com/cLwnC8w.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/addonbocas/bocas/master/FILMES%20BOCAS</externallink>
 <fanart>https://ia601403.us.archive.org/25/items/fanart_20190909_1728/fanart.jpg</fanart>
@@ -37,7 +37,7 @@
 
 <channels>
 <channel>
-<name>[COLOR yellow]FILMES[/COLOR][COLOR lime] PORTUGUESES[/COLOR]</name>
+<name>[COLOR orange]FILMES[/COLOR][COLOR lime] PORTUGUESES[/COLOR]</name>
 <thumbnail>https://i.imgur.com/H3DXHjm.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/addonbocas/bocas/master/FILMES%20PT%20CLASSICOS</externallink>
 <fanart>https://ia601403.us.archive.org/25/items/fanart_20190909_1728/fanart.jpg</fanart>
