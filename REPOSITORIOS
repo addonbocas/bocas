@@ -8,29 +8,23 @@
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
-plugin.program.browser.launcher
-
 <item>
-<title>[COLOR lime]VIKINGS teste browser[/COLOR] http://vkodi.net/repo</title>
+<title>[COLOR lime]infotec-kodi-online[/COLOR] Site para fazer download de repos e plugins para kodi</title>
 <link>ignore</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<jsonrpc>plugin://plugin.program.browser.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&http://vkodi.net/repo</jsonrpc>
+<jsonrpc>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&https://infotec-kodi-online.webnode.com/?fbclid=IwAR1BXOLQ-siY4Oi7b_m19vbNELUAmx16_fYwtHmr3YpBkzFrL1Y82IoXG1A#</jsonrpc>
 </item>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-
-
-
-
-
-
 
 <item>
-<title>teste webplayer OFF</title>
-<link>plugin://plugin.video.webplayer/?logos=&amp;move=0&amp;mode=3&amp;index=-1&amp;url=http://vkodi.net/repo</link>
+<title>[COLOR lime]kodiapps[/COLOR] Site para fazer download de repos e plugins para kodi e apps android</title>
+<link>ignore</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<info></info>
+<jsonrpc>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&https://kodiapps.com/index</jsonrpc>
 </item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
