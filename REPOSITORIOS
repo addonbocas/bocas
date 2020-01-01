@@ -8,7 +8,7 @@
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 <item>
-<title>[COLOR lime]infotec-kodi-online[/COLOR] Site para fazer download de repos e plugins para kodi</title>
+<title>[COLOR lime]infotec-kodi-online[/COLOR] Site para fazer download de repos e plugins para kodi e apps android</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <link>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;url=https://infotec-kodi-online.webnode.com&amp;mode=showSite&amp;stopPlayback=yes</link>
@@ -25,34 +25,22 @@
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
-<item>
-<title>[COLOR dodgerred]kodiapps[/COLOR][COLOR orangered] https://kodiapps.com/addons-chart[/COLOR] test<title>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<link>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;url=https://kodiapps.com/addons-chart&amp;mode=showSite&amp;stopPlayback=yes</link>
-<item>
-<item>
 
 <item>
-<title>[COLOR dodgerred]androidaba[/COLOR][COLOR orangered] https://androidaba.com/addons[/COLOR] test<title>
+<title>[COLOR lime]androidaba[/COLOR] Site para fazer download de repos e plugins para kodi e apps android<title>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <link>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;url=https://androidaba.com/addons&amp;mode=showSite&amp;stopPlayback=yes</link>
-<item>
-<item>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
 
 <item>
-<title>[COLOR dodgerred]vkodi[/COLOR][COLOR orangered] http://vkodi.net/repo[/COLOR] test<title>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<link>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;url=http://vkodi.net/repo&amp;mode=showSite&amp;stopPlayback=yes</link>
-<item>
-<item>
-
-<item>
-<title>[COLOR yellow]altervista[/COLOR][COLOR lime] https://mdelicious.altervista.org[/COLOR] test<title>
+<title>[COLOR lime]altervista[/COLOR] Site para fazer download de repos e plugins para kodi e apps android<title>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <link>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;url=https://mdelicious.altervista.org&amp;mode=showSite&amp;stopPlayback=yes</link>
-<item>
-<item>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
