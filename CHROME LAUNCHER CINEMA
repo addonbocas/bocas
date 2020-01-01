@@ -1,10 +1,10 @@
 <item>
 <title>[COLOR lime]MrPiracy[/COLOR] https://v1.mrpiracy.top</title>
-<link>ignore</link>
 <thumbnail>https://i.pinimg.com/originals/38/bd/c2/38bdc27dc60befce3f55c16ae38286f8.jpg</thumbnail>
 <fanart>https://i.pinimg.com/originals/38/bd/c2/38bdc27dc60befce3f55c16ae38286f8.jpg</fanart>
-<jsonrpc>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://v1.mrpiracy.top</jsonrpc>
+<link>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;url=https://v1.mrpiracy.top&amp;mode=showSite&amp;stopPlayback=yes</link>
 </item>
+
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
