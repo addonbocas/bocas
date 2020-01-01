@@ -3,7 +3,7 @@
 <link>ignore</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<jsonrpc>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&http://vkodi.net</jsonrpc>
+<link>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;url=http://vkodi.net/repo&amp;mode=showSite&amp;stopPlayback=yes</link>
 </item>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
@@ -13,7 +13,7 @@
 <link>ignore</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<jsonrpc>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&https://infotec-kodi-online.webnode.com</jsonrpc>
+<link>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;url=https://infotec-kodi-online.webnode.com&amp;mode=showSite&amp;stopPlayback=yes</link>
 </item>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
@@ -23,7 +23,7 @@
 <link>ignore</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<jsonrpc>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&https://kodiapps.com</jsonrpc>
+<link>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;url=https://kodiapps.com&amp;mode=showSite&amp;stopPlayback=yes</link>
 </item>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
