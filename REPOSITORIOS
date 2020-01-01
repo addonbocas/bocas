@@ -51,3 +51,11 @@
 <link>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;url=http://vkodi.net/repo&amp;mode=showSite&amp;stopPlayback=yes</link>
 <item>
 <item>
+
+<item>
+<title>[COLOR yellow]altervista[/COLOR][COLOR lime] https://mdelicious.altervista.org[/COLOR] test<title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;url=https://mdelicious.altervista.org&amp;mode=showSite&amp;stopPlayback=yes</link>
+<item>
+<item>
