@@ -1,6 +1,5 @@
 <item>
 <title>[COLOR lime]VIKINGS[/COLOR] http://vkodi.net/repo</title>
-<link>ignore</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <link>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;url=http://vkodi.net/repo&amp;mode=showSite&amp;stopPlayback=yes</link>
@@ -10,7 +9,6 @@
 
 <item>
 <title>[COLOR lime]infotec-kodi-online[/COLOR] Site para fazer download de repos e plugins para kodi</title>
-<link>ignore</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <link>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;url=https://infotec-kodi-online.webnode.com&amp;mode=showSite&amp;stopPlayback=yes</link>
@@ -20,7 +18,6 @@
 
 <item>
 <title>[COLOR lime]kodiapps[/COLOR] Site para fazer download de repos e plugins para kodi e apps android</title>
-<link>ignore</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <link>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;url=https://kodiapps.com&amp;mode=showSite&amp;stopPlayback=yes</link>
