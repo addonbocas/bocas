@@ -35,3 +35,11 @@
 <link>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;url=https://kodiapps.com/addons-chart&amp;mode=showSite&amp;stopPlayback=yes</link>
 <item>
 <item>
+
+<item>
+<title>[COLOR dodgerred]androidaba[/COLOR][COLOR orangered] https://androidaba.com/addons[/COLOR] test<title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;url=https://androidaba.com/addons&amp;mode=showSite&amp;stopPlayback=yes</link>
+<item>
+<item>
