@@ -17,6 +17,32 @@
 </item>
 
 <item>
+<title>[COLOR yellow]05/01[/COLOR][COLOR orange] 17:30H[/COLOR][COLOR deepskyblue] SPORTING-PORTO[/COLOR][COLOR yellow] servia 1[/COLOR]</title>
+<link>plugin://program.plexus/?url=acestream://92550ac34357a69bf6c734145fa359197d62fec0&amp;mode=1&amp;name=SPORTS</link>
+<link>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://arenavision.in/p81/cloud/servers/bdbud/3fe/3/4fer/rff745tdwc/dc5sc/xclvkx/arenavision-1&amp$$lsname=[COLOR blue]SITE ARENAVISION[/COLOR]</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/c/c5/F.C._Porto_logo.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/5nCH4wtzRms/maxresdefault.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow]05/01[/COLOR][COLOR orange] 17:30H[/COLOR][COLOR deepskyblue] SPORTING-PORTO[/COLOR][COLOR yellow] servia 2[/COLOR]</title>
+<link>plugin://program.plexus/?url=acestream://506fb061fb60da6fd80a797beca2e294c69cfdcb&amp;mode=1&amp;name=SPORTS</link>
+<link>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://arenavision.in/p81/cloud/servers/bdbud/3fe/3/4fer/rff745tdwc/dc5sc/xclvkx/arenavision-1&amp$$lsname=[COLOR blue]SITE ARENAVISION[/COLOR]</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/c/c5/F.C._Porto_logo.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/5nCH4wtzRms/maxresdefault.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow]05/01[/COLOR][COLOR orange] 17:30H[/COLOR][COLOR deepskyblue] SPORTING-PORTO[/COLOR][COLOR yellow] espanha[/COLOR]</title>
+<link>plugin://program.plexus/?url=acestream://e8956b8f184e85dd05841c2fe56d62f3d6edc67e&amp;mode=1&amp;name=SPORTS</link>
+<link>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://arenavision.in/p81/cloud/servers/bdbud/3fe/3/4fer/rff745tdwc/dc5sc/xclvkx/arenavision-1&amp$$lsname=[COLOR blue]SITE ARENAVISION[/COLOR]</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/c/c5/F.C._Porto_logo.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/5nCH4wtzRms/maxresdefault.jpg</fanart>
+</item>
+
+
+
+<item>
 <title>[COLOR yellow]04/01[/COLOR][COLOR orange] 20:30H[/COLOR][COLOR red] V. Guimarães-BENFICA[/COLOR][COLOR yellow] AV17 AV18[/COLOR]</title>
 <link>plugin://program.plexus/?url=acestream://8640f535333a8f66c370e293b265c7ba4f1fe910&amp;mode=1&amp;name=SPORTS</link>
 <link>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://arenavision.in/p81/cloud/servers/bdbud/3fe/3/4fer/rff745tdwc/dc5sc/xclvkx/arenavision-1&amp$$lsname=[COLOR blue]SITE ARENAVISION[/COLOR]</link>
@@ -78,7 +104,7 @@
 
 <item>
 <title>[COLOR yellow]SPORTV 1[/COLOR][COLOR lime] ACESTREAM[/COLOR] AV01 AV02</title>
-<link>plugin://program.plexus/?url=acestream://794495f876d244e4749f9afae770f9288768a9c8&amp;mode=1&amp;name=SPORTS</link>
+<link>plugin://program.plexus/?url=acestream://58528897c6351c085b90c783b688be0abff8d9f3&amp;mode=1&amp;name=SPORTS</link>
 <link>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://arenavision.in/p81/cloud/servers/bdbud/3fe/3/4fer/rff745tdwc/dc5sc/xclvkx/arenavision-1</link>
 <thumbnail>http://i.imgur.com/qjonLZ0.png</thumbnail>
 </item>
