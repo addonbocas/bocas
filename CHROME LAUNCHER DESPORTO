@@ -121,6 +121,14 @@
 </item>
 
 <item>
+<title>[COLOR yellow]sportv 1[/COLOR] lineballsod</title>
+<link>ignore</link>
+<thumbnail>https://iptv.bestsky.pt/wp-content/uploads/2019/02/a450.png</thumbnail>
+<fanart>https://iptv.bestsky.pt/wp-content/uploads/2019/02/a450.png</fanart>
+<jsonrpc>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=http://www.lineballsod.com/doball/live-ch111</jsonrpc>
+</item>
+
+<item>
 <title>[COLOR yellow]sportv 1[/COLOR] sportbar.biz</title>
 <link>ignore</link>
 <thumbnail>https://iptv.bestsky.pt/wp-content/uploads/2019/02/a450.png</thumbnail>
