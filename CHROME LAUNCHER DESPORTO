@@ -136,6 +136,15 @@
 <jsonrpc>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://sportbar.biz/tv1pt.html</jsonrpc>
 </item>
 
+<item>
+<title>[COLOR yellow]sportv 1[/COLOR] sine.tv</title>
+<link>ignore</link>
+<thumbnail>https://iptv.bestsky.pt/wp-content/uploads/2019/02/a450.png</thumbnail>
+<fanart>https://iptv.bestsky.pt/wp-content/uploads/2019/02/a450.png</fanart>
+<jsonrpc>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://www.sine.tv/tvonline/ch093</jsonrpc>
+</item>
+
+
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
