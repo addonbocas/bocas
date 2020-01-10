@@ -51,6 +51,19 @@
 
 <channels>
 <channel>
+<name>[COLOR yellow]TV GENERALISTA[/COLOR] - [COLOR lime]BRASIL[/COLOR] (LHMTV djsom)</name>
+<thumbnail>https://imgur.com/jdNG7kn.png</thumbnail>
+<externallink>http://lhmtv.ga/djsom</externallink>
+<fanart>https://ia601403.us.archive.org/25/items/fanart_20190909_1728/fanart.jpg</fanart>
+<info>[COLOR lime]CREDITOS PARA LHMTV[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+
+<channels>
+<channel>
 <name>[COLOR yellow]TV GENERALISTA[/COLOR] - [COLOR lime]BRASIL[/COLOR] (IPTV-ORG)</name>
 <thumbnail>https://imgur.com/euzWVzv.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/iptv-org/iptv/master/channels/br.m3u</externallink>
