@@ -10,7 +10,7 @@
 
 <item>
 <title>[COLOR yellow]10/01[/COLOR][COLOR orange] 21:30H[/COLOR][COLOR deepskyblue] Moreirense-PORTO[/COLOR][COLOR yellow] AV17 AV18[/COLOR]</title>
-<link>plugin://program.plexus/?url=acestream://8640f535333a8f66c370e293b265c7ba4f1fe910&amp;mode=1&amp;name=SPORTS</link>
+<link>plugin://program.plexus/?url=acestream://92bb6729a6e86b6ca376bfa4bb4516151286569b&amp;mode=1&amp;name=SPORTS</link>
 <link>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://arenavision.in/p81/cloud/servers/bdbud/3fe/3/4fer/rff745tdwc/dc5sc/xclvkx/arenavision-1&amp$$lsname=[COLOR blue]SITE ARENAVISION[/COLOR]</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/pt/c/c5/F.C._Porto_logo.png</thumbnail>
 <fanart>https://i.ytimg.com/vi/5nCH4wtzRms/maxresdefault.jpg</fanart>
@@ -18,7 +18,7 @@
 
 <item>
 <title>[COLOR yellow]10/01[/COLOR][COLOR orange] 19:00H[/COLOR][COLOR red] BENFICA-CD Aves[/COLOR][COLOR yellow] AV17 AV18[/COLOR]</title>
-<link>plugin://program.plexus/?url=acestream://8640f535333a8f66c370e293b265c7ba4f1fe910&amp;mode=1&amp;name=SPORTS</link>
+<link>plugin://program.plexus/?url=acestream://92bb6729a6e86b6ca376bfa4bb4516151286569b&amp;mode=1&amp;name=SPORTS</link>
 <link>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://arenavision.in/p81/cloud/servers/bdbud/3fe/3/4fer/rff745tdwc/dc5sc/xclvkx/arenavision-1&amp$$lsname=[COLOR blue]SITE ARENAVISION[/COLOR]</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/5/5d/Emblema_Benfica_1930_%28Sem_fundo%29.png</thumbnail>
 <fanart>http://stadiumdb.com/pictures/stadiums/por/estadio_da_luz/estadio_da_luz11.jpg</fanart>
@@ -26,7 +26,7 @@
 
 <item>
 <title>[COLOR yellow]11/01[/COLOR][COLOR orange] 20:30H[/COLOR][COLOR lime] V.Setubal-SPORTING[/COLOR][COLOR yellow] AV17 AV18[/COLOR]</title>
-<link>plugin://program.plexus/?url=acestream://8640f535333a8f66c370e293b265c7ba4f1fe910&amp;mode=1&amp;name=SPORTS</link>
+<link>plugin://program.plexus/?url=acestream://92bb6729a6e86b6ca376bfa4bb4516151286569b&amp;mode=1&amp;name=SPORTS</link>
 <link>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://arenavision.in/p81/cloud/servers/bdbud/3fe/3/4fer/rff745tdwc/dc5sc/xclvkx/arenavision-1&amp$$lsname=[COLOR blue]SITE ARENAVISION[/COLOR]</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/pt/3/3e/Sporting_Clube_de_Portugal.png</thumbnail>
 <fanart>http://www.maisfutebol.iol.pt/multimedia/oratvi/multimedia/imagem/id/569035b40cf2468d8fd07fb2/1024.jpg</fanart>
@@ -71,7 +71,7 @@
 
 <item>
 <title>[COLOR yellow]SPORTV 1[/COLOR][COLOR lime] ACESTREAM[/COLOR] AV17 AV18</title>
-<link>plugin://program.plexus/?url=acestream://8640f535333a8f66c370e293b265c7ba4f1fe910&amp;mode=1&amp;name=SPORTS</link>
+<link>plugin://program.plexus/?url=acestream://92bb6729a6e86b6ca376bfa4bb4516151286569b&amp;mode=1&amp;name=SPORTS</link>
 <link>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://arenavision.in/p81/cloud/servers/bdbud/3fe/3/4fer/rff745tdwc/dc5sc/xclvkx/arenavision-1</link>
 <thumbnail>http://i.imgur.com/qjonLZ0.png</thumbnail>
 </item>
@@ -85,14 +85,21 @@
 
 <item>
 <title>[COLOR yellow]SPORTV 2[/COLOR][COLOR lime] ACESTREAM[/COLOR] AV03/AV04</title>
-<link>plugin://program.plexus/?url=acestream://334ea0c7a11859890b643733915e2adc75da2dfc&amp;mode=1&amp;name=SPORTS</link>
+<link>plugin://program.plexus/?url=acestream://a182af7c05c41adb44806df4885a9d9848cf3e33&amp;mode=1&amp;name=SPORTS</link>
 <link>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://arenavision.in/p81/cloud/servers/bdbud/3fe/3/4fer/rff745tdwc/dc5sc/xclvkx/arenavision-3</link>
 <thumbnail>http://i.imgur.com/VXqfdAx.png</thumbnail>
 </item>
 
 <item>
 <title>[COLOR yellow]SPORTV 3[/COLOR][COLOR lime] ACESTREAM[/COLOR] AV05/AV06</title>
-<link>plugin://program.plexus/?url=acestream://3bba29cf924be4ea5370e7dedbbb0ee4c24a6261&amp;mode=1&amp;name=SPORTS</link>
+<link>plugin://program.plexus/?url=acestream://a80d3fc08de9eddf3e676554a41f8395a0be7476&amp;mode=1&amp;name=SPORTS</link>
+<link>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://arenavision.in/p81/cloud/servers/bdbud/3fe/3/4fer/rff745tdwc/dc5sc/xclvkx/arenavision-5</link>
+<thumbnail>http://i.imgur.com/318BQ4h.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR yellow]SPORTV 4[/COLOR][COLOR lime] ACESTREAM[/COLOR] AV07/AV08</title>
+<link>plugin://program.plexus/?url=acestream://23d0e161e824406167016c281c8cf7e870bf1ac7&amp;mode=1&amp;name=SPORTS</link>
 <link>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://arenavision.in/p81/cloud/servers/bdbud/3fe/3/4fer/rff745tdwc/dc5sc/xclvkx/arenavision-5</link>
 <thumbnail>http://i.imgur.com/318BQ4h.png</thumbnail>
 </item>
