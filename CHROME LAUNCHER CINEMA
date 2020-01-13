@@ -5,7 +5,6 @@
 <link>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;url=https://v1.mrpiracy.top&amp;mode=showSite&amp;stopPlayback=yes</link>
 </item>
 
-
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
@@ -26,12 +25,23 @@
 <fanart></fanart>
 <link>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;url=https://www.tugakids.com&amp;mode=showSite&amp;stopPlayback=yes</link>
 </item>
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 <item>
-<title>[COLOR lime]Tugaflix[/COLOR] https://tuga.tv</title>
+<title>[COLOR lime]Tugaflix[/COLOR] https://tuga.tv OP1</title>
+<link>ignore</link>
+<thumbnail>https://i.pinimg.com/originals/38/bd/c2/38bdc27dc60befce3f55c16ae38286f8.jpg</thumbnail>
+<fanart>https://i.pinimg.com/originals/38/bd/c2/38bdc27dc60befce3f55c16ae38286f8.jpg</fanart>
+<jsonrpc>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://v5g.tuga.tv</jsonrpc>
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<item>
+<title>[COLOR lime]Tugaflix[/COLOR] https://tuga.tv OP2</title>
 <link>ignore</link>
 <thumbnail>https://i.pinimg.com/originals/38/bd/c2/38bdc27dc60befce3f55c16ae38286f8.jpg</thumbnail>
 <fanart>https://i.pinimg.com/originals/38/bd/c2/38bdc27dc60befce3f55c16ae38286f8.jpg</fanart>
@@ -74,7 +84,6 @@
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
-
 <item>
 <title>[COLOR lime]Redecanais BR[/COLOR] https://redecanais.bz</title>
 <link>ignore</link>
@@ -82,6 +91,7 @@
 <fanart>https://i.pinimg.com/originals/38/bd/c2/38bdc27dc60befce3f55c16ae38286f8.jpg</fanart>
 <jsonrpc>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://redecanais.bz</jsonrpc>
 </item>
+
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
@@ -91,9 +101,9 @@
 <fanart></fanart>
 <link>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;url=https://www.maxfilmesonline.org&amp;mode=showSite&amp;stopPlayback=yes</link>
 </item>
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 <item>
 <title>[COLOR yellow]RARBG[/COLOR] - [COLOR orange]Site para download por torrents[/COLOR] https://rarbgprx.org/torrents.php</title>
@@ -101,9 +111,9 @@
 <fanart></fanart>
 <link>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;url=https://rarbgprx.org/torrents.php&amp;mode=showSite&amp;stopPlayback=yes</link>
 </item>
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 <item>
 <title>[COLOR yellow]utorrentfilmes[/COLOR] - [COLOR orange]Site para download por torrents DUBLADOS[/COLOR] https://utorrentfilmes.net</title>
@@ -111,6 +121,7 @@
 <fanart></fanart>
 <link>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;url=https://utorrentfilmes.net&amp;mode=showSite&amp;stopPlayback=yes</link>
 </item>
+
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
