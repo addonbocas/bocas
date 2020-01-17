@@ -9,8 +9,8 @@
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 <item>
-<title>[COLOR yellow]17/01[/COLOR][COLOR orange] 19:00H[/COLOR][COLOR deepskyblue] PORTO-BRAGA[/COLOR][COLOR yellow] AV17 AV18[/COLOR]</title>
-<link>plugin://program.plexus/?url=acestream://92bb6729a6e86b6ca376bfa4bb4516151286569b&amp;mode=1&amp;name=SPORTS</link>
+<title>[COLOR yellow]17/01[/COLOR][COLOR orange] 19:00H[/COLOR][COLOR deepskyblue] PORTO-BRAGA[/COLOR][COLOR yellow] AV07 AV08 AV42[/COLOR]</title>
+<link>plugin://program.plexus/?url=acestream://23d0e161e824406167016c281c8cf7e870bf1ac7&amp;mode=1&amp;name=SPORTS</link>
 <link>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://arenavision.in/p81/cloud/servers/bdbud/3fe/3/4fer/rff745tdwc/dc5sc/xclvkx/arenavision-1&amp$$lsname=[COLOR blue]SITE ARENAVISION[/COLOR]</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/pt/c/c5/F.C._Porto_logo.png</thumbnail>
 <fanart>https://i.ytimg.com/vi/5nCH4wtzRms/maxresdefault.jpg</fanart>
