@@ -77,13 +77,6 @@
 </item>
 
 <item>
-<title>[COLOR lime]SPORTV 1 TESTE[/COLOR]</title>
-<link>https://ul.cdn946.net:8443/hls/cyqomyts14egn.m3u8?s=3kfcKEC6EAzpfyLEJoXdVw&e=1579387136</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
 <title>[COLOR yellow]SPORTV 1[/COLOR][COLOR lime] ACESTREAM[/COLOR] AV01 AV02</title>
 <link>plugin://program.plexus/?url=acestream://58528897c6351c085b90c783b688be0abff8d9f3&amp;mode=1&amp;name=SPORTS</link>
 <link>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://arenavision.in/p81/cloud/servers/bdbud/3fe/3/4fer/rff745tdwc/dc5sc/xclvkx/arenavision-1</link>
