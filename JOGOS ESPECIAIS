@@ -72,9 +72,15 @@
 <item>
 <title>[COLOR yellow]SPORTV 1[/COLOR][COLOR lime] ACESTREAM[/COLOR] AV17 AV18</title>
 <link>plugin://program.plexus/?url=acestream://92bb6729a6e86b6ca376bfa4bb4516151286569b&amp;mode=1&amp;name=SPORTS</link>
-<link>https://ul.cdn946.net:8443/hls/cyqomyts14egn.m3u8?s=3kfcKEC6EAzpfyLEJoXdVw&e=1579387136</link>
 <link>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://arenavision.in/p81/cloud/servers/bdbud/3fe/3/4fer/rff745tdwc/dc5sc/xclvkx/arenavision-1</link>
 <thumbnail>http://i.imgur.com/qjonLZ0.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lime]SPORTV 1 TESTE[/COLOR]</title>
+<link>https://ul.cdn946.net:8443/hls/cyqomyts14egn.m3u8?s=3kfcKEC6EAzpfyLEJoXdVw&e=1579387136</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
 </item>
 
 <item>
