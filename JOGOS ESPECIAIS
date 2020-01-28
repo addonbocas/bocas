@@ -9,24 +9,24 @@
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 <item>
-<title>[COLOR yellow]29/01[/COLOR][COLOR orange] 20:15H[/COLOR][COLOR deepskyblue] PORTO-Gil Vicente[/COLOR][COLOR yellow] AV07 AV08 AV42[/COLOR]</title>
-<link>plugin://program.plexus/?url=acestream://73277d22d3e11dbabc38012c878aee031d177ac4&amp;mode=1&amp;name=SPORTS</link>
+<title>[COLOR yellow]01/02[/COLOR][COLOR orange] 18:00H[/COLOR][COLOR deepskyblue] V. Setubal -	PORTO[/COLOR][COLOR yellow] AV07 AV08 AV42[/COLOR]</title>
+<link>plugin://program.plexus/?url=acestream://9d3e9ee1207847743e01fecd96212f5bfa518f22&amp;mode=1&amp;name=SPORTS</link>
 <link>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://arenavision.in/p81/cloud/servers/bdbud/3fe/3/4fer/rff745tdwc/dc5sc/xclvkx/arenavision-1&amp$$lsname=[COLOR blue]SITE ARENAVISION[/COLOR]</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/pt/c/c5/F.C._Porto_logo.png</thumbnail>
 <fanart>https://i.ytimg.com/vi/5nCH4wtzRms/maxresdefault.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR yellow]26/01[/COLOR][COLOR orange] 17:30H[/COLOR][COLOR red] Paços de Ferreira-BENFICA[/COLOR][COLOR yellow] AV17 AV18[/COLOR]</title>
-<link>plugin://program.plexus/?url=acestream://73277d22d3e11dbabc38012c878aee031d177ac4&amp;mode=1&amp;name=SPORTS</link>
+<title>[COLOR yellow]31/01[/COLOR][COLOR orange] 19:00H[/COLOR][COLOR red] BENFICA - Belenenses SAD[/COLOR][COLOR yellow] AV17 AV18[/COLOR]</title>
+<link>plugin://program.plexus/?url=acestream://9d3e9ee1207847743e01fecd96212f5bfa518f22&amp;mode=1&amp;name=SPORTS</link>
 <link>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://arenavision.in/p81/cloud/servers/bdbud/3fe/3/4fer/rff745tdwc/dc5sc/xclvkx/arenavision-1&amp$$lsname=[COLOR blue]SITE ARENAVISION[/COLOR]</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/5/5d/Emblema_Benfica_1930_%28Sem_fundo%29.png</thumbnail>
 <fanart>http://stadiumdb.com/pictures/stadiums/por/estadio_da_luz/estadio_da_luz11.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR yellow]29/01[/COLOR][COLOR orange] 20:15H[/COLOR][COLOR lime] SPORTING-Marítimo[/COLOR][COLOR yellow] AV17 AV18[/COLOR]</title>
-<link>plugin://program.plexus/?url=acestream://73277d22d3e11dbabc38012c878aee031d177ac4&amp;mode=1&amp;name=SPORTS</link>
+<title>[COLOR yellow]02/02[/COLOR][COLOR orange] 17:30H[/COLOR][COLOR lime] SC Braga - SPORTING[/COLOR][COLOR yellow] AV17 AV18[/COLOR]</title>
+<link>plugin://program.plexus/?url=acestream://9d3e9ee1207847743e01fecd96212f5bfa518f22&amp;mode=1&amp;name=SPORTS</link>
 <link>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://arenavision.in/p81/cloud/servers/bdbud/3fe/3/4fer/rff745tdwc/dc5sc/xclvkx/arenavision-1&amp$$lsname=[COLOR blue]SITE ARENAVISION[/COLOR]</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/pt/3/3e/Sporting_Clube_de_Portugal.png</thumbnail>
 <fanart>http://www.maisfutebol.iol.pt/multimedia/oratvi/multimedia/imagem/id/569035b40cf2468d8fd07fb2/1024.jpg</fanart>
@@ -71,7 +71,7 @@
 
 <item>
 <title>[COLOR yellow]SPORTV 1[/COLOR][COLOR lime] ACESTREAM[/COLOR] AV17 AV18</title>
-<link>plugin://program.plexus/?url=acestream://92bb6729a6e86b6ca376bfa4bb4516151286569b&amp;mode=1&amp;name=SPORTS</link>
+<link>plugin://program.plexus/?url=acestream://9d3e9ee1207847743e01fecd96212f5bfa518f22&amp;mode=1&amp;name=SPORTS</link>
 <link>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://arenavision.in/p81/cloud/servers/bdbud/3fe/3/4fer/rff745tdwc/dc5sc/xclvkx/arenavision-1</link>
 <thumbnail>http://i.imgur.com/qjonLZ0.png</thumbnail>
 </item>
