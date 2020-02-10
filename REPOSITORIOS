@@ -27,6 +27,16 @@
 
 
 <item>
+<title>[COLOR lime]kodi-addons.club[/COLOR] Site para fazer download de repos e plugins para kodi e apps android</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;url=https://kodi-addons.club&amp;mode=showSite&amp;stopPlayback=yes</link>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+
+<item>
 <title>[COLOR lime]androidaba[/COLOR] Site para fazer download de repos e plugins para kodi e apps android<title>
 <thumbnail></thumbnail>
 <fanart></fanart>
