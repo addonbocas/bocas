@@ -17,8 +17,8 @@
 </item>
 
 <item>
-<title>[COLOR yellow]15/02[/COLOR][COLOR orange] 18:00H[/COLOR][COLOR red] BENFICA - BRAGA[/COLOR][COLOR yellow] AV17 AV18[/COLOR]</title>
-<link>plugin://program.plexus/?url=acestream://69c1b7c40942ef4efeb35750b9aa1eaa1a9e7599&amp;mode=1&amp;name=SPORTS</link>
+<title>[COLOR yellow]15/02[/COLOR][COLOR orange] 18:00H[/COLOR][COLOR red] BENFICA - BRAGA[/COLOR][COLOR yellow] AV09 AV10[/COLOR]</title>
+<link>plugin://program.plexus/?url=acestream://c2e7655c10e9eda6d39bc124747b4cf4e177c7d5&amp;mode=1&amp;name=SPORTS</link>
 <link>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://arenavision.in/p81/cloud/servers/bdbud/3fe/3/4fer/rff745tdwc/dc5sc/xclvkx/arenavision-1&amp$$lsname=[COLOR blue]SITE ARENAVISION[/COLOR]</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/5/5d/Emblema_Benfica_1930_%28Sem_fundo%29.png</thumbnail>
 <fanart>http://stadiumdb.com/pictures/stadiums/por/estadio_da_luz/estadio_da_luz11.jpg</fanart>
