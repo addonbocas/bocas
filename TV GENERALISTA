@@ -48,6 +48,18 @@
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
+<channels>
+<channel>
+<name>[COLOR yellow]TV GENERALISTA[/COLOR] - [COLOR lime]PORTUGAL E BRASIL[/COLOR] (IPTV-ORG)</name>
+<thumbnail>https://imgur.com/so2MdYB.png</thumbnail>
+<externallink>https://iptv-org.github.io/iptv/languages/pt.m3u</externallink>
+<fanart>https://imgur.com/so2MdYB.png</fanart>
+<info>[COLOR deeppink]|[/COLOR]- CREDITOS A IPTV-ORG -[COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
 
 <channels>
 <channel>
