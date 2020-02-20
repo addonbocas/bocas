@@ -115,6 +115,19 @@
 
 <channels>
 <channel>
+<name>[COLOR yellow]TV GENERALISTA[/COLOR] - [COLOR lime]VARIOS PAISES[/COLOR]</name>
+<thumbnail>http://imgur.com/PCGI7rU.png</thumbnail>
+<externallink>https://pastebin.com/raw/pix5ph7T</externallink>
+<fanart>http://imgur.com/PCGI7rU.png</fanart>
+<info>[COLOR deeppink]|[/COLOR]- CREDITOS A IPTV-ORG -[COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+
+<channels>
+<channel>
 <name>[COLOR orange]PRAIAS[/COLOR] (minha lista)</name>
 <thumbnail>http://imgur.com/ChFiESO.png</thumbnail>
 <externallink>https://pastebin.com/raw/BweMpAfV</externallink>
