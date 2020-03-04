@@ -106,7 +106,17 @@
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 <item>
-<title>[COLOR lime]maxfilmesonline BR (EX VIZER.TV)[/COLOR] https://www.maxfilmesonline.org</title>
+<title>[COLOR lime]VIZER.TV BR (EX VIZER.TV 1)[/COLOR] https://vizer.tv</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://vizer.tv</link>
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<item>
+<title>[COLOR lime]maxfilmesonline BR (EX VIZER.TV 2)[/COLOR] https://www.maxfilmesonline.org</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <link>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;url=https://www.maxfilmesonline.org&amp;mode=showSite&amp;stopPlayback=yes</link>
@@ -116,7 +126,7 @@
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 <item>
-<title>[COLOR lime]filmesonline BR (EX VIZER.TV 2op)[/COLOR] http://filmesonline.club</title>
+<title>[COLOR lime]filmesonline BR (EX VIZER.TV 3)[/COLOR] http://filmesonline.club</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <link>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;url=http://filmesonline.club&amp;mode=showSite&amp;stopPlayback=yes</link>
