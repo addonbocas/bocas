@@ -9,7 +9,7 @@
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 <item>
-<title>[COLOR yellow]07/03[/COLOR][COLOR orange] 20:30H[/COLOR][COLOR deepskyblue] FC PORTO - Rio Ave[/COLOR][COLOR yellow] AV17 AV18[/COLOR]</title>
+<title>[COLOR yellow]15/03[/COLOR][COLOR orange] 20:00H[/COLOR][COLOR deepskyblue] FC Famalicao - FC PORTO[/COLOR][COLOR yellow] AV17 AV18[/COLOR]</title>
 <link>plugin://program.plexus/?url=acestream://fa4da029323e7ed8b39deceba505ee485306cdce&amp;mode=1&amp;name=SPORTS</link>
 <link>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://arenavision.in/p81/cloud/servers/bdbud/3fe/3/4fer/rff745tdwc/dc5sc/xclvkx/arenavision-1&amp$$lsname=[COLOR blue]SITE ARENAVISION[/COLOR]</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/pt/c/c5/F.C._Porto_logo.png</thumbnail>
@@ -17,7 +17,7 @@
 </item>
 
 <item>
-<title>[COLOR yellow]07/03[/COLOR][COLOR orange] 18:00H[/COLOR][COLOR red] V. Setubal - BENFICA[/COLOR][COLOR yellow] AV17 AV18[/COLOR]</title>
+<title>[COLOR yellow]14/03[/COLOR][COLOR orange] 18:00H[/COLOR][COLOR red] BENFICA - CD Tondela[/COLOR][COLOR yellow] AV17 AV18[/COLOR]</title>
 <link>plugin://program.plexus/?url=acestream://fa4da029323e7ed8b39deceba505ee485306cdce&amp;mode=1&amp;name=SPORTS</link>
 <link>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://arenavision.in/p81/cloud/servers/bdbud/3fe/3/4fer/rff745tdwc/dc5sc/xclvkx/arenavision-1&amp$$lsname=[COLOR blue]SITE ARENAVISION[/COLOR]</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/5/5d/Emblema_Benfica_1930_%28Sem_fundo%29.png</thumbnail>
@@ -25,7 +25,7 @@
 </item>
 
 <item>
-<title>[COLOR yellow]08/03[/COLOR][COLOR orange] 17:30H[/COLOR][COLOR lime] SPORTING - CD Aves[/COLOR][COLOR yellow] AV17 AV18[/COLOR]</title>
+<title>[COLOR yellow]14/03[/COLOR][COLOR orange] 20:30H[/COLOR][COLOR lime] V. Guimaraes - SPORTING[/COLOR][COLOR yellow] AV17 AV18[/COLOR]</title>
 <link>plugin://program.plexus/?url=acestream://fa4da029323e7ed8b39deceba505ee485306cdce&amp;mode=1&amp;name=SPORTS</link>
 <link>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://arenavision.in/p81/cloud/servers/bdbud/3fe/3/4fer/rff745tdwc/dc5sc/xclvkx/arenavision-1&amp$$lsname=[COLOR blue]SITE ARENAVISION[/COLOR]</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/pt/3/3e/Sporting_Clube_de_Portugal.png</thumbnail>
