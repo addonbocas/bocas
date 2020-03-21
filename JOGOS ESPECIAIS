@@ -37,7 +37,18 @@
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 <item>
-<title>[COLOR orange]-                  SITE PARA VER TV PT[/COLOR] (clicar aqui)</title>
+<title>[COLOR orange]-                  SITE PARA VER TV PT[/COLOR] tvsporttvdez (clicar aqui)</title>
+<link>ignore</link>
+<thumbnail>https://image.winudf.com/v2/image1/YnIuY29tLmFzc2lzdGlydHYuZ29scGxheWVyX3NjcmVlbl8wXzE1NTQwMDUzMTRfMDA1/screen-0.jpg?fakeurl=1&type=.jpg</thumbnail>
+<fanart></fanart>
+<jsonrpc>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=http://www.tvsporttvdez.com</jsonrpc>
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<item>
+<title>[COLOR orange]-                  SITE PARA VER TV PT[/COLOR] tvdomanel (clicar aqui)</title>
 <link>ignore</link>
 <thumbnail>https://image.winudf.com/v2/image1/YnIuY29tLmFzc2lzdGlydHYuZ29scGxheWVyX3NjcmVlbl8wXzE1NTQwMDUzMTRfMDA1/screen-0.jpg?fakeurl=1&type=.jpg</thumbnail>
 <fanart></fanart>
