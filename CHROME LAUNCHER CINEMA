@@ -146,6 +146,16 @@
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 <item>
+<title>[COLOR yellow]baixarfilmetorrent[/COLOR] - [COLOR orange]Site para download por torrents[/COLOR] https://www.baixarfilmetorrent.net</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;url=https://www.baixarfilmetorrent.net&amp;mode=showSite&amp;stopPlayback=yes</link>
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<item>
 <title>[COLOR yellow]utorrentfilmes[/COLOR] - [COLOR orange]Site para download por torrents DUBLADOS[/COLOR] https://utorrentfilmes.net</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
