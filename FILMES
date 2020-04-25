@@ -10,31 +10,6 @@
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
-<channels>
-<channel>
-<name>[COLOR yellow][/COLOR][COLOR lime] [/COLOR] </name>
-<thumbnail>http://imgur.com/cLwnC8w.png</thumbnail>
-<externallink>https://nada.com</externallink>
-<fanart>https://ia601403.us.archive.org/25/items/fanart_20190909_1728/fanart.jpg</fanart>
-<info>[COLOR deeppink]|[/COLOR]- FILMES POR TORRENT E GDRIVE -[COLOR deeppink]|[/COLOR]</info>
-</channel>
-</channels>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-
-<channels>
-<channel>
-<name>[COLOR yellow]FILMES[/COLOR][COLOR lime] PORTUGUESES[/COLOR]</name>
-<thumbnail>https://i.imgur.com/H3DXHjm.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/addonbocas/bocas/master/FILMES%20PT%20CLASSICOS</externallink>
-<fanart>https://ia601403.us.archive.org/25/items/fanart_20190909_1728/fanart.jpg</fanart>
-<info>[COLOR lime]FILMES[/COLOR] PORTUGUESES</info>
-</channel>
-</channels>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
 
 <channels>
 <channel>
@@ -57,6 +32,35 @@
 <info>[COLOR deeppink]SITES PARA VER FILMES, SERIES, ANIMES[/COLOR]</info>
 </channel>
 </channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<           <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<           <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
+<name>[COLOR yellow][/COLOR][COLOR lime] [/COLOR] </name>
+<thumbnail>http://imgur.com/cLwnC8w.png</thumbnail>
+<externallink>https://nada.com</externallink>
+<fanart>https://ia601403.us.archive.org/25/items/fanart_20190909_1728/fanart.jpg</fanart>
+<info>[COLOR deeppink]|[/COLOR]- FILMES POR TORRENT E GDRIVE -[COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<           <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<           <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+
+<channels>
+<channel>
+<name>[COLOR yellow]FILMES[/COLOR][COLOR lime] PORTUGUESES[/COLOR]</name>
+<thumbnail>https://i.imgur.com/H3DXHjm.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/addonbocas/bocas/master/FILMES%20PT%20CLASSICOS</externallink>
+<fanart>https://ia601403.us.archive.org/25/items/fanart_20190909_1728/fanart.jpg</fanart>
+<info>[COLOR lime]FILMES[/COLOR] PORTUGUESES</info>
+</channel>
+</channels>
+
+
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
