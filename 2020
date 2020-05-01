@@ -155,7 +155,8 @@
 
 <item>
 <title>[COLOR lawngreen][B]Sonic: The Hedgehog[/B][/COLOR] 2020</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0e9d573dd97617bb97870db95faee8ef9ed338e0&amp$$lsname=[COLOR deepskyblue]AUDIO ORIGINAL[/COLOR] torrent 1080p</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:538d22e8112e795c3a8ab723a9a47f7f984b4f6d&amp$$lsname=[COLOR deepskyblue]AUDIO ORIGINAL BLURAY[/COLOR] torrent 1080p</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0e9d573dd97617bb97870db95faee8ef9ed338e0&amp$$lsname=[COLOR deepskyblue]AUDIO ORIGINAL WEBRIP[/COLOR] torrent 1080p</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3f942480bd9e92305aec7ba62f645f6154de7a3f&amp$$lsname=[COLOR lime]AUDIO DUBLADO[/COLOR] torrent 720p</link>
 <link>plugin://plugin.video.youtube/play/?video_id=szby7ZHLnkA$$lsname=[COLOR blue]Trailer[/COLOR]</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Sonic_the_Hedgehog_poster.jpg/220px-Sonic_the_Hedgehog_poster.jpg</thumbnail>
