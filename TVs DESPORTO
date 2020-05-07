@@ -34,6 +34,21 @@
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
+
+
+<channels>
+<channel>
+<name>[COLOR orange]DESPORTO E GENERALISTAS PT [/COLOR] dure o que durar 2 (setembro)</name>
+<thumbnail>http://imgur.com/cgHWHQX.png</thumbnail>
+<externallink>https://pastebin.com/raw/dWm0XeZc</externallink>
+<fanart>http://imgur.com/cgHWHQX.png</fanart>
+<info>[COLOR lime]CANAIS IPTV[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+
 <channels>
 <channel>
 <name>[COLOR lime]SPORTVs[/COLOR] (WEB)</name>
@@ -45,27 +60,6 @@
 </channels>
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-
-
-<channels>
-<channel>
-<name>[COLOR lime]CANAIS DESPORTIVOS[/COLOR] https://iptv-org.github.io/iptv/categories/sport.m3u</name>
-<thumbnail>http://imgur.com/cgHWHQX.png</thumbnail>
-<externallink>https://iptv-org.github.io/iptv/categories/sport.m3u</externallink>
-<fanart>http://imgur.com/cgHWHQX.png</fanart>
-<info>[COLOR lime]CANAIS WEB[/COLOR]</info>
-</channel>
-</channels>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-
-
-
-
-
-
 
 
 
