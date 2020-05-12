@@ -19,17 +19,6 @@
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 <item>
-<title>[COLOR lime]Portugaldownloads OFFLINE[/COLOR] https://portugaldownload.biz (infantil)</title>
-<link>ignore</link>
-<thumbnail>https://i.pinimg.com/originals/38/bd/c2/38bdc27dc60befce3f55c16ae38286f8.jpg</thumbnail>
-<fanart>https://i.pinimg.com/originals/38/bd/c2/38bdc27dc60befce3f55c16ae38286f8.jpg</fanart>
-<jsonrpc>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://portugaldownload.biz</jsonrpc>
-</item>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-<item>
 <title>[COLOR lime]tugakids[/COLOR] https://tugakids.site (EX Portugaldownloads)</title>
 <link>ignore</link>
 <thumbnail>https://i.pinimg.com/originals/38/bd/c2/38bdc27dc60befce3f55c16ae38286f8.jpg</thumbnail>
@@ -162,6 +151,16 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 <link>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;url=https://rarbgprx.org/torrents.php&amp;mode=showSite&amp;stopPlayback=yes</link>
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<item>
+<title>[COLOR yellow]YTS[/COLOR] - [COLOR orange]Site para download por torrents[/COLOR] https://yts.mx</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;url=https://yts.mx&amp;mode=showSite&amp;stopPlayback=yes</link>
 </item>
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
