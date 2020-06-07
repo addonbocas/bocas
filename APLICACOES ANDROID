@@ -11,6 +11,28 @@
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 <item>
+<title>[COLOR lime]APTOIDE[/COLOR] TV</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://tv.aptoide.com</jsonrpc>
+<thumbnail>https://www.leak.pt/wp-content/uploads/2020/04/aptoide.jpg</thumbnail>
+<fanart>https://www.leak.pt/wp-content/uploads/2020/04/aptoide.jpg</fanart>
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<item>
+<title>[COLOR lime]APTOIDE[/COLOR] Android comum</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://pt.aptoide.com</jsonrpc>
+<thumbnail>https://www.leak.pt/wp-content/uploads/2020/04/aptoide.jpg</thumbnail>
+<fanart>https://www.leak.pt/wp-content/uploads/2020/04/aptoide.jpg</fanart>
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<item>
 <title>[COLOR lime]ARENA4VIEWER[/COLOR] Desporto</title>
 <link>ignore</link>
 <thumbnail>https://image.shutterstock.com/image-vector/pirate-emoji-vector-smiley-caribbean-260nw-1039764316.jpg</thumbnail>
