@@ -1,5 +1,5 @@
 <item>
-<title>[COLOR orange]VPNs GRATIS[/COLOR]</title>
+<title>[COLOR orange]*                              VPNs GRATIS[/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=</jsonrpc>
 <thumbnail>https://img.android.com.pl/images/user-images/2020/02/co-to-jest-vpn-.jpg</thumbnail>
@@ -38,7 +38,7 @@
 
 
 <item>
-<title>[COLOR orange]VPNs PAGAS[/COLOR]</title>
+<title>[COLOR orange]*                              VPNs PAGAS[/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=</jsonrpc>
 <thumbnail>https://img.android.com.pl/images/user-images/2020/02/co-to-jest-vpn-.jpg</thumbnail>
