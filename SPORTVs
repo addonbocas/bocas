@@ -1,22 +1,85 @@
-#EXTM3U
+<item>
+<title>[COLOR lime]SPORT TV 1 [/COLOR] Web</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://is.gd/tkxxsa</jsonrpc>
+<thumbnail>https://media-manager.noticiasaominuto.com/1920/1487956527/naom_578e7ff37feb1.jpg</thumbnail>
+<fanart></fanart>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
-#EXTINF:-1,SPORT | SPORT TV 1 
-plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://is.gd/tkxxsa
-#EXTINF:-1,SPORT | SPORT TV 1 
-plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://is.gd/78VADe
-#EXTINF:-1,SPORT | SPORT TV 1
-plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://is.gd/RHm8aW
-#EXTINF:-1,SPORT | SPORT TV 1
-plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://is.gd/RmN2DV
+<item>
+<title>[COLOR lime]SPORT TV 1 [/COLOR] Web</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://is.gd/78VADe</jsonrpc>
+<thumbnail>https://media-manager.noticiasaominuto.com/1920/1487956527/naom_578e7ff37feb1.jpg</thumbnail>
+<fanart></fanart>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
-#EXTINF:-1,SPORT | SPORT TV 1
-plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://wowtv.info/ucast3.html
-#EXTINF:-1,SPORT | SPORT TV 1
-plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://wowtv.info/tv6.html
-#EXTINF:-1,SPORT | SPORT TV 1 
-plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://onlyfoot.net/ucast3.html
-#EXTINF:-1,SPORT | SPORT TV 1 
-plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://onlyfoot.net/ch26sport.html
+<item>
+<title>[COLOR lime]SPORT TV 1 [/COLOR] Web</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://is.gd/RHm8aW</jsonrpc>
+<thumbnail>https://media-manager.noticiasaominuto.com/1920/1487956527/naom_578e7ff37feb1.jpg</thumbnail>
+<fanart></fanart>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<item>
+<title>[COLOR lime]SPORT TV 1 [/COLOR] Web</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://is.gd/RmN2DV</jsonrpc>
+<thumbnail>https://media-manager.noticiasaominuto.com/1920/1487956527/naom_578e7ff37feb1.jpg</thumbnail>
+<fanart></fanart>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<item>
+<title>[COLOR yellow]SPORT TV 1 [/COLOR] Web</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://wowtv.info/ucast3.html</jsonrpc>
+<thumbnail>https://media-manager.noticiasaominuto.com/1920/1487956527/naom_578e7ff37feb1.jpg</thumbnail>
+<fanart></fanart>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<item>
+<title>[COLOR yellow]SPORT TV 1 [/COLOR] Web</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://wowtv.info/tv6.html</jsonrpc>
+<thumbnail>https://media-manager.noticiasaominuto.com/1920/1487956527/naom_578e7ff37feb1.jpg</thumbnail>
+<fanart></fanart>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<item>
+<title>[COLOR yellow]SPORT TV 1 [/COLOR] Web</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://onlyfoot.net/ucast3.html</jsonrpc>
+<thumbnail>https://media-manager.noticiasaominuto.com/1920/1487956527/naom_578e7ff37feb1.jpg</thumbnail>
+<fanart></fanart>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<item>
+<title>[COLOR yellow]SPORT TV 1 [/COLOR] Web</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://onlyfoot.net/ch26sport.html</jsonrpc>
+<thumbnail>https://media-manager.noticiasaominuto.com/1920/1487956527/naom_578e7ff37feb1.jpg</thumbnail>
+<fanart></fanart>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+
+
 
 
 
