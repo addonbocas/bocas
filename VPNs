@@ -19,7 +19,7 @@
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 <item>
-<title>[COLOR yellow]URBAN VPN[/COLOR]</title>
+<title>[COLOR lime]URBAN VPN[/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://www.urban-vpn.com</jsonrpc>
 <thumbnail>https://img.android.com.pl/images/user-images/2020/02/co-to-jest-vpn-.jpg</thumbnail>
