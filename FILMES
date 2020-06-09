@@ -64,6 +64,30 @@
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
+<channels>
+<channel>
+<name>[COLOR orange]FILMES BY MILHANO[/COLOR][COLOR lime] PT e BR[/COLOR]</name>
+<thumbnail>https://imgur.com/Fsff8js.png</thumbnail>
+<externallink>https://pastebin.com/raw/3p7QLpix</externallink>
+<fanart>https://ia601403.us.archive.org/25/items/fanart_20190909_1728/fanart.jpg</fanart>
+<info>[COLOR deeppink]|[/COLOR]CREDITOS A MILHANO[COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
+<name>[COLOR orange]SERIES BY MILHANO[/COLOR][COLOR lime] PT e BR[/COLOR]</name>
+<thumbnail>https://imgur.com/Fsff8js.png</thumbnail>
+<externallink>https://pastebin.com/raw/m8b985n1</externallink>
+<fanart>https://ia601403.us.archive.org/25/items/fanart_20190909_1728/fanart.jpg</fanart>
+<info>[COLOR deeppink]|[/COLOR]CREDITOS A MILHANO[COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
 
 <channels>
 <channel>
@@ -109,7 +133,7 @@
 <thumbnail>https://imgur.com/jdNG7kn.png</thumbnail>
 <externallink>https://iptv-org.github.io/iptv/categories/xxx.m3u</externallink>
 <fanart>https://ia601403.us.archive.org/25/items/fanart_20190909_1728/fanart.jpg</fanart>
-<info>[COLOR lime]CREDITOS PARA LHMTV[/COLOR]</info>
+<info>[COLOR lime][/COLOR]</info>
 </channel>
 </channels>
 
