@@ -62,7 +62,7 @@
 
 <channels>
 <channel>
-<name>[COLOR orange]*                        LISTAS DJ Lhmtv[/COLOR][COLOR lime] PT-BR[/COLOR] </name>
+<name>[COLOR orange]*                        LISTAS DJ LHMTV[/COLOR][COLOR lime] PT-BR[/COLOR] </name>
 <thumbnail>https://imgur.com/Fsff8js.png</thumbnail>
 <externallink>https://nada.com</externallink>
 <fanart>https://ia601403.us.archive.org/25/items/fanart_20190909_1728/fanart.jpg</fanart>
@@ -75,9 +75,9 @@
 
 <channels>
 <channel>
-<name>[COLOR yellow]FILMES LHMTV[/COLOR][COLOR lime] PT-BR[/COLOR] djfilmes1</name>
+<name>[COLOR yellow]DJ ADULTOS[/COLOR][COLOR lime] PT-BR[/COLOR] DEf</name>
 <thumbnail>https://imgur.com/Fsff8js.png</thumbnail>
-<externallink>http://lhmtv.ga/djfilmes1</externallink>
+<externallink>http://lhmtv.ga/DEf</externallink>
 <fanart>https://ia601403.us.archive.org/25/items/fanart_20190909_1728/fanart.jpg</fanart>
 <info>[COLOR lime]CREDITOS PARA[/COLOR] LHMTV</info>
 </channel>
@@ -87,9 +87,9 @@
 
 <channels>
 <channel>
-<name>[COLOR yellow]FILMES LHMTV[/COLOR][COLOR lime] PT-BR[/COLOR] djfilmes2</name>
+<name>[COLOR yellow]DJ TV[/COLOR][COLOR lime] PT-BR[/COLOR] M1d</name>
 <thumbnail>https://imgur.com/Fsff8js.png</thumbnail>
-<externallink>http://lhmtv.ga/djfilmes2</externallink>
+<externallink>http://lhmtv.ga/M1d</externallink>
 <fanart>https://ia601403.us.archive.org/25/items/fanart_20190909_1728/fanart.jpg</fanart>
 <info>[COLOR lime]CREDITOS PARA[/COLOR] LHMTV</info>
 </channel>
@@ -99,9 +99,57 @@
 
 <channels>
 <channel>
-<name>[COLOR yellow]ADULTO LHMTV[/COLOR][COLOR lime] PT-BR[/COLOR] djxxx</name>
+<name>[COLOR yellow]DJ FILMES[/COLOR][COLOR lime] PT-BR[/COLOR] VK8</name>
 <thumbnail>https://imgur.com/Fsff8js.png</thumbnail>
-<externallink>http://lhmtv.ga/djxxx</externallink>
+<externallink>http://lhmtv.ga/VK8</externallink>
+<fanart>https://ia601403.us.archive.org/25/items/fanart_20190909_1728/fanart.jpg</fanart>
+<info>[COLOR lime]CREDITOS PARA[/COLOR] LHMTV</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
+<name>[COLOR yellow]DJ SERIES[/COLOR][COLOR lime] PT-BR[/COLOR] XzP</name>
+<thumbnail>https://imgur.com/Fsff8js.png</thumbnail>
+<externallink>http://lhmtv.ga/XzP</externallink>
+<fanart>https://ia601403.us.archive.org/25/items/fanart_20190909_1728/fanart.jpg</fanart>
+<info>[COLOR lime]CREDITOS PARA[/COLOR] LHMTV</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
+<name>[COLOR yellow]DJ DESPORTO[/COLOR][COLOR lime] PT-BR[/COLOR] FVt</name>
+<thumbnail>https://imgur.com/Fsff8js.png</thumbnail>
+<externallink>http://lhmtv.ga/FVt</externallink>
+<fanart>https://ia601403.us.archive.org/25/items/fanart_20190909_1728/fanart.jpg</fanart>
+<info>[COLOR lime]CREDITOS PARA[/COLOR] LHMTV</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
+<name>[COLOR yellow]DJ TV[/COLOR][COLOR lime] PT-BR[/COLOR] M1d</name>
+<thumbnail>https://imgur.com/Fsff8js.png</thumbnail>
+<externallink>http://lhmtv.ga/M1d</externallink>
+<fanart>https://ia601403.us.archive.org/25/items/fanart_20190909_1728/fanart.jpg</fanart>
+<info>[COLOR lime]CREDITOS PARA[/COLOR] LHMTV</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
+<name>[COLOR yellow]DJ Kids[/COLOR][COLOR lime] PT-BR[/COLOR] wdR</name>
+<thumbnail>https://imgur.com/Fsff8js.png</thumbnail>
+<externallink>http://lhmtv.ga/wdR</externallink>
 <fanart>https://ia601403.us.archive.org/25/items/fanart_20190909_1728/fanart.jpg</fanart>
 <info>[COLOR lime]CREDITOS PARA LHMTV[/COLOR]</info>
 </channel>
@@ -111,15 +159,28 @@
 
 <channels>
 <channel>
-<name>[COLOR yellow]CANAIS LHMTV[/COLOR][COLOR lime] PT-BR[/COLOR] djsom</name>
+<name>[COLOR yellow]DJ RADIOS[/COLOR][COLOR lime] PT-BR[/COLOR] GDd</name>
 <thumbnail>https://imgur.com/Fsff8js.png</thumbnail>
-<externallink>http://lhmtv.ga/djsom</externallink>
+<externallink>http://lhmtv.ga/GDd</externallink>
+<fanart>https://ia601403.us.archive.org/25/items/fanart_20190909_1728/fanart.jpg</fanart>
+<info>[COLOR lime]CREDITOS PARA[/COLOR] LHMTV</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
+<name>[COLOR yellow]DJ DESENHOS24H[/COLOR][COLOR lime] PT-BR[/COLOR] qwr</name>
+<thumbnail>https://imgur.com/Fsff8js.png</thumbnail>
+<externallink>http://lhmtv.ga/qwr</externallink>
 <fanart>https://ia601403.us.archive.org/25/items/fanart_20190909_1728/fanart.jpg</fanart>
 <info>[COLOR lime]CREDITOS PARA LHMTV[/COLOR]</info>
 </channel>
 </channels>
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
 
 
 
@@ -136,7 +197,7 @@
 
 <channels>
 <channel>
-<name>[COLOR orange]*                        LISTAS Milhano[/COLOR][COLOR lime] [/COLOR] </name>
+<name>[COLOR orange]*                        LISTAS MILHANO[/COLOR][COLOR lime] [/COLOR] </name>
 <thumbnail>https://imgur.com/Fsff8js.png</thumbnail>
 <externallink>https://nada.com</externallink>
 <fanart>https://ia601403.us.archive.org/25/items/fanart_20190909_1728/fanart.jpg</fanart>
