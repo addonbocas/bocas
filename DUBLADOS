@@ -367,6 +367,18 @@
 
 <channels>
 <channel>
+<name>[COLOR yellow]ADULT[/COLOR][COLOR lime] CANAIS[/COLOR] iptv-org</name>
+<thumbnail>https://imgur.com/jdNG7kn.png</thumbnail>
+<externallink>https://iptv-org.github.io/iptv/categories/xxx.m3u</externallink>
+<fanart>https://ia601403.us.archive.org/25/items/fanart_20190909_1728/fanart.jpg</fanart>
+<info>[COLOR lime][/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
 <name>[COLOR lime]FILMES, SERIES[/COLOR][COLOR yellow] PT-BR[/COLOR] teste torrents</name>
 <thumbnail>https://imgur.com/Fsff8js.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/addonbocas/bocas/master/filmes%20e%20series%20dublados</externallink>
