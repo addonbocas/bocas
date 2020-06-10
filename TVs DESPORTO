@@ -24,6 +24,18 @@
 
 <channels>
 <channel>
+<name>[COLOR red]SPORTVs[/COLOR] (WEB)</name>
+<thumbnail>http://imgur.com/cgHWHQX.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/addonbocas/bocas/master/SPORTVs</externallink>
+<fanart>http://imgur.com/cgHWHQX.png</fanart>
+<info>[COLOR lime]CANAIS WEB[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
 <name>[COLOR red]SITES DESPORTIVOS [/COLOR] Web</name>
 <thumbnail>https://imgur.com/mTdPChs.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/addonbocas/bocas/master/CHROME%20LAUNCHER%20DESPORTO</externallink>
@@ -38,7 +50,7 @@
 
 <channels>
 <channel>
-<name>[COLOR orange]DESPORTO E GENERALISTAS PT [/COLOR] dure o que durar 2 (OFF)</name>
+<name>[COLOR yellow]DESPORTO E GENERALISTAS PT [/COLOR] dure o que durar 2 (OFF)</name>
 <thumbnail>http://imgur.com/cgHWHQX.png</thumbnail>
 <externallink>https://pastebin.com/raw/dWm0XeZc</externallink>
 <fanart>http://imgur.com/cgHWHQX.png</fanart>
@@ -49,17 +61,7 @@
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 
-<channels>
-<channel>
-<name>[COLOR lime]SPORTVs[/COLOR] (WEB)</name>
-<thumbnail>http://imgur.com/cgHWHQX.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/addonbocas/bocas/master/SPORTVs</externallink>
-<fanart>http://imgur.com/cgHWHQX.png</fanart>
-<info>[COLOR lime]CANAIS WEB[/COLOR]</info>
-</channel>
-</channels>
 
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 
 
