@@ -75,7 +75,7 @@
 
 <channels>
 <channel>
-<name>[COLOR yellow]FILMES LHMTV[/COLOR][COLOR lime] BR[/COLOR] http://lhmtv.ga/djfilmes1</name>
+<name>[COLOR yellow]FILMES LHMTV[/COLOR][COLOR lime] PT-BR[/COLOR] djfilmes1</name>
 <thumbnail>https://imgur.com/H2ylCnA.png</thumbnail>
 <externallink>http://lhmtv.ga/djfilmes1</externallink>
 <fanart>https://ia601403.us.archive.org/25/items/fanart_20190909_1728/fanart.jpg</fanart>
@@ -87,7 +87,7 @@
 
 <channels>
 <channel>
-<name>[COLOR yellow]FILMES LHMTV[/COLOR][COLOR lime] BR[/COLOR] http://lhmtv.ga/djfilmes2</name>
+<name>[COLOR yellow]FILMES LHMTV[/COLOR][COLOR lime] PT-BR[/COLOR] djfilmes2</name>
 <thumbnail>https://imgur.com/H2ylCnA.png</thumbnail>
 <externallink>http://lhmtv.ga/djfilmes2</externallink>
 <fanart>https://ia601403.us.archive.org/25/items/fanart_20190909_1728/fanart.jpg</fanart>
@@ -99,7 +99,7 @@
 
 <channels>
 <channel>
-<name>[COLOR yellow]ADULTO LHMTV[/COLOR][COLOR lime] BR[/COLOR] http://lhmtv.ga/djxxx</name>
+<name>[COLOR yellow]ADULTO LHMTV[/COLOR][COLOR lime] PT-BR[/COLOR] djxxx</name>
 <thumbnail>https://imgur.com/jdNG7kn.png</thumbnail>
 <externallink>http://lhmtv.ga/djxxx</externallink>
 <fanart>https://ia601403.us.archive.org/25/items/fanart_20190909_1728/fanart.jpg</fanart>
@@ -111,7 +111,7 @@
 
 <channels>
 <channel>
-<name>[COLOR yellow]CANAIS LHMTV[/COLOR][COLOR lime] BR[/COLOR] http://lhmtv.ga/djsom</name>
+<name>[COLOR yellow]CANAIS LHMTV[/COLOR][COLOR lime] PT-BR[/COLOR] djsom</name>
 <thumbnail>https://imgur.com/jdNG7kn.png</thumbnail>
 <externallink>http://lhmtv.ga/djsom</externallink>
 <fanart>https://ia601403.us.archive.org/25/items/fanart_20190909_1728/fanart.jpg</fanart>
@@ -187,7 +187,7 @@
 
 <channels>
 <channel>
-<name>[COLOR orange]*                        LISTAS GuiadoLuiz[/COLOR][COLOR lime] [/COLOR] </name>
+<name>[COLOR orange]*                        LISTAS GuiadoLuiz[/COLOR][COLOR lime] PT-BR[/COLOR] </name>
 <thumbnail>http://imgur.com/cLwnC8w.png</thumbnail>
 <externallink>https://nada.com</externallink>
 <fanart>https://ia601403.us.archive.org/25/items/fanart_20190909_1728/fanart.jpg</fanart>
@@ -201,7 +201,7 @@
 
 <channels>
 <channel>
-<name>[COLOR yellow]FILMES GuiadoLuiz[/COLOR][COLOR lime] BR[/COLOR] Box1</name>
+<name>[COLOR yellow]FILMES GuiadoLuiz[/COLOR][COLOR lime] PT-BR[/COLOR] Box1</name>
 <thumbnail>https://imgur.com/H2ylCnA.png</thumbnail>
 <externallink>http://bit.ly/GuiadoLuizBox1</externallink>
 <fanart>https://ia601403.us.archive.org/25/items/fanart_20190909_1728/fanart.jpg</fanart>
@@ -214,7 +214,7 @@
 
 <channels>
 <channel>
-<name>[COLOR yellow]FILMES GuiadoLuiz[/COLOR][COLOR lime] BR[/COLOR] LC1</name>
+<name>[COLOR yellow]FILMES GuiadoLuiz[/COLOR][COLOR lime] PT-BR[/COLOR] LC1</name>
 <thumbnail>https://imgur.com/H2ylCnA.png</thumbnail>
 <externallink>http://bit.ly/GuiadoLuizLC1</externallink>
 <fanart>https://ia601403.us.archive.org/25/items/fanart_20190909_1728/fanart.jpg</fanart>
@@ -226,7 +226,7 @@
 
 <channels>
 <channel>
-<name>[COLOR yellow]SERIES GuiadoLuiz[/COLOR][COLOR lime] BR[/COLOR] series1</name>
+<name>[COLOR yellow]SERIES GuiadoLuiz[/COLOR][COLOR lime] PT-BR[/COLOR] series1</name>
 <thumbnail>https://imgur.com/QjxIHO9.png</thumbnail>
 <externallink>http://bit.ly/GuiadoLuizseries1</externallink>
 <fanart>https://ia601403.us.archive.org/25/items/fanart_20190909_1728/fanart.jpg</fanart>
@@ -238,7 +238,7 @@
 
 <channels>
 <channel>
-<name>[COLOR yellow]SERIES GuiadoLuiz[/COLOR][COLOR lime] BR[/COLOR] series2</name>
+<name>[COLOR yellow]SERIES GuiadoLuiz[/COLOR][COLOR lime] PT-BR[/COLOR] series2</name>
 <thumbnail>https://imgur.com/QjxIHO9.png</thumbnail>
 <externallink>http://bit.ly/GuiadoLuizseries2</externallink>
 <fanart>https://ia601403.us.archive.org/25/items/fanart_20190909_1728/fanart.jpg</fanart>
@@ -250,7 +250,7 @@
 
 <channels>
 <channel>
-<name>[COLOR yellow]NOVELAS GuiadoLuiz[/COLOR][COLOR lime] BR[/COLOR] Novelas1</name>
+<name>[COLOR yellow]NOVELAS GuiadoLuiz[/COLOR][COLOR lime] PT-BR[/COLOR] Novelas1</name>
 <thumbnail>https://imgur.com/hHnZb4P.png</thumbnail>
 <externallink>http://bit.ly/GuiadoLuizNovelas1</externallink>
 <fanart>https://ia601403.us.archive.org/25/items/fanart_20190909_1728/fanart.jpg</fanart>
@@ -262,7 +262,7 @@
 
 <channels>
 <channel>
-<name>[COLOR yellow]DESENHOS ANIMADOS GuiadoLuiz[/COLOR][COLOR lime] BR[/COLOR] Box2</name>
+<name>[COLOR yellow]DESENHOS ANIMADOS GuiadoLuiz[/COLOR][COLOR lime] PT-BR[/COLOR] Box2</name>
 <thumbnail>https://imgur.com/jdNG7kn.png</thumbnail>
 <externallink>http://bit.ly/GuiadoLuizBox2</externallink>
 <fanart>https://ia601403.us.archive.org/25/items/fanart_20190909_1728/fanart.jpg</fanart>
@@ -281,7 +281,7 @@
 
 <channels>
 <channel>
-<name>[COLOR orange]*                        LISTAS [/COLOR][COLOR lime] OUTRAS[/COLOR] </name>
+<name>[COLOR orange]*                        OUTRAS[/COLOR][COLOR lime] LISTAS[/COLOR] </name>
 <thumbnail>http://imgur.com/cLwnC8w.png</thumbnail>
 <externallink>https://nada.com</externallink>
 <fanart>https://ia601403.us.archive.org/25/items/fanart_20190909_1728/fanart.jpg</fanart>
@@ -295,7 +295,7 @@
 
 <channels>
 <channel>
-<name>[COLOR yellow]FILMES[/COLOR][COLOR lime] BR[/COLOR] TONYWARLLEY</name>
+<name>[COLOR yellow]FILMES[/COLOR][COLOR lime] PT-BR[/COLOR] TONYWARLLEY</name>
 <thumbnail>https://imgur.com/H2ylCnA.png</thumbnail>
 <externallink>https://pastebin.com/raw/7h6d2Rsw</externallink>
 <fanart>https://ia601403.us.archive.org/25/items/fanart_20190909_1728/fanart.jpg</fanart>
@@ -306,7 +306,7 @@
 
 <channels>
 <channel>
-<name>[COLOR yellow]FILMES [/COLOR][COLOR lime] BR[/COLOR] KallPlay</name>
+<name>[COLOR yellow]FILMES [/COLOR][COLOR lime] PT-BR[/COLOR] KallPlay</name>
 <thumbnail>https://imgur.com/H2ylCnA.png</thumbnail>
 <externallink>https://pastebin.com/raw/jX1SD9Gg</externallink>
 <fanart>https://ia601403.us.archive.org/25/items/fanart_20190909_1728/fanart.jpg</fanart>
@@ -318,7 +318,7 @@
 
 <channels>
 <channel>
-<name>[COLOR yellow]SERIES [/COLOR][COLOR lime] BR[/COLOR] KallPlay</name>
+<name>[COLOR yellow]SERIES [/COLOR][COLOR lime] PT-BR[/COLOR] KallPlay</name>
 <thumbnail>https://imgur.com/QjxIHO9.png</thumbnail>
 <externallink>https://pastebin.com/raw/Bac0hzDf</externallink>
 <fanart>https://ia601403.us.archive.org/25/items/fanart_20190909_1728/fanart.jpg</fanart>
@@ -331,7 +331,7 @@
 
 <channels>
 <channel>
-<name>[COLOR yellow]FILMES [/COLOR][COLOR lime] BR[/COLOR] Kodish2</name>
+<name>[COLOR yellow]FILMES [/COLOR][COLOR lime] PT-BR[/COLOR] Kodish2</name>
 <thumbnail>https://imgur.com/H2ylCnA.png</thumbnail>
 <externallink>https://pastebin.com/raw/p3JArBkJ</externallink>
 <fanart>https://ia601403.us.archive.org/25/items/fanart_20190909_1728/fanart.jpg</fanart>
@@ -343,7 +343,7 @@
 
 <channels>
 <channel>
-<name>[COLOR yellow]NOVELAS[/COLOR][COLOR lime] BR[/COLOR] YouTube</name>
+<name>[COLOR yellow]NOVELAS[/COLOR][COLOR lime] PT-BR[/COLOR] YouTube</name>
 <thumbnail>https://imgur.com/hHnZb4P.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/addonbocas/bocas/master/NOVELAS</externallink>
 <fanart>https://ia601403.us.archive.org/25/items/fanart_20190909_1728/fanart.jpg</fanart>
@@ -367,7 +367,7 @@
 
 <channels>
 <channel>
-<name>[COLOR lime]FILMES, SERIES[/COLOR][COLOR yellow] BR[/COLOR] teste torrents</name>
+<name>[COLOR lime]FILMES, SERIES[/COLOR][COLOR yellow] PT-BR[/COLOR] teste torrents</name>
 <thumbnail>https://imgur.com/jdNG7kn.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/addonbocas/bocas/master/filmes%20e%20series%20dublados</externallink>
 <fanart>https://ia601403.us.archive.org/25/items/fanart_20190909_1728/fanart.jpg</fanart>
