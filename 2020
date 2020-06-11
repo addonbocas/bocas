@@ -1,3 +1,13 @@
+
+<item>
+<title>[COLOR lawngreen][B]TESTE YOUTUBE[/B][/COLOR] FILME</title>
+<link>https://www.youtube.com/embed/dBgftmZkQRg?rel=0&showinfo=0</link>
+<link>plugin://plugin.video.youtube/play/?video_id=dBgftmZkQRg$$lsname=[COLOR blue]Trailer[/COLOR]</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
 <item>
 <title>[COLOR lawngreen][B]The Wrong Missy[/B][/COLOR] 2020</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bb972cd5d59606a30be8ca4acf7f6d60cfa15a5b&amp$$lsname=[COLOR deepskyblue]AUDIO ORIGINAL[/COLOR] torrent 1080p</link>
