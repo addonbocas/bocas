@@ -10,9 +10,20 @@
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 <item>
-<title>[COLOR orange]CDBurnerXP[/COLOR] </title>
+<title>[COLOR orange]burnaware[/COLOR] </title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://www.burnaware.com/download.html</jsonrpc>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<item>
+<title>[COLOR orange]CDBurnerXP[/COLOR] </title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://cdburnerxp.se/download?more-options</jsonrpc>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
@@ -23,7 +34,7 @@
 <item>
 <title>[COLOR orange]ImgBurn[/COLOR] </title>
 <link>ignore</link>
-<jsonrpc>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://www.burnaware.com/download.html</jsonrpc>
+<jsonrpc>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=http://www.imgburn.com/index.php?act=download</jsonrpc>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
@@ -34,7 +45,7 @@
 <item>
 <title>[COLOR orange]DVD Flick[/COLOR] </title>
 <link>ignore</link>
-<jsonrpc>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://www.burnaware.com/download.html</jsonrpc>
+<jsonrpc>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://sourceforge.net/projects/dvdflick/files/latest/download</jsonrpc>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
@@ -45,7 +56,7 @@
 <item>
 <title>[COLOR orange]Free Any Burn[/COLOR] </title>
 <link>ignore</link>
-<jsonrpc>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://www.burnaware.com/download.html</jsonrpc>
+<jsonrpc>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=http://www.anyburn.com/freeanyburn_setup.exe</jsonrpc>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
@@ -56,7 +67,7 @@
 <item>
 <title>[COLOR orange]InfraRecorder[/COLOR] </title>
 <link>ignore</link>
-<jsonrpc>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://www.burnaware.com/download.html</jsonrpc>
+<jsonrpc>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://www.fosshub.com/InfraRecorder.html</jsonrpc>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
@@ -67,7 +78,7 @@
 <item>
 <title>[COLOR orange]StarBurn Free[/COLOR] </title>
 <link>ignore</link>
-<jsonrpc>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://www.burnaware.com/download.html</jsonrpc>
+<jsonrpc>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=http://www.starburnsoftware.com/products/downloads/StarBurnSetup.exe</jsonrpc>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
@@ -78,7 +89,7 @@
 <item>
 <title>[COLOR orange]TrueBurner[/COLOR] </title>
 <link>ignore</link>
-<jsonrpc>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://www.burnaware.com/download.html</jsonrpc>
+<jsonrpc>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://www.glorylogic.com/download.html</jsonrpc>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
@@ -96,11 +107,28 @@
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 <item>
-<title>[COLOR orange]nada[/COLOR] </title>
+<title>[COLOR lime]*                    PROGRAMAS ESSENCIAIS[/COLOR] GRATUITOS</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://www.burnaware.com/download.html</jsonrpc>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<item>
+<title>[COLOR yellow]RAR[/COLOR] </title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://www.win-rar.com/start.html?&L=0</jsonrpc>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
