@@ -88,7 +88,19 @@
 <thumbnail>https://imgur.com/ImDbZEx.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/addonbocas/bocas/master/APLICACOES%20ANDROID</externallink>
 <fanart>https://imgur.com/ImDbZEx.png</fanart>
-<info>[COLOR deeppink]|[/COLOR]- ANIMAÇÃO PARA TODOS -[COLOR deeppink]|[/COLOR]</info>
+<info>[COLOR deeppink]|[/COLOR]- APLICAÇÕES PARA ANDROID -[COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
+<name>[COLOR red]APLICAÇÕES WINDOWS[/COLOR]</name>
+<thumbnail>https://pplware.sapo.pt/wp-content/uploads/2016/04/store_00.jpg</thumbnail>
+<fanart>https://pplware.sapo.pt/wp-content/uploads/2016/04/store_00.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/addonbocas/bocas/master/APLICACOES%20WINDOWS</externallink>
+<info>[COLOR deeppink]|[/COLOR]- APLICAÇÕES PARA WINDOWS -[COLOR deeppink]|[/COLOR]</info>
 </channel>
 </channels>
 
