@@ -37,33 +37,34 @@
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 <item>
-<title>[COLOR orange]-                  SITE PARA VER TV PT[/COLOR] tvsporttvdez (clicar aqui)</title>
+<title>[COLOR orange]-                  SITE PARA VER TV PT[/COLOR] OP1 (clicar aqui)</title>
 <link>ignore</link>
-<thumbnail>https://image.winudf.com/v2/image1/YnIuY29tLmFzc2lzdGlydHYuZ29scGxheWVyX3NjcmVlbl8wXzE1NTQwMDUzMTRfMDA1/screen-0.jpg?fakeurl=1&type=.jpg</thumbnail>
-<fanart></fanart>
-<jsonrpc>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=http://www.tvsporttvdez.com</jsonrpc>
-</item>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-<item>
-<title>[COLOR orange]-                  SITE PARA VER TV PT[/COLOR] tvdomanel (clicar aqui)</title>
-<link>ignore</link>
-<thumbnail>https://image.winudf.com/v2/image1/YnIuY29tLmFzc2lzdGlydHYuZ29scGxheWVyX3NjcmVlbl8wXzE1NTQwMDUzMTRfMDA1/screen-0.jpg?fakeurl=1&type=.jpg</thumbnail>
-<fanart></fanart>
 <jsonrpc>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=http://tvdomanel.blogspot.com</jsonrpc>
-</item>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-<item>
-<title>[COLOR orange]-                  SITE PARA VER TV BR[/COLOR] (clicar aqui)</title>
-<link>ignore</link>
 <thumbnail>https://image.winudf.com/v2/image1/YnIuY29tLmFzc2lzdGlydHYuZ29scGxheWVyX3NjcmVlbl8wXzE1NTQwMDUzMTRfMDA1/screen-0.jpg?fakeurl=1&type=.jpg</thumbnail>
 <fanart></fanart>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+
+<item>
+<title>[COLOR orange]-                  SITE PARA VER TV PT[/COLOR] OP2 (clicar aqui)</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=http://www.tvsporttvdez.com</jsonrpc>
+<thumbnail>https://image.winudf.com/v2/image1/YnIuY29tLmFzc2lzdGlydHYuZ29scGxheWVyX3NjcmVlbl8wXzE1NTQwMDUzMTRfMDA1/screen-0.jpg?fakeurl=1&type=.jpg</thumbnail>
+<fanart></fanart>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+
+
+<item>
+<title>[COLOR orange]-                  SITE PARA VER TV BR[/COLOR] OP3 (clicar aqui)</title>
+<link>ignore</link>
 <jsonrpc>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=http://aovivo.club/tvonline</jsonrpc>
+<thumbnail>https://image.winudf.com/v2/image1/YnIuY29tLmFzc2lzdGlydHYuZ29scGxheWVyX3NjcmVlbl8wXzE1NTQwMDUzMTRfMDA1/screen-0.jpg?fakeurl=1&type=.jpg</thumbnail>
+<fanart></fanart>
 </item>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
@@ -87,7 +88,7 @@
 <item>
 <title>[COLOR green]-[/COLOR]</title>
 <link>http://bocas.com</link>
-<thumbnail>http://clevelandphotoandvideobooth.com/images/black-background-ohio.jpg</thumbnail>
+<thumbnail>https://i.pinimg.com/originals/02/4b/ed/024bed105c5b913c88c6e8a412beadec.jpg</thumbnail>
 </item>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
@@ -99,7 +100,7 @@
 <item>
 <title>[COLOR deepskyblue]            CANAIS ACESTREAM[/COLOR]</title>
 <link>http://bocas.com</link>
-<thumbnail>http://clevelandphotoandvideobooth.com/images/black-background-ohio.jpg</thumbnail>
+<thumbnail>https://i.pinimg.com/originals/02/4b/ed/024bed105c5b913c88c6e8a412beadec.jpg</thumbnail>
 <fanart>https://i1.wp.com/www.androidaba.com/wp-content/uploads/2016/04/acestream-sopcast-by-aba.jpg</fanart>
 </item>
 
