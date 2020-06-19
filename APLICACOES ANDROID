@@ -32,7 +32,7 @@
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 <item>
-<title>[COLOR lime]APTOIDE[/COLOR] (Android comum)</title>
+<title>[COLOR lime]APTOIDE[/COLOR] (Para Android comum)</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://pt.aptoide.com</jsonrpc>
 <thumbnail>https://beta.techcrunch.com/wp-content/uploads/2018/02/aptoide_logo.jpg</thumbnail>
