@@ -43,7 +43,7 @@
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 <item>
-<title>[COLOR lime]YOUTUBE VANCED[/COLOR] (Youtube sem publicidades)/title>
+<title>[COLOR lime]YOUTUBE VANCED[/COLOR] (Youtube sem publicidades)</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://vanced.app</jsonrpc>
 <thumbnail>https://www.androidsage.com/wp-content/uploads/2020/02/YouTube-Vanced-APK-download-v15.jpg</thumbnail>
