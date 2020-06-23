@@ -1,5 +1,5 @@
 <item>
-<title>[COLOR lime]http://www.tvsporttvdez.com[/COLOR] Site desportivo PT</title>
+<title>[COLOR lime]tvsporttvdez[/COLOR] Site desportivo PT</title>
 <link>ignore</link>
 <thumbnail>https://image.winudf.com/v2/image1/YnIuY29tLmFzc2lzdGlydHYuZ29scGxheWVyX3NjcmVlbl8wXzE1NTQwMDUzMTRfMDA1/screen-0.jpg?fakeurl=1&type=.jpg</thumbnail>
 <fanart></fanart>
@@ -8,7 +8,7 @@
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <item>
-<title>[COLOR lime]http://tvdomanel.blogspot.com/[/COLOR] Site desportivo PT</title>
+<title>[COLOR lime]tvdomanel[/COLOR] Site desportivo PT</title>
 <link>ignore</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -17,7 +17,16 @@
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <item>
-<title>[COLOR lime]http://uni2b1.com[/COLOR] Site desportivo PT</title>
+<title>[COLOR lime]papahd[/COLOR] Site desportivo</title>
+<link>ignore</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<jsonrpc>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://papahd.live</jsonrpc>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR lime]http://uni2b1.com[/COLOR] Site desportivo</title>
 <link>ignore</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
