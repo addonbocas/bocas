@@ -26,11 +26,11 @@
 
 <channels>
 <channel>
-<name>[COLOR yellow]TV GENERALISTA[/COLOR] - [COLOR lime]PORTUGAL[/COLOR] (KODI PORTUGAL)</name>
+<name>[COLOR yellow]TV GENERALISTA[/COLOR] - [COLOR lime]PORTUGAL[/COLOR] ptiptv</name>
 <thumbnail>https://imgur.com/so2MdYB.png</thumbnail>
-<externallink>http://lista.kodiportugal.com</externallink>
+<externallink>https://ptiptv.tk/lista.m3u8</externallink>
 <fanart>https://ia601403.us.archive.org/25/items/fanart_20190909_1728/fanart.jpg</fanart>
-<info>[COLOR deeppink]|[/COLOR]- CREDITOS A CAIXA PRETA -[COLOR deeppink]|[/COLOR]</info>
+<info>[COLOR deeppink]|[/COLOR]- CREDITOS A PTIPTV -[COLOR deeppink]|[/COLOR]</info>
 </channel>
 </channels>
 
