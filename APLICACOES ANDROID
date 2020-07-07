@@ -65,22 +65,11 @@
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 <item>
-<title>[COLOR lime]ArenaShow_Live_TV[/COLOR] SO PARA TELEMOVEL https://com-gimta-gimta.fr.aptoide.com</title>
+<title>[COLOR lime]ArenaShow_Live_TV[/COLOR] https://com-gimta-gimta.en.aptoide.com</title>
 <link>ignore</link>
 <thumbnail>https://image.shutterstock.com/image-vector/pirate-emoji-vector-smiley-caribbean-260nw-1039764316.jpg</thumbnail>
 <fanart>https://i.pinimg.com/originals/38/bd/c2/38bdc27dc60befce3f55c16ae38286f8.jpg</fanart>
-<jsonrpc>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://com-gimta-gimta.fr.aptoide.com</jsonrpc>
-</item>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-<item>
-<title>[COLOR lime]ArenaShow_Live_TV[/COLOR] SO PARA TELEMOVEL https://bit.ly/2O8p6wx</title>
-<link>ignore</link>
-<thumbnail>https://image.shutterstock.com/image-vector/pirate-emoji-vector-smiley-caribbean-260nw-1039764316.jpg</thumbnail>
-<fanart>https://i.pinimg.com/originals/38/bd/c2/38bdc27dc60befce3f55c16ae38286f8.jpg</fanart>
-<jsonrpc>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://bit.ly/2O8p6wx</jsonrpc>
+<jsonrpc>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://com-gimta-gimta.en.aptoide.com</jsonrpc>
 </item>
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
