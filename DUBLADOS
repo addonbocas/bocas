@@ -135,18 +135,6 @@
 
 <channels>
 <channel>
-<name>[COLOR yellow]DJ TV[/COLOR][COLOR lime] PT-BR[/COLOR] M1d</name>
-<thumbnail>https://imgur.com/Fsff8js.png</thumbnail>
-<externallink>http://lhmtv.ga/M1d</externallink>
-<fanart>https://ia601403.us.archive.org/25/items/fanart_20190909_1728/fanart.jpg</fanart>
-<info>[COLOR lime]CREDITOS PARA[/COLOR] LHMTV</info>
-</channel>
-</channels>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-<channels>
-<channel>
 <name>[COLOR yellow]DJ Kids[/COLOR][COLOR lime] PT-BR[/COLOR] wdR</name>
 <thumbnail>https://imgur.com/Fsff8js.png</thumbnail>
 <externallink>http://lhmtv.ga/wdR</externallink>
