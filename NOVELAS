@@ -1,12 +1,4 @@
 <item>
-<title>[COLOR yellow]A Viagem[/COLOR] 1994</title>
-<link>ignoreme</link>
-<jsonrpc>Plugin://plugin.video.youtube/playlist/PLpPCywuBlnQSI_tqCazKKw05KlDgn1UZL/?page=0</jsonrpc>
-<thumbnail>https://upload.wikimedia.org/wikipedia/pt/thumb/5/5b/Novela_A_Viagem_1994.JPG/260px-Novela_A_Viagem_1994.JPG</thumbnail>
-<fanart>https://upload.wikimedia.org/wikipedia/pt/thumb/5/5b/Novela_A_Viagem_1994.JPG/260px-Novela_A_Viagem_1994.JPG</fanart>
-</item>
- 
-<item>
 <title>[COLOR yellow]A Escrava Isaura[/COLOR] 2004</title>
 <link>ignoreme</link>
 <jsonrpc>Plugin://plugin.video.youtube/playlist/PLeOnZXYbavuMU7_BQpDg42UtSCg_pThDI/?page=0</jsonrpc>
@@ -368,4 +360,4 @@ alta sociedade.</info>
 <fanart>https://http2.mlstatic.com/os-trapalhoes-didi-dede-zacarias-mussum-coletnea-10-dvds-D_NQ_NP_624849-MLB27204153001_042018-F.jpg</fanart>
 </item>
  
-NADA
+
