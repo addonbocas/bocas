@@ -99,7 +99,7 @@
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 <item>
-<title>[COLOR orange]SPORT TV 1 (Ver com VPN)[/COLOR] Web sportzonline</title>
+<title>[COLOR orange]SPORT TV 1 PT(Ver com VPN)[/COLOR] Web sportzonline</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://sportzonline.co/channels/pt/sporttv1.php</jsonrpc>
 <thumbnail>https://media-manager.noticiasaominuto.com/1920/1487956527/naom_578e7ff37feb1.jpg</thumbnail>
@@ -108,6 +108,73 @@
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
+<item>
+<title>[COLOR orange]SPORT TV 2 PT (Ver com VPN)[/COLOR] Web sportzonline</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://sportzonline.co/channels/pt/sporttv2.php</jsonrpc>
+<thumbnail>https://media-manager.noticiasaominuto.com/1920/1487956527/naom_578e7ff37feb1.jpg</thumbnail>
+<fanart></fanart>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
+<item>
+<title>[COLOR orange]SPORT TV 3 PT (Ver com VPN)[/COLOR] Web sportzonline</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://sportzonline.co/channels/pt/sporttv3.php</jsonrpc>
+<thumbnail>https://media-manager.noticiasaominuto.com/1920/1487956527/naom_578e7ff37feb1.jpg</thumbnail>
+<fanart></fanart>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
+<item>
+<title>[COLOR orange]SPORT TV 4 PT (Ver com VPN)[/COLOR] Web sportzonline</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://sportzonline.co/channels/pt/sporttv4.php</jsonrpc>
+<thumbnail>https://media-manager.noticiasaominuto.com/1920/1487956527/naom_578e7ff37feb1.jpg</thumbnail>
+<fanart></fanart>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<item>
+<title>[COLOR orange]SPORT TV 5 PT (Ver com VPN)[/COLOR] Web sportzonline</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://sportzonline.co/channels/pt/sporttv5.php</jsonrpc>
+<thumbnail>https://media-manager.noticiasaominuto.com/1920/1487956527/naom_578e7ff37feb1.jpg</thumbnail>
+<fanart></fanart>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<item>
+<title>[COLOR orange]SPORT TV 1 BR(Ver com VPN)[/COLOR] Web sportzonline</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://sportzonline.co/channels/bra/br1.php</jsonrpc>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/SporTV_2017_logo.svg/220px-SporTV_2017_logo.svg.png</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/SporTV_2017_logo.svg/220px-SporTV_2017_logo.svg.png</fanart>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<item>
+<title>[COLOR orange]SPORT TV 2 BR(Ver com VPN)[/COLOR] Web sportzonline</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://sportzonline.co/channels/bra/br2.php</jsonrpc>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/SporTV_2017_logo.svg/220px-SporTV_2017_logo.svg.png</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/SporTV_2017_logo.svg/220px-SporTV_2017_logo.svg.png</fanart>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<item>
+<title>[COLOR orange]SPORT TV 3 BR(Ver com VPN)[/COLOR] Web sportzonline</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://sportzonline.co/channels/bra/br3.php</jsonrpc>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/SporTV_2017_logo.svg/220px-SporTV_2017_logo.svg.png</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/SporTV_2017_logo.svg/220px-SporTV_2017_logo.svg.png</fanart>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
