@@ -12,6 +12,18 @@
 
 <channels>
 <channel>
+<name>[COLOR yellow]DEPORTO MOTORIZADO[/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/addonbocas/bocas/master/JOGOS%20ESPECIAIS</externallink>
+<thumbnail>https://www.formulapassion.it/wp-content/uploads/2015/10/Rossi-Vettel-Domenica-di-passione-FP.jpg</thumbnail>
+<fanart>https://www.formulapassion.it/wp-content/uploads/2015/10/Rossi-Vettel-Domenica-di-passione-FP.jpg</fanart>
+<info>[COLOR lime]F1 E MOTOGP[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
 <name>[COLOR orange]SPORTVs[/COLOR] (WEB)</name>
 <thumbnail>http://imgur.com/cgHWHQX.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/addonbocas/bocas/master/SPORTVs</externallink>
