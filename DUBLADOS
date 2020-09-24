@@ -440,6 +440,19 @@
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
+
+<channels>
+<channel>
+<name>[COLOR yellow]LISTA COMPLETA[/COLOR][COLOR lime] PT-BR[/COLOR] MEGA</name>
+<thumbnail>https://imgur.com/Fsff8js.png</thumbnail>
+<externallink>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://mega.nz/folder/6rp2QIKB#9e7haNqGPFVgs88iR_8skw</externallink>
+<fanart>https://ia601403.us.archive.org/25/items/fanart_20190909_1728/fanart.jpg</fanart>
+<info>[COLOR lime]CREDITOS PARA[/COLOR] SITE MEGA</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
 <channels>
 <channel>
 <name>[COLOR lime]FILMES, SERIES[/COLOR][COLOR yellow] PT-BR[/COLOR] teste torrents</name>
@@ -453,15 +466,5 @@
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 
-<channels>
-<channel>
-<name>[COLOR yellow]LISTA COMPLETA[/COLOR][COLOR lime] PT-BR[/COLOR] MEGA</name>
-<thumbnail>https://imgur.com/Fsff8js.png</thumbnail>
-<externallink>https://mega.nz/folder/6rp2QIKB#9e7haNqGPFVgs88iR_8skw</externallink>
-<fanart>https://ia601403.us.archive.org/25/items/fanart_20190909_1728/fanart.jpg</fanart>
-<info>[COLOR lime]CREDITOS PARA[/COLOR] SITE MEGA</info>
-</channel>
-</channels>
 
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
