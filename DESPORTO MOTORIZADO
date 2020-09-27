@@ -1,10 +1,17 @@
 <item>
 <title>[COLOR yellow]F1[/COLOR] (sites)</title>
-<link>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=http://raboninco.com/1UuB7$$lsname=[COLOR white]OP1[/COLOR]</link>
-<link>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=http://raboninco.com/1TOSh$$lsname=[COLOR white]OP2[/COLOR]</link>
-<link>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=http://raboninco.com/1xcpT$$lsname=[COLOR white]OP3[/COLOR]</link>
-<link>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=http://raboninco.com/1fvls$$lsname=[COLOR white]OP4[/COLOR]</link>
-<link>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=http://raboninco.com/1vzUk$$lsname=[COLOR white]OP5[/COLOR]</link>
+<link>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=http://raboninco.com/1UuB7$$lsname=[COLOR white]OP01 raboninco[/COLOR]</link>
+<link>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=http://raboninco.com/1TOSh$$lsname=[COLOR white]OP02 raboninco[/COLOR]</link>
+<link>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=http://raboninco.com/1xcpT$$lsname=[COLOR white]OP03 raboninco[/COLOR]</link>
+<link>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=http://raboninco.com/1fvls$$lsname=[COLOR white]OP04 raboninco[/COLOR]</link>
+<link>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=http://raboninco.com/1vzUk$$lsname=[COLOR white]OP05 raboninco[/COLOR]</link>
+<link>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=http://papahd.live/f1 -dub$$lsname=[COLOR white]OP06 PAPAHD[/COLOR]</link>
+<link>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=http://papahd.live/f1 -on-movistar$$lsname=[COLOR white]OP07 PAPAHD[/COLOR]</link>
+<link>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=http://papahd.live/f1 -on-espn-sur$$lsname=[COLOR white]OP08 PAPAHD[/COLOR]</link>
+<link>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=http://papahd.live/f1 -italian-channel$$lsname=[COLOR white]OP09 PAPAHD[/COLOR]</link>
+<link>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=http://papahd.live/f1 -on-sky$$lsname=[COLOR white]OP10 PAPAHD[/COLOR]</link>
+<link>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=http://papahd.live/f1 -german$$lsname=[COLOR white]OP11 PAPAHD[/COLOR]</link>
+<link>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=http://papahd.live/f1 -french$$lsname=[COLOR white]OP12 PAPAHD[/COLOR]</link>
 <thumbnail>https://www.formula1.com/content/dam/fom-website/manual/Misc/2021-Master-Folder/F1%202021%20LAUNCH%20RENDERING%20(7).jpg.transform/9col/image.jpg</thumbnail>
 <fanart>https://www.formula1.com/content/dam/fom-website/manual/Misc/2021-Master-Folder/F1%202021%20LAUNCH%20RENDERING%20(7).jpg.transform/9col/image.jpg</fanart>
 </item>
@@ -14,14 +21,18 @@
 
 <item>
 <title>[COLOR lime]MOTO GP[/COLOR] (sites)</title>
-<link>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://wowtv.info/tv2.html$$lsname=[COLOR white]OP1[/COLOR]</link>
-<link>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://wowtv.info/tv109.html$$lsname=[COLOR white]OP2[/COLOR]</link>
-<link>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://onlyfoot.net/ch22sport.html$$lsname=[COLOR white]OP3[/COLOR]</link>
-<link>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://onlyfoot.net/ch109sport.html$$lsname=[COLOR white]OP4[/COLOR]</link>
-<link>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=http://rantenah.com/22Hf$$lsname=[COLOR white]OP5[/COLOR]</link>
-<link>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=http://rantenah.com/22PH$$lsname=[COLOR white]OP6[/COLOR]</link>
-<link>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=http://rantenah.com/22Hf$$lsname=[COLOR white]OP7[/COLOR]</link>
-<link>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=http://rantenah.com/23u6$$lsname=[COLOR white]OP8[/COLOR]</link>
+<link>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://wowtv.info/tv2.html$$lsname=[COLOR white]OP01 wowtv[/COLOR]</link>
+<link>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://wowtv.info/tv109.html$$lsname=[COLOR white]OP02 wowtv[/COLOR]</link>
+<link>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://onlyfoot.net/ch22sport.html$$lsname=[COLOR white]OP03 onlyfoot[/COLOR]</link>
+<link>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://onlyfoot.net/ch109sport.html$$lsname=[COLOR white]OP04 onlyfoot[/COLOR]</link>
+<link>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=http://rantenah.com/22Hf$$lsname=[COLOR white]OP05 rantenah[/COLOR]</link>
+<link>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=http://rantenah.com/22PH$$lsname=[COLOR white]OP06 rantenah[/COLOR]</link>
+<link>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=http://rantenah.com/22Hf$$lsname=[COLOR white]OP07 rantenah[/COLOR]</link>
+<link>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=http://rantenah.com/23u6$$lsname=[COLOR white]OP08 rantenah[/COLOR]</link>
+<link>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=http://papahd.live/spanish-motogp$$lsname=[COLOR white]OP09 PAPAHD[/COLOR]</link>
+<link>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=http://papahd.live/motogp-on-fox$$lsname=[COLOR white]OP10 PAPAHD[/COLOR]</link>
+<link>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=http://papahd.live/motogp-on-bt-sports$$lsname=[COLOR white]OP11 PAPAHD[/COLOR]</link>
+<link>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=http://papahd.live/all-moto-gp$$lsname=[COLOR white]OP12 PAPAHD[/COLOR]</link>
 <thumbnail>https://cdn.record.pt/images/2019-05/img_920x519$2019_05_04_16_21_31_1542355.jpg</thumbnail>
 <fanart>https://cdn.record.pt/images/2019-05/img_920x519$2019_05_04_16_21_31_1542355.jpg</fanart>
 </item>
