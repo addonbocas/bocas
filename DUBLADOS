@@ -455,4 +455,29 @@
 
 
 
+<channels>
+<channel>
+<name>[COLOR lime]FLECHA NEGRA[/COLOR][COLOR yellow] PT-BR[/COLOR] SSIPTV</name>
+<thumbnail>https://imgur.com/Fsff8js.png</thumbnail>
+<externallink>https://is.gd/flashbrasilssiptv1</externallink>
+<fanart>https://ia601403.us.archive.org/25/items/fanart_20190909_1728/fanart.jpg</fanart>
+<info>[COLOR lime]CREDITOS PARA LHMTV[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+
+channels>
+<channel>
+<name>[COLOR lime]FLECHA NEGRA[/COLOR][COLOR yellow] PT-BR[/COLOR] SSIPTV</name>
+<thumbnail>https://imgur.com/Fsff8js.png</thumbnail>
+<externallink>https://gitlab.com/flechanegra/flash-brasil/-/raw/master/ssiptv</externallink>
+<fanart>https://ia601403.us.archive.org/25/items/fanart_20190909_1728/fanart.jpg</fanart>
+<info>[COLOR lime]CREDITOS PARA LHMTV[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
 
