@@ -252,3 +252,12 @@
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 
+<item>
+<title>[COLOR yellow]bitsearch[/COLOR] - [COLOR orange]PESQUISADOR DE TORRENTS[/COLOR] https://bitsearch.to</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;url=https://bitsearch.to&amp;mode=showSite&amp;stopPlayback=yes</link>
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
