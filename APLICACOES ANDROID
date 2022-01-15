@@ -1,3 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<item>
+<title>[COLOR lime]APTOIDE TV TESTE TESTE TESTE[/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin.program.browser.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://tv.aptoide.com</jsonrpc>
+<thumbnail>https://beta.techcrunch.com/wp-content/uploads/2018/02/aptoide_logo.jpg</thumbnail>
+<fanart>https://beta.techcrunch.com/wp-content/uploads/2018/02/aptoide_logo.jpg</fanart>
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
 <item>
 <title>[COLOR yellow]VPNs[/COLOR] (sites)</title>
 <link>ignorme</link>
