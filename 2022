@@ -1,4 +1,17 @@
-pr<item>
+<item>
+<title>[COLOR lawngreen][B]Elvis[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:79E2E688AB760D52450758BC97541B96344596CD$nome= 1080p WebRip rarbg</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BB11FC6E21ECA8847128159C44E3DC07795C52CC$nome= x264-ION10 rarbg</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A30E1381E8CE66980E3E77F41A736892C3A20C5A$nome= 1080p WebRip YTS</link>
+<link>plugin://plugin.video.youtube/play/?video_id=Gp2BNHwbwvI$nome= Trailer</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BYzMzNTJjYmMtZTkxNS00MjI4LWI3YmQtOTQ4MDZjZDJlZjQyXkEyXkFqcGdeQXVyNjc0NzQzNTM@._V1_FMjpg_UX1000_.jpg</thumbnail>
+<fanart>https://m.media-amazon.com/images/M/MV5BYzMzNTJjYmMtZTkxNS00MjI4LWI3YmQtOTQ4MDZjZDJlZjQyXkEyXkFqcGdeQXVyNjc0NzQzNTM@._V1_FMjpg_UX1000_.jpg</fanart>
+<info>Desde sua ascensão ao estrelato, o ícone do rock Elvis Presley mantém um relacionamento complicado com seu enigmático empresário, Tom Parker, por mais de 20 anos.</info>
+<genre>Biography , Drama , Music</genre>
+<year>2022</year>
+</item>
+
+<item>
 <title>[COLOR lawngreen][B]JThey/Them[/B][/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A319008147DA1812FD63E43AB439527BA37D95DB$nome= 1080p WebRip rarbg</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D10B5ABA5717871486D8BB7C13F8130CCC7B0E24$nome= x264-ION10 rarbg</link>
@@ -7,7 +20,7 @@ pr<item>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BNmVhMTFjN2QtODVkZi00MzVjLTlkOGItNmRkNWRhYmY4MGVjXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_.jpg</thumbnail>
 <fanart>https://m.media-amazon.com/images/M/MV5BNmVhMTFjN2QtODVkZi00MzVjLTlkOGItNmRkNWRhYmY4MGVjXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_.jpg</fanart>
 <info>They/Them é um filme de terror americano de 2022 escrito e dirigido por John Logan em sua estreia na direção e produzido pela Blumhouse Productions.</info>
-<genre>Horror , Thrillerr</genre>
+<genre>Horror , Thriller</genre>
 <year>2022</year>
 </item>
 
