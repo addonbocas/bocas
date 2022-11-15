@@ -3,7 +3,7 @@
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:xxxxxxxxxxxxxxxxxxxxxxxxxx$nome= 1080p WebRip rarbg</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx$nome= x264-ION10 rarbg</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:xxxxxxxxxxxxxxxxxxxxxx$nome= 1080p WebRip YTS</link>
-<link>plugin://plugin.video.youtube/play/?video_id=BcDK7lkzzsU$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=xxxxxxxxxxxxxxxx$nome= Trailer</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info>
@@ -53,8 +53,8 @@
 
 <item>
 <title>[COLOR lawngreen][B]Smile[/B][/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:xxxxxxxxxxxxxxxxxxxxxxxxxx$nome= 1080p WebRip rarbg</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx$nome= x264-ION10 rarbg</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8E95BBFE5339B30EA90717CAB7D561223A3D4566$nome= 1080p WebRip rarbg</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4C8A2DFB711717679A72986CA21C4399459FE363$nome= x264-ION10 rarbg</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:xxxxxxxxxxxxxxxxxxxxxx$nome= 1080p WebRip YTS</link>
 <link>plugin://plugin.video.youtube/play/?video_id=BcDK7lkzzsU$nome= Trailer</link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BZjE2ZWIwMWEtNGFlMy00ZjYzLWEzOWEtYzQ0MDAwZDRhYzNjXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_FMjpg_UX1000_.jpg</thumbnail>
