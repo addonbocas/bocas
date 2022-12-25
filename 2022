@@ -3,11 +3,24 @@
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:xxxxxxxxxxxxxxxxxxxxxxxxxx$nome= 1080p WebRip rarbg</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx$nome= x264-ION10 rarbg</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:xxxxxxxxxxxxxxxxxxxxxx$nome= 1080p WebRip YTS</link>
-<link>plugin://plugin.video.youtube/play/?video_id=xxxxxxxxxxxxxxxx$nome= Trailer</link>
+<link>plugin://plugin.video.youtube/play/?video_id=xxxxxxxxxxxxx$nome= Trailer</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info>
 <genre></genre>
+<year>2022</year>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]Glass Onion: A Knives Out Mystery[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:488E28E11D7120CB7BF82DC118B36D236E840004$nome= 1080p WebRip rarbg</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5DA01E5B825BFC45ACBD4864AC6AD0B1DCD4E85E$nome= x264-ION10 rarbg</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E700CB93013AEBDB63A3D2078E890B89A749F550$nome= 1080p WebRip YTS</link>
+<link>plugin://plugin.video.youtube/play/?video_id=gj5ibYSz8C0$nome= Trailer</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BYmZlZDZkZjYtNzE5Mi00ODFhLTk2OTgtZWVmODBiZTI4NGFiXkEyXkFqcGdeQXVyMTE5MTg5NDIw._V1_.jpg</thumbnail>
+<fanart>https://m.media-amazon.com/images/M/MV5BYmZlZDZkZjYtNzE5Mi00ODFhLTk2OTgtZWVmODBiZTI4NGFiXkEyXkFqcGdeQXVyMTE5MTg5NDIw._V1_.jpg</fanart>
+<info>Glass Onion: A Knives Out Mystery é um filme de mistério americano escrito e dirigido por Rian Johnson e produzido por Johnson e Ram Bergman para a T-Street Productions.</info>
+<genre>Comedy , Crime , Drama , Mystery , Thriller</genre>
 <year>2022</year>
 </item>
 
