@@ -1,5 +1,17 @@
 <channels>
 <channel>
+<name>[COLOR yellow]FILMES[/COLOR][COLOR lime] BOCAS[/COLOR] 2023</name>
+<thumbnail>http://imgur.com/cLwnC8w.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/addonbocas/bocas/master/2023</externallink>
+<fanart>https://ia601403.us.archive.org/25/items/fanart_20190909_1728/fanart.jpg</fanart>
+<info>[COLOR deeppink]|[/COLOR]- FILMES POR TORRENT E GDRIVE -[COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
 <name>[COLOR yellow]FILMES[/COLOR][COLOR lime] BOCAS[/COLOR] 2022</name>
 <thumbnail>http://imgur.com/cLwnC8w.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/addonbocas/bocas/master/2022</externallink>
