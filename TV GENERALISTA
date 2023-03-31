@@ -1,8 +1,8 @@
 <channels>
 <channel>
-<name>[COLOR yellow]TV GENERALISTA[/COLOR] - [COLOR lime]PORTUGAL[/COLOR] (CAIXA PRETA)</name>
+<name>[COLOR yellow]TV GENERALISTA[/COLOR] - [COLOR lime]PORTUGAL[/COLOR] OP1</name>
 <thumbnail>https://imgur.com/so2MdYB.png</thumbnail>
-<externallink>https://caixapreta.pt/iptv</externallink>
+<externallink>https://m3upt.com/iptv</externallink>
 <fanart>https://ia601403.us.archive.org/25/items/fanart_20190909_1728/fanart.jpg</fanart>
 <info>[COLOR deeppink]|[/COLOR]- CREDITOS A CAIXA PRETA -[COLOR deeppink]|[/COLOR]</info>
 </channel>
@@ -10,25 +10,11 @@
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
-
 <channels>
 <channel>
-<name>[COLOR yellow]TV GENERALISTA[/COLOR] - [COLOR lime]PORTUGAL[/COLOR] (KITINA)</name>
+<name>[COLOR yellow]TV GENERALISTA[/COLOR] - [COLOR lime]PORTUGAL[/COLOR] OP2</name>
 <thumbnail>https://imgur.com/so2MdYB.png</thumbnail>
-<externallink>http://kitina.kodiportugal.com</externallink>
-<fanart>https://ia601403.us.archive.org/25/items/fanart_20190909_1728/fanart.jpg</fanart>
-<info>[COLOR deeppink]|[/COLOR]- CREDITOS A KITINA -[COLOR deeppink]|[/COLOR]</info>
-</channel>
-</channels>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-
-<channels>
-<channel>
-<name>[COLOR yellow]TV GENERALISTA[/COLOR] - [COLOR lime]PORTUGAL[/COLOR] ptiptv</name>
-<thumbnail>https://imgur.com/so2MdYB.png</thumbnail>
-<externallink>https://ptiptv.tk/lista.m3u8</externallink>
+<externallink>https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3UPT.m3u</externallink>
 <fanart>https://ia601403.us.archive.org/25/items/fanart_20190909_1728/fanart.jpg</fanart>
 <info>[COLOR deeppink]|[/COLOR]- CREDITOS A PTIPTV -[COLOR deeppink]|[/COLOR]</info>
 </channel>
@@ -38,67 +24,15 @@
 
 <channels>
 <channel>
-<name>[COLOR yellow]TV GENERALISTA[/COLOR] - [COLOR lime]PORTUGAL[/COLOR] (IPTV-ORG)</name>
-<thumbnail>https://imgur.com/so2MdYB.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/iptv-org/iptv/master/channels/pt.m3u</externallink>
-<fanart>https://imgur.com/so2MdYB.png</fanart>
-<info>[COLOR deeppink]|[/COLOR]- CREDITOS A IPTV-ORG -[COLOR deeppink]|[/COLOR]</info>
-</channel>
-</channels>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-<channels>
-<channel>
-<name>[COLOR yellow]TV GENERALISTA[/COLOR] - [COLOR lime]PORTUGAL E BRASIL[/COLOR] (IPTV-ORG)</name>
-<thumbnail>https://imgur.com/so2MdYB.png</thumbnail>
-<externallink>https://iptv-org.github.io/iptv/languages/pt.m3u</externallink>
-<fanart>https://imgur.com/so2MdYB.png</fanart>
-<info>[COLOR deeppink]|[/COLOR]- CREDITOS A IPTV-ORG -[COLOR deeppink]|[/COLOR]</info>
-</channel>
-</channels>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-
-<channels>
-<channel>
-<name>[COLOR yellow]TV GENERALISTA[/COLOR] - [COLOR lime]BRASIL[/COLOR] (LHMTV djsom)</name>
+<name>[COLOR yellow]TV GENERALISTA[/COLOR] - [COLOR lime]BRASIL[/COLOR]</name>
 <thumbnail>https://imgur.com/jdNG7kn.png</thumbnail>
-<externallink>http://lhmtv.ga/djsom</externallink>
+<externallink>https://lib.bz/</externallink>
 <fanart>https://ia601403.us.archive.org/25/items/fanart_20190909_1728/fanart.jpg</fanart>
 <info>[COLOR lime]CREDITOS PARA LHMTV[/COLOR]</info>
 </channel>
 </channels>
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-
-<channels>
-<channel>
-<name>[COLOR yellow]TV GENERALISTA[/COLOR] - [COLOR lime]BRASIL[/COLOR] (IPTV-ORG)</name>
-<thumbnail>https://imgur.com/euzWVzv.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/iptv-org/iptv/master/channels/br.m3u</externallink>
-<fanart>https://imgur.com/euzWVzv.png</fanart>
-<info>[COLOR deeppink]|[/COLOR]- CREDITOS A IPTV-ORG -[COLOR deeppink]|[/COLOR]</info>
-</channel>
-</channels>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-
-<channels>
-<channel>
-<name>[COLOR yellow]TV GENERALISTA[/COLOR] - [COLOR lime]UK[/COLOR] (IPTV-ORG)</name>
-<thumbnail>http://imgur.com/PCGI7rU.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/iptv-org/iptv/master/channels/uk.m3u</externallink>
-<fanart>http://imgur.com/PCGI7rU.png</fanart>
-<info>[COLOR deeppink]|[/COLOR]- CREDITOS A IPTV-ORG -[COLOR deeppink]|[/COLOR]</info>
-</channel>
-</channels>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
 
 <channels>
 <channel>
@@ -154,17 +88,5 @@
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
-<channels>
-<channel>
-<name>[COLOR brown]ESPAÇO RESERVADO PARA TESTES[/COLOR]</name>
-<thumbnail>http://www.afolhadomedionorte.com.br/wp-content/uploads/teste.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/addonbocas/bocas/master/ESPA%C3%87O%20RESERVADO%20PARA%20TESTES</externallink>
-<fanart>http://www.afolhadomedionorte.com.br/wp-content/uploads/teste.jpg</fanart>
-<info>[COLOR deeppink]|[/COLOR]- teste -[COLOR deeppink]|[/COLOR]</info>
-</channel>
-</channels>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 
